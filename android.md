@@ -379,8 +379,6 @@ https://play.google.com/store/apps/dev?id=5191954708930348962
 Professeur Layton, Yo-Kai Watch
 https://play.google.com/store/apps/developer?id=LEVEL-5+Inc.
 
----
-
 [b][#FF0000]Emulateurs[/#FF0000][/b]
 
 

@@ -89,7 +89,7 @@ https://www.fnac.com/choisir-carte
 - des réductions diverses et variées qui concernent rarement le JV
 
 [*]La carte Fnac One :
-- gratuite, délivrée automatiquement aux gros clients (certains disent qu'en demandant gentiment on peut basculer dessus)
+- gratuite, délivrée automatiquement aux gros clients : 18 commandes ou 2000€ d'achat ; certains disent qu'en demandant gentiment on peut basculer dessus
 - livraison gratuite à domicile
 - SAV dédié gratuit
 

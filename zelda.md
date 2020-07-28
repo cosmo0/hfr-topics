@@ -149,17 +149,21 @@ Les développeurs de Metroid se seraient très fortement inspiré de Zelda pour 
 
 [b]Golden Axe Warrior[/b] - 1991 - Master System
 
+[b]Kaeru no Tame ni Kane wa Naru[/b] - 1992 - Game Boy
+
 [b]Landstalker[/b] - 1992 - Megadrive
 
-[b]Soleil[/b] - 1994 - Megadrive
+[b]Soleil / Crusader of Centy[/b] - 1994 - Megadrive
 
 [b]La Légende de Thor / Beyond Oasis[/b] - 1994 - Megadrive
 
 [b]Light Crusader[/b] - 1995 - Megadrive
 
+[b]Gunple: Gunman's Proof[/b] - 1997 - SNES
+
 [b]Alundra[/b] - 1997 - Playstation
 
-[b]Beyond Good & Evil[/b] - 2003 - PC, PS2, PS3, Xbox, Xbox 360, GameCube
+[b]Beyond Good & Evil[/b] - 2003 - PC, PS2, Xbox, GameCube
 
 [b]Okami[/b] - 2006 - PC, PS2, PS3, PS4, Xbox One, Wii, Switch
 
@@ -171,11 +175,17 @@ Les développeurs de Metroid se seraient très fortement inspiré de Zelda pour 
 
 [b]The Binding of Isaac[/b] - 2011 - PC, PS4, Vita, 3DS, WiiU, Switch, Xbox One
 
+[b]Ittle Dew[/b] - 2013 - PC, WiiU
+
 [b]Anodyne[/b] - 2013 - PC, PS4
 
 [b]Oceanhorn[/b] - 2013 - PC, PS4, Via, Xbox One, Switch
 
 [b]Elliot Quest[/b] - 2014 - tous supports
+
+[b]Lili: Child of Geos[/b] - 2014 - PC
+
+[b]Shipwreck[/b] - 2014 - PC
 
 [b]Ittle Dew 2[/b] - 2016 - PC, Switch
 
@@ -187,9 +197,9 @@ Les développeurs de Metroid se seraient très fortement inspiré de Zelda pour 
 
 [b]Minit[/b] - 2018 - PC, PS4, Xbox One, Switch
 
-[b]Sword of Ditto[/b] - 2018 - PC, PS4
+[b]The Swords of Ditto[/b] - 2018 - PC, PS4
 
-[b]Tunic[/b] - 2019 - PC, Xbox One
+[b]Tunic[/b] - 2020 - PC, Xbox One
 
 
 
@@ -203,8 +213,6 @@ https://www.youtube.com/watch?v=jnzDtBqymyw&list=PLebTrVJAp3ag0MwZ8oX5wH0UYwpd_7
 [b]Une analyse des donjons[/b] (en anglais)
 Une série de vidéos qui analyse le level design de tous les donjons de tous les jeux de la série.
 https://www.youtube.com/watch?v=ouO1R6vFDBo&list=PLc38fcMFcV_ul4D6OChdWhsNsYY3NA5B2
-
----
 
 [#ff0000][b]L'histoire de Zelda[/b][/#ff0000]
 
@@ -243,31 +251,3 @@ Depuis la sortie de cette chronologique officielle, Nintendo rechigne à placer 
 He noted how the story references events that took place 10,000 years ago, giving fans material to come up with their own conclusions. Aonuma then joined in to give further reason why Nintendo's hesitant to set anything else in stone after the Historia.
 
 "We published a book with the timeline, but we definitely got comments from users saying, 'Is this really accurate? I think this should be this way. It's different,'" Aonuma said. "And history is always kind of imaginative. It's left to the person who writes the book. So that's how we approach it as well. It's not necessarily that we come up with a game and think, 'Oh, this is where it fits in the timeline.' Honestly, lately, we're kind of scared to say exactly where things are in the timeline for that reason. But we like to leave things to the imagination most of the time."[/quote]
-
----
-
-[b][#FF0000]Résultat des sondages[/#FF0000][/b]
-
-[img]http://reho.st/self/12412763a3c86d2ed084a158064e27735fb741ac.png[/img]
-
-[img]http://reho.st/self/e52c01dfa644c8eabdd7e8ad73bf591fc99f840b.png[/img]
-
-[img]http://reho.st/self/c2278d6f1f57d774393790333acd2417997d2f75.png[/img]
-
-[img]https://reho.st/self/32166606ac299070d150e2b91388d7b88f6b5126.png[/img]
-
-[img]https://reho.st/self/7fa8b1d0cd50ea3999e22fb9171d4c5c146b5697.png[/img]
-
-[img]https://reho.st/self/c49bd1c1533fa9749a8f6603c49cb834e892f25a.png[/img]
-
-[img]https://reho.st/self/87f40f5bceed76079f7757c4f921b404042496c1.png[/img]
-
-[img]https://reho.st/self/4a78461306ad8f43167dc8e77b87271ddbcb5679.png[/img]
-
-[img]https://reho.st/self/e58175e337a863617cc340006941a18c026ae0de.png[/img]
-
-
-Idées de futurs sondages :
-- Quel est l'aspect des Zelda que vous préférez : donjons, combats, exploration, collection...
-- Quel est le Zelda avec les meilleurs donjons/combats/exploration/collection...
-- Relancez-vous vos Zelda préférés de temps en temps ?

@@ -107,8 +107,6 @@ Il en existe plusieurs versions, plus ou moins récentes, avec un aspect génér
 
 [img]https://i.imgur.com/WQBRsqLb.jpg[/img]
 
----
-
 [fixed]========= LES MANETTES SANS FIL POUR CONSOLES, PC ET RASPBERRY PI =========[/fixed]
 
 Ci-dessous uniquement les manettes qui ne sont pas aussi compatibles Android/iOS.
@@ -171,8 +169,6 @@ Ils ont des manettes pour Xbox 360, Xbox One, PS3 et PS4, avec divers niveaux de
 Une marque relativement récente mais qui s'est fait une place rapidement en faisant des partenariat avec les constructeurs officiels, en proposant des manettes avec ou sans fil, avec ou sans skin.
 
 [img]https://i.imgur.com/RrSIIRnb.jpg[/img] [img]https://i.imgur.com/8tbphBUb.jpg[/img]
-
----
 
 [fixed]========= LES MANETTES FILIAIRES POUR CONSOLES, PC & RASPBERRY =========[/fixed]
 

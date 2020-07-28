@@ -16,25 +16,26 @@ Le Raspberry Pi est un nano-ordinateur (8.5 x 5.5 cm environ) pas cher (30 à 50
 
 [b]Matériel nécessaire[/b]
 
-* Un Raspberry Pi (au moins 3B ou un Pi Zero)
-* Une alim micro-USB (2A semble être suffisant pour être tranquille)
-* Une carte micro-SD de 16Go pour installer le système. Une classe 10 n'est pas du luxe. Attention aux chinoiseries, imitations, et autres fakes.
-* Une clé USB pour mettre les roms, bien plus pratique que de les mettre sur la SD
-* Au moins une manette
+[*]Un Raspberry Pi (au moins 3B ou un Pi Zero)
+[*]Une alim micro-USB (2A semble être suffisant pour être tranquille)
+[*]Une carte micro-SD de 16Go pour installer le système. Une classe 10 n'est pas du luxe. Attention aux chinoiseries, imitations, et autres fakes.
+[*]Une clé USB pour mettre les roms, bien plus pratique que de les mettre sur la SD
+[*]Au moins une manette
 
 [b]Matériel facultatif[/b]
 
-* Si vous avez un Pi 1 ou 2, un dongle wifi et un dongle Bluetooth
-* Pour plus de confort, un clavier est également appréciable
+[*]Si vous avez un Pi 1 ou 2, un dongle wifi et un dongle Bluetooth
+[*]Pour plus de confort, un clavier est également appréciable
 
 [b]Manettes[/b]
 
-Un topic dédié aux manettes existe :
-https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=249&post=189385
+[*]Un topic dédié aux manettes existe : https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=249&post=189385
 
 [b]Boîtiers[/b]
 
-Le constructeur le plus connu et de meilleur qualité est Retroflag, qui fait des boîtiers typés NES, SNES et Megadrive. Ils font maintenant également un "GPi CASE", clone de Game Boy qui inclut un écran, pour Pi Zero.
+[*]Le constructeur le plus connu et de meilleur qualité est Retroflag, qui fait des boîtiers typés NES, SNES et Megadrive.
+[*]Retroflag font maintenant également un "GPi CASE", clone de Game Boy qui inclut un écran, pour Pi Zero.
+[*]Sinon, n'importe quel boîtier fera l'affaire, ou même pas de boîtier du tout
 
 
 
@@ -55,8 +56,8 @@ Doc : https://github.com/recalbox/recalbox-os/wiki
 
 [b]Retropie[/b]
 
-Avantages : très configurable, extensible, modulaire, grosse communauté (anglophone), beaucoup d'émulateurs
-Inconvénients : un peu moins facile à configurer que Recalbox
+Avantages : très configurable, extensible, modulaire, grosse communauté (anglophone), beaucoup d'émulateurs, interface très paramétrable
+Inconvénients : un peu moins facile à configurer que Recalbox, il ne faut pas avoir peur des interfaces en ligne de commande
 
 Site : https://retropie.org.uk/
 Doc : https://github.com/retropie/retropie-setup/wiki
@@ -64,16 +65,17 @@ Doc : https://github.com/retropie/retropie-setup/wiki
 
 [b]Batocera[/b]
 
-Avantages : fork de Recalbox, mais un peu plus moins "conservateur" sur certains aspects
-Inconvénients : développé par une seule personne, développement sujet à son temps libre
+Avantages : fork de Recalbox mais tourne sur plein de systèmes, plus d'émulateurs que Recalbox, plus d'options, etc
+Inconvénients : moins de développeurs, toute petite communauté
 
-Site : https://batocera-linux.xorhub.com/
+Site : https://batocera.org/
+Doc : https://wiki.batocera.org/doku.php
 
 
 [b]Blast16 & SNESES[/b]
 
 Avantages : très simples d'utilisation, leur but est de reproduire l'expérience des MD/SNES Mini
-Inconvénients : focalisés sur un seul constructeur ou système
+Inconvénients : très limités, peu d'émulateurs, aucune personnalisation, peu de mises à jour une fois le système stabilisé
 
 Blast16 : http://www.blast16project.com/
 SNESES : http://www.sneses.com/
@@ -82,7 +84,7 @@ SNESES : http://www.sneses.com/
 [b]Lakka[/b]
 
 Avantages : distribution officielle de Libretro, généralement la plus à jour et la plus complète
-Inconvénients : interface confuse et pas du tout pratique à utiliser à la manette
+Inconvénients : interface infernale
 
 Site : https://www.lakka.tv/
 Doc : https://www.lakka.tv/doc/home/
@@ -91,7 +93,7 @@ Doc : https://www.lakka.tv/doc/home/
 [b]Happi[/b]
 
 Avantages : simple à utiliser, assez complète en terme d'émulateurs, proposent également une version "Happiga" dédiée à l'Amiga
-Inconvénients : pas très à jour, nouvelles versions assez rares, support inexistant
+Inconvénients : mises à jour très rares, support inexistant
 
 Site : https://www.bpj-studio.fr/_happi/index.html
 

@@ -152,8 +152,6 @@ En revanche, il manque des choses essentielles par rapport à un vrai draft :
 - Vous ne pouvez pas modifier votre deck entre 2 matchs quand vous vous rendez compte qu'une carte est moins bonne que ce que vous pensiez.
 - L'IA est aussi stupide en forge qu'en défi, vous avez donc rapidement tendance à construire vos decks de manière à exploiter les défauts de l'IA.
 
----
-
 [b][#FF0000]Les joueurs HFR[/#FF0000][/b]
 
 
@@ -196,8 +194,8 @@ Le dernier "tier list" (et le plus à jour) des cartes pour drafter : https://do
 
 Le jeu est disponible sur [b]PC, Mac, Android et iOS[/b] :
 
-[url=http://store.steampowered.com/app/531640/Eternal_Card_Game/][img]http://reho.st/thumb/http://store.akamai.steamstatic.com/public/shared/images/header/globalheader_logo.png?t=962016[/img][/url]
+[url=http://store.steampowered.com/app/531640/Eternal_Card_Game/]Steam[/url]
 
-[url=https://play.google.com/store/apps/details?id=com.direwolfdigital.Phoenix][img]http://reho.st/thumb/https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png[/img][/url]
+[url=https://play.google.com/store/apps/details?id=com.direwolfdigital.Phoenix]Android[/url]
 
-[url=https://itunes.apple.com/us/app/eternal-card-game/id1077866163?mt=8][img]http://reho.st/thumb/http://www.stickpng.com/assets/images/5847e95fcef1014c0b5e4822.png[/img][/url]
+[url=https://itunes.apple.com/us/app/eternal-card-game/id1077866163?mt=8]iOS[/url]

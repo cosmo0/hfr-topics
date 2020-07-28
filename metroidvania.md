@@ -130,6 +130,9 @@ Encore un roguevania en pixel art, avec des combats très dynamiques.
 Bien réalisé mais souffre de classicisme et d'un manque d'ambition à un peu tous les niveaux.
 [url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t14007191]Un micro CR par Online Citron[/url]
 
+[b]Touhou Luna Nights[/b] (2018 - PC)
+Un hommage à SotN (encore un) dans l'univers Touhou.
+
 [:asleepbuddah] [b]Bloodstained Ritual of the Night[/b] (2019 - PS4, XOne, Switch, PC)
 Le nouveau metroidvania par le créateur des metroidvania : Koji Igarashi, réalisateur de Symphony of the Night.
 
@@ -235,16 +238,3 @@ Plus un mélange de platformer et shoot'em up qu'un metroidvania.
 
 Voir aussi la tétrachiée de jeux indé PC sous le tag Metroidvania : http://store.steampowered.com/search/?tags=1628
 Il y en a trop pour les lister tous ici. D'autant plus que certains ne sont absolument pas des metroidvania, mais de simples jeux de plate-forme/action.
-
----
-
-[b]Vidéos, articles, etc[/b]
-
-Une rétrospective de la série Metroid par DidYouKnowGaming, qui retrace l'évolution et donne plein d’anecdotes sur les jeux
-https://www.youtube.com/watch?v=UyZjatH9zBo
-
-Une rétrospective des origines du genre par Jeremy Parish, de Retronauts.
-https://www.youtube.com/watch?v=t-QyGZOHU2w&list=PLd3vJYdenHKGrWrvCGsIbOOl_h_6tzERM
-
-Les "12 meilleurs" metroidvania indépendants entre 2008 et 2018
-https://www.polygon.com/features/2018/10/10/17952674/the-12-best-indie-metroidvania-games
