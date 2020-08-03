@@ -160,31 +160,31 @@ Ce sont des projets crowdfundés qui ont eu un gros battage médiatique pour div
 
 ## Les sites
 
-**Kickstarter**
-Le plus ancien, continue à être la plate-forme de référence, surtout car c'est surtout la plus connue.
+**Kickstarter**  
+Le plus ancien, continue à être la plate-forme de référence, surtout car c'est surtout la plus connue.  
 <https://www.kickstarter.com/discover/categories/games/video%20games?lang=fr>
 
-**IndieGoGo**
-Très semblable sur le principe, propose également un magasin en ligne pour toutes les créations.
+**IndieGoGo**  
+Très semblable sur le principe, propose également un magasin en ligne pour toutes les créations.  
 <https://www.indiegogo.com/explore/video-games?project_type=all&project_timing=all&sort=trending>
 
-**Fig**
-Spécialisé dans les jeux vidéo, il permet également, contrairement à la plupart des autres plateformes, d'investir un montant élevé (à partir de 1000€) afin d'avoir un retour financier.
+**Fig**  
+Spécialisé dans les jeux vidéo, il permet également, contrairement à la plupart des autres plateformes, d'investir un montant élevé (à partir de 1000€) afin d'avoir un retour financier.  
 <https://www.fig.co/>
 
-**KissKissBankBank**
-Une plateforme régulée par les autorités Françaises. Pas beaucoup de jeux vidéo.
+**KissKissBankBank**  
+Une plateforme régulée par les autorités Françaises. Pas beaucoup de jeux vidéo.  
 <https://www.kisskissbankbank.com/fr/discover?categories[games]=on&filter=all>
 
-**Ulule**
-Plateforme franco-canadienne, pas beaucoup de jeux vidéo.
+**Ulule**  
+Plateforme franco-canadienne, pas beaucoup de jeux vidéo.  
 <https://fr.ulule.com/discover/?categories=games>
 
-**Steam**
-Après l'échec de Steam Greenlight, Steam Direct tente de proposer une alternative plus contrôlée, et Steam Early Access permet de proposer des accès anticipés.
+**Steam**  
+Après l'échec de Steam Greenlight, Steam Direct tente de proposer une alternative plus contrôlée, et Steam Early Access permet de proposer des accès anticipés.  
 <https://store.steampowered.com/>
 
 ## Articles et références
 
-Une petite rétrospective des projets à succès ou échoués, avec une projection sur le futur du concept.
+Une petite rétrospective des projets à succès ou échoués, avec une projection sur le futur du concept.  
 <https://www.eurogamer.net/articles/2017-05-11-is-kickstarter-for-video-games-dead>
