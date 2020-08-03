@@ -493,6 +493,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Tiny Metal / Tiny Metal Full Metal Rumble
 - **Valkyria Chronicles 1 & 4**
 - **Wargroove**
+- Warhammer 40K Mechanicus
 - **XCOM 2**
 
 ## Tower Defense
@@ -778,7 +779,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament, Warhammer 40K Mechanicus
+- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament
 
 - Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Final Fantasy Crystal Chronicles (27), Jump Force (27), Moon (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Moero Crystal H (?)
 - Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Zengeon (25), Tennis World Tour 2 (?)
