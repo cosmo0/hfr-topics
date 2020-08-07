@@ -19,31 +19,31 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 - Star Fox 64 3D
 - The Binding of Isaac Rebirth (New 3DS eshop)
 - Wario Ware Gold
-- Zelda Link Between Worlds, Ocarina of Time 3D, Majora's Mask 3D
+- Zelda [Link Between Worlds](https://www.cosmo0.fr/critique/the-legend-of-zelda-a-link-between-worlds/), [Ocarina of Time 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-ocarina-of-time-3d/), [Majora's Mask 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-majoras-mask-3d/)
 
 ## Plate-forme
 
-- Donkey Kong Country Returns
+- [Donkey Kong Country Returns](https://www.cosmo0.fr/critique/critique-express/donkey-kong-country-returns-3d/)
 - Kirby Planet Robobot, Triple Deluxe, Extra Epic Yarn
-- New Super Mario Bros 2
+- [New Super Mario Bros 2](https://www.cosmo0.fr/critique/critique-express/new-super-mario-bros-2/)
 - Poochy & Yoshi's Wooly World
-- Super Mario 3D Land
+- [Super Mario 3D Land](https://www.cosmo0.fr/critique/critique-express/super-mario-3d-land/)
 - Super Mario Maker
 - VVVVVV (eshop)
 
 ## Plate-forme/action, metroidvanias
 
-- Azure Striker Gunvolt 1 & 2 (eshop)
-- Blaster Master Zero (eshop)
-- Bloodstained Curse of the Moon (eshop)
-- Cave Story (eshop)
+- Azure Striker Gunvolt 1, 2 (eshop)
+- [Blaster Master Zero](https://www.cosmo0.fr/critique/blaster-master-zero/) (eshop)
+- [Bloodstained Curse of the Moon](https://www.cosmo0.fr/critique/bloodstained-curse-of-the-moon/) (eshop)
+- [Cave Story](https://www.cosmo0.fr/critique/critique-express/cave-story/) (eshop)
 - Cursed Castilla
-- Metroid Samus Returns
+- [Metroid Samus Returns](https://www.cosmo0.fr/critique/metroid-samus-returns/)
 - Mighty Gunvolt, Burst (eshop)
-- Mutant Mudds (eshop)
+- [Mutant Mudds](https://www.cosmo0.fr/critique/mutant-mudds-collection/) (eshop)
 - Shovel Knight (eshop)
-- Steamworld Dig 1 & 2 (eshop)
-- Xeodrifter (eshop)
+- Steamworld Dig [1](https://www.cosmo0.fr/critique/critique-express/steamworld-dig/), [2](https://www.cosmo0.fr/critique/steamworld-dig-2/) (eshop)
+- [Xeodrifter](https://www.cosmo0.fr/critique/xeodrifter/) (eshop)
 
 ## RPG
 
@@ -70,8 +70,8 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 
 ## Stratégie, tactique
 
-- Fire Emblem Awakening, Fates, Echoes
-- Shin Megami Tensei Devil Survivor 1 & 2
+- Fire Emblem Awakening, [Fates](https://www.cosmo0.fr/critique/critique-express/fire-emblem-fates/), Echoes
+- Shin Megami Tensei Devil Survivor 1, 2
 - Steamworld Heist (eshop)
 
 ## Puzzle, réflexion
@@ -80,7 +80,7 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 - Captain Toad Treasure Tracker
 - Detective Pikachu (enfants)
 - Mario & Donkey Kong Minis on the Move (eshop)
-- Picross 3D 1 & 2
+- Picross 3D 1, 2
 - Phoenix Wright (tous) (eshop)
 - Professeur Layton (tous)
 - Pullblox, Fallblox, Fullblox (eshop)
@@ -88,8 +88,8 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 
 ## Autre, divers
 
-- Animal Crossing New Leaf
-- Bit.Trip Saga
+- [Animal Crossing New Leaf](https://www.cosmo0.fr/critique/critique-express/animal-crossing-new-leaf/)
+- [Bit.Trip Saga](https://www.cosmo0.fr/critique/critique-express/bit-trip-saga/)
 - Mario Kart 7
 - Mario Golf
 - Mario Party Top 100, Island Tour
@@ -109,13 +109,13 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 Ces jeux ne sont malheureusement pas disponibles sur l'eshop, il faudra donc fouiller les sites d'occasion pour les dénicher à des prix parfois prohibitifs...  
 Je ne liste pas les jeux qui ont eu des remasters sur 3DS, comme Etrian Odyssey, Radiant Historia ou Devil Survivor.
 
-- Aventure, point & click : Ghost Trick, Phoenix Wright, Hotel Dusk, 999 Nine Hours Nine Persons Nine Doors
-- Action, arcade : Space Invaders Extreme, Retro Game Challenge, Wario Ware Touched, Bangai-O Spirits, Nanostray 1/2, Bleach the Blade of Fate
-- Aventure/action : Zelda Phantom Hourglass/Spirit Tracks, GTA Chinatown Wars, Metroid Prime Hunters, Okamiden
-- Plate-forme : New Super Mario Bros, Super Mario 64, Kirby Canvas Curse/Mass Attack, Sonic Rush, Yoshi's Island DS, Starfy, Super Princess Peach
-- Plate-forme/action : Castlevania Dawn of Sorrow/Portrait of Ruin/Order of Ecclesia, Contra 4, Mega Man ZX/ZX Advent
-- RPG : The World Ends With You, Pokémon (Diamant/Perle/Platine, HeartGold/SoulSilver, Noir/Blanc, Noir 2/Blanc 2), Final Fantasy 3/4, Chrono Trigger, Mario & Luigi Voyage au Centre de Bowser/Les Frères du temps, Dragon Quest IV/V/VI/IX, Kingdom Hearts, Lunar Knights, Infinite Space, Pokémon Mystery Dungeon
-- Stratégie, tactique : Advance Wars Dual Strike 1/2, Final Fantasy Tactics A2, Disgaea DS, Fire Emblem Shadow Dragon, Final Fantasy XII Revenant Wings, Civilization Revolution, Valkyrie Profile Covenant of the Plume, Rondo of Swords
-- Puzzle, réflexion : Meteos, Professeur Layton (plein), Picross 3D, Tetris DS, Puzzle Quest, Super Scribblenauts, Mario vs Donkey Kong 2, Planet Puzzle League, Might & Magic Clash of Heroes
-- Rythme : Osu! Tatakae! Oendan! 1/2, Elite Beat Agents, Rhythm Heaven
-- Autres, divers : Mario Kart DS, Animal Crossing Wild World, Trauma Center 1/2, Viva Pinata Pocket Paradise
+- **Aventure, point & click** : Ghost Trick, Phoenix Wright, Hotel Dusk, 999 Nine Hours Nine Persons Nine Doors
+- **Action, arcade** : Space Invaders Extreme, Retro Game Challenge, Wario Ware Touched, Bangai-O Spirits, Nanostray 1/2, Bleach the Blade of Fate
+- **Aventure/action** : Zelda Phantom Hourglass/Spirit Tracks, GTA Chinatown Wars, Metroid Prime Hunters, Okamiden
+- **Plate-forme** : New Super Mario Bros, Super Mario 64, Kirby Canvas Curse/Mass Attack, Sonic Rush, Yoshi's Island DS, Starfy, Super Princess Peach
+- **Plate-forme/action** : Castlevania Dawn of Sorrow/Portrait of Ruin/Order of Ecclesia, Contra 4, Mega Man ZX/ZX Advent
+- **RPG** : The World Ends With You, Pokémon (Diamant/Perle/Platine, HeartGold/SoulSilver, Noir/Blanc, Noir 2/Blanc 2), Final Fantasy 3/4, Chrono Trigger, Mario & Luigi Voyage au Centre de Bowser/Les Frères du temps, Dragon Quest IV/V/VI/IX, Kingdom Hearts, Lunar Knights, Infinite Space, Pokémon Mystery Dungeon
+- **Stratégie, tactique** : Advance Wars Dual Strike 1/2, Final Fantasy Tactics A2, Disgaea DS, Fire Emblem Shadow Dragon, Final Fantasy XII Revenant Wings, Civilization Revolution, Valkyrie Profile Covenant of the Plume, Rondo of Swords
+- **Puzzle, réflexion** : Meteos, Professeur Layton (plein), Picross 3D, Tetris DS, Puzzle Quest, Super Scribblenauts, Mario vs Donkey Kong 2, Planet Puzzle League, Might & Magic Clash of Heroes
+- **Rythme** : Osu! Tatakae! Oendan! 1/2, Elite Beat Agents, Rhythm Heaven
+- **Autres, divers** : Mario Kart DS, Animal Crossing Wild World, Trauma Center 1/2, Viva Pinata Pocket Paradise
