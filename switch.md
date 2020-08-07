@@ -1,5 +1,7 @@
 # Les meilleurs jeux Switch
 
+Ces listes sont basées sur les tests, les avis sur les réseaux sociaux, les retours divers, ainsi que mes préférences personnelles.
+
 ## Les classiques/indispensables
 
 - Aventure/action : Zelda Breath of the Wild, Zelda Link's Awakening, Dark Souls, Astral Chain, Luigi's Mansion 3
