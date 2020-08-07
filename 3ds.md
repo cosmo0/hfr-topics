@@ -1,8 +1,10 @@
 # Les meilleurs jeux sur 3DS
 
+Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
+
 Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu'elle possède la virtual console de la Game Boy à la SNES.
 
-## Action, aventure/action
+## Aventure/action
 
 - Code of Princess (eshop)
 - Fire Emblem Warriors (New 3DS)
@@ -43,12 +45,6 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 - Steamworld Dig 1 & 2 (eshop)
 - Xeodrifter (eshop)
 
-## Stratégie, tactique
-
-- Fire Emblem Awakening, Fates, Echoes
-- Shin Megami Tensei Devil Survivor 1 & 2
-- Steamworld Heist (eshop)
-
 ## RPG
 
 - Alliance Alive
@@ -71,6 +67,12 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 - Pokémon Super Mystery Dungeon
 - Yo-Kai Watch 1, 2, 3, Blasters
 - Xenoblade Chronicles 3D (New 3DS)
+
+## Stratégie, tactique
+
+- Fire Emblem Awakening, Fates, Echoes
+- Shin Megami Tensei Devil Survivor 1 & 2
+- Steamworld Heist (eshop)
 
 ## Puzzle, réflexion
 
