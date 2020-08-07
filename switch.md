@@ -103,18 +103,18 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Hyper Light Drifter
 - Jotun
 - L.A. Noire
-- **LEGO** Marvel Super Heroes 2, DC Super Villains, City, World...
-- **Luigi's Mansion 3**
-- Minit
-- **Okami HD**
-- Omensight
+- **LEGO** [Marvel Super Heroes 2](https://www.cosmo0.fr/critique/lego-marvel-super-heroes-2/), DC Super Villains, City, World...
+- **[Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)**
+- [Minit](https://www.cosmo0.fr/critique/minit/)
+- **[Okami HD](https://www.cosmo0.fr/critique/okami-hd/)**
+- [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
 - Paper Mario The Origami King
 - Retro City Rampage / Shakedown Hawaii
-- Reverie
+- [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
 - Starlink: Battle for Atlas
-- **Zelda Breath of the Wild**
-- **Zelda Link's Awakening**
+- **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
+- **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
 ## Shooters, FPS, TPS
 
@@ -124,14 +124,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Bulletstorm
 - Call of Juarez Gunslinger
 - Crysis Remaster
-- **Doom** 93, 2, 64, 3, 2016
+- **Doom** [93](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016
 - Duke Nukem 3D
 - **Fortnite** (free to play)
 - Ghostbusters Remastered
 - Hypercharge Unboxed
 - Immortal Redneck
 - Ion Fury
-- **Metro 2033/Last Light Redux**
+- **Metro 2033, Last Light Redux**
 - Oddworld Stranger's Wrath
 - **Overwatch**
 - Paladins (free to play)
@@ -142,7 +142,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - RICO
 - Rogue Company (free to play)
 - Saints Row The Third, IV Re-Elected
-- Sniper Elite 2/3
+- [Sniper Elite 2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), 3
 - **Splatoon 2**
 - Star Wars Jedi Knight II, Jedi Academy
 - **Superhot**
@@ -176,15 +176,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Crash Bandicoot
 - **Donkey Kong Country Tropical Freeze**
 - Freedom Planet
-- Kirby Star Allies
+- Kirby Star Allies (pour les plus jeunes)
 - New Super Lucky's Tale
-- **New Super Mario Bros U Deluxe**
-- **Rayman Legends**
+- **[New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/)**
+- **[Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/)**
 - **Sonic Mania**
 - Spyro Reignited Trilogy
 - **Super Mario Maker 2**
 - **Super Mario Odyssey**
-- Umihara Kawase Fresh
 - Vectronom
 - Yooka-Laylee
 - **Yooka Laylee & the Impossible Lair**
@@ -192,7 +191,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Plate-forme "hardcore"
 
-- **Celeste**
+- **[Celeste](https://www.cosmo0.fr/critique/celeste/)**
 - Slime San
 - **Splasher**
 - Super Meat Boy
@@ -204,7 +203,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Boxboy+Boxgirl**
 - **Captain Toad Treasure Tracker**
 - Forgotton Anne
-- **Gris**
+- **[Gris](https://www.cosmo0.fr/critique/gris/)**
 - Inside
 - Limbo
 - Mighty Switch Force Collection
@@ -216,23 +215,22 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Plate-forme/action, run & gun
 
-- Blaster Master Zero 1, 2
+- **ACA NEOGEO Metal Slug** 1, 2, 3, 4, 5, X
+- [Blaster Master Zero 1](https://www.cosmo0.fr/critique/blaster-master-zero/), 2
 - **Blazing Chrome**
-- **Bloodstained Curse of the Moon** 1, 2
+- **[Bloodstained Curse of the Moon 1](https://www.cosmo0.fr/critique/bloodstained-curse-of-the-moon/)**, 2
 - Broforce
 - **Cuphead**
 - Cursed Castilla
 - Huntdown
 - **Katana Zero**
 - Kunai
-- **Mark of the Ninja**
-- Mechstermination Force
+- **[Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/)**
+- [Mechstermination Force](https://www.cosmo0.fr/critique/mechstermination-force/)
 - Mega Man 11
-- Mega Man Legacy Collection 1, 2, X1, X2
-- Mutant Mudds
+- Mega Man Legacy Collection [1](https://www.cosmo0.fr/critique/mega-man-legacy-collection/), 2, [X1](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), X2
+- [Mutant Mudds](https://www.cosmo0.fr/critique/mutant-mudds-collection/)
 - My Friend Pedro
-- Odallus The Dark Call
-- Oniken
 - Overwhelm
 - Owlboy
 - Panzer Paladin
@@ -244,14 +242,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 - 3000th Duel
 - Aggelos
-- Axiom Verge
+- [Axiom Verge](https://www.cosmo0.fr/critique/axiom-verge/)
 - **Blasphemous**
 - **Bloodstained Ritual of the Night**
 - Carrion
 - Dandara
 - Dark Devotion
 - Dust: An Elysian Tail
-- Gato Roboto
+- [Gato Roboto](https://www.cosmo0.fr/critique/gato-roboto/)
 - **Guacamelee** 1, 2
 - **Hollow Knight**
 - Iconoclasts
@@ -262,13 +260,13 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Salt & Sanctuary
 - Shantae & The Seven Sirens
 - Shinsenkai Into the Depth
-- **Steamworld Dig** 1, 2
+- **Steamworld Dig** [1](https://www.cosmo0.fr/critique/critique-express/steamworld-dig/), [2](https://www.cosmo0.fr/critique/steamworld-dig-2/)
 - Sundered
 - Timespinner
 - **The Messenger**
-- Xeodrifter
-- **Wonder Boy The Dragon's Trap**
-- **Yoku's Island Express**
+- [Xeodrifter](https://www.cosmo0.fr/critique/xeodrifter/)
+- **[Wonder Boy The Dragon's Trap](https://www.cosmo0.fr/critique/wonder-boy-the-dragons-trap/)**
+- **[Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)**
 
 ## RPG/action
 
@@ -276,7 +274,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Dauntless**
 - Dragon's Dogma: Dark Arisen
 - **Final Fantasy XII, XV Pocket**
-- Mages of Mystralia
 - **Monster Hunter Generations Ultimate**
 - Ni No Kuni Wrath of the White Witch
 - Shining Resonance Refrain
@@ -287,7 +284,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - The Outer Worlds
 - **The Witcher 3**
 - The World Ends With You
-- Transistor
+- [Transistor](https://www.cosmo0.fr/critique/transistor/)
 - Vampyr
 - **Xenoblade Chronicles Definitive Edition**
 - **Xenoblade Chronicles 2**
@@ -301,18 +298,16 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Darkest Dungeon**
 - Digimon Story Cyber Sleuth
 - **Divinity Original Sin 2**
-- **Dragon Quest XI S**
-- **Final Fantasy VII, VIII, IX, X/X-2**
+- **Dragon Quest** 1, 2, 3, XI S
+- **Final Fantasy** VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)
 - Hand of Fate 2
 - Indivisible
 - Labyrinth of Refrain: Coven of Dusk
 - Legend of Heroes Trails of Cold Steel 3
-- Little Town Hero
 - **Octopath Traveler**
 - Operencia: The Stolen Sun
 - **Pillars of Eternity**
-- Planescape Torment + Icewind Dale
-- **Pokémon Épée/Bouclier, Let's Go**
+- **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/)
 - Pokémon Mystery Dungeon Rescue Team DX
 - Romancing SaGa 2, 3
 - SaGa Scarlet Grace Ambition
@@ -322,9 +317,9 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - The Alliance Alive HD
 - The Last Remnant
 - Thronebreaker: The Witcher Tales
-- **Tokyo Mirage Sessions FE Encore**
+- **Tokyo Mirage Sessions #FE Encore**
 - **Trials of Mana**
-- Undertale
+- [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - Wasteland 2
 - World of Final Fantasy
 
@@ -335,19 +330,18 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Children of Morta
 - Crawl
 - **Dead Cells**
-- Downwell
 - Enter the Gungeon
 - Everspace
 - Exit the Gungeon
 - For The King
-- Moonlighter
+- [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Neon Abyss
 - **Nuclear Throne**
 - One Step From Eden
 - Out There Omega
 - Overland
 - Plunge
-- **Risk of Rain 2**
+- **Risk of Rain** 1, 2
 - **Rogue Legacy**
 - **Slay The Spire**
 - Sparklite
@@ -362,14 +356,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Hack & slash, musou
 
 - Attack On Titan 2 (A.O.T. 2)
-- Bastion
+- [Bastion](https://www.cosmo0.fr/critique/bastion/)
 - Darksiders Genesis
 - **Diablo 3**
 - **Dynasty Warriors 8**
 - Fate/Extella Link
 - Fire Emblem Warriors
 - **Hyrule Warriors**
-- Marvel Ultimate Alliance 3
+- [Marvel Ultimate Alliance 3](https://www.cosmo0.fr/critique/marvel-ultimate-alliance-3/)
 - **Minecraft Dungeon**
 - One Piece Pirate Warriors 3, 4
 - Samurai Warriors 4 (JP)
@@ -402,14 +396,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Into the Breach**
 - Langrisser I & II Remaster
 - **Mario + Lapins Crétins**
-- Mercenaries Saga/Wings
+- Mercenaries Saga, [Mercenaries Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/)
 - Mutant Year Zero Road to Eden
 - Northgard
 - SD Gundam G Generations Cross Rays (Japon)
 - Super Robot Wars T, V, X (Japon)
 - Steamworld Heist
 - The Dark Crystal Age of Resistance Tactics
-- Thea The Awakening
+- [Thea The Awakening](https://www.cosmo0.fr/critique/thea-the-awakening/)
 - Tiny Metal, Tiny Metal Full Metal Rumble
 - **Valkyria Chronicles 1 & 4**
 - **Wargroove**
@@ -430,7 +424,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 - **Animal Crossing New Horizons**
 - Big Pharma
-- Cities Skyline
+- [Cities Skyline](https://www.cosmo0.fr/critique/cities-skylines/)
 - **Civilization 6**
 - Constructor Plus
 - **Football Manager**
@@ -447,9 +441,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Don't Starve
 - Doraemon Story of Seasons
 - **Dragon Quest Builders** 1, 2
-- Farm Together
-- Farming Simulator 2020
-- Forager
+- Farming Simulator
+- [Forager](https://www.cosmo0.fr/critique/forager/)
 - Graveyard Keeper
 - **Minecraft**
 - My Time At Portia
@@ -457,7 +450,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Rune Factory 4 Special**
 - **Stardew Valley**
 - **Terraria**
-- The Flame in the Flood
 - This War of Mine
 
 ## Walking simulator, visual novel, histoires interactives
@@ -470,7 +462,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Batman The Enemy Within
 - Clannad
 - Disaster Report 4
-- Enterre-Moi Mon Amour (Bury Me My Love)
+- [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
 - **Firewatch**
 - Florence
 - **Gone Home**
@@ -489,7 +481,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Aventure, point & click
 
-- Broken Age
+- [Broken Age](https://www.cosmo0.fr/critique/broken-age/)
 - Creaks
 - Deponia
 - Grim Fandango Remastered
@@ -510,34 +502,32 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Aventure/puzzle
 
 - 2064 Read Only Memories
-- AER Memories of Old
 - Beat Cop
 - Brothers A Tale of Two Sons
 - **Catherine Full Body**
-- Kotodama The 7 Mysteries of Fujisawa
 - L'aventure Layton
-- Piku Niku
+- [Piku Niku](https://www.cosmo0.fr/critique/pikuniku/)
 - **Return of the Obra Dinn**
 - Rime
 - **Soldats Inconnus (Valiant Hearts)**
 - **Stories Untold**
-- Superbrothers Swords & Sorcery
+- [Superbrothers Swords & Sworcery](https://www.cosmo0.fr/critique/superbrothers-sword-sworcery/)
 - The Eyes of Ara
-- **The Garden Between**
+- **[The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/)**
 - **The Talos Principle**
 - **The Touryst**
+- **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
 
 ## Puzzle, énigmes, réflexion
 
 - **Baba Is You**
-- Box Align
+- [Box Align](https://www.cosmo0.fr/critique/box-align/)
 - Death Coming
 - Etherborn
 - Felix the Reaper
 - **Gems of War** (free to play)
 - **Good Job**
-- Hook
-- **Murder by Numbers**
+- Murder by Numbers
 - **Picross S, S2, S3, S4**
 - Picto Quest
 - **Puzzle Quest The Legend Returns**
@@ -548,12 +538,13 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Puzzle/action
 
+- ACA NEOGEO Magical Drop, Puzzle Bobble
 - Crystal Crisis
 - Katamari Damacy Reroll
 - **Lumines Remastered**
 - **Mr Driller Drill Land**
 - **Puyo Puyo Champions**
-- **Puyo Puyo Tetris**
+- **[Puyo Puyo Tetris](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)**
 - QUBE 2
 - Sushi Striker
 - **Tetris 99**
@@ -561,10 +552,11 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Sport
 
+- ACA NEOGEO Baseball Stars, Neo Turf Masters, Street Hoops, Super Sidekicks
 - AO Tennis 2
 - Behold the Kickmen
 - FIFA 20
-- Golf Story
+- [Golf Story](https://www.cosmo0.fr/critique/golf-story/)
 - **Lonely Mountains Downhill**
 - NBA 2K20
 - NBA 2K Playgrounds 2
@@ -582,16 +574,16 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Asphalt 9 (free to play)
 - **Burnout Paradise**
 - **Crash Team Racing**
-- Fast RMX
+- [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/)
 - Gotcha Racing 2nd
 - **GRID Autosport**
 - GRIP
-- **Horizon Chase Turbo**
+- **[Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/)**
 - Mantis Burn Racing
-- **Mario Kart 8**
+- **Mario Kart 8 DX**
 - Monster Energy Supercross 3
 - Moto GP 20
-- OutRun (Sega Ages)
+- [Out Run (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-out-run/)
 - Redout
 - Road Redemption
 - Rush Rally 3
@@ -599,10 +591,11 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Team Sonic Racing
 - **Trials Rising**
 - TT Isle of Man 2
-- **Virtua Racing (Sega Ages)**
+- **[Virtua Racing (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/)**
 
 ## Combat, baston, versus, brawler
 
+- **ACA NEOGEO** Art of Fighting, Fatal Fury, Garou Mark of the Wolves, King of Fighters, Samurai Shodown, The Last Blade...
 - Arms
 - Blazblue Central Fiction, Cross Tag Battle
 - Brawlhalla (free to play)
@@ -615,31 +608,33 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Nidhogg 2
 - Pokken Tournament
 - River City Melee Mach
-- **Samurai Shodown**
+- **Samurai Shodown**, Samurai Shodown NeoGeo Collection
 - Shovel Knight Shodown
 - Skullgirls 2nd Encore
 - SNK Heroines Tag Team Frenzy (pour les débutants)
-- Street Fighter 30th Anniversary
+- [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/)
 - **Super Smash Bros Ultimate**
 - **TowerFall**
 
 ## Beat'em Up
 
-- **Bayonetta 1 & 2**
+- **Bayonetta** [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/)
 - Bloodroots
-- Capcom Beat'em Up Bundle
+- [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/)
 - Castle Crashers
 - Code of Princess EX
+- **Double Dragon** 1, 2, 3, 4
+- **Double Dragon & Kunio Kun Retro Brawler Bundle**
 - Fight'N Rage
 - Full Metal Furies
-- I am the Hero
+- I Am The Hero
 - Mother Russia Bleeds
-- Ninja Saviors
+- [Ninja Saviors Return of the Warriors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/)
 - Redeemer
 - **River City Girls**
 - **Streets of Rage 4**
 - Super Crush KO
-- The Friends of Ringo Ishikawa
+- [The Friends of Ringo Ishikawa](https://www.cosmo0.fr/critique/the-friends-of-ringo-ishikawa/)
 - **The Wonderful 101**
 - Way of the Passive Fist
 - Wulverblade
@@ -649,29 +644,29 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunbird, Zero Gunner 2, Twinkle Star Sprite, Ikaruga, Strikers 1945, Aero Fighters 2, Dragon Blaze, Alpha Mission 2, Ghost Pilots, Sol Divide, In The Hunt, Blazing Star, Esp Ra De, Psikyo Shooting Stars Alpha, Konami Arcade Classics, Darius Cozmic Collection, etc.
 
 - **Assault Android Cactus**
-- Danmaku Unlimited 3
+- **[Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/)**
 - **Devil Engine**
+- [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/)
 - Galak-Z The Void
-- Graceful Explosion Machine
-- **Horizon Shift 81**
+- [Graceful Explosion Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/)
+- **[Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/)**
 - I Hate Running Backwards
 - Jamestown+
 - Panzer Dragoon
 - Psyvariar Delta
 - **R-Type Dimensions EX**
-- Raiden V
 - Rival Megagun
 - Sine Mora EX
-- Sky Force Reloaded
+- [Sky Force Reloaded](https://www.cosmo0.fr/critique/sky-force-reloaded/)
 - Steredenn
 - Sturmwind
-- **Super Hydorah**
-- Super Star Path
-- Thunder Force IV
+- **[Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)**
+- [Thunder Force IV](https://www.cosmo0.fr/critique/sega-ages-thunder-force-4/)
 
 ## Arcade, high score
 
-- Akane
+- Toutes les gammes Arcade Archives, ACA NEOGEO, Namco Museum, Johnny Turbo's Arcade...
+- [Akane](https://www.cosmo0.fr/critique/akane/)
 - Bubble Bobble 4 Friends
 - Burger Time Party
 - Creature in the Well
@@ -690,6 +685,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **Hexagroove**
 - Old School Musical
 - **Sayonara Wild Hearts**
+- [Songbird Symphony](https://www.cosmo0.fr/critique/songbird-symphony/)
 - **Taiko No Tatsujin**
 - **Thumper**
 - Voez
@@ -721,8 +717,6 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **Programme d'Entraînement Cérébral du Dr Kawashima**
 - **Ring Fit Adventure**
 - Sports Party
-- Super Monkey Ball Banana Blitz
-- Surgeon Simulator CPR
 
 ## Jeux de cartes
 
@@ -734,8 +728,8 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Jeu de société, jeu de plateau
 
-- **51 Worldwide Games**
-- Armello
+- **[51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/)**
+- [Armello](https://www.cosmo0.fr/critique/armello/)
 - Carcassonne
 - Catan
 - Istanbul
@@ -763,11 +757,10 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 ## Autres/inclassables
 
 - Demon's Tilt
-- Everything
+- [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
 - Nintendo Labo
 - Pinball FX3
-- **Untitled Goose Game**
 - Zen Pinball
 
 ## Rétrogaming
