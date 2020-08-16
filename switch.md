@@ -765,10 +765,12 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Rétrogaming
 
-- L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES avec un mode multijoueur en ligne (20€/an)
-- Plusieurs séries/labels proposent des émulations fidèles de jeux d'arcade : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", et "Johnny Turbo's Arcade".
-- La série "SEGA AGES" propose des jeux Sega à l'unité provenant d'un peu toutes leurs plate-formes (Master System, Megadrive, arcade, etc)
-- Il existe de nombreuses compilations de jeux portés ou émulés : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, SNK 40th Anniversary Collection, Konami Anniversary, Disney Classic Games, Kunio Kun & Double Dragon, Namco Museum Archives, Samurai Shodown NeoGeo Collection, etc.
+- L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES et SNES avec un mode multijoueur en ligne (20€/an)
+- Plusieurs labels proposent des émulations fidèles ou améliorées de jeux à l'unité : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", "Johnny Turbo's Arcade", "SEGA AGES"...
+- De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, etc.
+- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, SNK 40th Anniversary Collection, Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roil Lion, Kunio Kun & Double Dragon, Namco Museum Archives, Samurai Shodown NeoGeo Collection, Collection of Mana, Dragon's Lair, etc.
+
+[Une liste très complète](https://docs.google.com/spreadsheets/d/1Nkboda1RKVF-Y431vQSUl9MXSUBVjphuyBK8n6RaKFE/)
 
 ## Les jeux à venir
 
