@@ -774,23 +774,23 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament
+- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament, Spiritfarer, Takeshi & Hiroshi, Raji An Ancient Epic, A Short Hike, Manifold Garden, Evergate
 
-- Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Final Fantasy Crystal Chronicles (27), Jump Force (27), Moon (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Moero Crystal H (?)
-- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Zengeon (25), Tennis World Tour 2 (?)
+- Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Inmost (21), Final Fantasy Crystal Chronicles (27), Jump Force (27), Moon (27), Hypnospace Outlaw (27), Struggling (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Moero Crystal H (?)
+- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?)
 - Octobre : Let's Sing Queen (2), The Watchmaker (8), Transformers Battlegrounds (23), Dusk (31)
 - Novembre : XIII (10), Sakuna of Rice And Ruin (10), Cris Tales (17)
 
-- Q2 2020/été : Sports Story, Bake n Switch, Rivals of Aether Definitive Edition, Bounty Battle, The Last Campfire, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Sky Children of the Light, Hotshot Racing, Othercide
-- Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Fuser, Prinny 1-2, Apex Legends, King of Seas
+- Q2 2020/été : Bake n Switch, Rivals of Aether Definitive Edition, Bounty Battle, The Last Campfire, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Sky Children of the Light, Hotshot Racing, Othercide
+- Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Fuser, Prinny 1-2, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2
 - Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Atelier Ryza 2
 
-- Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld
+- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Lego Star Wars, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Little Nightmares 2, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, King's Bounty II, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Gleamlight, Dreamscaper, Descenders, Faeria, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Ys Origin, Olija, Haven
 
-- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Lego Star Wars, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Little Nightmares 2, Heaven's Vault, Spiritfarer, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, King's Bounty II, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Gleamlight, Dreamscaper, Descenders, Faeria, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Ys Origin, Olija
+- Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld, She Dreams Elsewhere
 
-- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Ys IX Monstrum Nox, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V
+- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Ys IX Monstrum Nox, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark
 
-- Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Inmost, The Red Lantern, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Kingpin Reloaded, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, No Straight Roads, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy
+- Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Kingpin Reloaded, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, No Straight Roads, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
