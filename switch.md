@@ -72,7 +72,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Sayonara Wild Hearts, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Casual, party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!
-- **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales
+- **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales, Frost
 - **Autre** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Untitled Goose Game, Cattails
 - **Rétrogaming** : Nintendo Switch Online, Mega Man Legacy Collection, Capcom Beat'em Up Bundle, série SEGA AGES, série ACA NEOGEO, série Arcade Archives, série Johnny Turbo's Arcade, série Konami Collection
 
