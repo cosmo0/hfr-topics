@@ -774,20 +774,21 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament, Spiritfarer, Takeshi & Hiroshi, Raji An Ancient Epic, A Short Hike, Manifold Garden, Evergate
+- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament, Spiritfarer, Takeshi & Hiroshi, Raji An Ancient Epic, A Short Hike, Manifold Garden, Evergate, World of Tank Blitz
 
-- Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Inmost (21), Final Fantasy Crystal Chronicles (27), Jump Force (27), Moon (27), Hypnospace Outlaw (27), Struggling (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Moero Crystal H (?)
-- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?)
+- Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Inmost (21), Final Fantasy Crystal Chronicles (27), Moon (27), Hypnospace Outlaw (27), Struggling (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Jump Force Deluxe (28), Moero Crystal H (?)
+- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
 - Octobre : Let's Sing Queen (2), The Watchmaker (8), Transformers Battlegrounds (23), Dusk (31)
-- Novembre : XIII (10), Sakuna of Rice And Ruin (10), Cris Tales (17)
+- Novembre : XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17)
+- Décembre : Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
 
 - Q2 2020/été : Bake n Switch, Rivals of Aether Definitive Edition, Bounty Battle, The Last Campfire, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Sky Children of the Light, Hotshot Racing, Othercide
-- Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Fuser, Prinny 1-2, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2
-- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Atelier Ryza 2
+- Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Prinny 1-2, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2
+- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Atelier Ryza 2, Taiko No Tatsujin Rhythmic Adventure Pack
 
 - 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Lego Star Wars, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Little Nightmares 2, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, King's Bounty II, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Gleamlight, Dreamscaper, Descenders, Faeria, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Ys Origin, Olija, Haven
 
-- Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld, She Dreams Elsewhere
+- Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld, She Dreams Elsewhere, Big Rumble Boxing Creed Champion
 
 - 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Ys IX Monstrum Nox, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark
 
