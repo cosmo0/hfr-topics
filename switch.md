@@ -55,7 +55,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Hack & slash** : Bastion, Torchlight 2
 - **Survival horror** : Darkwood, Detention, Layers of Fear, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4
 - **Plate-forme "pure"** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher
-- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne
+- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate
 - **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin
 - **Metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion
 - **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss
@@ -202,6 +202,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 - **Boxboy+Boxgirl**
 - **Captain Toad Treasure Tracker**
+- Evergate
 - Forgotton Anne
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
 - **Inmost**
