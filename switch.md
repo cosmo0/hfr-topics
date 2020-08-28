@@ -786,14 +786,14 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Raji An Ancient Epic, Windbound, Captain Tsubasa, Jump Force Deluxe
+- Jeux sortis, en attente de test : Raji An Ancient Epic, Windbound, Captain Tsubasa, Jump Force Deluxe, The Last Campfire
 
-- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
-- Octobre : Let's Sing Queen (2), The Watchmaker (8), Transformers Battlegrounds (23), Dusk (31)
+- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Hotshot Racing (10), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
+- Octobre : Let's Sing Queen (2), The Watchmaker (8), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Pikmin 3 Deluxe (30), Dusk (31)
 - Novembre : XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17)
 - Décembre : Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
 
-- Q2 2020/été : Bake n Switch, Rivals of Aether Definitive Edition, Bounty Battle, The Last Campfire, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Sky Children of the Light, Hotshot Racing, Othercide
+- Q2 2020/été : Bake n Switch, Rivals of Aether Definitive Edition, Bounty Battle, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Sky Children of the Light, Othercide
 - Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Prinny 1-2, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2
 - Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Atelier Ryza 2, Taiko No Tatsujin Rhythmic Adventure Pack
 
