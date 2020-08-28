@@ -14,7 +14,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Beat'em Up** : Bayonetta 1 & 2, Streets of Rage 4, The Wonderful 101
 - **Roguelikes** : Dead Cells, Rogue Legacy, The Binding of Isaac, Nuclear Throne
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Valkyria Chronicles 4, Fire Emblem Three Houses, Wargroove, Disgaea 1/4/5, XCOM 2
-- **Gestion** : Civilization 6, Two Point Hospital
+- **Gestion** : Civilization 6, Two Point Hospital, Spiritfarer
 - **Construction, crafting, farming** : Stardew Valley, Dragon Quest Builders 1 & 2, Minecraft, Terraria, Rune Factory 4 Special
 - **Course** : Mario Kart 8, GRID Autosport, Crash Team Racing, Horizon Chase Turbo, Trials Rising, Burnout Paradise
 - **RPG** : Xenoblade Chronicles 1 & 2, Pokémon Let's Go/Epée/Bouclier, Final Fantasy 7/8/9/10/12, Divinity Original Sin 2, Dragon Quest XI S, The Witcher 3
@@ -51,7 +51,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Action, beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Combat, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars
 - **Arcade** : Akane, Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, Pix the Cat
-- **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, Boreal Blade
+- **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
 - **Hack & slash** : Bastion, Torchlight 2
 - **Survival horror** : Darkwood, Detention, Layers of Fear, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4
 - **Plate-forme "pure"** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher
@@ -65,14 +65,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **RPG** : **Dauntless**, Darkest Dungeon, Severed, Transistor, Final Fantasy VII, Final Fantasy VIII, Monster Slayers, Doom & Destiny, Cat Quest 1 & 2, Shadows of Adam, Masquerada Songs And Shadows, Citizens of Space, The Last Remnant, Silk, Severed, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Pong Quest, Dex
 - **Point & click, aventure** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, Joe Dever's Lone Wolf, My Memory of Us, Soldats Inconnus, Stories Untold, In Other Waters, Creaks
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
-- **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey
+- **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Lumines Remastered, Picross S & S2, Tricky Towers, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Cyber Protocol, Good Job, Mekorama, Mr Driller Drill Land
 - **Sport** : Rocket League, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Sayonara Wild Hearts, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Casual, party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!
-- **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales, Frost
+- **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales, Frost, Faeria
 - **Autre** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Untitled Goose Game, Cattails
 - **Rétrogaming** : Nintendo Switch Online, Mega Man Legacy Collection, Capcom Beat'em Up Bundle, série SEGA AGES, série ACA NEOGEO, série Arcade Archives, série Johnny Turbo's Arcade, série Konami Collection
 
@@ -204,8 +204,9 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Captain Toad Treasure Tracker**
 - Forgotton Anne
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
-- Inside
-- Limbo
+- **Inmost**
+- **Inside**
+- **Limbo**
 - Mighty Switch Force Collection
 - Planet Alpha
 - Snake Pass
@@ -304,6 +305,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Indivisible
 - Labyrinth of Refrain: Coven of Dusk
 - Legend of Heroes Trails of Cold Steel 3
+- **Moon**
+- Nexomon Extinction
 - **Octopath Traveler**
 - Operencia: The Stolen Sun
 - **Pillars of Eternity**
@@ -372,13 +375,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Warriors Orochi 4 Ultimate
 - Way of the Samurai Katana Kami
 
-## MOBA, MMORPG
+## MOBA et MMORPG free to play
 
-- Arena of Valor (free to play)
-- DC Universe Online (free to play)
-- Onigiri (free to play)
-- Smite (free to play)
-- Super Kirby Clash (free to play)
+- Arena of Valor
+- DC Universe Online
+- Onigiri
+- Smite
+- Super Kirby Clash
+- World of Tank Blitz
 
 ## Stratégie, tactique, TRPG
 
@@ -399,6 +403,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Mercenaries Saga, [Mercenaries Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/)
 - Mutant Year Zero Road to Eden
 - Northgard
+- Peaky Blinders
 - SD Gundam G Generations Cross Rays (Japon)
 - Super Robot Wars T, V, X (Japon)
 - Steamworld Heist
@@ -433,6 +438,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Prison Architect
 - Project Highrise
 - Railway Empire
+- **Spiritfarer**
 - The Shrouded Isle
 - **Two Point Hospital**
 
@@ -456,10 +462,12 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 - 1979 Revolution: Black Friday
 - 80 Days
+- **A Short Hike**
 - Abzu
 - **AI The Somnium Files**
 - Afterparty
 - Batman The Enemy Within
+- Best Friends Forever
 - Clannad
 - Disaster Report 4
 - [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
@@ -485,6 +493,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Creaks
 - Deponia
 - Grim Fandango Remastered
+- Hypnospace Outlaw
 - In Other Waters
 - Les Chevaliers de Baphomet 5
 - **Night in the Wood**
@@ -564,6 +573,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Mario Tennis Aces**
 - Mutant Football League
 - OlliOlli Switch Stance
+- PGA Tour 2K21
 - **Rocket League**
 - **Super Mega Baseball 3**
 - What The Golf
@@ -721,6 +731,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 ## Jeux de cartes
 
 - **Eternal** (free to play)
+- **Faeria**
 - Lightseekers (free to play)
 - Lord of the Rings Adventure Card Game
 - Warhammer Age of Sigmar (free to play)
@@ -774,10 +785,9 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Bossgard, Aeolis Tournament, Spiritfarer, Takeshi & Hiroshi, Raji An Ancient Epic, A Short Hike, Manifold Garden, Evergate, World of Tank Blitz
+- Jeux sortis, en attente de test : Raji An Ancient Epic, Windbound, Captain Tsubasa, Jump Force Deluxe
 
-- Août : Banner of the Maid (12), Faeria (13), Double Kick Heroes (13), Samurai Jack (21), Inmost (21), Final Fantasy Crystal Chronicles (27), Moon (27), Hypnospace Outlaw (27), Struggling (27), Windbound (28), Nexomon Extinction (28), Captain Tsubasa (28), Jump Force Deluxe (28), Moero Crystal H (?)
-- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
+- Septembre : MX vs ATV All Out (1), Avicii Invector (8), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
 - Octobre : Let's Sing Queen (2), The Watchmaker (8), Transformers Battlegrounds (23), Dusk (31)
 - Novembre : XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17)
 - Décembre : Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
