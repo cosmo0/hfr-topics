@@ -243,7 +243,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Plate-forme/exploration, metroidvanias
 
 - 3000th Duel
-- Aggelos
+- [Aggelos](https://www.cosmo0.fr/critique/aggelos/)
 - [Axiom Verge](https://www.cosmo0.fr/critique/axiom-verge/)
 - **Blasphemous**
 - **Bloodstained Ritual of the Night**
@@ -294,7 +294,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## RPG tour par tour
 
-- **Atelier Ryza**, Lulua, Meruru, Totori, Rorona, Lydie & Suelle, Nelke, Dusk
+- **[Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/)**, Dusk Trilogy, Arland Trilogy
 - Battle Chasers Nightwar
 - **Bug Fables**
 - **Darkest Dungeon**
@@ -473,7 +473,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Disaster Report 4
 - [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
 - **Firewatch**
-- Florence
+- [Florence](https://www.cosmo0.fr/critique/florence/)
 - **Gone Home**
 - **Kentucky Route Zero**
 - Neo Cab
