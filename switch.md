@@ -731,10 +731,13 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Jeux de cartes
 
+- Dragon Ball Heroes
 - **Eternal** (free to play)
 - **Faeria**
+- Frost
 - Lightseekers (free to play)
 - Lord of the Rings Adventure Card Game
+- Thronebreaker The Witcher Tales
 - Warhammer Age of Sigmar (free to play)
 - YuGiOh Legacy of the Duelist
 
