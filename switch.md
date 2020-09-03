@@ -124,13 +124,13 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Bulletstorm
 - Call of Juarez Gunslinger
 - Crysis Remaster
-- **Doom** [93](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016
+- **Doom** [1993](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016
 - Duke Nukem 3D
 - **Fortnite** (free to play)
-- Ghostbusters Remastered
 - Hypercharge Unboxed
 - Immortal Redneck
 - Ion Fury
+- **Journey to the Savage Planet**
 - **Metro 2033, Last Light Redux**
 - Oddworld Stranger's Wrath
 - **Overwatch**
@@ -146,7 +146,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Splatoon 2**
 - Star Wars Jedi Knight II, Jedi Academy
 - **Superhot**
-- Turok
 - Vigor (free to play)
 - Warface (free to play)
 - **Warframe** (free to play)
