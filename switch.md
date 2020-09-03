@@ -67,7 +67,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
 - **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons
-- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Lumines Remastered, Picross S & S2, Tricky Towers, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Cyber Protocol, Good Job, Mekorama, Mr Driller Drill Land
+- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal
+- **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land
 - **Sport** : Rocket League, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Sayonara Wild Hearts, Neon Drive, Floor Kids, Just Shapes & Beats
@@ -530,10 +531,10 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Puzzle, énigmes, réflexion
 
+- Agent A
 - **Baba Is You**
 - [Box Align](https://www.cosmo0.fr/critique/box-align/)
 - Death Coming
-- Etherborn
 - Felix the Reaper
 - **Gems of War** (free to play)
 - **Good Job**
