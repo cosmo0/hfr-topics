@@ -90,7 +90,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Assassin's Creed** 3, Rebel Collection
 - **Astral Chain**
 - Call of Cthulhu
-- Crossing Souls
 - Daemon X Machina
 - **Dark Souls Remastered**
 - **Darksiders** 1 / 2
@@ -101,7 +100,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Hob
 - **Hotline Miami**
 - Hyper Light Drifter
-- Jotun
 - L.A. Noire
 - **LEGO** [Marvel Super Heroes 2](https://www.cosmo0.fr/critique/lego-marvel-super-heroes-2/), DC Super Villains, City, World...
 - **[Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)**
@@ -109,10 +107,12 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **[Okami HD](https://www.cosmo0.fr/critique/okami-hd/)**
 - [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
 - Paper Mario The Origami King
+- Raji An Ancient Epic
 - Retro City Rampage / Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
 - Starlink: Battle for Atlas
+- Windbound
 - **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
 - **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
@@ -201,7 +201,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Plate-forme/puzzle
 
 - **Boxboy+Boxgirl**
-- **Captain Toad Treasure Tracker**
 - Evergate
 - Forgotton Anne
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
@@ -514,6 +513,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - 2064 Read Only Memories
 - Beat Cop
 - Brothers A Tale of Two Sons
+- **Captain Toad Treasure Tracker**
 - **Catherine Full Body**
 - L'aventure Layton
 - [Piku Niku](https://www.cosmo0.fr/critique/pikuniku/)
@@ -524,6 +524,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - [Superbrothers Swords & Sworcery](https://www.cosmo0.fr/critique/superbrothers-sword-sworcery/)
 - The Eyes of Ara
 - **[The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/)**
+- The Last Campfire
 - **The Talos Principle**
 - **The Touryst**
 - **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
@@ -565,16 +566,17 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - ACA NEOGEO Baseball Stars, Neo Turf Masters, Street Hoops, Super Sidekicks
 - AO Tennis 2
 - Behold the Kickmen
-- FIFA 20
+- **Captain Tsubasa**
+- FIFA
 - [Golf Story](https://www.cosmo0.fr/critique/golf-story/)
 - **Lonely Mountains Downhill**
-- NBA 2K20
+- NBA 2K
 - NBA 2K Playgrounds 2
 - Mario & Sonic aux JO
 - **Mario Tennis Aces**
 - Mutant Football League
 - OlliOlli Switch Stance
-- PGA Tour 2K21
+- PGA Tour 2K
 - **Rocket League**
 - **Super Mega Baseball 3**
 - What The Golf
@@ -789,7 +791,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Raji An Ancient Epic, Windbound, Captain Tsubasa, Jump Force Deluxe, The Last Campfire
+- Jeux sortis, en attente de test : 
 
 - Septembre : MX vs ATV All Out (1), Spellbreak (3), Lair of the Clockwork God (4), Avicii Invector (8), Party Hard 2 (8), Vampire the Masquerade Shadows of NY (10), Bounty Battle (10), Hotshot Racing (10), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
 - Octobre : Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), GI Joe Operation Blackout (13), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
