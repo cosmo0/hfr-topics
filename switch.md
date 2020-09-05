@@ -47,7 +47,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 20€ ou moins, en gras les free to play.
 
 - **Aventure/action** : Crossing Souls, Hyper Light Drifter, Minit, Omensight, Hob, Reverie, Songbringer, Blossom Tales, Anodyne, Jotun, Devil May Cry 1 & 2, Incredible Mandy, Creature in the Well, Moon Hunters, Immortal Planet, Ruiner
-- **Shooters, FPS, TPS** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Island Saver**, **Vigor**, **Rogue Company**, Doom 1/2/3, RICO, Immortal Redneck, Hypercharge Unboxed, Demon Pit, Duke Nukem 3D
+- **Shooters, FPS, TPS** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Island Saver**, **Vigor**, **Rogue Company**, **Spellbreak**, Doom 1/2/3, RICO, Immortal Redneck, Hypercharge Unboxed, Demon Pit, Duke Nukem 3D
 - **Action, beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Combat, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars
 - **Arcade** : Akane, Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, Pix the Cat
@@ -464,7 +464,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - 80 Days
 - **A Short Hike**
 - Abzu
-- **AI The Somnium Files**
 - Afterparty
 - Batman The Enemy Within
 - Best Friends Forever
@@ -487,8 +486,9 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - What Remains of Edith Finch
 - Worldend Syndrome
 
-## Aventure, point & click
+## Aventure, point & click, enquête
 
+- **AI The Somnium Files**
 - [Broken Age](https://www.cosmo0.fr/critique/broken-age/)
 - Creaks
 - Deponia
@@ -497,6 +497,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - In Other Waters
 - Les Chevaliers de Baphomet 5
 - **Night in the Wood**
+- Paradise Killer
 - **Phoenix Wright Ace Attorney Trilogy**
 - Secret Files
 - Shadowgate
@@ -791,24 +792,25 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : 
+- Jeux sortis, en attente de test : Atom, MX vs ATV All Out
 
-- Septembre : MX vs ATV All Out (1), Spellbreak (3), Lair of the Clockwork God (4), Avicii Invector (8), Party Hard 2 (8), Vampire the Masquerade Shadows of NY (10), Bounty Battle (10), Hotshot Racing (10), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), WWE 2K Battlegrounds (18), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?), Fuser (?)
-- Octobre : Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), GI Joe Operation Blackout (13), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
-- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17)
+- Septembre : Lair of the Clockwork God (4), Avicii Invector (8), Party Hard 2 (8), Vampire the Masquerade Shadows of NY (10), Othercide (10), Bounty Battle (10), Bake n Switch (10), Hotshot Racing (10), Inertial Drift (11), Fight Crab (15), Moero Crystal H (17), Super Mario 3D All Stars (18), WWE 2K Battlegrounds (18), Rebel Galaxy Outlaw (22), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?)
+- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), GI Joe Operation Blackout (13), Alpaca Ball (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
+- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19)
 - Décembre : Atelier Ryza 2 (3), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
 
-- Q2 2020/été : Bake n Switch, Rivals of Aether Definitive Edition, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse, Othercide
+- Q2 2020/été : Rivals of Aether Definitive Edition, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse
 - Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2, Oceanhorn 2, Demons Ate My Neighbors
-- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Taiko No Tatsujin Rhythmic Adventure Pack
+- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Taiko No Tatsujin Rhythmic Adventure Pack, Poker Club
 
-- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Ys Origin, Olija, Haven
+- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Olija, Haven
 
-- Février 2021 : Little Nightmares 2 (11)
+- Février 2021 : Little Nightmares 2 (11), Super Mario 3D World (12)
 
 - Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld, She Dreams Elsewhere, Big Rumble Boxing Creed Champion, Braid Anniversary, Onirike, Romance of the Three Kingdoms XIV, Wonder Boy Asha In Monster World, King's Bounty II, Warhammer Age Of Sigmar Storm Ground, Blood Bowl 3, Lego Star Wars The Skywalker Saga
+- Q2 2021/été : Ys IX Monstrum Nox
 
-- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Ys IX Monstrum Nox, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light
+- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light, Lord of The RIngs Gollum, Gamedec
 
 - Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story, Space Invaders Forever, Turrican Anthology
 
