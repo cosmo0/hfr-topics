@@ -22,9 +22,9 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle, réflexion** : Captain Toad Treasure Tracker, Puyo Puyo Tetris, Lumines Remastered, Tetris 99, Baba Is You, Return of the Obra Dinn
 - **Aventure, point & click** : The Garden Between, The Talos Principle, Phoenix Wright Ace Attorney Trilogy, Stories Untold
 - **Visual novel, walking simulator** : AI The Somnium Files, Firewatch, Steins;Gate Elite, Night in the Wood, Kentucky Route Zero
-- **Musique, rythme** : Cadence of Hyrule, Sayonara Wild Hearts, Thumper, Taiko No Tatsujin
+- **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva
 - **Multijoueur, party game** : Overcooked 2, TowerFall, Super Mario Party, The Stretchers, Heave Ho, 51 Worldwide Games
-- **Autre** : Untitled Goose Game, Animal Crossing New Horizons
+- **Autre** : Untitled Goose Game, Animal Crossing New Horizons, Sayonara Wild Hearts
 
 ## Jeux avec multijoueur local en écran splitté
 
@@ -71,10 +71,10 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land
 - **Sport** : Rocket League, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive
-- **Musique, rythme** : Old School Musical, Thumper, Wandersong, Sayonara Wild Hearts, Neon Drive, Floor Kids, Just Shapes & Beats
+- **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Casual, party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!
 - **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales, Frost, Faeria
-- **Autre** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Untitled Goose Game, Cattails
+- **Autre** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Untitled Goose Game, Cattails, Sayonara Wild Hearts
 - **Rétrogaming** : Nintendo Switch Online, Mega Man Legacy Collection, Capcom Beat'em Up Bundle, série SEGA AGES, série ACA NEOGEO, série Arcade Archives, série Johnny Turbo's Arcade, série Konami Collection
 
 ## Jeux adaptés aux enfants
@@ -698,7 +698,6 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **Hatsune Miku Project Diva**
 - **Hexagroove**
 - Old School Musical
-- **Sayonara Wild Hearts**
 - [Songbird Symphony](https://www.cosmo0.fr/critique/songbird-symphony/)
 - **Taiko No Tatsujin**
 - **Thumper**
@@ -779,6 +778,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - FUZE4
 - Nintendo Labo
 - Pinball FX3
+- **Sayonara Wild Hearts**
 - Zen Pinball
 
 ## Rétrogaming
