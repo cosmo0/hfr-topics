@@ -131,7 +131,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Hypercharge Unboxed
 - Immortal Redneck
 - Ion Fury
-- **Journey to the Savage Planet**
+- **[Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/)**
 - **Metro 2033, Last Light Redux**
 - Oddworld Stranger's Wrath
 - **Overwatch**
