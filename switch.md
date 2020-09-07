@@ -318,6 +318,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Steamworld Quest
 - The Alliance Alive HD
 - The Last Remnant
+- [Thea The Awakening](https://www.cosmo0.fr/critique/thea-the-awakening/)
 - Thronebreaker: The Witcher Tales
 - **Tokyo Mirage Sessions #FE Encore**
 - **Trials of Mana**
@@ -383,33 +384,35 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Super Kirby Clash
 - World of Tank Blitz
 
-## Stratégie, tactique, TRPG
+## T-RPG, S-RPG
 
-- Ancestors Legacy
-- Bad North
 - **Banner Saga Trilogy**
-- Battle World Kronos
 - Brigandine: The Legend of Runesia
 - Chroma Squad
 - **Disgaea** 1, 4, 5
-- Element
 - Fell Seal Arbiter's Mark
 - **Fire Emblem Three Houses**
 - God Wars
-- **Into the Breach**
 - Langrisser I & II Remaster
-- **Mario + Lapins Crétins**
 - Mercenaries Saga, [Mercenaries Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/)
+- SD Gundam G Generations Cross Rays (Japon)
+- Super Robot Wars T, V, X (Japon)
+- The Dark Crystal Age of Resistance Tactics
+- **Valkyria Chronicles 1 & 4**
+
+## Stratégie, tactique
+
+- Ancestors Legacy
+- Bad North
+- Battle World Kronos
+- Element
+- **Into the Breach**
+- **Mario + Lapins Crétins**
 - Mutant Year Zero Road to Eden
 - Northgard
 - Peaky Blinders
-- SD Gundam G Generations Cross Rays (Japon)
-- Super Robot Wars T, V, X (Japon)
 - Steamworld Heist
-- The Dark Crystal Age of Resistance Tactics
-- [Thea The Awakening](https://www.cosmo0.fr/critique/thea-the-awakening/)
 - Tiny Metal, Tiny Metal Full Metal Rumble
-- **Valkyria Chronicles 1 & 4**
 - **Wargroove**
 - Warhammer 40K Mechanicus
 - **XCOM 2**
@@ -465,7 +468,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Abzu
 - Afterparty
 - Batman The Enemy Within
-- Best Friends Forever
 - Clannad
 - Disaster Report 4
 - [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
