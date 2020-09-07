@@ -779,7 +779,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - FUZE4
 - Nintendo Labo
 - Pinball FX3
-- **Sayonara Wild Hearts**
+- **[Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)**
 - Zen Pinball
 
 ## Rétrogaming
