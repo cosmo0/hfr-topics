@@ -1,5 +1,7 @@
 # Les meilleurs jeux Switch
 
+Source de [la page correspondante de mon site](https://www.cosmo0.fr/les-meilleurs-jeux/les-meilleurs-jeux-switch/).
+
 Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
 
 ## Les classiques/indispensables
