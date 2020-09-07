@@ -112,8 +112,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Retro City Rampage / Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
-- Starlink: Battle for Atlas
-- Windbound
 - **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
 - **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
@@ -146,6 +144,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - [Sniper Elite 2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), 3
 - **Splatoon 2**
 - Star Wars Jedi Knight II, Jedi Academy
+- Starlink: Battle for Atlas
 - **Superhot**
 - Vigor (free to play)
 - Warface (free to play)
