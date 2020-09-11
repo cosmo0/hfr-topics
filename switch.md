@@ -24,7 +24,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle, réflexion** : Captain Toad Treasure Tracker, Puyo Puyo Tetris, Lumines Remastered, Tetris 99, Baba Is You, Return of the Obra Dinn
 - **Aventure, point & click** : The Garden Between, The Talos Principle, Phoenix Wright Ace Attorney Trilogy, Stories Untold
 - **Visual novel, walking simulator** : AI The Somnium Files, Firewatch, Steins;Gate Elite, Night in the Wood, Kentucky Route Zero
-- **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva
+- **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector
 - **Multijoueur, party game** : Overcooked 2, TowerFall, Super Mario Party, The Stretchers, Heave Ho, 51 Worldwide Games
 - **Autre** : Untitled Goose Game, Animal Crossing New Horizons, Sayonara Wild Hearts
 
@@ -57,7 +57,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Hack & slash** : Bastion, Torchlight 2
 - **Survival horror** : Darkwood, Detention, Layers of Fear, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4
 - **Plate-forme "pure"** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher
-- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate
+- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate, Lair of the Clockwork God
 - **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin
 - **Metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion
 - **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss
@@ -65,14 +65,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Stratégie, tactique, tower defense** : Bad North, Into the Breach, Kingdom Two Crowns, Steamworld Heist, Valkyria Chronicles, Tiny Metal, Police Stories, OTTTD Over The Top Tower Defense, Aegis Defenders, The Dark Crystal Age of Resistance Tactics, Kingdom Rush
 - **Gestion, farming** : Stardew Valley, Motorsport Manager, Constructor Plus, Thea The Awakening, New Star Manager, Graveyard Keeper, Townsmen, Forager, Curious Expedition
 - **RPG** : **Dauntless**, Darkest Dungeon, Severed, Transistor, Final Fantasy VII, Final Fantasy VIII, Monster Slayers, Doom & Destiny, Cat Quest 1 & 2, Shadows of Adam, Masquerada Songs And Shadows, Citizens of Space, The Last Remnant, Silk, Severed, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Pong Quest, Dex, Legends of Amberland
-- **Point & click, aventure** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, Joe Dever's Lone Wolf, My Memory of Us, Soldats Inconnus, Stories Untold, In Other Waters, Creaks
+- **Point & click, aventure** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, Joe Dever's Lone Wolf, My Memory of Us, Soldats Inconnus, Stories Untold, In Other Waters, Creaks, Paradise Killer
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
 - **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land
 - **Sport** : Rocket League, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
-- **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive
+- **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Casual, party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!
 - **Cartes, jeu de plateau** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Armello, Carcassonne, Thronebreaker: The Witcher Tales, Frost, Faeria
@@ -207,6 +207,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
 - **Inmost**
 - **Inside**
+- Lair of the Clockwork God
 - **Limbo**
 - Mighty Switch Force Collection
 - Planet Alpha
@@ -257,7 +258,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Iconoclasts
 - La-Mulana 1&2
 - **Monster Boy and the Cursed Kingdom**
-- Momodora Reverie Under The Moonlight
+- Momodora Reverie Under The Moonlight, Minoria
 - **Ori and the Blind Forest**
 - Salt & Sanctuary
 - Shantae & The Seven Sirens
@@ -484,7 +485,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Steins;Gate** Elite, 0, My Darling's Embrace
 - Telltale's The Walking Dead
 - The Vanishing of Ethan Carter
-- Vampire the Masquerade Coteries of New York
+- Vampire the Masquerade Coteries of New York, Shadows of New York
 - We.The Revolution
 - What Remains of Edith Finch
 - Worldend Syndrome
@@ -593,11 +594,11 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Burnout Paradise**
 - **Crash Team Racing**
 - [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/)
-- Gotcha Racing 2nd
 - **GRID Autosport**
 - GRIP
 - **[Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/)**
-- Mantis Burn Racing
+- **Hotshot Racing**
+- **Inertial Drift**
 - **Mario Kart 8 DX**
 - Monster Energy Supercross 3
 - Moto GP 20
@@ -605,7 +606,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Redout
 - Road Redemption
 - Rush Rally 3
-- Star Wars Episode I Racer
 - Team Sonic Racing
 - **Trials Rising**
 - TT Isle of Man 2
@@ -696,6 +696,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Musique, rythme
 
+- **Avicii Invector**
 - **Cadence of Hyrule**
 - Crypt of the Necrodancer
 - Gal Metal
@@ -796,26 +797,26 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Atom, MX vs ATV All Out
+- Jeux sortis, en attente de test : Atom, MX vs ATV All Out, Party Hard 2, Othercide, Bake n Switch
 
-- Septembre : Lair of the Clockwork God (4), Paradise Killer (4), NBA 2K21 (4), Avicii Invector (8), Party Hard 2 (8), Vampire the Masquerade Shadows of NY (10), Othercide (10), Bake n Switch (10), Hotshot Racing (10), Minoria (10), Inertial Drift (11), Bounty Battle (11), RPG Maker MV (11), Fight Crab (15), Moero Crystal H (17), Super Mario 3D All Stars (18), WWE 2K Battlegrounds (18), Rebel Galaxy Outlaw (22), Unrailed! (23), Going Under (24), Zengeon (25), Tennis World Tour 2 (?)
-- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), GI Joe Operation Blackout (13), Alpaca Ball (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
-- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19)
-- Décembre : Atelier Ryza 2 (3), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
+- Septembre : Fight Crab (15), Moero Crystal H (17), Super Mario 3D All Stars (18), WWE 2K Battlegrounds (18), Rebel Galaxy Outlaw (22), Unrailed! (23), Wartile, Going Under (24), Roller Coaster Tycoon 3 Complete (24), Zengeon (25)
+- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), The Survivalists (9), GI Joe Operation Blackout (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
+- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19), Hyrule Warriors Age of Calamity
+- Décembre : Chronos Before The Ashes (1), Shiren The Wanderer (2), Atelier Ryza 2 (3), Immortals Fenyx Rising (3), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
 
-- Q2 2020/été : Rivals of Aether Definitive Edition, PixelJunk Eden 2, Baldo, Blue Fire, Cyanide & Happines Freakpocalypse
+- Q2 2020/été : Rivals of Aether Definitive Edition, PixelJunk Eden 2, Blue Fire, Cyanide & Happines Freakpocalypse
 - Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Apex Legends, King of Seas, Hades, Torchlight 3, The Red Lantern, Grindstone, Gonner 2, Oceanhorn 2, Demons Ate My Neighbors
-- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Taiko No Tatsujin Rhythmic Adventure Pack, Poker Club
+- Q4 2020/hiver , Empire of Sin, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Taiko No Tatsujin Rhythmic Adventure Pack, Poker Club, Scott Pilgrim vs The World
 
-- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Circuit Superstars, No More Heroes 3, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, The Survivalists, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Olija, Haven
+- 2020 : Rune Factory 5, Olympic Games The Official Game, R-Type Final 2, Circuit Superstars, Space Invaders Invincible Collection, Digimon Survive, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Boyfriend Dungeon, Sail Forth, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Japanese Rail Sim, Toy Soldiers, Shiren The Wanderer 5, Hardcore Mecha, Astrodogs, Olija, Haven
 
 - Février 2021 : Little Nightmares 2 (11), Super Mario 3D World (12)
 
 - Q1 2021/printemps : Shin Megami Tensei III Nocturne Remaster, Balan Wonderworld, She Dreams Elsewhere, Big Rumble Boxing Creed Champion, Braid Anniversary, Onirike, Romance of the Three Kingdoms XIV, Wonder Boy Asha In Monster World, King's Bounty II, Warhammer Age Of Sigmar Storm Ground, Blood Bowl 3, Lego Star Wars The Skywalker Saga
 - Q2 2021/été : Ys IX Monstrum Nox
 
-- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light, Lord of The RIngs Gollum, Gamedec
+- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light, Lord of The RIngs Gollum, Gamedec, No More Heroes 3, Graven, Rise of the Triad, Pocky & Rocky
 
-- Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story, Space Invaders Forever, Turrican Anthology
+- Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story, Space Invaders Forever, Turrican Anthology, Baldo, Strife
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
