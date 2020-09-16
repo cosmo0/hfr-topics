@@ -801,7 +801,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 - Septembre : Fight Crab (15), Moero Crystal H (17), Super Mario 3D All Stars (18), WWE 2K Battlegrounds (18), Rebel Galaxy Outlaw (22), Unrailed! (23), Wartile, Going Under (24), Roller Coaster Tycoon 3 Complete (24), Zengeon (25)
 - Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), The Survivalists (9), GI Joe Operation Blackout (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
-- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19), Hyrule Warriors Age of Calamity
+- Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19), Hyrule Warriors Age of Calamity (20)
 - Décembre : Chronos Before The Ashes (1), Shiren The Wanderer (2), Atelier Ryza 2 (3), Immortals Fenyx Rising (3), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
 
 - Q2 2020/été : Rivals of Aether Definitive Edition, PixelJunk Eden 2, Blue Fire, Cyanide & Happines Freakpocalypse
