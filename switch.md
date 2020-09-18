@@ -157,6 +157,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Horreur, suspense, survival
 
 - **Alien Isolation**
+- Call of Cthulhu
 - Darkwood
 - Detention
 - Five Nights At Freddy's 1, 2, 3, 4
@@ -169,6 +170,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Resident Evil** 0, 1, 4, 5, 6, Revelations
 - The Amnesia Collection
 - The Coma
+- The Sinking City
 - Yomawari: The Long Night Compilation
 
 ## Plate-forme
