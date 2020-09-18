@@ -9,24 +9,34 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Aventure/action** : Zelda Breath of the Wild, Zelda Link's Awakening, Dark Souls, Astral Chain, Luigi's Mansion 3
 - **Shooters, FPS, TPS** : Doom, Fortnite, Wolfenstein II, Splatoon 2, Overwatch, Metro Redux, Bioshock, Borderlands, Warframe
 - **Survival horror** : Resident Evil 0 à 6, Alien Isolation, Outlast 1 & 2
-- **Plate-forme "pure"** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Celeste, Donkey Kong Country Tropical Freeze, Super Mario Maker 2, Rayman Legends
+- **Plate-forme** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Celeste, Donkey Kong Country Tropical Freeze, Super Mario Maker 2, Rayman Legends
+- **Plate-forme/puzzle** : Gris, Inmost, Limbo, Inside, Trine, Boxboy+Boxgirl
 - **Plate-forme/action** : Shovel Knight, Cuphead, Mark of the Ninja, Katana Zero
 - **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1 & 2, Yoku's Island Express, Ori and the Blind Forest, The Messenger, Blasphemous
-- **Hack & Slash, musou** : Diablo 3, Torchlight 2, Hyrule Warriors, Dynasty Warriors 8, Minecraft Dungeon
-- **Beat'em Up** : Bayonetta 1 & 2, Streets of Rage 4, The Wonderful 101
 - **Roguelikes** : Dead Cells, Rogue Legacy, The Binding of Isaac, Nuclear Throne
-- **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Valkyria Chronicles 4, Fire Emblem Three Houses, Wargroove, Disgaea 1/4/5, XCOM 2
+- **RPG/Action** : Xenoblade Chronicles 1 & 2, The Witcher 3, Skyrim, Monster Hunter Generations Ultimate
+- **RPG tour par tour** : Pokémon Let's Go/Epée/Bouclier, Final Fantasy 7/8/9/10/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, Atelier Ryza
+- **Hack & Slash, musou** : Diablo 3, Torchlight 2, Hyrule Warriors, Dynasty Warriors 8, Minecraft Dungeon
+- **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
+- **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2
 - **Gestion** : Civilization 6, Two Point Hospital, Spiritfarer
 - **Construction, crafting, farming** : Stardew Valley, Dragon Quest Builders 1 & 2, Minecraft, Terraria, Rune Factory 4 Special
-- **Course** : Mario Kart 8, GRID Autosport, Crash Team Racing, Horizon Chase Turbo, Trials Rising, Burnout Paradise
-- **RPG** : Xenoblade Chronicles 1 & 2, Pokémon Let's Go/Epée/Bouclier, Final Fantasy 7/8/9/10/12, Divinity Original Sin 2, Dragon Quest XI S, The Witcher 3
-- **Baston, brawler, beat'em up** : Arms, Dragon Ball FighterZ, Super Smash Bros Ultimate, Mortal Kombat 11, Samurai Shodown, Streets of Rage 4
-- **Puzzle, réflexion** : Captain Toad Treasure Tracker, Puyo Puyo Tetris, Lumines Remastered, Tetris 99, Baba Is You, Return of the Obra Dinn
-- **Aventure, point & click** : The Garden Between, The Talos Principle, Phoenix Wright Ace Attorney Trilogy, Stories Untold
 - **Visual novel, walking simulator** : AI The Somnium Files, Firewatch, Steins;Gate Elite, Night in the Wood, Kentucky Route Zero
+- **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy
+- **Aventure/puzzle** : The Garden Between, The Talos Principle, Catherine Full Body, Return of the Obra Dinn, Untitled Goose Game
+- **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S/S2/S3/S4, realMyst
+- **Puzzle/action** : Puyo Puyo Tetris, Lumines Remastered, Tetris 99, Mr Driller Drill Land
+- **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
+- **Course** : Mario Kart 8, GRID Autosport, Crash Team Racing, Trials Rising, Burnout Paradise, Horizon Chase Turbo, Hotshot Racing
+- **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11
+- **Beat'em Up** : Bayonetta 1 & 2, Streets of Rage 4, The Wonderful 101, Streets of Rage 4
+- **Shmups, twin stick shooters** : Ikaruga, Blazing Star, Assault Android Cactus, Danmaku Unlimited 3, Super Hydorah
 - **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector
-- **Multijoueur, party game** : Overcooked 2, TowerFall, Super Mario Party, The Stretchers, Heave Ho, 51 Worldwide Games
-- **Autre** : Untitled Goose Game, Animal Crossing New Horizons, Sayonara Wild Hearts
+- **Multijoueur, party game** : Overcooked 2, TowerFall, Super Mario Party, The Stretchers, Heave Ho
+- **Casual, fitness** : Dr Kawashima, Ring Fit Adventure
+- **Jeux de cartes** : Eternal, Faeria
+- **Jeux de société** : 51 Worldwide Games
+- **Autre** : Animal Crossing New Horizons, Sayonara Wild Hearts
 
 ## Jeux avec multijoueur local en écran splitté
 
@@ -265,6 +275,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - Salt & Sanctuary
 - Shantae & The Seven Sirens
 - Shinsenkai Into the Depth
+- Sparklite
 - **Steamworld Dig** [1](https://www.cosmo0.fr/critique/critique-express/steamworld-dig/), [2](https://www.cosmo0.fr/critique/steamworld-dig-2/)
 - Sundered
 - Timespinner
@@ -273,11 +284,39 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **[Wonder Boy The Dragon's Trap](https://www.cosmo0.fr/critique/wonder-boy-the-dragons-trap/)**
 - **[Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)**
 
+## Roguelikes, permadeath, génération procédurale
+
+- Ape Out
+- Atomicrops
+- Children of Morta
+- Crawl
+- **Dead Cells**
+- **Enter the Gungeon**
+- Everspace
+- Exit the Gungeon
+- For The King
+- [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
+- Neon Abyss
+- **Nuclear Throne**
+- One Step From Eden
+- Out There Omega
+- Overland
+- **Risk of Rain** 1, 2
+- **Rogue Legacy**
+- **Slay The Spire**
+- Streets of Rogue
+- Sunless Sea
+- Tangledeep
+- **The Binding of Isaac**
+- The Swords of Ditto
+- Void Bastards
+- Void Terrarium
+
 ## RPG/action
 
 - CrossCode
 - **Dauntless**
-- Dragon's Dogma: Dark Arisen
+- **Dragon's Dogma: Dark Arisen**
 - **Final Fantasy XII, XV Pocket**
 - **Monster Hunter Generations Ultimate**
 - Ni No Kuni Wrath of the White Witch
@@ -330,36 +369,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - Wasteland 2
 - World of Final Fantasy
-
-## Roguelikes, génération procédurale
-
-- Ape Out
-- Atomicrops
-- Children of Morta
-- Crawl
-- **Dead Cells**
-- Enter the Gungeon
-- Everspace
-- Exit the Gungeon
-- For The King
-- [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
-- Neon Abyss
-- **Nuclear Throne**
-- One Step From Eden
-- Out There Omega
-- Overland
-- Plunge
-- **Risk of Rain** 1, 2
-- **Rogue Legacy**
-- **Slay The Spire**
-- Sparklite
-- Streets of Rogue
-- Sunless Sea
-- Tangledeep
-- **The Binding of Isaac**
-- The Swords of Ditto
-- Void Bastards
-- Void Terrarium
 
 ## Hack & slash, musou
 
@@ -434,7 +443,6 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Gestion
 
-- **Animal Crossing New Horizons**
 - Big Pharma
 - [Cities Skyline](https://www.cosmo0.fr/critique/cities-skylines/)
 - **Civilization 6**
@@ -780,6 +788,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Autres/inclassables
 
+- **Animal Crossing New Horizons**
 - Demon's Tilt
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
