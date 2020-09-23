@@ -204,7 +204,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Spyro Reignited Trilogy
 - **Super Mario 3D All Stars**
 - **Super Mario Maker 2**
-- **Super Mario Odyssey**
+- **[Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)**
 - Vectronom
 - Yooka-Laylee
 - **Yooka Laylee & the Impossible Lair**
@@ -388,7 +388,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Dynasty Warriors 8**
 - Fate/Extella Link
 - Fire Emblem Warriors
-- **Hyrule Warriors**
+- **[Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/)**
 - [Marvel Ultimate Alliance 3](https://www.cosmo0.fr/critique/marvel-ultimate-alliance-3/)
 - **Minecraft Dungeon**
 - One Piece Pirate Warriors 3, 4
@@ -507,7 +507,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - The Vanishing of Ethan Carter
 - Vampire the Masquerade Coteries of New York, Shadows of New York
 - We.The Revolution
-- What Remains of Edith Finch
+- [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/)
 - Worldend Syndrome
 
 ## Aventure, point & click, enquête
@@ -752,10 +752,10 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Ultimate Chicken Horse
 - Worms WMD
 
-## Casual
+## Casual, fitness
 
 - Fitness Boxing
-- Go Vacation
+- **Go Vacation**
 - **Programme d'Entraînement Cérébral du Dr Kawashima**
 - **Ring Fit Adventure**
 - Sports Party
