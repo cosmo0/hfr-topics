@@ -68,11 +68,11 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest
 - **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition
 - **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex
-- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf
+- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG
 - **Hack & slash, musou** : Bastion, Torchlight 2
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
 - **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines
-- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories
+- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1 & 2
 - **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, Forager
@@ -607,7 +607,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Super Mega Baseball 3**
 - What The Golf
 - **Windjammers**
-- WWE 2K Battlegrounds
 
 ## Course
 
@@ -822,7 +821,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Atom RPG, MX vs ATV All Out, Party Hard 2, Air Missions HIND
+- Jeux sortis, en attente de test : MX vs ATV All Out, Air Missions HIND
 
 - Septembre : Rebel Galaxy Outlaw (22), Unrailed! (23), Wartile (24), Going Under (24), Roller Coaster Tycoon 3 Complete (24), Alwa's Legacy (29), MindSeize (?)
 - Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), The Survivalists (9), GI Joe Operation Blackout (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
