@@ -7,7 +7,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Les classiques/indispensables
 
 - **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
-- **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016, Fortnite, Wolfenstein II, Splatoon 2, Overwatch, Metro Redux, Bioshock, Borderlands, Warframe
+- **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016, Wolfenstein II, Metro Redux, Bioshock, Borderlands
+- **Shooters multijoueur** : Fortnite, Splatoon 2, Overwatch, Warframe
 - **Survival horror** : Resident Evil 0 à 6, Alien Isolation, Outlast 1 & 2
 - **Plate-forme** : [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/), Super Mario 3D All Stars, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Super Mario Maker 2, [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/)
 - **Plate-forme/puzzle** : [Gris](https://www.cosmo0.fr/critique/gris/), Inmost, Limbo, Inside, Trine, Boxboy+Boxgirl
@@ -60,13 +61,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 - **Aventure/action** : Crossing Souls, Hyper Light Drifter, Minit, Omensight, Hob, Reverie, Songbringer, Blossom Tales, Anodyne, Jotun, Devil May Cry 1 & 2, Incredible Mandy, Creature in the Well, Moon Hunters, Immortal Planet, Ruiner
-- **Shooters, FPS, TPS** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Island Saver**, **Vigor**, **Rogue Company**, **Spellbreak**, Doom 1/2/3, RICO, Immortal Redneck, Hypercharge Unboxed, Demon Pit, Duke Nukem 3D
+- **Shooters, FPS, TPS** : **Island Saver**, Doom 1/2/3/64, RICO, Immortal Redneck,  Demon Pit, Duke Nukem 3D, Call of Juarez Gunslinger, Project Warlock, Star Wars Jedi Knight 2/Academy
+- **Shooters multijoueur** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Vigor**, **Rogue Company**, **Spellbreak**, Hypercharge Unboxed
 - **Horreur, suspense, survival** : Darkwood, Detention, Layers of Fear, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4
-- **Plate-forme** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher, MO:Astray
+- **Plate-forme** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher, MO:Astray, Deleveled
 - **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate, Lair of the Clockwork God
 - **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin
 - **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest
-- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition
+- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under
 - **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex
 - **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG
 - **Hack & slash, musou** : Bastion, Torchlight 2
@@ -76,14 +78,14 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, Forager
-- **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike
+- **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike, Embracelet
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
 - **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, Untitled Goose Game
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land
-- **Sport** : Rocket League, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
-- **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift
+- **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
+- **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift, Star Wars Racer
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars, Fight Crab
 - **Beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Shmup, twin stick shooters** : **Galak-Z**, Ikaruga, I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, Danmaku Unlimited 3, Devil Engine, Graceful Explosions Machine, Steredenn, Super Star Path, Grand Brix Shooter, Horizon Shift 81, Space Pioneer, Jet Lancer
@@ -92,7 +94,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!
 - **Jeu de cartes** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Thronebreaker: The Witcher Tales, Frost, Faeria
 - **Jeu de société, jeu de plateau** : Armello, Carcassonne
-- **Autre, inclassables** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Cattails, Sayonara Wild Hearts
+- **Autre, inclassables** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Cattails, Sayonara Wild Hearts, Death and Taxes
 - **Rétrogaming** : Nintendo Switch Online, Mega Man Legacy Collection, Capcom Beat'em Up Bundle, série SEGA AGES, série ACA NEOGEO, série Arcade Archives, série Johnny Turbo's Arcade, série Konami Collection
 
 ## Jeux adaptés aux enfants
@@ -144,32 +146,34 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Crysis Remaster
 - **Doom** [1993](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016
 - Duke Nukem 3D
-- **Fortnite** (free to play)
-- Hypercharge Unboxed
-- Immortal Redneck
 - Ion Fury
 - **[Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/)**
 - **Metro 2033, Last Light Redux**
 - Oddworld Stranger's Wrath
-- **Overwatch**
-- Paladins (free to play)
-- Payday 2
-- Project Warlock
-- Realm Royale (free to play)
+- Rebel Galaxy Outlaw
 - Red Faction Guerilla
-- RICO
-- Rogue Company (free to play)
 - Saints Row The Third, IV Re-Elected
-- [Sniper Elite 2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), 3
-- **Splatoon 2**
+- Sniper Elite [2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), 3
 - Star Wars Jedi Knight II, Jedi Academy
 - Starlink: Battle for Atlas
 - **Superhot**
+- **Wolfenstein II**, Youngblood
+- Zombie Army Trilogy
+
+## Shooters multijoueur
+
+- **Fortnite** (free to play)
+- Hypercharge Unboxed
+- **Overwatch**
+- Paladins (free to play)
+- Payday 2
+- Realm Royale (free to play)
+- Rogue Company (free to play)
+- Spellbreak (free to play)
+- **Splatoon 2**
 - Vigor (free to play)
 - Warface (free to play)
 - **Warframe** (free to play)
-- **Wolfenstein II**, Youngblood
-- Zombie Army Trilogy
 
 ## Horreur, suspense, survival
 
@@ -304,6 +308,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Everspace
 - Exit the Gungeon
 - For The King
+- Going Under
 - **Hades**
 - [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Neon Abyss
@@ -406,7 +411,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Onigiri
 - Smite
 - Super Kirby Clash
-- World of Tank Blitz
+- World of Tanks Blitz
 
 ## T-RPG, S-RPG
 
@@ -464,6 +469,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Prison Architect
 - Project Highrise
 - Railway Empire
+- Roller Coaster Tycoon 3
 - The Shrouded Isle
 - **Two Point Hospital**
 
@@ -603,7 +609,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Mutant Football League
 - OlliOlli Switch Stance
 - PGA Tour 2K
-- **Rocket League**
+- **Rocket League** (free to play)
 - **Super Mega Baseball 3**
 - What The Golf
 - **Windjammers**
@@ -821,25 +827,25 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : MX vs ATV All Out, Air Missions HIND
+- Jeux sortis, en attente de test : MX vs ATV All Out, Air Missions HIND, Unrailed!
 
-- Septembre : Rebel Galaxy Outlaw (22), Unrailed! (23), Wartile (24), Going Under (24), Roller Coaster Tycoon 3 Complete (24), Alwa's Legacy (29), MindSeize (?)
-- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), The Survivalists (9), GI Joe Operation Blackout (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
+- Septembre : Alwa's Legacy (29), MindSeize (?)
+- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), Falcon Age (8), The Survivalists (9), GI Joe Operation Blackout (13), Remothered Broken Porcelain (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), Crown Trick (16), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Ghostrunner (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
 - Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19), Hyrule Warriors Age of Calamity (20), Taiko No Tatsujin Rhythmic Adventure Pack (26)
-- Décembre : Chronos Before The Ashes (1), Empire of Sin (1) Shiren The Wanderer (2), Atelier Ryza 2 (3), Immortals Fenyx Rising (3), Fitness Boxing 2 (4), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15)
+- Décembre : Chronos Before The Ashes (1), Empire of Sin (1) Shiren The Wanderer (2), Atelier Ryza 2 (3), Immortals Fenyx Rising (3), Fitness Boxing 2 (4), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15), Football Manager 2021 (?)
 
 - Q3 2020/automne : Axiom Verge 2, Shovel Knight Pocket Dungeon, Cyber Shadow, Apex Legends, King of Seas, Torchlight 3, The Red Lantern, Grindstone, Gonner 2, Oceanhorn 2, Demons Ate My Neighbors, Potion Permit
 - Q4 2020/hiver : Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Poker Club, Scott Pilgrim vs The World, Sniper Elite 4
 
-- 2020 : Olympic Games The Official Game, R-Type Final 2, Circuit Superstars, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Sail Forth, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Clockwork Aquario, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Toy Soldiers, Hardcore Mecha, Astrodogs, Olija, Haven, Ever Forward
+- 2020 : Olympic Games The Official Game, Circuit Superstars, Eastward, Skater XL, Port Royale 4, Heaven's Vault, Auto Chess, Doom Eternal, Sunless Skies, Pillars of Eternity 2, Sail Forth, Bravely Default 2, Maneater, Genshin Impact, Kingpin Reloaded, The Good Life, I Am Dead, Dicey Dungeons, Blade Runner, Cannibal Holocaust, Door Kickers, Real Boxing 2, Godfire Rise of Prometheus, Metal Slug, Fae Tactics, Commando 2 HD, Littlewood, Dreamscaper, Descenders, Ghost of a Tale, Wingspan, Disco Elysium, Toy Soldiers, Hardcore Mecha, Astrodogs, Olija, Haven, Ever Forward, Wartile
 
 - Février 2021 : Little Nightmares 2 (11), Super Mario 3D World (12)
 - Mars 2021 : Harvest Moon One World (5), Monster Hunter Rise (26), Balan Wonderworld (26)
 
-- Q1 2021/printemps : Shin Megami Tensei III Nocturne, She Dreams Elsewhere, Big Rumble Boxing Creed Champion, Braid Anniversary, Onirike, Romance of the Three Kingdoms XIV, Wonder Boy Asha In Monster World, King's Bounty II, Warhammer Age Of Sigmar Storm Ground, Blood Bowl 3, Lego Star Wars The Skywalker Saga
+- Q1 2021/printemps : Shin Megami Tensei III Nocturne, She Dreams Elsewhere, Big Rumble Boxing Creed Champion, Braid Anniversary, Onirike, Romance of the Three Kingdoms XIV, Wonder Boy Asha In Monster World, King's Bounty II, Warhammer Age Of Sigmar Storm Ground, Blood Bowl 3, Lego Star Wars The Skywalker Saga, R-Type Final 2, Earth Defense Force World Brothers
 - Q2 2021/été : Ys IX Monstrum Nox, Monster Hunter Stories 2, Disgaea 6
 
-- 2021 : Legend of Heroes Trails of Cold Steel 4, Inazuma Eleven Heroe's Great Road, Skatebird, Startopia, Lost In Random, Earth Defense Force World Brothers, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light, Lord of The RIngs Gollum, Gamedec, No More Heroes 3, Graven, Rise of the Triad, Pocky & Rocky, Rune Factory 5, Hatch Tales, Kitaria Fables, Boyfriend Dungeon, Zengeon
+- 2021 : Legend of Heroes Trails of Cold Steel 4, Skatebird, Startopia, Lost In Random, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Sky Children of the Light, Lord of The RIngs Gollum, Gamedec, No More Heroes 3, Graven, Rise of the Triad, Pocky & Rocky, Rune Factory 5, Hatch Tales, Kitaria Fables, Boyfriend Dungeon, Zengeon, Clockwork Aquario
 
 - Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Windjammers 2, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, RPG Maker MV, Ultra Bugs, Robo Kitchen Simulator, Super Meat Boy Forever, Samurai Gunn 2, Conan Chop Chop, TemTem, Roller Champions, Tropico 6, Rogue Legacy 2, World War Z, Alex Kidd in Miracle World DX, New Pokémon Snap, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story, Space Invaders Forever, Turrican Anthology, Baldo, Strife, Picontier, Pure Pool, Rivals of Aether Definitive Edition, PixelJunk Eden 2, Blue Fire, Cyanide & Happines Freakpocalypse, Digimon Survive
 
