@@ -20,7 +20,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Hack & Slash, musou** : Diablo 3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Dynasty Warriors 8, Minecraft Dungeon
 - **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2
-- **Gestion** : Civilization 6, Two Point Hospital, Football Manager
+- **Gestion** : Civilization 6, Two Point Hospital, Football Manager, RollerCoaster Tycoon 3
 - **Construction, crafting, farming** : Stardew Valley, Dragon Quest Builders 1 & 2, Minecraft, Terraria, Rune Factory 4 Special
 - **Visual novel, walking simulator** : Firewatch, Steins;Gate Elite, Kentucky Route Zero, A Short Hike
 - **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, Night in the Wood
@@ -469,7 +469,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Prison Architect
 - Project Highrise
 - Railway Empire
-- Roller Coaster Tycoon 3
+- **Roller Coaster Tycoon 3**
 - The Shrouded Isle
 - **Two Point Hospital**
 
