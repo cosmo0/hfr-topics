@@ -830,7 +830,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Jeux sortis, en attente de test : MX vs ATV All Out, Air Missions HIND, Unrailed!
 
 - Septembre : Alwa's Legacy (29), MindSeize (?)
-- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), Falcon Age (8), The Survivalists (9), GI Joe Operation Blackout (13), Remothered Broken Porcelain (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), Crown Trick (16), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Ghostrunner (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
+- Octobre : Super Mario Bros 35 (1), Ys Origin (1), Let's Sing Queen (2), The Watchmaker (8), Game Dev Tycoon (8), Falcon Age (8), I Am Dead (8), The Survivalists (9), GI Joe Operation Blackout (13), Remothered Broken Porcelain (13), Alpaca Ball (15), Tennis World Tour 2 (15), Cloudpunk (15), Crown Trick (16), 9 Monkeys of Shaolin (16), Transformers Battlegrounds (23), Cobra Kai Karate Kid Saga (27), Carto (27), Ghostrunner (27), Finc Home Fit (29 JP), Pikmin 3 Deluxe (30), Dusk (31), Oddworld New n Tasty (?)
 - Novembre : Jurassic World Evolution (3), XIII (10), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Prinny 1-2 (12), Kingdom Hearts Melody of Memory (13), Cris Tales (17), Fuser (19), Hyrule Warriors Age of Calamity (20), Taiko No Tatsujin Rhythmic Adventure Pack (26)
 - Décembre : Chronos Before The Ashes (1), Empire of Sin (1) Shiren The Wanderer (2), Atelier Ryza 2 (3), Immortals Fenyx Rising (3), Fitness Boxing 2 (4), Puyo Puyo Tetris 2 (8), Collection of SaGa Final Fantasy Legend (15), Football Manager 2021 (?)
 
