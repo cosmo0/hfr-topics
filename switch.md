@@ -132,7 +132,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Retro City Rampage / Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
-- The Long Dark
 - **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
 - **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
@@ -175,7 +174,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Warface (free to play)
 - **Warframe** (free to play)
 
-## Horreur, suspense, survival
+## Horreur, suspense, survival horror
 
 - **Alien Isolation**
 - Call of Cthulhu
@@ -473,7 +472,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - The Shrouded Isle
 - **Two Point Hospital**
 
-## Construction, crafting, farming
+## Construction, crafting, farming, survie
 
 - Don't Starve
 - Doraemon Story of Seasons
@@ -487,7 +486,8 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Rune Factory 4 Special**
 - **Stardew Valley**
 - **Terraria**
-- This War of Mine
+- **The Long Dark**
+- **This War of Mine**
 
 ## Walking simulator, visual novel, histoires interactives
 
