@@ -23,7 +23,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Gestion** : Civilization 6, Two Point Hospital, Football Manager, RollerCoaster Tycoon 3
 - **Construction, crafting, farming** : Stardew Valley, Dragon Quest Builders 1 & 2, Minecraft, Terraria, Rune Factory 4 Special
 - **Visual novel, walking simulator** : Firewatch, Steins;Gate Elite, Kentucky Route Zero, A Short Hike
-- **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, Night in the Wood
+- **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, Night in the Wood, Paradise Killer
 - **Aventure/puzzle** : [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), The Talos Principle, Catherine Full Body, Return of the Obra Dinn, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S/S2/S3/S4, realMyst
 - **Puzzle/action** : [Puyo Puyo Tetris](https://www.cosmo0.fr/critique/puyo-puyo-tetris/), Lumines Remastered, Tetris 99, Mr Driller Drill Land
