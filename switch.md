@@ -698,6 +698,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **[Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/)**
 - I Hate Running Backwards
 - Jamestown+
+- [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/)
 - Panzer Dragoon
 - Psyvariar Delta
 - **R-Type Dimensions EX**
