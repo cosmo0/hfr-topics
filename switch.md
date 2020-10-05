@@ -152,7 +152,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Rebel Galaxy Outlaw
 - Red Faction Guerilla
 - Saints Row The Third, IV Re-Elected
-- Sniper Elite [2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), 3
+- Sniper Elite [2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), [3](https://www.cosmo0.fr/critique/sniper-elite-3/)
 - Star Wars Jedi Knight II, Jedi Academy
 - Starlink: Battle for Atlas
 - **Superhot**
