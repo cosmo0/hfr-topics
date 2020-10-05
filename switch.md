@@ -86,7 +86,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land, Unrailed!
 - **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift, Star Wars Racer
-- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars, Fight Crab
+- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2
 - **Beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Shmup, twin stick shooters** : **Galak-Z**, Ikaruga, I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, Danmaku Unlimited 3, Devil Engine, Graceful Explosions Machine, Steredenn, Super Star Path, Grand Brix Shooter, Horizon Shift 81, Space Pioneer, Jet Lancer
 - **Arcade, high score** : Akane, Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, Pix the Cat
@@ -650,6 +650,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Dragon Ball Xenoverse 2
 - **Fantasy Strike**
 - Fight Crab
+- Kirby Fighters 2
 - **Lethal League Blaze**
 - **Mortal Kombat 11**
 - Naruto Ultimate Ninja Storm 1, 2, 3, 4
