@@ -771,6 +771,29 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **Ring Fit Adventure**
 - Sports Party
 
+## Jeux relaxants, reposants, non-violents
+
+Certains jeux apparaissant ici sont aussi dans d'autres catégories. Jetez aussi un oeil aux walking simulator, puzzle game, casual games, et jeux de farming.
+
+- A Short Hike
+- Animal Crossing
+- Art of Balance
+- Doraemon Story of Seasons
+- Farm Together
+- Everything
+- Giraffe And Annika
+- Gris
+- Later Daters
+- Little Dragons Café
+- Pode
+- Spiritfarer
+- Stranded Sails
+- Summer In Mara
+- The Last Campfire
+- Untitled Goose Game
+- Yonder The Cloud Catcher Chronicles
+- Yono The Elephant
+
 ## Jeux de cartes
 
 - Dragon Ball Heroes
