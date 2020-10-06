@@ -73,7 +73,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG
 - **Hack & slash, musou** : Bastion, Torchlight 2
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
-- **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines
+- **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines, Wintermoor Tactics Club
 - **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1 & 2
 - **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen
@@ -429,6 +429,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Super Robot Wars T, V, X (Japon)
 - The Dark Crystal Age of Resistance Tactics
 - **Valkyria Chronicles 1 & 4**
+- Wintermoor Tactics Club
 
 ## Stratégie, tactique
 
