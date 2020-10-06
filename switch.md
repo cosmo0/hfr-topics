@@ -518,6 +518,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - We.The Revolution
 - [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/)
 - Worldend Syndrome
+- Yu-No: A Girl Who Chants Love At The Bound Of This World
 
 ## Aventure, point & click, enquête
 
@@ -774,26 +775,26 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Jeux relaxants, reposants, non-violents
 
-Certains jeux apparaissant ici sont aussi dans d'autres catégories. Jetez aussi un oeil aux walking simulator, puzzle game, casual games, et jeux de farming.
+Les jeux qui détendent, sans stress, souvent sans difficulté voire sans possibilité de perdre, parfois même sans objectif précis.  
+Certains jeux apparaissant ici sont aussi dans d'autres catégories. Jetez aussi un oeil aux walking simulator, visual novels, puzzle game, casual games, jeux de farming...
 
-- A Short Hike
-- Animal Crossing
+- **A Short Hike**
+- AER Memories of Old
+- **Animal Crossing**
 - Art of Balance
-- Doraemon Story of Seasons
-- Farm Together
+- **Doraemon Story of Seasons**
+- **Farm Together**
 - Everything
-- Giraffe And Annika
-- Gris
-- Later Daters
+- Kirby Star Allies
 - Little Dragons Café
-- Pode
-- Spiritfarer
+- Quench
+- **Spiritfarer**
 - Stranded Sails
 - Summer In Mara
 - The Last Campfire
-- Untitled Goose Game
+- **Untitled Goose Game**
 - Yonder The Cloud Catcher Chronicles
-- Yono The Elephant
+- Yono And The Celestial Elephant
 
 ## Jeux de cartes
 
