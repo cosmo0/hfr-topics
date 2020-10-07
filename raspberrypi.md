@@ -45,6 +45,11 @@ Une distribution est un sytème "tout en un" à installer sur la machine : on co
 Chacune a ses avantages et ses inconvénients.
 
 
+[b]Quelle distribution pour mon usage ?[/b]
+- Si vous voulez "juste jouer" : Recalbox, mais Batocera monte en puissance sur le créneau
+- Si vous aimez aussi bricoler et personnaliser : Retropie
+
+
 [b]Recalbox[/b]
 
 Avantages : simple à installer et configurer, grosse communauté francophone
@@ -133,6 +138,15 @@ Récompense que l'on obtient après avoir effectué certaines actions dans un je
 
 [fixed]Les autres topics[/fixed]
 
+
+[b]Emulation généraliste[/b]
+https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=194637&page=1
+
+[b]Rétrogaming hardware (machines à émulateurs)[/b]
+https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=200583&page=1
+
+[b]Rétrogaming hardware (machines d'origine)[/b]
+https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=203242&page=1
 
 [b]Topic bricolo de WizardPC et son Atari 7800:[/b]
 http://forum.hardware.fr/hfr/OverclockingCoolingModding/Modding/worklog-retrogaming-atari-sujet_285552_1.htm
