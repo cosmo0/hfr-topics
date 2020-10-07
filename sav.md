@@ -69,6 +69,7 @@ Que Choisir : https://www.quechoisir.org/
 - https://www.fnac.com/Service/default.aspx
 - 09 69 32 43 34 (gratuit)
 - 0892 35 04 05 (0.40ct/mn)
+- 01 55 21 28 29 (réservé clients One)
 - https://twitter.com/FnacVousAide
 - adhesion@fnac.com pour vos problèmes de chèques cadeaux
 
@@ -90,7 +91,7 @@ https://www.fnac.com/choisir-carte
 
 [*]La carte Fnac One :
 - gratuite, délivrée automatiquement aux gros clients : 18 commandes ou 2000€ d'achat ; certains disent qu'en demandant gentiment on peut basculer dessus
-- livraison gratuite à domicile
+- livraison gratuite à domicile sans minimum d'achat
 - SAV dédié gratuit
 
 
@@ -102,19 +103,19 @@ Ce n'est donc pas une réduction immédiate, mais si vous achetez régulièremen
 
 [b]Questions fréquentes, tips & tricks[/b]
 
-CC = [u]chèque[/u] cadeau, un équivalent virtuel du bon papier que vous donnez à la caisse, avec un montant marqué dessus et une date d'expiration.
-C'est ce que vous obtenez quand vous passez une précommande avec "X€ offerts".
-C'est techniquement différent de la [u]carte[/u] cadeau, qui sert de moyen de paiement.
+CC = [u]chèque[/u] cadeau, un équivalent virtuel du bon papier que vous donnez à la caisse, avec un montant marqué dessus et une date d'expiration. C'est ce que vous obtenez quand vous passez une précommande avec "X€ offerts".
+C'est techniquement différent de la [u]carte[/u] cadeau, qui sert de moyen de paiement, et que vous pouvez acheter en magasin.
 
-[*]Vous n'avez pas besoin d'avoir une carte "Fnac+" pour avoir un compte chèque cadeaux.
-[*]Si vous précommandez, et que le prix baisse entre-temps, c'est bien le prix le plus bas que vous règlerez au final.
-[*]Les CC sont crédités sur le compte uniquement lors de l'expédition du dernier article de la commande, pas avant. Préférez donc faire plusieurs commandes avec des dates de sortie rapprochées, si possible.
-[*]Vous pouvez créditer une [u]carte[/u] cadeau sur votre compte : dans votre compte > mes commandes > en haut, onglet "chèques cadeau" > en bas, onglet "carte cadeau". Attention, cela ne modifie pas sa date de validité.
-[*]Si vous annulez une commande qui doit vous donner des CC, vous ne les aurez évidemment pas. Si vous annulez certains articles dans une commande, les CC correspondants sont annulés, pas les autres, mais attention, il y a souvent des bugs, notez bien ce que vous commandez, et râlez auprès du SAV si nécessaire.
-[*]Annuler une commande payée avec des [u]chèques[/u] cadeau crédite ceux-ci sur votre compte, et retire leur date d'expiration au passage.
-[*]Annuler une commande payée avec une [u]carte[/u] cadeau crédite le montant sur votre compte, et prolonge leur date d'expiration d'un an.
-[*]Si vous utilisez un code à usage unique (genre APPLI5 pour la première commande depuis l'appli) et que vous annulez la commande, vous perdez le code. Allez demander sur Twitter à @FnacVousAide, il vous donneront peut-être un bon de réduction correspondant.
-[*]Vous pouvez faire aligner les prix en magasin sur les prix en ligne, à condition d'avoir une carte Fnac, et de le demander ! Ce n'est pas automatique !
+[*][b]Obtenir des CC :[/b] vous n'avez pas besoin d'avoir une carte "Fnac+" pour avoir un compte chèque cadeaux, la carte Fnac simple suffit (et est nécessaire).
+[*][b]Crédit des CC :[/b] les CC sont crédités sur le compte uniquement lors de l'expédition du dernier article de la commande, pas avant, et souvent 24 à 48h après. Préférez donc faire des commandes séparées si les dates de sortie sont éloignées.
+[*][b]Prix le plus bas :[/b] si vous précommandez, et que le prix baisse entre-temps, c'est bien le prix le plus bas que vous réglerez au final.
+[*][b]Enregistrer une carte cadeau :[/b] vous pouvez créditer une [u]carte[/u] cadeau sur votre compte : dans votre compte > mes commandes > en haut, onglet "chèques cadeau" > en bas, onglet "carte cadeau". Attention, cela ne modifie pas sa date de validité.
+[*][b]Annulation d'une commande avec des CC :[/b] si vous annulez une commande qui doit vous donner des CC, vous ne les aurez évidemment pas. Si vous annulez certains articles dans une commande, les CC correspondants sont annulés, pas les autres, mais attention, il y a souvent des bugs, notez bien ce que vous commandez, et râlez auprès du SAV si nécessaire.
+[*][b]Annulation d'une commande payée avec des [u]chèques[/u] cadeau :[/b] annuler une commande payée avec des [u]chèques[/u] cadeau crédite ceux-ci sur votre compte, et retire leur date d'expiration au passage.
+[*][b]Annulation d'une commande payée avec des [u]cartes[/u] cadeau :[/b] annuler une commande payée avec une [u]carte[/u] cadeau crédite le montant sur votre compte, et prolonge leur date d'expiration d'un an.
+[*][b]Annulation d'une commande avec bonus :[/b] annuler une commande qui comporte un bonus gratuit (poster, stickers...) n'est pas possible à travers l'interface web, il faut passer par le SAV (@FnacVousAide sur Twitter ça marche très bien)
+[*][b]Utilisation d'un code à usage unique :[/b] si vous utilisez un code à usage unique (genre APPLI5 pour la première commande depuis l'appli) et que vous annulez la commande, vous perdez le code. Allez demander sur Twitter à @FnacVousAide, il vous donneront peut-être un bon de réduction correspondant.
+[*][b]Alignement des prix en magasin :[/b] vous pouvez faire aligner les prix en magasin sur les prix en ligne, à condition d'avoir une carte Fnac, et de le demander ! Ce n'est pas automatique !
 
 
 [b]Attention[/b]

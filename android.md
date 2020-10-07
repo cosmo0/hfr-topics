@@ -259,12 +259,16 @@ A la fois très simple, très classique, et très efficace. Free to play.
 Parce que parfois on a envie de jouer à un "vrai" jeu sur téléphone ou tablette aussi.
 Parfois ces jeux ne sont pas très bien adaptés au mobile (trop petit, besoin d'un pad, etc), alors n'hésitez pas à demander des avis sur le topic.
 
+**Transport Tycoon**
+Le portage de Transport Tycoon, le célèbre jeu de gestion de société de transport. Interface adaptée au mobile, pas ouf mais ça marche. Versions gratuite ou payante.  
+<https://play.google.com/store/apps/details?id=com.thirtyonex.TransportTycoon>
+
 **OpenTTD**
-Le portage de OpenTTD (Transport Tycoon Deluxe en version open source). Interface un peu galère, mais c'est le vrai jeu, on peut même mettre les musiques et graphismes de l'original. Gratuit.
+Le portage de OpenTTD (Transport Tycoon Deluxe en version open source). Interface un peu galère, mais c'est le vrai jeu, on peut même mettre les musiques et graphismes de l'original. Gratuit.  
 <https://play.google.com/store/apps/details?id=org.openttd.sdl>
 
 **FreeCiv**
-Le portage de FreeCiv (Civilization 2 en version open source). Pareil qu'au-dessus : c'est pas super pratique (et c'est moche), mais c'est le vrai jeu complet. Gratuit.
+Le portage de FreeCiv (Civilization en version open source). Pareil qu'au-dessus : c'est pas super pratique (et c'est moche), mais c'est le vrai jeu complet. Gratuit.
 <https://play.google.com/store/apps/details?id=pl.org.zielinscy.freeciv>
 
 :star: **Minecraft**

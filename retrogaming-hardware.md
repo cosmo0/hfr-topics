@@ -18,7 +18,6 @@ On ne parlera [b][#FF0000]PAS[/#FF0000][/b] :
 - Consoles et machines sous licence officielle
 - Arcade
 - Clones et consoles non officielles (mais qui lisent des supports originaux)
-- Mods hardware, conversion, capture
 - (2e post) Emulation non officielle
 
 
@@ -193,43 +192,6 @@ Autre concept de console rétro "semi-officielle", c'est une console portable/hy
 
 - [url=https://www.myarcadegaming.com/]My Arcade Gaming[/url] fabriquent des consoles de qualité variable, avec jeux intégrés ou avec des slots de cartouches.
 
-
-
-[fixed]Mods hardware[/fixed]
-
-Des modification ou composants externes sont utilisables pour utiliser vos machines originelles sur du matériel moderne.
-Généralement c'est du bricolage à faire soi-même, mais il existe parfois des composants externes qu'il suffit de brancher (ou des boîtes qui vous feront ça pour quelques sous).
-
-
-[b]Mods HDMI[/b]
-
-- Sur Dreamcast il existe le DCHDMI, cher mais très efficace
-- Sur Gamecube on peut trouver le Insurrection Industries Carby, deux versions du EON GCHD, et un module GC Video Plug n Play
-
-[b]Flashcart[/b]
-
-Attention, sujet sensible car lié au piratage. Merci de ne pas parler de flashcarts pour des consoles modernes, et de vous limiter aux 8/16 bits.
-Everdrive est la société la plus connue en activité, qui fait des cartouches permettant d'utiliser une carte SD dans une machine originale.
-
-[b]Rétroéclairage[/b]
-
-Des modifications hardware pour consoles portables (GB, GBA, GG) sont possible, pour ajouter un rétroéclairage externe ou remplacer les écrans. De bonnes compétences en bricolage sont nécessaires, si vous ne voulez pas raquer.
-
-
-
-[fixed]Capture et conversion[/fixed]
-
-De nombreux boîtiers de capture et de conversion HDMI existent. Si certains s'y connaissent, qu'ils n'hésitent pas à se manifester, je n'y connais rien personnellement.
-On peut cependant noter :
-
-[b]OSSC - Open Source Scanline Converter[/b]
-Un boîtier (open source donc plein de fabricants possibles) qui convertit un signal analogique (péritel/RGB, composite, VGA) en HDMI. Exemple : https://www.videogameperfection.com/products/open-source-converter/
-[img]https://i.imgur.com/bIrsyW5t.jpg[/img]
-
-
-[b]XRGB Framemeister[/b]
-Un boîtier ultra puissant et complet, mais ultra cher.
-[img]https://i.imgur.com/qlpajFkt.jpg[/img]
 
 [fixed]L'émulation non officielle[/fixed]
 
