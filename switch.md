@@ -44,7 +44,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 - **Aventure/action** : tous les jeux LEGO, Fire Emblem Warriors, Diablo 3, Marvel Ultimate Alliance 3, Portal Knights, Astral Chain, Luigi's Mansion 3
 - **Action** : Super Bomberman R, Worms WMD, Broforce, Wizard of Legend, Crawl, Killer Queen Black
-- **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, Binding of Isaac
+- **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, Binding of Isaac, Blazing Beaks
 - **Sport** : Mario Tennis Aces, FIFA 19, NBA 2K19, Rocket League, NBA Playgrounds 2
 - **Course** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow
 - **Puzzle, réflexion** : Puyo Puyo Tetris/Champions, Death Squared, Snipperclips, Tricky Towers, Human Fall Flat, Boxboy+Boxgirl, Brothers A Tale of Two Sons, Mario + Lapins Crétins, Good Job
@@ -68,7 +68,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate, Lair of the Clockwork God
 - **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin
 - **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest
-- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under
+- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under, Mana Spark
 - **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex
 - **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG
 - **Hack & slash, musou** : Bastion, Torchlight 2
