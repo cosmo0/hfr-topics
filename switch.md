@@ -300,6 +300,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Roguelikes, permadeath, génération procédurale
 
+- Ape Out
 - Atomicrops
 - Children of Morta
 - Crawl
@@ -669,7 +670,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Beat'em Up
 
-- Ape Out
 - **Bayonetta** [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/)
 - Bloodroots
 - [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/)
