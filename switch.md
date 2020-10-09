@@ -490,6 +490,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Rune Factory 4 Special**
 - **Stardew Valley**
 - **Terraria**
+- The Escapists
 - **The Long Dark**
 - **This War of Mine**
 
