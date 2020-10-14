@@ -75,16 +75,16 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
 - **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines, Wintermoor Tactics Club, Ambition of the Slimes
 - **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1 & 2
-- **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare
-- **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen
+- **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare, X-Morph Defense
+- **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen, Merchant of the Skies
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, Forager
 - **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike, Embracelet
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
-- **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer
+- **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, 80 Days, The Lion's Song
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, Untitled Goose Game, Pan-Pan, I Am Dead
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
-- **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill
+- **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift, Star Wars Racer
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2
 - **Beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
@@ -471,6 +471,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Civilization 6**
 - Constructor Plus
 - **Football Manager**
+- Merchant of the Skies
 - Motorsport Manager
 - New Star Manager
 - Prison Architect
@@ -478,6 +479,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Railway Empire
 - **Roller Coaster Tycoon 3**
 - The Shrouded Isle
+- Townsmen
 - **Two Point Hospital**
 
 ## Construction, crafting, farming, survie
