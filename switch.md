@@ -42,20 +42,30 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Jeux avec multijoueur local en écran splitté
 
-- **Aventure/action** : tous les jeux LEGO, Fire Emblem Warriors, Diablo 3, Marvel Ultimate Alliance 3, Portal Knights, Astral Chain, Luigi's Mansion 3
-- **FPS/TPS** : RICO, Hypercharge Unboxed
-- **Plate-formes** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Sonic Mania, Donkey Kong Country Tropical Freeze, Rayman Legends, Trine, Cuphead, Unravel Two, Yoshi's Crafted World, Heave Ho, Captain Toad Treasure Tracker, Ultimate Chicken Horse
-- **Action** : Super Bomberman R, Worms WMD, Broforce, Wizard of Legend, Crawl, Killer Queen Black
-- **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, Binding of Isaac, Blazing Beaks
-- **Sport** : Mario Tennis Aces, FIFA 19, NBA 2K19, Rocket League, NBA Playgrounds 2
-- **Course** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow
-- **Puzzle, réflexion** : Puyo Puyo Tetris/Champions, Death Squared, Snipperclips, Tricky Towers, Human Fall Flat, Boxboy+Boxgirl, Brothers A Tale of Two Sons, Mario + Lapins Crétins, Good Job
-- **Party et casual games** : Overcooked 2, Lovers in a Dangerous Spacetime, Super Mario Party, Super Monkey Ball Banana Blitz, Keep Talking and Nobody Explodes, Burger Time Party, The Stretchers, 51 Worldwide Games
-- **Combat, brawlers** : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Roof Rage, Wand Wars, Mortal Kombat 11, Samurai Shodown
-- **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4
-- **Rythme** : Crypt of the Necrodancer, Floor Kids, Super Beat Sports, Cadence of Hyrule
+- **Aventure/action** : tous les jeux LEGO, Portal Knights, Astral Chain, Luigi's Mansion 3, Starlink Battle For Atlas
+- **FPS/TPS** : RICO, Hypercharge Unboxed, Doom 93/2, Resident Evil 5/6/Revelations 2, Borderlands, GI Joe Operation Blackout
+- **Plate-forme** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Sonic Mania, Donkey Kong Country Tropical Freeze, Rayman Legends, Trine 1/2/3/4, Unravel Two, Yoshi's Crafted World, Heave Ho, A Hat In Time, Freedom Planet, Super Mario Maker 2
+- **Plate-forme/action** : Cuphead, Broforce, Bloodstained Curse of the Moon 2, Shovel Knight, Blazing Chrome, Ultimate Chicken Horse, Guacamelee 2, Salt & Sanctuary
+- **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, The Binding of Isaac, Blazing Beaks, Crawl, Wizard of Legend
+- **RPG** : Divinity Original Sin 2, Cat Quest 2, Moon Hunters, Pokémon Let's Go, Collection of Mana, Tales of Vesperia, Final Fantasy Crystal Chronicles, The World Ends With You
+- **Hack & Slash, musou** : Diablo 3, Titan Quest, Nine Parchments, Fire Emblem Warriors, Hyrule Warriors, Marvel Ultimate Alliance 3, Darksiders Genesis, One Piece Pirate Warriors 3/4
+- **Stratégie, tactique** : Mario + Lapins Crétins, Wargroove, XCOM 2, Pikmin 3
+- **Construction, crafting, farming, survie** : Minecraft, Terraria, The Escapists, The Survivalists
+- **Aventure/puzzles** : Captain Toad Treasure Tracker, Pikuniku, Boxboy+Boxgirl, Brothers A Tale of Two Sons, Untitled Goose Game
+- **Puzzle, réflexion** : Death Squared, Snipperclips, Human Fall Flat, Good Job
+- **Puzzle/action** : Puyo Puyo Tetris/Champions, Tricky Towers, Unrailed!, Puzzle Bobble, Magical Drop
+- **Sport** : Mario Tennis Aces, FIFA, NBA 2K, Rocket League, NBA Playgrounds 2, Alpaca Ball All Stars, Windjammers, AO Tennis 2, Captain Tsubasa, Mario & Sonic aux JO
+- **Course** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow, Hotshot Racing, Inertial Drift, Crash Team Racing, GRID Autosport, GRIP, Moto GP 20, Team Sonic Racing
+- **Combat, brawlers** : un peu tous, mais notamment : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Mortal Kombat 11, Samurai Shodown, Nidhogg 2, Guilty Gear, Lethal League Blaze...
+- **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4, Ninja Saviors, 9 Monkeys of Shaolin, Full Metal Furies, Double Dragon 1/2/3/4, Double Dragon & Kunio Kun, The Wonderful 101
+- **Shmups, twin stick shooters** : Ikaruga, Gunbird, Zero Gunner 2, Assault Android Cactus, Grand Brix Shooter, Aqua Kitty UDX, Twinkle Star Sprite, Blazing Star, Dragon Blaze, Rival Megagun
+- **Arcade, high score** : Killer Queen Black, Burger Time Party, Bubble Bobble 4 Friends, Pang Adventures
+- **Musique, rythme** : Let's Sing, Just Dance, Floor Kids, Super Beat Sports, Avicii Invector, Crypt of the Necrodancer, Cadence of Hyrule
+- **Party game, multijoueur** : Overcooked 1/2, Super Bomberman R, Worms WMD, Lovers in a Dangerous Spacetime, Super Mario Party, Super Monkey Ball Banana Blitz, Keep Talking and Nobody Explodes, The Stretchers, Bake n Switch, Disney Tsum Tsum Festival, Moving Out
+- **Casual, fitness** : 1-2 Switch, Go Vacation, Sports Party
+- **Jeux de société, jeu de plateau** : 51 Worldwide Games, Armello, Carcassonne, Catan, Istanbul, Light Fingers, UNO, Trivial Pursuit
 - **Rétrogaming** : Nintendo Switch Online, Capcom Beat'em Up Bundle, Kunio Kun & Double Dragon, série ACA NEOGEO, Megadrive Collection, Namco Museum
-- Voir aussi [ce thread ResetEra](https://www.resetera.com/threads/list-of-switch-local-multiplayer-games.3841/)
+- Voir aussi [ce thread ResetEra](https://www.resetera.com/threads/list-of-switch-local-multiplayer-games.3841/) et [Co-Optimus](https://www.co-optimus.com/)
 
 ## Jeux pas cher
 
@@ -70,8 +80,8 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin, Gunman Clive
 - **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest
 - **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under, Mana Spark
-- **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex, Fairune Collection
-- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, Masquerada Songs And Shadows, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest
+- **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex, Fairune Collection, Masquerada Songs And Shadows
+- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest 1/2/3
 - **Hack & slash, musou** : Bastion, Torchlight 2, Kamiko
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
 - **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines, Wintermoor Tactics Club, Slime Tactics, Ambition of the Slimes
@@ -83,16 +93,16 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
 - **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, 80 Days, The Lion's Song
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, Untitled Goose Game, Pan-Pan, I Am Dead
-- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori
+- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
-- **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen
+- **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift, Star Wars Racer
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, One Strike, River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2
 - **Beat'em up** : My Friend Pedro, Ninja Saviors, Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Shmup, twin stick shooters** : **Galak-Z**, Ikaruga, I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, Danmaku Unlimited 3, Devil Engine, Graceful Explosions Machine, Steredenn, Super Star Path, Grand Brix Shooter, Horizon Shift 81, Space Pioneer, Jet Lancer, Downwell, Inferno 2
 - **Arcade, high score** : Akane, Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, Pix the Cat, Ding Dong XL
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
-- **Party game, multijoueur** : Overcooked, Snipperclips, The Stretchers, Tools Up!, Aeolis Tournament
+- **Party game, multijoueur** : Overcooked, The Stretchers, Tools Up!, Aeolis Tournament
 - **Jeu de cartes** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Thronebreaker: The Witcher Tales, Frost, Faeria
 - **Jeu de société, jeu de plateau** : Armello, Carcassonne
 - **Autre, inclassables** : **Zen Pinball**, **Pinball FX3**, The Savior's Gang, Cattails, Sayonara Wild Hearts, Death and Taxes
@@ -245,7 +255,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## Plate-forme/action, run & gun
 
 - **ACA NEOGEO Metal Slug** 1, 2, 3, 4, 5, X
-- [Blaster Master Zero 1](https://www.cosmo0.fr/critique/blaster-master-zero/), 2
+- Blaster Master Zero [1](https://www.cosmo0.fr/critique/blaster-master-zero/), 2
 - **Blazing Chrome**
 - **Bloodstained Curse of the Moon [1](https://www.cosmo0.fr/critique/bloodstained-curse-of-the-moon/), 2**
 - Broforce
@@ -433,7 +443,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - SD Gundam G Generations Cross Rays (Japon)
 - Super Robot Wars T, V, X (Japon)
 - The Dark Crystal Age of Resistance Tactics
-- **Valkyria Chronicles 1 & 4**
+- **Valkyria Chronicles 1, 4**
 - Wintermoor Tactics Club
 
 ## Stratégie, tactique
@@ -613,7 +623,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 - ACA NEOGEO Baseball Stars, Neo Turf Masters, Street Hoops, Super Sidekicks
 - AO Tennis 2
-- Behold the Kickmen
 - **Captain Tsubasa**
 - FIFA
 - [Golf Story](https://www.cosmo0.fr/critique/golf-story/)
@@ -703,7 +712,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shoot'em ups (shmups), twin stick shooters, rail shooters
 
-Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunbird, Zero Gunner 2, Twinkle Star Sprite, Ikaruga, Strikers 1945, Aero Fighters 2, Dragon Blaze, Alpha Mission 2, Ghost Pilots, Sol Divide, In The Hunt, Blazing Star, Esp Ra De, Psikyo Shooting Stars Alpha, Konami Arcade Classics, Darius Cozmic Collection, Space Invaders Invincible Collection (JP), etc.
+Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunbird, Zero Gunner 2, Twinkle Star Sprite, Ikaruga, Dragon Blaze, Alpha Mission 2, Ghost Pilots, Sol Divide, In The Hunt, Blazing Star, Esp Ra De, Psikyo Shooting Stars Alpha, Konami Arcade Classics, Darius Cozmic Collection, Space Invaders Invincible Collection (JP), etc.
 
 - **Assault Android Cactus**
 - **[Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/)**
@@ -747,6 +756,8 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Gal Metal
 - **Hatsune Miku Project Diva**
 - **Hexagroove**
+- **Just Dance**
+- **Let's Sing**, Let's Sing Queen
 - Old School Musical
 - [Songbird Symphony](https://www.cosmo0.fr/critique/songbird-symphony/)
 - **Taiko No Tatsujin**
@@ -777,8 +788,6 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - 1-2 Switch
 - Fitness Boxing
 - **Go Vacation**
-- **Just Dance**
-- **Let's Sing**, Let's Sing Queen
 - **Programme d'Entraînement Cérébral du Dr Kawashima**
 - **Ring Fit Adventure**
 - Sports Party
@@ -832,7 +841,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Pandemic
 - Talisman
 - Trivial Pursuit
-- Uno
+- UNO
 
 ## Jeux "érotiques"
 
