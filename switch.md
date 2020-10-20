@@ -43,13 +43,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Jeux avec multijoueur local en écran splitté
 
 - **Aventure/action** : tous les jeux LEGO, Fire Emblem Warriors, Diablo 3, Marvel Ultimate Alliance 3, Portal Knights, Astral Chain, Luigi's Mansion 3
+- **FPS/TPS** : RICO, Hypercharge Unboxed
+- **Plate-formes** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Sonic Mania, Donkey Kong Country Tropical Freeze, Rayman Legends, Trine, Cuphead, Unravel Two, Yoshi's Crafted World, Heave Ho, Captain Toad Treasure Tracker, Ultimate Chicken Horse
 - **Action** : Super Bomberman R, Worms WMD, Broforce, Wizard of Legend, Crawl, Killer Queen Black
 - **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, Binding of Isaac, Blazing Beaks
 - **Sport** : Mario Tennis Aces, FIFA 19, NBA 2K19, Rocket League, NBA Playgrounds 2
 - **Course** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow
 - **Puzzle, réflexion** : Puyo Puyo Tetris/Champions, Death Squared, Snipperclips, Tricky Towers, Human Fall Flat, Boxboy+Boxgirl, Brothers A Tale of Two Sons, Mario + Lapins Crétins, Good Job
 - **Party et casual games** : Overcooked 2, Lovers in a Dangerous Spacetime, Super Mario Party, Super Monkey Ball Banana Blitz, Keep Talking and Nobody Explodes, Burger Time Party, The Stretchers, 51 Worldwide Games
-- **Plate-formes** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Sonic Mania, Donkey Kong Country Tropical Freeze, Rayman Legends, Trine, Cuphead, Unravel Two, Yoshi's Crafted World, Heave Ho, Captain Toad Treasure Tracker, Ultimate Chicken Horse
 - **Combat, brawlers** : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Roof Rage, Wand Wars, Mortal Kombat 11, Samurai Shodown
 - **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4
 - **Rythme** : Crypt of the Necrodancer, Floor Kids, Super Beat Sports, Cadence of Hyrule
