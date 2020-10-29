@@ -43,7 +43,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 ## Jeux avec multijoueur local en écran splitté
 
 - **Aventure/action** : tous les jeux LEGO, Portal Knights, Astral Chain, Luigi's Mansion 3, Starlink Battle For Atlas
-- **FPS/TPS** : RICO, Hypercharge Unboxed, Doom 93/2, Resident Evil 5/6/Revelations 2, Borderlands, GI Joe Operation Blackout
+- **FPS/TPS** : RICO, Hypercharge Unboxed, Doom 93/2, Resident Evil 5/6/Revelations 2, Borderlands
 - **Plate-forme** : Super Mario Odyssey, New Super Mario Bros U Deluxe, Sonic Mania, Donkey Kong Country Tropical Freeze, Rayman Legends, Trine 1/2/3/4, Unravel Two, Yoshi's Crafted World, Heave Ho, A Hat In Time, Freedom Planet, Super Mario Maker 2
 - **Plate-forme/action** : Cuphead, Broforce, Bloodstained Curse of the Moon 2, Shovel Knight, Blazing Chrome, Ultimate Chicken Horse, Guacamelee 2, Salt & Sanctuary
 - **Roguelike** : Neurovoider, Enter the Gungeon, Death Road to Canada, The Binding of Isaac, Blazing Beaks, Crawl, Wizard of Legend
