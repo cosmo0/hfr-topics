@@ -76,24 +76,24 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Shooters multijoueur** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Vigor**, **Rogue Company**, **Spellbreak**, Hypercharge Unboxed
 - **Horreur, suspense, survival** : Darkwood, Detention, Layers of Fear, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4
 - **Plate-forme** : Celeste, Sonic Mania, The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher, MO:Astray, Deleveled, Kid Tripp
-- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 2+, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate, Lair of the Clockwork God
-- **Plate-forme/action** : Blaster Master Zero 1 & 2, Bloodstained Curse of the Moon, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin, Gunman Clive, Shantae Pirate's Curse/Risky's Revenge/Half-Genie Hero, Hardcore Mecha
-- **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1 & 2, Steamworld Dig 1 & 2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest, Mindseize
-- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, Blazing Beaks, The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under, Mana Spark, Scourgebringer, The Red Lantern, Crown Trick, Space Grunts, One Step From Eden, Out There Omega
-- **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1 & 2, Citizens of Space, Pong Quest, Dex, Fairune Collection, Masquerada Songs And Shadows, Ys Origin
-- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII, Final Fantasy VIII, Doom & Destiny, Shadows of Adam, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest 1/2/3
+- **Plate-forme/puzzle** : Gris, Inside, Toki Tori 1/2, Trine 1/2/3, Framed Collection, Semblance, The Adventures of Elena Temple, Planet Alpha, Bomb Chicken, Forgotton Anne, Evergate, Lair of the Clockwork God
+- **Plate-forme/action** : Blaster Master Zero 1/2, Bloodstained Curse of the Moon 1/2, Mark of the Ninja, Shovel Knight, Mechstermination Force, Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin, Gunman Clive, Shantae Pirate's Curse/Risky's Revenge/Half-Genie Hero, Hardcore Mecha
+- **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1/2, Steamworld Dig 1/2, The Messenger, Aggelos, Timespinner, Gato Roboto, Kunai, 3000th Duel, Carrion, Ori & The Blind Forest, Mindseize
+- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, [Blazing Beaks](https://www.cosmo0.fr/critique/blazing-beaks/), The Swords of Ditto, Monster Slayers, City of Brass, Sky Rogue, Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under, Mana Spark, Scourgebringer, The Red Lantern, Crown Trick, Space Grunts, One Step From Eden, Out There Omega
+- **RPG/Action** : **Dauntless**, Transistor, Cat Quest 1/2, Citizens of Space, Pong Quest, Dex, Fairune Collection, Masquerada Songs And Shadows, Ys Origin
+- **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII/VIII, Doom & Destiny, Shadows of Adam, The Last Remnant, Silk, YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, Thea The Awakening, Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest 1/2/3
 - **Hack & slash, musou** : Bastion, Torchlight 2, Kamiko
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
 - **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga, Mercenaries Wings, Broken Lines, Wintermoor Tactics Club, Slime Tactics, Ambition of the Slimes
-- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1 & 2
-- **Tower defense** : Kingdom Two Crowns, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare, X-Morph Defense
+- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1/2
+- **Tower defense** : Kingdom Two Crowns/New Lands, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare, X-Morph Defense
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen, Merchant of the Skies
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, Forager
 - **Walking simulator** : Abzu, Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, What Remains of Edith Finch, Old Man's Journey, A Short Hike, Embracelet
-- **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine
-- **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, 80 Days, The Lion's Song, Horace
+- **Visual novel** : 80 Days, Batman Telltale Series/Enemy Within, Cinders, Bury Me My Love, Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine, 80 Days
+- **Aventure, point & click** : Tangle Tower, Oxenfree, Broken Age, Grim Fandango, Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace
 - **Aventure/puzzles** : Pikuniku, The Gardens Between, Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, Untitled Goose Game, Pan-Pan, I Am Dead, Fracter
-- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S & S2, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips
+- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4, Baba Is You, Box Align, Hook, Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, Cyber Protocol, Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars
 - **Course** : **Asphalt 9**, Fast RMX, Horizon Chase Turbo, OutRun, Road Redemption, Virtua Racing, 80's Overdrive, Hotshot Racing, Inertial Drift, Star Wars Racer
@@ -122,7 +122,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Assassin's Creed** 3, Rebel Collection
 - **Astral Chain**
 - Call of Cthulhu
-- Daemon X Machina
+- [Daemon X Machina](https://www.cosmo0.fr/critique/daemon-x-machina/)
 - **Dark Souls Remastered**
 - **Darksiders** 1, 2
 - Deadly Premonition 1 & 2
@@ -217,7 +217,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **[Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/)**
 - **Sonic Mania**
 - Spyro Reignited Trilogy
-- **Super Mario 3D All Stars**
+- **Super Mario 3D All Stars** ([64](https://www.cosmo0.fr/critique/super-mario-64/)/Sunshine/Galaxy)
 - **Super Mario Maker 2**
 - **[Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)**
 - Vectronom
@@ -514,7 +514,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## Walking simulator, visual novel, histoires interactives
 
 - 1979 Revolution: Black Friday
-- 80 Days
+- [80 Days](https://www.cosmo0.fr/critique/80-days/)
 - **A Short Hike**
 - Abzu
 - Afterparty
