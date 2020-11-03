@@ -140,10 +140,12 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **[Okami HD](https://www.cosmo0.fr/critique/okami-hd/)**
 - [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
 - Paper Mario The Origami King
+- Pumpkin Jack
 - Raji An Ancient Epic
 - Retro City Rampage, Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
+- Supraland
 - **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
 - **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
@@ -459,6 +461,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Peaky Blinders
 - Steamworld Heist
 - Tiny Metal, Tiny Metal Full Metal Rumble
+- Transformers Battlegrounds
 - **Wargroove**
 - Warhammer 40K Mechanicus
 - **XCOM 2**
@@ -549,6 +552,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Grim Fandango Remastered
 - **Horace**
 - Hypnospace Outlaw
+- If Found
 - In Other Waters
 - Les Chevaliers de Baphomet 5
 - **Night in the Wood**
@@ -866,7 +870,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 ## Autres/inclassables
 
 - **Animal Crossing New Horizons**
-- Demon's Tilt
+- **Demon's Tilt**
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
 - Nintendo Labo
@@ -885,7 +889,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Air Missions HIND, Game Dev Tycoon, Remothered Broken Porcelain, Pumpkin Jack, If Found, Supraland, Transformers Battlegrounds
+- Jeux sortis, en attente de test : Air Missions HIND, Game Dev Tycoon
 
 - Octobre : Cobra Kai Karate Kid Saga (27), Carto (27), Oddworld New n Tasty (27), Ghostrunner (27), Oceanhorn 2 (28), Finc Home Fit (29 JP), Disc Room (29), Pikmin 3 Deluxe (30), Dusk (31)
 - Novembre : Jurassic World Evolution (3), Descenders (6), Sakuna of Rice And Ruin (10), Just Dance 2021 (12), Space Invaders Forever (13), Kingdom Hearts Melody of Memory (13), Need For Speed Hot Pursuit (13), Sniper Elite 4 (17), Fuser (19), Hyrule Warriors Age of Calamity (20), Taiko No Tatsujin Rhythmic Adventure Pack (26), Tracks (?)
