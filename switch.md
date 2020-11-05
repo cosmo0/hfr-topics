@@ -756,16 +756,19 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 
 ## Arcade, high score
 
-- Toutes les gammes Arcade Archives, ACA NEOGEO, Namco Museum, Johnny Turbo's Arcade...
-- [Akane](https://www.cosmo0.fr/critique/akane/)
+- Toutes les gammes **Arcade Archives**, **ACA NEOGEO**, Namco Museum, Johnny Turbo's Arcade, **Sega Ages**...
+- **[Akane](https://www.cosmo0.fr/critique/akane/)**
 - Bubble Bobble 4 Friends
 - Burger Time Party
 - Creature in the Well
+- **Demon's Tilt**
 - Killer Queen Black
 - Pang Adventures
+- **Pinball FX3**
 - Strikey Sisters
 - Super Crate Box
 - Travis Strikes Again: No More Heroes
+- Zen Pinball
 
 ## Musique, rythme
 
@@ -882,13 +885,10 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 ## Autres/inclassables
 
 - **Animal Crossing New Horizons**
-- **Demon's Tilt**
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
 - Nintendo Labo
-- Pinball FX3
 - **[Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)**
-- Zen Pinball
 
 ## Rétrogaming
 
