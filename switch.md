@@ -831,6 +831,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - **I Am Dead**
 - Kirby Star Allies
 - Little Dragons Café
+- Momonga Pinball Adventures
 - Quench
 - **Spiritfarer**
 - Story of Seasons Friends of Mineral Town
@@ -838,6 +839,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Summer In Mara
 - The Last Campfire
 - **Untitled Goose Game**
+- Yoku's Island Express
 - Yonder The Cloud Catcher Chronicles
 - Yono And The Celestial Elephant
 
