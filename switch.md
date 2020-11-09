@@ -84,8 +84,8 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII/VIII, Doom & Destiny, Shadows of Adam, The Last Remnant, [Silk](https://www.cosmo0.fr/critique/silk/), YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, [Thea The Awakening](https://www.cosmo0.fr/critique/thea-the-awakening/), Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest [1](https://www.cosmo0.fr/critique/dragon-quest/)/2/3
 - **Hack & slash, musou** : [Bastion](https://www.cosmo0.fr/critique/bastion/), Torchlight 2, [Kamiko](https://www.cosmo0.fr/critique/kamiko/), Barbearian
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, Boreal Blade
-- **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga/[Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Broken Lines, Wintermoor Tactics Club, Slime Tactics, Ambition of the Slimes
-- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1/2
+- **TRPG, SRPG** : Valkyria Chronicles, The Dark Crystal Age of Resistance Tactics, Mercenaries Saga/[Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Broken Lines, Wintermoor Tactics Club, Slime Tactics, Ambition of the Slimes, Dread Nautical
+- **Stratégie, tactique** : Bad North, Into the Breach, Steamworld Heist, Tiny Metal, Police Stories, Party Hard 1/2, Hard West, Phantom Doctrine, Rebel Cops, Depth of Extinction
 - **Tower defense** : Kingdom Two Crowns/New Lands, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare, X-Morph Defense
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen, Merchant of the Skies
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, [Forager](https://www.cosmo0.fr/critique/forager/)
@@ -437,11 +437,13 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Brigandine: The Legend of Runesia
 - Chroma Squad
 - **Disgaea** 1, 4, 5
+- Dread Nautical
 - Fell Seal Arbiter's Mark
 - **Fire Emblem Three Houses**
 - God Wars
 - Langrisser I & II Remaster
 - Mercenaries Saga, [Mercenaries Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/)
+- Othercide
 - SD Gundam G Generations Cross Rays (Japon)
 - Super Robot Wars T, V, X (Japon)
 - The Dark Crystal Age of Resistance Tactics
@@ -459,7 +461,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Mario + Lapins Crétins**
 - Mutant Year Zero Road to Eden
 - Northgard
-- Othercide
 - Peaky Blinders
 - **Pikmin 3**
 - Steamworld Heist
