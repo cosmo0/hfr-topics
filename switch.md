@@ -160,6 +160,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - [Daemon X Machina](https://www.cosmo0.fr/critique/daemon-x-machina/)
 - **Doom** [1993](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016
 - Duke Nukem 3D
+- Ghostbusters
 - Ion Fury
 - **[Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/)**
 - **Metro 2033, Last Light Redux**
