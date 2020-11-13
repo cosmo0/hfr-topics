@@ -690,6 +690,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Dragon Ball Xenoverse 2
 - **Fantasy Strike**
 - Fight Crab
+- Guilty Gear, Guilty Gear XX
 - Kirby Fighters 2
 - **Lethal League Blaze**
 - **Mortal Kombat 11**
@@ -701,7 +702,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Shovel Knight Shodown
 - Skullgirls 2nd Encore
 - SNK Heroines Tag Team Frenzy (pour les débutants)
-- [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/)
+- **[Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/)**
 - **Super Smash Bros Ultimate**
 - **TowerFall**
 
