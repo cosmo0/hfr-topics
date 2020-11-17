@@ -37,7 +37,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Casual, fitness** : Dr Kawashima, Ring Fit Adventure, Go Vacation, Let's Dance, Just Sing
 - **Jeux de cartes** : Eternal, Faeria
 - **Jeux de société** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/)
-- **Autre** : Animal Crossing New Horizons, [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)
+- **Autre** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)
 - **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection)
 
 ## Jeux avec multijoueur local en écran splitté
@@ -96,7 +96,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars, Hyperbrawl Tournament
-- **Course** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), Inertial Drift, Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/)
+- **Course** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/)
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2
 - **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx
@@ -357,7 +357,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Skyrim**
 - Sword Art Online Hollow Realization, Fatal Bullet
 - Tales of Vesperia
-- The Outer Worlds
+- [The Outer Worlds](https://www.cosmo0.fr/critique/the-outer-worlds/)
 - **The Witcher 3**
 - The World Ends With You
 - [Transistor](https://www.cosmo0.fr/critique/transistor/)
@@ -667,7 +667,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - GRIP
 - **[Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/)**
 - **[Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/)**
-- **Inertial Drift**
+- **[Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/)**
 - **Mario Kart 8 DX**
 - Monster Energy Supercross 3
 - **Moto GP 20**
@@ -682,7 +682,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Combat, baston, versus, brawler
 
-- **ACA NEOGEO** Art of Fighting, Fatal Fury, Garou Mark of the Wolves, King of Fighters, Samurai Shodown, The Last Blade...
+- **ACA NEOGEO** Art of Fighting, Fatal Fury, [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/critique-express/aca-neogeo-garou-mark-of-the-wolves/), [King of Fighters](https://www.cosmo0.fr/critique/critique-express/aca-neogeo-the-king-of-fighters-94/), [Samurai Shodown](https://www.cosmo0.fr/arcade/aca-neogeo-samurai-shodown-ii/), The Last Blade...
 - Arms
 - Blazblue Central Fiction, Cross Tag Battle
 - Brawlhalla (free to play)
@@ -825,7 +825,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 - **A Short Hike**
 - AER Memories of Old
-- **Animal Crossing New Horizons**
+- **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
 - Art of Balance
 - **Carto**
 - **Doraemon Story of Seasons**
@@ -841,9 +841,9 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Stranded Sails
 - Summer In Mara
 - The Last Campfire
-- **Untitled Goose Game**
-- Yoku's Island Express
-- Yonder The Cloud Catcher Chronicles
+- **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
+- [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
+- [Yonder The Cloud Catcher Chronicles](https://www.cosmo0.fr/critique/yonder-the-cloud-catcher-chronicles/)
 - Yono And The Celestial Elephant
 
 ## Jeux de cartes
@@ -889,7 +889,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 ## Autres/inclassables
 
-- **Animal Crossing New Horizons**
+- **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
 - Nintendo Labo
