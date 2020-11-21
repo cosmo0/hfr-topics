@@ -841,13 +841,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Kirby Star Allies
 - Little Dragons Café
 - Momonga Pinball Adventures
+- Pikuniku
 - Quench
 - **Spiritfarer**
+- **Stardew Valley**
 - Story of Seasons Friends of Mineral Town
 - Stranded Sails
 - Summer In Mara
 - The Last Campfire
 - **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
+- Wandersong
 - [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
 - [Yonder The Cloud Catcher Chronicles](https://www.cosmo0.fr/critique/yonder-the-cloud-catcher-chronicles/)
 - Yono And The Celestial Elephant
