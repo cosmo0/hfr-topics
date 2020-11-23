@@ -28,7 +28,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S/S2/S3/S4, realMyst
 - **Puzzle/action** : [Puyo Puyo Tetris](https://www.cosmo0.fr/critique/puyo-puyo-tetris/), Lumines Remastered, Tetris 99, Mr Driller Drill Land
 - **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
-- **Course** : Mario Kart 8, GRID Autosport, Crash Team Racing, Trials Rising, Burnout Paradise, Moto GP 20
+- **Course, Time Attack** : Mario Kart 8, GRID Autosport, Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP 20
 - **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11
 - **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Streets of Rage 4, The Wonderful 101
 - **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)
@@ -55,7 +55,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle, réflexion** : Death Squared, Snipperclips, Human Fall Flat, Good Job
 - **Puzzle/action** : Puyo Puyo Tetris/Champions, Tricky Towers, Unrailed!, Puzzle Bobble, Magical Drop
 - **Sport** : Mario Tennis Aces, FIFA, NBA 2K, Rocket League, NBA Playgrounds 2, Alpaca Ball All Stars, Windjammers, AO Tennis 2, Captain Tsubasa, Mario & Sonic aux JO
-- **Course** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow, Hotshot Racing, Inertial Drift, Crash Team Racing, GRID Autosport, GRIP, Moto GP 20, Team Sonic Racing
+- **Course, Time Attack** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow, Hotshot Racing, Inertial Drift, Crash Team Racing, GRID Autosport, GRIP, Moto GP 20, Team Sonic Racing
 - **Combat, brawlers** : un peu tous, mais notamment : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Mortal Kombat 11, Samurai Shodown, Nidhogg 2, Guilty Gear, Lethal League Blaze...
 - **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4, Ninja Saviors, 9 Monkeys of Shaolin, Full Metal Furies, Double Dragon 1/2/3/4, Double Dragon & Kunio Kun, The Wonderful 101
 - **Shmups, twin stick shooters** : Ikaruga, Gunbird, Zero Gunner 2, Assault Android Cactus, Grand Brix Shooter, Aqua Kitty UDX, Twinkle Star Sprite, Blazing Star, Dragon Blaze, Rival Megagun
@@ -96,7 +96,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars, Hyperbrawl Tournament
-- **Course** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/)
+- **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/)
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2
 - **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx
@@ -114,7 +114,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Prenez en compte la difficulté, mais aussi les éléments qui peuvent faire peur à votre enfant : violence, monstres, ambiance oppressante, etc.
 - En premier contact, il existe des jeux "avec des roulettes" qui ont des options qui permettent de ne pas perdre : Kirby Star Allies, Yoshi's Crafted World, les jeux LEGO, New Super Mario Bros U Deluxe, Mario Kart...
 - Pour les enfants plus à l'aise avec les jeux vidéo, mais encore trop jeunes pour le sang et le gore : Splatoon 2, Donkey Kong Country Tropical Freeze, Sonic Mania, Yooka-Laylee, Snake Pass, Freedom Planet, Mega Man, Shovel Knight, Yoku's Island Express, Mario + Lapins Crétins, les Final Fantasy, Pokémon, Captain Toad, Worms, Minecraft, Dragon Quest Builders...
-- Pensez aussi aux jeux "parfaitement neutres" (pas de violence, facile à comprendre, etc) comme les puzzle games, les jeux de sport, party games, puzzle, etc : Toki Tori 2+, Go Vacation, Sports Party, Super Mario Party, Tetris 99, Puyo Puyo, Lumines, Burger Time Party...
+- Pensez aussi aux jeux "parfaitement neutres" (pas de violence, facile à comprendre, etc) comme les puzzle games, les jeux de sport, de course, les party games, puzzle, etc : Toki Tori 2+, Go Vacation, Sports Party, Super Mario Party, Tetris 99, Puyo Puyo, Lumines, Burger Time Party...
 
 ## Aventure/action
 
@@ -659,11 +659,12 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - What The Golf
 - **Windjammers**
 
-## Course
+## Course, Time Attack
 
 - Asphalt 9 (free to play)
 - **Burnout Paradise**
 - **Crash Team Racing**
+- Descenders
 - [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/)
 - **GRID Autosport**
 - GRIP
