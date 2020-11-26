@@ -28,7 +28,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S/S2/S3/S4, realMyst
 - **Puzzle/action** : [Puyo Puyo Tetris](https://www.cosmo0.fr/critique/puyo-puyo-tetris/), Lumines Remastered, Tetris 99, Mr Driller Drill Land
 - **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
-- **Course, Time Attack** : Mario Kart 8, GRID Autosport, Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP 20
+- **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP 20
 - **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11
 - **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Streets of Rage 4, The Wonderful 101
 - **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)
@@ -666,7 +666,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Crash Team Racing**
 - Descenders
 - [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/)
-- **GRID Autosport**
+- **[GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/)**
 - GRIP
 - **[Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/)**
 - **[Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/)**
