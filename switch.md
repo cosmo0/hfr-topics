@@ -569,6 +569,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Phoenix Wright Ace Attorney Trilogy**
 - Roki
 - Secret Files
+- Silence
 - Shadowgate
 - Syberia 1, 2, 3
 - Tangle Tower
