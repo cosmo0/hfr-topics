@@ -10,13 +10,17 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Dementium : The Ward
 - Dragon Ball Origins 1, 2
 - Grand Theft Auto Chinatown Wars
+- Lost In Blue
 - Ninja Gaiden : Dragon Sword
+- Okamiden
 - Resident Evil : Deadly Silence
 - Zelda Spirit Tracks, Phantom Hourglass
 
 ## FPS, shooter
 
 - Brother In Arms DS
+- Call of Duty 4
+- Goldeneye 007 (Activision)
 - Jet Impulse
 - Metroid Prime : Hunters
 - Moon
@@ -25,54 +29,72 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 
 - Assassin's Creed II : Discovery
 - Donkey Kong Jungle Climber
-- Henry Hatsworth
-- Kirby Le Pinceau de Pouvoir, Les Souris Attaquent, Super Stars Ultra
+- Ivy the Kiwi
+- Kirby Le Pinceau de Pouvoir, Les Souris Attaquent, Super Stars Ultra, Mass Attack
 - N+
 - New Super Mario Bros
 - Mario 64 DS
 - Metal Slug 7
+- Pac n Roll
 - Prince of Persia : The Fallen King
 - Sonic Rush Adventure
 - Soul Bubbles
 - Super Princess Peach
 - The Legendary Starfy
-- Viewtiful Joe : Double Trouble
+- Wario Master of Disguise
 - Yoshi's Island DS
 
 ## Plate-forme/action, metroidvanias
 
+- Aliens infestation
 - Castlevania Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia
 - Contra 4
 - Mega Man ZX, ZX Advent, Zero Collection
+- Monster Tale
+- Spider-man: Web of Shadows
+- The Legend of Kage 2
 
 ## RPG
 
+- 7th Dragon
 - Avalon Code
+- Away: Shuffle Dungeon
+- Boktai DS
 - Children of Mana
 - Chrono Trigger
 - Contact
-- Dragon Quest IV, V, VI, IX, Monsters Joker
+- Digimon World DS, Dusk/Dawn
+- Dragonball Z: Attack of the Saiyans
+- Dragon Quest IV, V, VI, IX, Monsters Joker 1/2, Heroes Rocket Slime
 - Dungeon Explorer
 - Etrian Odyssey 1, 2
 - Final Fantasy III, IV, Gaiden
 - Final Fantasy Crystal Chronicles Rings of Fate, Echoes of Time
 - Infinite Space
 - Izuna 1, 2
-- Kingdom Hearts : 358/2 Days
+- Kingdom Hearts 358/2 Days
 - Magical Starsign
 - Mario & Luigi Voyage Au Centre De Bowser, Les Frères Du Temps
+- Megaman Battle Network 5 Double Team DS
 - Mystery Dungeon Shiren The Wanderer
-- Lunar Knights Vampire Hunter
+- Lunar Knights
 - Orcs & Elves
 - Phantasy Star Zero
-- Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold
+- Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold, Noir/Blanc
 - Pokémon Donjon Mystère Rouge/Bleu, Explorateurs du Temps/Des Ténèbres
+- Pokémon Ranger 2, 3
+- Radiant Historia
 - Rhapsody: A Musical Adventure
+- Rune Factory 1, 2
+- Shin Megami Tensei Strange Journey
+- Solatorobo: Red the Hunter
+- Soma Bringer
 - Sonic Chronicles The Dark Brotherhood
 - Steal Princess
+- Suikoden Tierkreis
+- The Dark Spire
 - The World Ends With You
 - Tingle's Rosy Rupeeland
-- The Dark Spire
 
 ## S-RPG, T-RPG
 
@@ -81,23 +103,27 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Knights In The Nightmare
 - Luminous Arc 1, 2
 - Rondo of Swords
+- Shin Megami Tensei Devil Survivor 1, 2
 - Shining Force Feather
-- Suikoden Tierkreis
 - Super Robot Taisen OG Saga
 - Valkyrie Profile Covenant of the Plume
 
 ## Stratégie, tactique, gesttion
 
-- Advance Wars Dual Srike, Dark Conflict
-- Anno 1701
-- Age of Empires Mythology, II
+- Advance Wars Dual Srike, Dark Conflict (Days of Ruin)
+- Anno 1701, 1404 (Dawn of Discovery)
+- Age of Empires Mythology, Age of Kings
 - City Life DS
 - Civilization Revolution
+- Drone Tactics
 - Final Fantasy Tactics A2, XII Revenant Wings
 - Front Mission 1st
 - Lock's Quest
 - Ninjatown
+- Mini Ninjas
 - Panzer Tactics DS
+- Plants vs Zombies
+- Pokémon Conquest
 - Sim City DS, Creator
 - Theme Park
 - Warhammer 40.000 : Squad Command
@@ -107,16 +133,25 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Bangai-O Spirits
 - Big Bang Mini
 - Geometry Wars : Galaxies
+- Glory Days 2
 - Ketsui Death Label
+- Little Red Riding Hood Zombie BBQ
 - Nanostray 1, 2
 - Space Invaders Extreme 1, 2
 
-## Baston
+## Baston, combat
 
-- Bleach : Blade of Fate, Dark Souls
+- Bleach Blade of Fate, Dark Souls
+- Draglade
 - Dragon Ball Z Supersonic Warriors 1, 2
 - Jump Ultimate Star
+- One Piece: Gigant Battle
 - Ultimate Mortal Kombat
+
+## Beat'em Up
+
+- Tokyo Beatdown
+- Viewtiful Joe : Double Trouble
 
 ## Sport
 
@@ -124,38 +159,49 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Don King Boxing
 - Inazuma Eleven
 - Mario & Sonic aux Jeux Olympiques
-- Mario Slam! Basketball
+- Mario Slam! Basketball (Hoops 3 on 3)
 - New International Track & Field
 - Nintendo Touch Golf : Birdie Challenge
 - Sega Superstars Tennis
 - Skate It
 - Super Dodgeball Brawlers
 - Tiger Woods PGA Tour 08
-- Tony Hawk Proving Ground
+- Tony Hawk Proving Ground, American Sk8land
 - Top Spin 3
 
 ## Puzzle, réflexion
 
+- Air Traffic Controller
 - Henry Hatsworth : L'Incroyable Expédition
 - Mario vs Donkey Kong 2
 - Might & Magic Clash of Heroes
 - Pac-Pix
 - Pic Pic
 - Picross DS, 3D
+- Peggle Dual Shot
+- Planet Puzzle League (Panel De Pon DS)
 - Polarium
 - Puzzle Quest, Challenge of the Warlords, Galactrix
+- Super Scribblenauts
 - Tetris DS
 - Wario Ware Touched!
 - Zoo Keeper
 
-## Aventure, point & click
+## Aventure, point & click, visual novel
 
+- 999: 9 Hours, 9 Persons, 9 Doors
+- Another Code (Trace Memory)
+- Corpse Party
 - Flower, Sun and Rain
+- Galileo Mystery: The Crown of Midas
+- Ghost Trick Phantom Detective
 - Hotel Dusk Room 215
+- Jake Hunter: Memories of the past
+- Last Window: The Secret of Cape West
 - Les Chevaliers de Baphomet Director's Cut
 - Life Signs : Hospital Affairs
 - Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth
-- Professor Layton Curious Village, Pandora Box
+- Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre
 - Runaway The Dream of the Turtle, A Twist of Fate
 - Time Hollow
 - Touch Detective 1, 2
@@ -164,7 +210,9 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 
 - Elite Beat Agent
 - Guitar Hero On Tour : Decades
-- Jam with the Band/Daigasso! Band Brothers, Jam Sessions
+- Jam with the Band (Daigasso! Band Brothers)
+- Jam Sessions
+- Maestro! Jump in Music
 - Nodame Cantabile
 - Ontamarama
 - Osu! Tatakae! Oendan!, Oendan 2
@@ -173,30 +221,42 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 
 ## Course
 
+- Asphalt Urban GT 1, 2
 - Mario Kart DS
 - Moto Racer DS
 - Trackmania
 
 ## Ludo-éducatif
 
+- Art Academy
 - Cérébrale Académie
 - English Training
 - Master of Illusion
 - Programme d'Entraînement Cérébral du Dr Kawashima, Avancé
 
-## Autre, divers
+## Casual games
+
+- Cooking Mama
+- Nintendogs
+- The Sims, The Urbz
+- Viva Pinata Pocket Paradise
+
+## Party Games, jeux de société
 
 - 42 Jeux Indémodables
-- Animal Crossing : Wild World
 - Final Fantasy Fables : Chocobo Tales
 - Mario Party DS
+- Worms Open Warfare 2
+
+## Autre, divers
+
+- Animal Crossing : Wild World
+- Arkanoid DS
+- Chibi Robo 3
 - Metroid Prime Pinball
 - Nervous Brickdown
-- Nintendogs
-- Retro Game Challenge/Game Center CX
+- Game Center CX 1, 2 (Retro Games Challenge)
 - Trauma Center 1, 2
-- Viva Piñata DS
-- Worms Open Warfare 2
 
 ## Les jeux "passe-partout"
 
