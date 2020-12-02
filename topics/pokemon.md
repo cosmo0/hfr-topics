@@ -1,243 +1,102 @@
-Bienvenue sur le topic des MetroidVania, le meilleur genre de jeu de l'univers [:e-te]
+[img]https://i.imgur.com/m1P8t9Nh.png[/img]
 
-Ici on parle de tous les (bons) jeux de type Metroid et/ou Castlevania.
-Histoire de ne pas avoir des pages et des pages, je ne listerais que les jeux sortis sur au moins une console, pas de jeu PC-only. Il suffit de 5mn de recherche pour trouver des indés du genre par millier, il y en a beaucoup trop.
+Bienvenue sur le topic de tous les jeux Pokémon [:zytra]
 
 
-[#FF0000][b]Qu'est-ce qu'un MetroidVania ?[/b][/#FF0000]
+[b][#FF0000]Sommaire[/#FF0000][/b]
 
-C'est la contraction de Metroid et Castlevania, terme apparu après la sortie de Castlevania Symphony of the Night, qui a montré que le genre de jeu "Metroid-Like" pouvait devenir assez complexe.
-Ce sont des jeux de plate-forme/action en 2D qui demandent d'explorer un vaste monde.
+[:icon2] Pokémon Epee/Bouclier
+[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=192075&page=1#t12773842][:icon2] Les jeux de la série principale // Transférer ses pokémons entre jeux[/url]
+[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=192075&page=1#t12773843][:icon2] Les spin-off[/url]
+[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=192075&page=1#t12773851][:icon2] Les inspirations et imitateurs[/url]
+[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=192075&page=1#t12773886][:icon2] Lexique et vocabulaire // Liens utiles et bases de données[/url]
 
-Les critères nécessaires pour prétendre faire partie de la catégorie :
 
-[b]La carte, le monde :[/b]
-- On explore un monde semi-ouvert, avec des zones inter-connectées, qui se débloquent au fur et à mesure que l'on acquiert de nouvelles capacités. Si on peut tout explorer sans avoir besoin d'obtenir des capacités spécifiques, ce n'est pas un MV. Si on doit passer par un hub central ou une carte pour changer de zone, ce n'est pas un MV.
-- On rencontre régulièrement des zones inaccessibles. Plus tard, on retournera les visiter pour pouvoir progresser dans le jeu. Si on ne doit pas revenir en arrière un minimum et re-traverser certaines zones pour pouvoir avancer, ce n'est pas un MV.
-- On peut nous demander d'aller à un endroit spécifique, mais le chemin pour y aller est laissé à la réflexion du joueur. Si le chemin est "évident" ou parfaitement tracé, ce n'est pas un MV.
+[img]https://i.imgur.com/cc6O00ch.jpg[/img]
 
-[b]La progression, l'évolution :[/b]
-- Le personnage acquiert des capacités qui lui permettent de "débloquer" des parties du monde précédemment inaccessibles.
-- Le personnage progresse et augmente sa force, vie, etc.
-- Le personnage gagne des points d'expérience ou assimilé. Si il n'y a pas du tout d'aspect RPG, c'est un Metroid-like, pas un MV. Par simplicité, je ne ferais pas la distinction dans les listes.
+Premier "nouvel épisode" de la série principale sur console de salon !
+Sorti le 15 novembre 2019.
+Le jeu pèse 9.5Go.
+Les sauvegardes ne sont pas compatibles avec le cloud (Switch Online), prétendument pour éviter la triche, ce qui n'empêche évidemment pas les tricheurs.
 
-[b]Le genre :[/b]
-- C'est un jeu de plate-forme 2D, généralement avec de l'action (tir ou frappe, donc pas style Mario ou Sonic). Sinon, c'est un jeu qui reprend les concepts des MV mais n'en est pas vraiment un.
 
+[fixed]La carte / le monde[/fixed]
 
+Le jeu se déroule dans la région de [b]Galar[/b], plus que fortement inspirée par le Royaume Uni post-industriel. Le monde est comme d'habitude très centré autour des combats de pokémon, mais cette fois-ci [b]il y a une réelle ambiance[/b] avec des stades et un public lors des combats, un championnat national, des supporters, etc.
 
-[#FF0000][b]Est-ce vraiment aussi limité ?[/b][/#FF0000]
+La plus grande partie de la carte est de type "collines verdoyantes" ou neigeux/glacé, plus quelques autres environnements : désert, montagnes, mines, etc.
+Il y a également un [b]cycle jour/nuit et une météo[/b] : pluie, neige, tempête de sable, etc.
 
-Mark Brown, dans [url=https://www.youtube.com/watch?v=VQ_KrRq4UiA]une vidéo examinant le level design de Ori[/url], entame une réflexion sur ce qui définit un genre, en prenant comme exemple les "metroidvania".
+[url=https://imgur.com/4rGVSM1][img]http://i.imgur.com/4rGVSM1m.jpg[/img][/url]
 
-Après moult réflexion, je trouve également que l'essence même de ce type de jeu, ce qui m'y plaît en tout cas, est l'exploration d'un monde et la recherche de passages et de secrets.
-C'est mon opinion personnelle, et je vous invite à mener votre propre réflexion sur ce qui vous plaît dans ce genre, pour découvrir d'autres jeux qui vous plairont aussi, sans pour autant adhérer strictement à la formule.
-Cependant, sur ce topic, je me baserais sur mon opinion pour faire mes listes. Vous êtes bien sûr libres d'en discuter et de remettre mes choix en question.
+Cet épisode a [b]une zone plus ouverte que la plupart des épisodes[/b], avec une "zone sauvage", rencontrée très tôt, que l'on peut parcourir librement, et qui est traversée par des pokémons de niveaux divers. On peut donc rencontrer un mastodonte niveau 50 avec son starter level 6 (et bon courage).
 
-Dans une interprétation plus "libre" du genre, les critères évoluent donc de cette manière :
+La "zone sauvage" est assez grande, mais elle ne fait qu'une partie du jeu : [b]le reste est sous forme classique de "routes"[/b] linéaires et dirigistes.
 
-- On explore un monde, de préférence semi-ouvert (qu'on ne peut pas explorer librement dès le début). Revenir sur ses pas doit être possible ; sans ça, le jeu est trop linéaire.
-- Le jeu favorise et encourage l'exploration, la découverte et le backtracking, plutôt que l'avancée "en ligne droite". Ça peut être avec des passages secrets et raccourcis, ou des items à récupérer disséminés un peu partout, par exemple.
-- Le personnage acquiert des capacités, ou le joueur acquiert des connaissances ou de la maîtrise, qui permettent de progresser. Lorsque l'on revient dans les zones du début du jeu, on doit ressentir la progression effectuée.
+[img]https://i.imgur.com/KyoO2grt.jpg[/img] [img]https://i.imgur.com/2YjDwAPt.jpg[/img] [img]https://i.imgur.com/0IuGDX8t.jpg[/img] [img]https://i.imgur.com/8NFBOq1t.jpg[/img]
 
-Ce seraient donc tout simplement des jeux basés sur l'exploration non-linéaire.
+Une première dans la série, [b]les 8 arènes sont différentes entre les versions[/b] : par exemple, dans Epee il y a une arène combat, et dans Bouclier, elle est remplacée par fantôme.
 
-Ce qui laisse donc la porte ouverte notamment aux jeux non violents comme Toki Tori 2, aux jeux qui ne sont pas de la plate-forme 2D comme Metroid Prime, etc.
-Cependant, cela ne donne toujours pas la "qualification" aux jeux qui ont des niveaux distincts, et/ou qui ne permettent pas de revenir en arrière.
 
 
+[fixed]Les pokémons[/fixed]
 
-[b][#FF0000]Légende[/#FF0000][/b]
+Le gros shitstorm de cet épisode, c'est évidemment que [b]tous les pokémons ne sont pas disponibles dans cet épisode[/b] (pas de pokédex national), et sont limités aux pokémons régionaux (environ 400). Ça sera [b]la même chose dans les futurs épisodes[/b], avec une rotation régulière des anciens.
 
-[:asleepbuddah] : de très bons jeux et reconnus comme tels par la communauté et/ou la presse
-[:loomy] : mes coups de coeur personnels
+On peut [b]rencontrer les pokémons sauvages selon 2 modes[/b] :
+- en touchant certains pokémons qui se baladent sur la carte, comme dans Let's Go
+- avec un système de "point d'exclamation" qui peut apparaître dans les hautes herbes, similaire aux herbes qui bougent de Noir/Blanc
 
+[img]https://i.imgur.com/9We7dsRt.jpg[/img] [img]https://i.imgur.com/OJXJ1f4t.jpg[/img] [img]https://i.imgur.com/dryYckJt.jpg[/img]
 
+Pour faciliter la vie des compétiteurs, les [b]pokémons sauvages "compétitifs"[/b] (avec au moins 2 IV max) ont une aura spéciale qui permet de les repérer.
 
-[#FF0000][b]Les classiques[/b][/#FF0000]
+La génération 6 (X/Y) a introduit les méga-évolutions ; elles sont remplacées par des [b]évolutions "dynamax" et "gigamax"[/b]. Pour résumer, une fois par combat et par pokémon, celui-ci devient gigantesque et très fort pendant 3 tours.
 
-Des jeux reprenant tous les éléments des metroidvania (ou de Metroid tout court), sans trop dévier de la formule traditionnelle.
+[b]Tous les pokémons peuvent dynamaxer[/b] (devenir gros) mais [b]tous ne peuvent pas gigamaxer[/b] (prendre une forme spéciale), il faut capturer des versions spéciales dans des [b]raids gigamax jusqu'à 4 joueurs[/b].
 
+[img]https://i.imgur.com/8fBPF6Ot.jpg[/img] [img]https://i.imgur.com/CRh7y8vt.jpg[/img] [img]https://i.imgur.com/lSKPlOXt.jpg[/img]
 
-[:asleepbuddah] [:loomy] [b]Série : Metroid[/b] (1986-2017 - tout Nintendo)
-Metroid sur NES définit un nouveau genre de jeu de plate-forme/action et d'exploration dans un monde étrange, hostile, et complexe. Les épisodes 2D sont basés sur le même modèle et étendent la formule dans différentes directions.
+Les [b]starters[/b] sont flambino / scorbunny (feu), larméléon / sobble (eau) et ouistempo / grookey (plante).
 
-[:asleepbuddah] [:loomy] [b]Série : Castlevania[/b] (1997-2008 - PS1, GBA, DS)
-Après plusieurs épisodes découpés en niveaux traditionnels, Symphony of the Night reprend et étend le modèle Metroid, à tel point qu'il donne la moitié de son nom au genre.
-Tous les Castlevania ne viennent pas du même moule ; les épisodes PS1, GBA et DS sont des MetroidVania, mais pas les autres, ni avant, ni depuis.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=108596]Le topic de tous les Castlevania[/url]
+[img]https://i.imgur.com/yONXqMmt.jpg[/img]
 
-[:asleepbuddah] [:loomy] [b]Shadow Complex[/b] (2009 - X360, XOne, PS4, PC)
-Un modèle du genre, Shadow Complex pâtit de sa DA générique, mais propose un gameplay et un level design extrêmement complets, qui en font un excellent jeu.
+Les [b]légendaires[/b] sont Zacian, pokémon qui tient une épée dans sa gueule, et Zamazenta, pokémon avec une crinière qui lui sert de bouclier.
 
-[b]Aliens infestation[/b] (2011 - DS)
-Rajoute un élément de permadeath à une formule assez traditionnelle, dans un univers pas très funky.
+[img]https://i.imgur.com/g19ScvMt.png[/img]
 
-[:asleepbuddah] [b]Dust : An Elysian Tail[/b] (2012 - X360, PS4, Switch, PC)
-Très fortement inspiré de Muramasa The Demon's Blade dans ses combats qui tendent vers le hack & slash/beat'em up à combos stupidement longues, avec une patte graphique très travaillée, mais il ne faut pas être allergique au furry.
 
-[b]Teslagrad[/b] (2013 - PS3, PS4, Vita, XOne, WiiU, PC)
-Lorgnant plutôt du côté du puzzle-platformer, les combats contre les boss sont réputés extrêmement difficiles.
 
-[:asleepbuddah] [b]Série : Guacamelee[/b] (2013-2018 - X360, PS3, XOne, PS4, Vita, WiiU, PC)
-Un jeu haut en couleurs, qui cherche à être bourré d'humour et de très nombreuses références et easter eggs. Malheureusement, l'humour ne marche pas toujours très bien, et le jeu manque globalement de variété. Le gameplay parfois très axé plate-formes peut rebuter les amateurs du genre, qui n'y sont pas forcément habitués.
+[fixed]Améliorations de vie[/fixed]
 
-[b]Batman - Arkham Origins - Blackgate[/b] (2013 - PS3, Vita, X360, 3DS, WiiU)
-Le spin-off "Blackgate" de la série Batman Arkham est un metroidvania tout ce qu'il y a de plus classique, mais avec la touche Batman.
+Le jeu a une [b]carte modernisée[/b] avec marqueur d'objectif et un meilleur guidage, et [b]la possibilité de se téléporter[/b] un peu n'importe où à n'importe quel moment.
 
-[:loomy] [b]Strider[/b] (2014 - PS3, PS4, X360, XOne, PC)
-Surprise pour le remake de Strider, qui passe d'un jeu de plate-formes/action assez classique à un metroidvania très traditionnel. La conversion est réussie, et le jeu, sans être exceptionnel, est assez plaisant.
+Ce qui a été introduit dans les derniers épisodes est aussi de la partie : il n'y a [b]pas de CS[/b], et le [b]multi-exp est activé par défaut[/b] (mais non désactivable), pour limiter le grind.
 
-[:loomy] [b]Xeodrifter[/b] (2014 - PS4, Vita, 3DS, WiiU, Switch, PC)
-Un metroidvania minimaliste, très court (3-4h), avec 4 environnement (non interconnectés mais le backtracking est bien là), 10-15 ennemis, et 1 seul boss avec plusieurs variations. Et un système de personnalisation d'arme excellent. Pas mauvais, malgré le peu de contenu.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t13976246]Un petit CR par moi-même[/url]
+Il y a un nouveau système de [b]sauvegarde automatique[/b], mais qui est désactivable pour ceux qui aiment retenter un combat légendaire 50 fois jusqu'à avoir un shiny.
 
-[:asleepbuddah] [:loomy] [b]Ori and the Blind Forest[/b] (2015 - X360, XOne, PC)
-Très bon exemple du genre, l'ambiance est excellente, les niveaux sont variés, le gameplay est soigné, le level design est assez varié et très complet.
 
-[:asleepbuddah] [:loomy] [b]Axiom Verge[/b] (2015 - PS4, XOne, Vita, WiiU, Switch, PC)
-Une très forte inspiration du premier Metroid, aussi bien dans la direction artistique que le gameplay. Très sympathique à jouer mais manque un peu d'ambition.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t13995316]Un petit CR par moi-même[/url]
 
-[b]Salt and Sanctuary[/b] (2016 - PS4, Vita, Switch, PC)
-Parfois appelé un SoulsVania, S&S introduit dans le genre un game design très inspiré de Dark Souls.
+[fixed]Mini-jeux[/fixed]
 
-[b]Song of the Deep[/b] (2016 - XOne, PS4, PC)
-Une ambiance atypique pour un jeu aux mécanismes très classiques, et a priori assez facile.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=6#t13916563]Un CR par SetFaz[/url]
+Le [b]camping[/b] permet d'interagir avec son équipe (ou les pokémons des autres joueurs dans les camps multijoueur) pour augmenter leur amitié.
 
-[b]Rabi Ribi[/b] (2016 - PS4, Vita, PC)
-Un metroidvania très axé sur le côté RPG, avec des bunny girls.
+Dans les camps, il est aussi possible de [b]cuisiner des currys[/b] sous forme de mini-jeu, avec jusqu'à 100 recettes, et même un currydex associé, ce qui permet de restaurer la santé des pokémons.
 
-[b]Headlander[/b] (2016 - PS4, XOne, PC)
-Un metroidvania assez orienté "shmup".
+[img]https://i.imgur.com/6kKRyYRt.jpg[/img] [img]https://i.imgur.com/CMOjBATt.jpg[/img] [img]https://i.imgur.com/sXj7L27t.jpg[/img]
 
-[:asleepbuddah] [:loomy] [b]Hollow Knight[/b] (2017 - PS4, XOne, Switch, PC)
-Une nouvelle référence du genre pour beaucoup, ce jeu est cependant assez exigeant et difficile.
 
-[b]The Mummy Demastered[/b] (2017 - PS4, XOne, Switch, PC)
-Ajoute un gimmick de "permadeath" à une formule traditionnelle : à chaque mort, vous vous transformez en zombie, et votre incarnation suivante doit l'affronter pour récupérer les items perdus.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=2#t13524962]Un CR par Eife[/url]
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=6#t13889784]Un CR par sebnec[/url]
 
-[b]Iconoclasts[/b] (2018 - PS4, Switch, PC)
-Développé par un seul homme, il applique religieusement une formule éprouvée dans un habillage 16 bits assez classique.
+[fixed]Autre / divers[/fixed]
 
-[b]Chasm[/b] (2018 - PS4, Switch, PC)
-Encore un roguevania en pixel art, avec des combats très dynamiques.
+Le personnage a de [b]grandes possibilités de personnalisation[/b] : vêtements (haut/bas, chaussures, chapeaux, gants...) et accessoires divers (sac, lunettes...), mais aussi couleur de peau et coupe de cheveux.
+On ne peut en revanche pas modifier son corps (taille, poids, forme du visage...).
 
-[b]TimeSpinner[/b] (2018 - PS4, Vita, Switch, PC)
-Bien réalisé mais souffre de classicisme et d'un manque d'ambition à un peu tous les niveaux.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t14007191]Un micro CR par Online Citron[/url]
+[img]https://i.imgur.com/QV0xSE5t.jpg[/img] [img]https://i.imgur.com/xzB0ajlt.jpg[/img] [img]https://i.imgur.com/dFLztJRt.jpg[/img]
 
-[b]Touhou Luna Nights[/b] (2018 - PC)
-Un hommage à SotN (encore un) dans l'univers Touhou.
 
-[:asleepbuddah] [b]Bloodstained Ritual of the Night[/b] (2019 - PS4, XOne, Switch, PC)
-Le nouveau metroidvania par le créateur des metroidvania : Koji Igarashi, réalisateur de Symphony of the Night.
+Pour gérer les [b]transferts entre épisodes[/b], la Pokébank, qui permet de stocker ses bestioles entre deux épisodes, est remplacée par le [b]Pokémon Home[/b], qui centralise tous les épisodes, Go et Let's Go compris.
 
-[:asleepbuddah] [b]Blasphemous[/b] (2019 - PS4, XOne, Switch, PC)
-Un "metrosoulsvania", avec une iconographie religieuse très marquée et des scènes dérangeantes, en plus d'un système de combat punitif.
-
-
-[#FF0000][b]Les interprétations plus libres[/b][/#FF0000]
-
-Des jeux qui reprennent le "coeur" du genre (l'exploration et la progression) mais sans l'approche traditionnelle (ce ne sont pas des jeux de plate-forme/action 2D par exemple, ou ils y mélangent d'autres genres).
-
-
-[:asleepbuddah] [:loomy] [b]Série : Zelda[/b] (1986-2017 - tout Nintendo)
-Excepté la vue de dessus (ou 3D) plutôt que la vue sur le côté, tous les éléments du Metroidvania sont là : exploration, backtracking, acquisition de capacités, etc.
-Plus précisément, le premier Metroid était une réinvention du premier Zelda en mode plate-forme : les deux sagas sont donc intimement liées dans leurs concepts initiaux.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=155419]Le topic de tous les Zelda[/url]
-
-[:asleepbuddah] [b]Série : Metroid Prime[/b] (2002-2007 - GC, Wii)
-Une réinvention de la formule pour l'adapter en 3D, la série Prime conserve tous les éléments-clé de la série mais avec une vue FPS dans un monde 3D.
-
-[:asleepbuddah] [b]Série : La-Mulana[/b] (2005-2018 - PS4, Vita, XOne, Wii, Switch, PC)
-Des jeux originalement inspirés des classiques MSX, très orientés puzzles et pièges mortels.
-
-[:asleepbuddah] [:loomy] [b]Batman Arkham Asylum[/b] (2009 - X360, PS3, PC)
-Tous les éléments d'un metroidvania sont là : exploration non-linéaire, niveaux imbriqués qui s'ouvrent progressivement, acquisition de capacités, etc. Seul l'enrobage Batman + beat'em up fait oublier les inspirations du jeu.
-Les suites (City, Origins et Knight) ne sont plus du tout des metroidvania mais des open-world tout ce qu'il y a de plus classique.
-
-[:asleepbuddah] [:loomy] [b]Série : Darksiders[/b] (2010 - PS3, PS4, X360, XOne, PC)
-La série est plutôt inspirée de Zelda, mais comme Zelda est très proche de Metroid, la boucle est bouclée.
-
-[b]Insanely Twisted Shadow Planet[/b] (2011 - X360, PC)
-Malgré le gameplay "twin stick shooter", ce jeu au design atypique repose bien sur une progression non linéaire.
-
-[:asleepbuddah] [b]Série : Steamworld Dig[/b] (2013 - WiiU, 3DS, PS4, Vita, XOne, Switch, PC)
-Un metroidvania assez light : la progression est très linéaire, et vous vous créez votre propre chemin en creusant. Les capacités acquises permettent de revisiter les anciens "donjons" afin de récupérer des items pour acheter des améliorations, et de creuser à des endroits précédemment trop durs pour votre pioche. Le 2e épisode est moins linéaire, mais pas au niveau d'un metroidvania plus "classique".
-
-[b]Toki Tori 2[/b] (2013 - PS3, WiiU, Switch, PC)
-Alors que le premier épisode était un jeu de plate-formes/puzzle, le 2e épisode opte pour la voie d'un jeu plus orienté open world. La grande originalité est que les capacité du personnage (un poussin) ne changent pas tout au long de l'aventure, ce sont les connaissances du joueur qui évoluent, sur les interactions possibles. Ce qui fait qu'en recommençant une partie, vous pouvez trouver des chemins alternatifs dès le début du jeu, grâce à vos connaissances étendues des mécaniques.
-
-[b]Sundered[/b] (2017 - PS4, PC, Mac)
-Un "roguevania" aux graphismes superbes, avec des éléments de différents genres, beat'em up et bullet hell notamment.
-
-[:asleepbuddah] [b]Dead Cells[/b] (2017 - PS4, XOne, Switch, PC)
-Un autre "roguevania" en pixel art, qui se targue d'avoir un système de combat se rapprochant de Dark Souls.
-
-[:asleepbuddah] [b]The Messenger[/b] (2018 - Switch, PC)
-Linéaire dans sa première moitié, la seconde fait la part belle à l'exploration, y compris la redécouverte des premiers niveaux.
-
-[:loomy] [b]Yoku's Island Express[/b] (2018 - PS4, XOne, Switch, PC)
-Un jeu très mignon et très original puisqu'il se contrôle comme un flipper, à la manière de Sonic Spinball.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t13997903]Un petit CR par moi-même[/url]
-
-
-
-[b][#FF0000]Les Wonder Boy/Monster World-like[/#FF0000][/b]
-
-La série Wonder Boy, aussi appelée Monster World au Japon depuis le 2e épisode, propose (excepté dans le premier épisode) un type de jeu qui ressemble de loin à Metroid ou Zelda (on gagne des capacités, et on peut ré-explorer les niveaux déjà visités), mais qui est en fait assez différent : revisiter les anciens niveaux n'est pas obligatoire, et les niveaux sont généralement accessibles à partir d'un "hub" central au lieu d'être inter-connectés.
-Le lien de famille entre les deux styles de jeux est cependant bien présent, et il y a souvent une confusion entre les deux styles.
-
-
-[:asleepbuddah] [:loomy] [b]Série : Wonder Boy[/b] (1989-2017 - MS, GG, PCE, Wii, XOne, PS4, Switch, PC)
-La série Wonder Boy est complexe : le premier épisode est complètement à part, il y a plusieurs "épisode 3" dont un qui ne fait pas partie de la série principale, et la série s'appelle plutôt Monster World au Japon.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=8#t14023634]Mon CR du remaster de Dragon's Trap[/url]
-
-[b]Outland[/b] (2011 - X360, PS3, PC)
-
-[b]Série : Shantae[/b] (depuis Pirate's Curse, 2014 - WiiU, 3DS, PS4, XOne, PC)
-
-[b]Apotheon[/b] (2015 - PS4, PC)
-Avec un style "amphore Grecque" très particulier et assez réussi, et des combats exigeants.
-
-[b]Owlboy[/b] (2016 - Switch, PC)
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=5#t13844933]Un CR par sebnec[/url]
-
-
-[#FF0000][b]Les presque mais pas tout à fait[/b][/#FF0000]
-
-Tout comme Dark Souls est devenu la référence unique apposée de manière absurde pour les jeux dès qu'ils sont un peu difficiles, le genre MetroidVania est la référence de genre de jeu de plate-forme qui demande d'explorer un peu les niveaux, ou qui permet de revisiter les anciens pour trouver 2 ou 3 collectibles.
-
-Les jeux suivants sont parfois (ou souvent) décrits comme étant des MV, mais il leur manque toujours au moins un critère pour être réellement du genre.
-Généralement, les jeux permettent d'acquérir des capacités et d'explorer les niveaux, mais bien souvent, ces jeux sont souvent assez linéaires dans leur progression.
-
-
-[b]Cave Story[/b] (2004 - DS, Wii, 3DS, Switch, PC)
-Assez linéaire, le backtracking se résume à re-visiter certaines zones après certains événements.
-
-[b]Muramasa : The Demon Blade[/b] (2009 - Vita, Wii)
-Plus proche de l'action-RPG ou du beat'em up, les niveaux sont plats et linéaires.
-
-[b]VVVVVV[/b] (2010 - 3DS, PS4, Vita, Switch, PC)
-Plus un platformer hardcore ou jeu de platformes/puzzles, il n'y a pas de progression du personnage.
-
-[b]Unepic[/b] (2011 - Vita, PS4, XOne, WiiU, Switch, PC)
-
-[b]Mystik Belle[/b] (2015 - PS4, XOne, PC)
-Un platformer mélangeant différent styles : outre des éléments de metroidvania, on y retrouve du shoot'em up, et de l'aventure à la Dizzy.
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=195593&page=5#t13816328]Un CR par sebnec[/url]
-
-[b]Owlboy[/b] (2016 - PS4, XOne, Switch, PC)
-Plus un mélange de platformer et shoot'em up qu'un metroidvania.
-
-
-
-Voir aussi la tétrachiée de jeux indé PC sous le tag Metroidvania : http://store.steampowered.com/search/?tags=1628
-Il y en a trop pour les lister tous ici. D'autant plus que certains ne sont absolument pas des metroidvania, mais de simples jeux de plate-forme/action.
 
 [fixed]Les jeux de la série principale[/fixed]
 
@@ -428,6 +287,8 @@ Les transferts d'une génération à la suivante sont tous à sens unique. La Ba
 
 [url=https://i.imgur.com/rW8SiG1.png][img]https://i.imgur.com/rW8SiG1l.png[/img][/url]
 
+
+
 [fixed]Les spin-off[/fixed]
 
 Il en existe des milliers, je ne vais lister que les épisodes "principaux" : les intéressants et les connus.
@@ -519,6 +380,8 @@ Stockage en ligne de pokémons.
 [b]Pokémon Box, Ranch[/b] (GC, Wii, WiiU)
 Stockage local de pokémons, avec possibilité d'interagir avec eux.
 
+
+
 [fixed]Les inspirations et imitateurs[/fixed]
 
 Une liste de tous les jeux qui ont au moins une mécanique similaire : capture et collection de monstres (ou autre), évolution de ceux-ci, combat indirect à travers ces monstres.
@@ -559,6 +422,8 @@ Pour les séries je me contente du premier épisode.
 [b]Nexomon[/b] (2019, PC/Smartphones)
 
 [b]TemTem[/b] (2020, PC)
+
+
 
 [fixed]Lexique et vocabulaire[/fixed]
 
