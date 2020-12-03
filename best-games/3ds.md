@@ -7,28 +7,28 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 ## Aventure/action
 
 - Code of Princess (eshop)
-- Fire Emblem Warriors (New 3DS)
-- Hyrule Warriors
-- Kid Icarus Uprising
-- Luigi's Mansion 1, 2
+- **Fire Emblem Warriors** (New 3DS)
+- **Hyrule Warriors**
+- **Kid Icarus Uprising**
+- **Luigi's Mansion 1, 2**
 - Metal Gear Solid Snake Eater
-- Monster Hunter 3, 4, Generations
+- **Monster Hunter 3, 4, Generations**
 - Resident Evil Revelations
 - Retro City Rampage DX (eshop)
 - River City Tokyo Rumble, Rival Showdown (eshop)
 - Star Fox 64 3D
-- The Binding of Isaac Rebirth (New 3DS eshop)
+- **The Binding of Isaac Rebirth** (New 3DS eshop)
 - Wario Ware Gold
-- Zelda [Link Between Worlds](https://www.cosmo0.fr/critique/the-legend-of-zelda-a-link-between-worlds/), [Ocarina of Time 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-ocarina-of-time-3d/), [Majora's Mask 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-majoras-mask-3d/)
+- **Zelda** [Link Between Worlds](https://www.cosmo0.fr/critique/the-legend-of-zelda-a-link-between-worlds/), [Ocarina of Time 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-ocarina-of-time-3d/), [Majora's Mask 3D](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-majoras-mask-3d/)
 
 ## Plate-forme
 
-- [Donkey Kong Country Returns](https://www.cosmo0.fr/critique/critique-express/donkey-kong-country-returns-3d/)
-- Kirby Planet Robobot, Triple Deluxe, Extra Epic Yarn
-- [New Super Mario Bros 2](https://www.cosmo0.fr/critique/critique-express/new-super-mario-bros-2/)
+- **[Donkey Kong Country Returns](https://www.cosmo0.fr/critique/critique-express/donkey-kong-country-returns-3d/)**
+- **Kirby Planet Robobot, Triple Deluxe, Extra Epic Yarn**
+- **[New Super Mario Bros 2](https://www.cosmo0.fr/critique/critique-express/new-super-mario-bros-2/)**
 - Poochy & Yoshi's Wooly World
-- [Super Mario 3D Land](https://www.cosmo0.fr/critique/critique-express/super-mario-3d-land/)
-- Super Mario Maker
+- **[Super Mario 3D Land](https://www.cosmo0.fr/critique/critique-express/super-mario-3d-land/)**
+- **Super Mario Maker**
 - VVVVVV (eshop)
 
 ## Plate-forme/action, metroidvanias
@@ -38,7 +38,7 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 - [Bloodstained Curse of the Moon](https://www.cosmo0.fr/critique/bloodstained-curse-of-the-moon/) (eshop)
 - [Cave Story](https://www.cosmo0.fr/critique/critique-express/cave-story/) (eshop)
 - Cursed Castilla
-- [Metroid Samus Returns](https://www.cosmo0.fr/critique/metroid-samus-returns/)
+- **[Metroid Samus Returns](https://www.cosmo0.fr/critique/metroid-samus-returns/)**
 - Mighty Gunvolt, Burst (eshop)
 - [Mutant Mudds](https://www.cosmo0.fr/critique/mutant-mudds-collection/) (eshop)
 - Shovel Knight (eshop)
@@ -48,61 +48,61 @@ Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu
 ## RPG
 
 - Alliance Alive
-- Bravely Default, Bravely Second
+- **Bravely Default, Bravely Second**
 - Crimson Shroud (eshop)
-- Dragon Quest VII, VIII
-- Etrian Odyssey Untold, Untold 2, IV, V, Nexus
+- **Dragon Quest VII, VIII**
+- **Etrian Odyssey Untold, Untold 2, IV, V, Nexus**
 - Etrian Mystery Dungeon
 - Ever Oasis
 - Fantasy Life
 - Kingdom Hearts 3D
-- Mario & Luigi Dream Team Bros, Superstar Saga+Bowser's Minions, Bower's Inside Story
+- **Mario & Luigi Dream Team Bros, Superstar Saga+Bowser's Minions, Bower's Inside Story**
 - Miitopia
-- Monster Hunter Stories
+- **Monster Hunter Stories**
 - Persona Q, Q2
-- Radiant Historia Perfect Chronology
-- Rune Factory 4
-- Shin Megami Tensei IV, IV Apocalypse, Strange Journey
-- Pokémon Soleil/Lune, Ultra Soleil/Ultra Lune, X/Y, Saphir Alpha/Rubis Omega
+- **Radiant Historia Perfect Chronology**
+- **Rune Factory 4**
+- **Shin Megami Tensei IV, IV Apocalypse, Strange Journey**
+- **Pokémon Soleil/Lune, Ultra Soleil/Ultra Lune, X/Y, Saphir Alpha/Rubis Omega**
 - Pokémon Super Mystery Dungeon
 - Yo-Kai Watch 1, 2, 3, Blasters
-- Xenoblade Chronicles 3D (New 3DS)
+- **Xenoblade Chronicles 3D** (New 3DS)
 
 ## Stratégie, tactique
 
-- Fire Emblem Awakening, [Fates](https://www.cosmo0.fr/critique/critique-express/fire-emblem-fates/), Echoes
-- Shin Megami Tensei Devil Survivor 1, 2
+- **Fire Emblem Awakening, [Fates](https://www.cosmo0.fr/critique/critique-express/fire-emblem-fates/), Echoes**
+- **Shin Megami Tensei Devil Survivor 1, 2**
 - Steamworld Heist (eshop)
 
 ## Puzzle, réflexion
 
-- BoxBoy, BoxBoxBoy, ByeByeBoxBoy (eshop)
-- Captain Toad Treasure Tracker
+- **BoxBoy, BoxBoxBoy, ByeByeBoxBoy** (eshop)
+- **Captain Toad Treasure Tracker**
 - Detective Pikachu (enfants)
 - Mario & Donkey Kong Minis on the Move (eshop)
 - Picross 3D 1, 2
-- Phoenix Wright (tous) (eshop)
-- Professeur Layton (tous)
+- **Phoenix Wright** (tous) (eshop)
+- **Professeur Layton** (tous)
 - Pullblox, Fallblox, Fullblox (eshop)
 - Sushi Striker
 
 ## Autre, divers
 
-- [Animal Crossing New Leaf](https://www.cosmo0.fr/critique/critique-express/animal-crossing-new-leaf/)
+- **[Animal Crossing New Leaf](https://www.cosmo0.fr/critique/critique-express/animal-crossing-new-leaf/)**
 - [Bit.Trip Saga](https://www.cosmo0.fr/critique/critique-express/bit-trip-saga/)
-- Mario Kart 7
-- Mario Golf
+- **Mario Kart 7**
+- **Mario Golf**
 - Mario Party Top 100, Island Tour
 - Nintendo Pocket Football Club (eshop)
 - Pocket Card Jockey
-- Rhythm Paradise
-- Sega 3D Classics (certains sur l'eshop)
+- **Rhythm Paradise**
+- **Sega 3D Classics** (certains sur l'eshop)
 - Street Fighter IV
-- Super Smash Bros
-- Theathrythm Final Fantasy Curtain Call
+- **Super Smash Bros**
+- **Theathrythm Final Fantasy Curtain Call**
 - Tomodachi Life
-- Ultimate NES Remix
-- Wario Ware Gold
+- **Ultimate NES Remix**
+- **Wario Ware Gold**
 
 ## Jeux DS
 

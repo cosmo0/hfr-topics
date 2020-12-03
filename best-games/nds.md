@@ -9,37 +9,37 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Bomberman Land Touch! 1, 2
 - Dementium : The Ward
 - Dragon Ball Origins 1, 2
-- Grand Theft Auto Chinatown Wars
+- **Grand Theft Auto Chinatown Wars**
 - Lost In Blue
 - Ninja Gaiden : Dragon Sword
-- Okamiden
+- **Okamiden**
 - Resident Evil : Deadly Silence
-- Zelda Spirit Tracks, Phantom Hourglass
+- **Zelda Spirit Tracks, Phantom Hourglass**
 
 ## FPS, shooter
 
 - Brother In Arms DS
 - Call of Duty 4
-- Goldeneye 007 (Activision)
+- **Goldeneye 007** (Activision)
 - Jet Impulse
-- Metroid Prime : Hunters
+- Metroid Prime Hunters
 - Moon
 
 ## Plate-forme
 
 - Assassin's Creed II : Discovery
-- Donkey Kong Jungle Climber
+- **Donkey Kong Jungle Climber**
 - Ivy the Kiwi
-- Kirby Le Pinceau de Pouvoir, Les Souris Attaquent, Super Stars Ultra, Mass Attack
+- **Kirby Le Pinceau de Pouvoir, Les Souris Attaquent, Super Stars Ultra, Mass Attack**
 - N+
-- New Super Mario Bros
-- Mario 64 DS
+- **New Super Mario Bros**
+- **Mario 64 DS**
 - Metal Slug 7
 - Pac n Roll
 - Prince of Persia : The Fallen King
-- Sonic Rush Adventure
-- Soul Bubbles
-- Super Princess Peach
+- **Sonic Rush Adventure**
+- **Soul Bubbles**
+- **Super Princess Peach**
 - The Legendary Starfy
 - Wario Master of Disguise
 - Yoshi's Island DS
@@ -47,11 +47,11 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 ## Plate-forme/action, metroidvanias
 
 - Aliens infestation
-- Castlevania Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia
+- **Castlevania Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia**
 - Contra 4
-- Mega Man ZX, ZX Advent, Zero Collection
+- **Mega Man ZX, ZX Advent, Zero Collection**
 - Monster Tale
-- Spider-man: Web of Shadows
+- **Spider-man: Web of Shadows**
 - The Legend of Kage 2
 
 ## RPG
@@ -61,90 +61,90 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Away: Shuffle Dungeon
 - Boktai DS
 - Children of Mana
-- Chrono Trigger
+- **Chrono Trigger**
 - Contact
 - Digimon World DS, Dusk/Dawn
 - Dragonball Z: Attack of the Saiyans
-- Dragon Quest IV, V, VI, IX, Monsters Joker 1/2, Heroes Rocket Slime
+- **Dragon Quest IV, V, VI, IX, Monsters Joker 1/2, Heroes Rocket Slime**
 - Dungeon Explorer
-- Etrian Odyssey 1, 2
-- Final Fantasy III, IV, Gaiden
+- **Etrian Odyssey 1, 2**
+- **Final Fantasy III, IV**
 - Final Fantasy Crystal Chronicles Rings of Fate, Echoes of Time
-- Infinite Space
+- **Infinite Space**
 - Izuna 1, 2
 - Kingdom Hearts 358/2 Days
 - Magical Starsign
-- Mario & Luigi Voyage Au Centre De Bowser, Les Frères Du Temps
+- **Mario & Luigi Voyage Au Centre De Bowser, Les Frères Du Temps**
 - Megaman Battle Network 5 Double Team DS
 - Mystery Dungeon Shiren The Wanderer
-- Lunar Knights
+- **Lunar Knights**
 - Orcs & Elves
 - Phantasy Star Zero
-- Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold, Noir/Blanc
+- **Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold, Noir/Blanc**
 - Pokémon Donjon Mystère Rouge/Bleu, Explorateurs du Temps/Des Ténèbres
 - Pokémon Ranger 2, 3
-- Radiant Historia
+- **Radiant Historia**
 - Rhapsody: A Musical Adventure
 - Rune Factory 1, 2
-- Shin Megami Tensei Strange Journey
+- **Shin Megami Tensei Strange Journey**
 - Solatorobo: Red the Hunter
 - Soma Bringer
 - Sonic Chronicles The Dark Brotherhood
 - Steal Princess
 - Suikoden Tierkreis
 - The Dark Spire
-- The World Ends With You
+- **The World Ends With You**
 - Tingle's Rosy Rupeeland
 
 ## S-RPG, T-RPG
 
-- Disgaea Hours of Darkness
-- Fire Emblem Shadow Dragon
+- **Disgaea Hours of Darkness**
+- **Fire Emblem Shadow Dragon**
 - Knights In The Nightmare
 - Luminous Arc 1, 2
 - Rondo of Swords
-- Shin Megami Tensei Devil Survivor 1, 2
+- **Shin Megami Tensei Devil Survivor 1, 2**
 - Shining Force Feather
 - Super Robot Taisen OG Saga
 - Valkyrie Profile Covenant of the Plume
 
 ## Stratégie, tactique, gesttion
 
-- Advance Wars Dual Srike, Dark Conflict (Days of Ruin)
+- **Advance Wars Dual Srike, Dark Conflict (Days of Ruin)**
 - Anno 1701, 1404 (Dawn of Discovery)
-- Age of Empires Mythology, Age of Kings
+- **Age of Empires Mythology, Age of Kings**
 - City Life DS
-- Civilization Revolution
-- Drone Tactics
-- Final Fantasy Tactics A2, XII Revenant Wings
-- Front Mission 1st
+- **Civilization Revolution**
+- **Drone Tactics**
+- **Final Fantasy Tactics A2, XII Revenant Wings**
+- **Front Mission 1st**
 - Lock's Quest
 - Ninjatown
 - Mini Ninjas
 - Panzer Tactics DS
 - Plants vs Zombies
-- Pokémon Conquest
+- **Pokémon Conquest**
 - Sim City DS, Creator
 - Theme Park
 - Warhammer 40.000 : Squad Command
 
 ## Shmups
 
-- Bangai-O Spirits
+- **Bangai-O Spirits**
 - Big Bang Mini
-- Geometry Wars : Galaxies
+- **Geometry Wars Galaxies**
 - Glory Days 2
-- Ketsui Death Label
+- **Ketsui Death Label**
 - Little Red Riding Hood Zombie BBQ
 - Nanostray 1, 2
-- Space Invaders Extreme 1, 2
+- **Space Invaders Extreme 1, 2**
 
 ## Baston, combat
 
-- Bleach Blade of Fate, Dark Souls
+- **Bleach Blade of Fate, Dark Souls**
 - Draglade
 - Dragon Ball Z Supersonic Warriors 1, 2
-- Jump Ultimate Star
+- **Jump Ultimate Star**
 - One Piece: Gigant Battle
 - Ultimate Mortal Kombat
 
@@ -158,13 +158,13 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Blood Bowl
 - Don King Boxing
 - Inazuma Eleven
-- Mario & Sonic aux Jeux Olympiques
-- Mario Slam! Basketball (Hoops 3 on 3)
-- New International Track & Field
-- Nintendo Touch Golf : Birdie Challenge
+- **Mario & Sonic aux Jeux Olympiques**
+- **Mario Slam! Basketball (Hoops 3 on 3)**
+- **New International Track & Field**
+- Nintendo Touch Golf Birdie Challenge
 - Sega Superstars Tennis
 - Skate It
-- Super Dodgeball Brawlers
+- **Super Dodgeball Brawlers**
 - Tiger Woods PGA Tour 08
 - Tony Hawk Proving Ground, American Sk8land
 - Top Spin 3
@@ -172,90 +172,91 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 ## Puzzle, réflexion
 
 - Air Traffic Controller
-- Henry Hatsworth : L'Incroyable Expédition
+- **Henry Hatsworth : L'Incroyable Expédition**
 - Mario vs Donkey Kong 2
-- Might & Magic Clash of Heroes
+- **Meteos**
+- **Might & Magic Clash of Heroes**
 - Pac-Pix
 - Pic Pic
-- Picross DS, 3D
+- **Picross DS, 3D**
 - Peggle Dual Shot
 - Planet Puzzle League (Panel De Pon DS)
-- Polarium
-- Puzzle Quest, Challenge of the Warlords, Galactrix
+- **Polarium**
+- **Puzzle Quest, Challenge of the Warlords, Galactrix**
 - Super Scribblenauts
-- Tetris DS
+- **Tetris DS**
 - Wario Ware Touched!
 - Zoo Keeper
 
 ## Aventure, point & click, visual novel
 
-- 999: 9 Hours, 9 Persons, 9 Doors
-- Another Code (Trace Memory)
+- **999: 9 Hours, 9 Persons, 9 Doors**
+- **Another Code (Trace Memory)**
 - Corpse Party
 - Flower, Sun and Rain
 - Galileo Mystery: The Crown of Midas
-- Ghost Trick Phantom Detective
-- Hotel Dusk Room 215
+- **Ghost Trick Phantom Detective**
+- **Hotel Dusk Room 215**
 - Jake Hunter: Memories of the past
 - Last Window: The Secret of Cape West
 - Les Chevaliers de Baphomet Director's Cut
 - Life Signs : Hospital Affairs
-- Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth
-- Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre
+- **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth**
+- **Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
 - Runaway The Dream of the Turtle, A Twist of Fate
 - Time Hollow
 - Touch Detective 1, 2
 
 ## Musique, rythme
 
-- Elite Beat Agent
+- **Elite Beat Agent**
 - Guitar Hero On Tour : Decades
 - Jam with the Band (Daigasso! Band Brothers)
 - Jam Sessions
 - Maestro! Jump in Music
 - Nodame Cantabile
 - Ontamarama
-- Osu! Tatakae! Oendan!, Oendan 2
-- Rhythm Paradise
-- Taiko no Tatsujin
+- **Osu! Tatakae! Oendan!, Oendan 2**
+- **Rhythm Paradise**
+- **Taiko no Tatsujin**
 
 ## Course
 
 - Asphalt Urban GT 1, 2
-- Mario Kart DS
+- **Mario Kart DS**
 - Moto Racer DS
 - Trackmania
 
 ## Ludo-éducatif
 
-- Art Academy
+- **Art Academy**
 - Cérébrale Académie
 - English Training
 - Master of Illusion
-- Programme d'Entraînement Cérébral du Dr Kawashima, Avancé
+- **Programme d'Entraînement Cérébral du Dr Kawashima, Avancé**
 
 ## Casual games
 
-- Cooking Mama
-- Nintendogs
+- **Cooking Mama**
+- **Nintendogs**
 - The Sims, The Urbz
 - Viva Pinata Pocket Paradise
 
 ## Party Games, jeux de société
 
-- 42 Jeux Indémodables
+- **42 Jeux Indémodables**
 - Final Fantasy Fables : Chocobo Tales
-- Mario Party DS
+- **Mario Party DS**
 - Worms Open Warfare 2
 
 ## Autre, divers
 
-- Animal Crossing : Wild World
+- **Animal Crossing : Wild World**
 - Arkanoid DS
 - Chibi Robo 3
 - Metroid Prime Pinball
 - Nervous Brickdown
-- Game Center CX 1, 2 (Retro Games Challenge)
+- **Game Center CX 1, 2 (Retro Games Challenge)**
 - Trauma Center 1, 2
 
 ## Les jeux "passe-partout"
