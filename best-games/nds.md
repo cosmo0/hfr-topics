@@ -128,46 +128,24 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Theme Park
 - Warhammer 40.000 : Squad Command
 
-## Shmups
+## Aventure, point & click, visual novel
 
-- **Bangai-O Spirits**
-- Big Bang Mini
-- **Geometry Wars Galaxies**
-- Glory Days 2
-- **Ketsui Death Label**
-- Little Red Riding Hood Zombie BBQ
-- Nanostray 1, 2
-- **Space Invaders Extreme 1, 2**
-
-## Baston, combat
-
-- **Bleach Blade of Fate, Dark Souls**
-- Draglade
-- Dragon Ball Z Supersonic Warriors 1, 2
-- **Jump Ultimate Star**
-- One Piece: Gigant Battle
-- Ultimate Mortal Kombat
-
-## Beat'em Up
-
-- Tokyo Beatdown
-- Viewtiful Joe : Double Trouble
-
-## Sport
-
-- Blood Bowl
-- Don King Boxing
-- Inazuma Eleven
-- **Mario & Sonic aux Jeux Olympiques**
-- **Mario Slam! Basketball (Hoops 3 on 3)**
-- **New International Track & Field**
-- Nintendo Touch Golf Birdie Challenge
-- Sega Superstars Tennis
-- Skate It
-- **Super Dodgeball Brawlers**
-- Tiger Woods PGA Tour 08
-- Tony Hawk Proving Ground, American Sk8land
-- Top Spin 3
+- **999: 9 Hours, 9 Persons, 9 Doors**
+- **Another Code (Trace Memory)**
+- Corpse Party
+- Flower, Sun and Rain
+- Galileo Mystery: The Crown of Midas
+- **Ghost Trick Phantom Detective**
+- **Hotel Dusk Room 215**
+- Jake Hunter: Memories of the past
+- Last Window: The Secret of Cape West
+- Les Chevaliers de Baphomet Director's Cut
+- Life Signs : Hospital Affairs
+- **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth**
+- **Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
+- Runaway The Dream of the Turtle, A Twist of Fate
+- Time Hollow
+- Touch Detective 1, 2
 
 ## Puzzle, réflexion
 
@@ -188,24 +166,53 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Wario Ware Touched!
 - Zoo Keeper
 
-## Aventure, point & click, visual novel
+## Sport
 
-- **999: 9 Hours, 9 Persons, 9 Doors**
-- **Another Code (Trace Memory)**
-- Corpse Party
-- Flower, Sun and Rain
-- Galileo Mystery: The Crown of Midas
-- **Ghost Trick Phantom Detective**
-- **Hotel Dusk Room 215**
-- Jake Hunter: Memories of the past
-- Last Window: The Secret of Cape West
-- Les Chevaliers de Baphomet Director's Cut
-- Life Signs : Hospital Affairs
-- **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth**
-- **Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
-- Runaway The Dream of the Turtle, A Twist of Fate
-- Time Hollow
-- Touch Detective 1, 2
+- Blood Bowl
+- Don King Boxing
+- Inazuma Eleven
+- **Mario & Sonic aux Jeux Olympiques**
+- **Mario Slam! Basketball (Hoops 3 on 3)**
+- **New International Track & Field**
+- Nintendo Touch Golf Birdie Challenge
+- Sega Superstars Tennis
+- Skate It
+- **Super Dodgeball Brawlers**
+- Tiger Woods PGA Tour 08
+- Tony Hawk Proving Ground, American Sk8land
+- Top Spin 3
+
+## Course
+
+- Asphalt Urban GT 1, 2
+- **Mario Kart DS**
+- Moto Racer DS
+- Trackmania
+
+## Baston, combat
+
+- **Bleach Blade of Fate, Dark Souls**
+- Draglade
+- Dragon Ball Z Supersonic Warriors 1, 2
+- **Jump Ultimate Star**
+- One Piece: Gigant Battle
+- Ultimate Mortal Kombat
+
+## Beat'em Up
+
+- Tokyo Beatdown
+- Viewtiful Joe : Double Trouble
+
+## Shmups
+
+- **Bangai-O Spirits**
+- Big Bang Mini
+- **Geometry Wars Galaxies**
+- Glory Days 2
+- **Ketsui Death Label**
+- Little Red Riding Hood Zombie BBQ
+- Nanostray 1, 2
+- **Space Invaders Extreme 1, 2**
 
 ## Musique, rythme
 
@@ -220,20 +227,12 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - **Rhythm Paradise**
 - **Taiko no Tatsujin**
 
-## Course
+## Party Games, jeux de société
 
-- Asphalt Urban GT 1, 2
-- **Mario Kart DS**
-- Moto Racer DS
-- Trackmania
-
-## Ludo-éducatif
-
-- **Art Academy**
-- Cérébrale Académie
-- English Training
-- Master of Illusion
-- **Programme d'Entraînement Cérébral du Dr Kawashima, Avancé**
+- **42 Jeux Indémodables**
+- Final Fantasy Fables : Chocobo Tales
+- **Mario Party DS**
+- Worms Open Warfare 2
 
 ## Casual games
 
@@ -242,12 +241,13 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - The Sims, The Urbz
 - Viva Pinata Pocket Paradise
 
-## Party Games, jeux de société
+## Ludo-éducatif
 
-- **42 Jeux Indémodables**
-- Final Fantasy Fables : Chocobo Tales
-- **Mario Party DS**
-- Worms Open Warfare 2
+- **Art Academy**
+- Cérébrale Académie
+- English Training
+- Master of Illusion
+- **Programme d'Entraînement Cérébral du Dr Kawashima, Avancé**
 
 ## Autre, divers
 
