@@ -132,7 +132,6 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 
 - **999: 9 Hours, 9 Persons, 9 Doors**
 - **Another Code (Trace Memory)**
-- Corpse Party
 - Flower, Sun and Rain
 - Galileo Mystery: The Crown of Midas
 - **Ghost Trick Phantom Detective**
