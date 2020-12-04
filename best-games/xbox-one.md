@@ -1,4 +1,4 @@
-# Les meilleurs jeux sur Xbox On
+# Les meilleurs jeux sur Xbox One
 
 Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
 
