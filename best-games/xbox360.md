@@ -4,11 +4,14 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la Xbox originale.
 
+Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft, parfois en rétrocompatibilité, parfois en version remasterisée Xbox One.
+
 ## Aventure/action
 
-- Banjo-Kazooie Nuts & Bolts
+- Alice Madness Returns (Game Pass)
+- Banjo-Kazooie, Nuts & Bolts, Banjo Tooie (tous sur le Game Pass)
 - Beyond Good & Evil HD
-- Brutal Legend
+- Brutal Legend (Game Pass)
 - **Darksiders 1, 2**
 - **Enslaved Odyssey to the West**
 - Kameo Elements of Power
@@ -25,13 +28,14 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - Castle Crashers
 - Castlevania Lords of Shadow 1, 2
 - Conan
-- **Dante's Inferno**
+- **Dante's Inferno** (Game Pass)
 - Devil May Cry HD Collection, 4, DmC Devil May Cry
+- Double Dragon Neon
 - Guardian Heroes
 - Lollipop Chainsaw
 - Marvel Ultimate Alliance 1, 2
 - **Metal Gear Rising Revengeance**
-- **Ninja Gaiden 2**
+- **Ninja Gaiden 2** (Game Pass)
 - Streets of Rage Vintage Collection
 
 ## Open world
@@ -50,23 +54,24 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 
 ## FPS
 
-- **Battlefield 3, 4, Bad Company 1/2, Hardline, 1943**
+- **Battlefield 3, 4, Bad Company 1/2, Hardline, 1943** (tous sur le Game Pas)
 - **Bioshock 1, 2, Infinite**
 - **Borderlands 1, 2, Pre-Sequel**
 - Bulletstorm
 - **Call of Duty 2, Modern Warfare 1/2/3, Black Ops 1/2, World At War, Ghosts, Advanced Warfare**
-- Crysis 1, 2, 3
+- Crysis 1, 2, 3 (tous sur le Game Pass)
 - **Deus Ex Human Revolution**
 - **Far Cry 2, 3, 4, Blood Dragon**
 - FEAR 1, 2, 3
 - **Ghost Recon Advanced Warfighter 1, 2**
 - Half-Life 2
-- **Halo CE Anniversary, 3, 4, ODST, Reach**
+- **Halo CE Anniversary, 3, 4, ODST, Reach** (tous sur le Game Pass)
 - Medal of Honor Airborne
 - Metro 2033, Last Light
-- **Mirror's Edge**
-- Perfect Dark, Zero
+- **Mirror's Edge** (Game Pass)
+- Perfect Dark, Zero (Game Pass)
 - Rainbow Six Vegas 1/2
+- Shadows of the Damned
 - Singularity
 - The Chronicles of Riddick Assault on Dark Athena
 - The Darkness 1, 2
@@ -75,8 +80,8 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 ## TPS
 
 - 50 Cents Blood on the Sand
-- Army of Two 1, 2
-- **Gears of War 1, 2, 3, Judgment**
+- Army of Two 1 (Game Pass), 2
+- **Gears of War 1, 2, 3, Judgment** (tous sur le Game Pass)
 - Lost Planet 1, 2
 - Max Payne 3
 - Red Faction Armageddon, Guerilla
@@ -95,13 +100,13 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 
 ## Survival/horror
 
-- **Alan Wake**
+- **Alan Wake** (Game Pass)
 - **Dead Rising 1, 2**
-- **Dead Space 1, 2**
+- **Dead Space 1, 2, 3** (tous sur le Game Pass)
 - **Left 4 Dead 1, 2, 3**
 - Resident Evil 0, 1, 4, 5, 6, Revelations
 - Silent Hill HD Collection
-- State of Decay
+- State of Decay (Game Pass)
 
 ## Plateforme, plateforme/action, metroidvania
 
@@ -133,26 +138,26 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - **Dark Souls 1, 2**
 - **Diablo 3**
 - **Divinity 2**
-- **Dragon Age Origins, II, Inquisition**
+- **Dragon Age Origins, II, Inquisition** (tous sur le Game Pass)
 - Dragon's Dogma Dark Arisen
 - Dungeon Siege 3
 - Enchanted Arms
 - Eternal Sonata
-- **Fable Anniversary, 2, 3**
-- **Fallout 3, New Vegas**
+- **Fable Anniversary, 2, 3** (tous sur le Game Pass)
+- **Fallout 3, New Vegas (Game Pass)**
 - **Final Fantasy XIII, XIII-2, Lightning Returns**
 - Infinite Undiscovery
 - Kingdoms of Amalur Reckoning
 - **Lost Odyssey**
 - Magna Carta 2
-- **Mass Effect 1, 2, 3**
+- **Mass Effect 1, 2, 3** (tous sur le Game Pass)
 - Nier
 - Resonance of Fate
 - Risen 1, 2, 3
 - Sacred 2, 3
 - South Park The Stick of Truth
 - Star Ocean The Last Hope
-- **Tales of Vesperia**
+- **Tales of Vesperia** (Game Pass)
 - **The Elder Scrolls Oblivion, Skyrim**
 - The Last Remnant
 - **The Witcher 2**
@@ -165,7 +170,7 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - Command & Conquer 3, Red Alert 3
 - Defense Grid
 - **Halo Wars**
-- Plants vs Zombies
+- Plants vs Zombies (Game Pass)
 - Supreme Commander 1, 2
 - Tropico 3, 4
 - **XCOM Enemy Unknown, Enemy Within**
@@ -176,23 +181,24 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - Deadly Premonition
 - **LA Noire**
 - Sam & Max Save The World, Beyond Time & Space
-- **Telltale's The Walking Dead, The Wolf Among Us, Tales From The Borderlands, Batman**
+- **Telltale's The Walking Dead (Game Pass), The Wolf Among Us, Tales From The Borderlands, Batman**
 - The Secret of Monkey Island, Monkey Island 2
 
 ## Puzzle
 
+- Bejeweled 2, 3 (tous sur le Game Pass)
 - Brothers A Tale of Two Sons
 - Catherine
 - Hexic HD
 - **Lara Croft Guardian of Light**
 - Lumines Live
 - Might & Magic Clash of Heroes
-- **Peggle**
+- **Peggle 1, 2** (tous sur le Game Pass)
 - **Portal 1, 2**
 - Puzzle Quest Challenge of the Warlords
 - Super Puzzle Fighter 2 Turbo HD Remix
 - Stacking
-- Zuma
+- Zuma, Zuma's Revenge (tous sur le Game Pass)
 
 ## Sport
 
@@ -203,8 +209,8 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - NBA Jam On Fire
 - NHL 08-14
 - Pro Evolution Soccer 2008-2014
-- **Skate 1, 2, 3**
-- **SSX (2012)**
+- **Skate 1, 2, 3 (Game Pass)**
+- **SSX (2012) (Game Pass)**
 - Tiger Woods PGA Tour 06-14
 - **Top Spin 3, 4**
 - **Virtua Tennis 3**
@@ -212,7 +218,7 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 ## Course
 
 - **Blur**
-- **Burnout Revenge, Paradise**
+- **Burnout Revenge, Paradise (Game Pass)**
 - Daytona USA
 - **DiRT 1, 2, 3, Shodwdown**
 - **F1 2010-2014**
@@ -238,7 +244,7 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - **Dead Or Alive 4, 5**
 - Def Jam Icon
 - Dragon Ball Xenoverse
-- Fight Night 3, 4, Champion
+- Fight Night 3, 4, Champion (Game Pass)
 - Garou Mark of the Wolves
 - Guilty Gear XX Accent Core Plus
 - **Injustice**
@@ -253,7 +259,7 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - UFC Undisputed 2010, 3
 - **Virtua Fighter 5**
 
-## Shmups
+## Shmup
 
 - After Burner Climax
 - Bangai-O HD
@@ -295,7 +301,7 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 - Beautiful Katamari
 - Culdcept Saga
 - Magic The Gathering Duels of the Planeswalkers 2012-2015
-- **Minecraft**
+- **Minecraft** (Game Pass)
 - Pinball FX2
 - The Sims 3
-- **Viva Pinata Party Animals**
+- **Viva Pinata, Trouble in Paradise (tous sur le Game Pass)**
