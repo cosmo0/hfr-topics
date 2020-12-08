@@ -13,6 +13,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft, parf
 - Beyond Good & Evil HD
 - Brutal Legend (Game Pass)
 - **Darksiders 1, 2**
+- El Shaddai: Ascension of the Metatron
 - **Enslaved Odyssey to the West**
 - Kameo Elements of Power
 - **Lego Batman 1/2/3, Marvel Super Heroes, Indiana Jones, Harry Potter, Star Wars**
