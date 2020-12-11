@@ -209,6 +209,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 ## RPG/action
 
 - **Ashen**
+- Code Vein (Game Pass)
 - CrossCode (Game Pass)
 - **Dark Souls 1, 2, 3**
 - Dauntless
@@ -223,7 +224,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Remnant: From the Ashes (Game Pass)
 - **Sekiro: Shadows Die Twice**
 - Sword Art Online: Fatal Bullet (Game Pass)
-- **The Elder Scrolls V Skyrim**
+- **The Elder Scrolls V Skyrim** (Game Pass)
 - [The Outer Worlds](https://www.cosmo0.fr/critique/the-outer-worlds/) (Game Pass)
 - The Surge 2 (Game Pass)
 - **The Witcher 3: Wild Hunt** (Game Pass)
@@ -384,6 +385,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Tetris Effect: Connected** (Game Pass)
 - **The Turing Test** (Game Pass)
 - **The Witness**
+- **Wilmot's Warehouse** (Game Pass)
 
 ## Sport
 
@@ -420,7 +422,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/)
 - **[Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/)** (Game Pass)
 - MudRunner (Game Pass)
-- MotoGP
+- MotoGP 20 (Game Pass)
 - Need for Speed (2015), Heat, Payback, Rivals (tous sur le Game Pass), Hot Pursuit
 - Project CARS 1, 2, 3
 - Redout
@@ -441,7 +443,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Injustice 2
 - **Killer Instinct** (Game Pass)
 - Marvel vs. Capcom Infinite (Game Pass), 3
-- **Mortal Kombat** X (Game Pass), 11
+- **Mortal Kombat 11**
 - Naruto Shippuden 1, 2, 3, 4, Naruto to Boruto Shinobi Striker (Game Pass)
 - Power Rangers: Battle for the Grid (Game Pass)
 - Rivals of Aether
@@ -504,7 +506,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 ## Autre
 
 - Creature in the Well
-- Farming Simulator 17 (Game Pass)
+- Farming Simulator
 - Grow Up
 - Pac-Man 256
 - Rare Replay
