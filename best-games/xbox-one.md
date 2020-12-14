@@ -271,7 +271,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 ## Stratégie, tactique, S-RPG, T-RPG
 
-- Age of Wonders: Planetfall (Game Pass)
+- Age of Wonders: Planetfall
 - **Civilization VI**
 - **Defense Grid 2**
 - **Desperados 3**
@@ -345,7 +345,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - The Inner World
 - The Sexy Brutale
 - Thimbleweed Park
-- **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)** (Game Pass)
+- **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
 - Yes, Your Grace (Game Pass)
 
 ## Visual novel, walking simulator
@@ -383,7 +383,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - QUBE 1, 2
 - Superliminal
 - **Tetris Effect: Connected** (Game Pass)
-- **The Turing Test** (Game Pass)
+- **The Turing Test**
 - **The Witness**
 - **Wilmot's Warehouse** (Game Pass)
 
@@ -398,7 +398,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - NBA LIVE 15-19 (tous sur le Game Pass)
 - NHL 17-20 (tous sur le Game Pass)
 - OlliOlli 2
-- **PES** Pro Evolution Soccer, eFootball PES 2020 (Game Pass)
+- **PES** Pro Evolution Soccer, eFootball PES 2020
 - PGA Tour 2K21
 - Powerstar Golf
 - **Rocket Arena** (Game Pass)
@@ -421,7 +421,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/) (Game Pass)
 - [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/)
 - **[Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/)** (Game Pass)
-- MudRunner (Game Pass)
+- MudRunner, SnowRunner
 - MotoGP 20 (Game Pass)
 - Need for Speed (2015), Heat, Payback, Rivals (tous sur le Game Pass), Hot Pursuit
 - Project CARS 1, 2, 3
@@ -444,7 +444,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Killer Instinct** (Game Pass)
 - Marvel vs. Capcom Infinite (Game Pass), 3
 - **Mortal Kombat 11**
-- Naruto Shippuden 1, 2, 3, 4, Naruto to Boruto Shinobi Striker (Game Pass)
+- Naruto Shippuden 1, 2, 3, 4, Shinobi Striker
 - Power Rangers: Battle for the Grid (Game Pass)
 - Rivals of Aether
 - **Samurai Shodown**
@@ -499,8 +499,8 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Overcooked 1, 2** (Game Pass)
 - Pac-Man Championship Edition 2
 - Pandemic (Game Pass)
-- Pathologic 2 (Game Pass)
-- Ticket to Ride (Game Pass)
+- Pathologic 2
+- Ticket to Ride
 - **Worms W.M.D** (Game Pass)
 
 ## Autre
