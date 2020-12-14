@@ -211,6 +211,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Ashen**
 - Code Vein (Game Pass)
 - CrossCode (Game Pass)
+- **Cyberpunk 2077**
 - **Dark Souls 1, 2, 3**
 - Dauntless
 - Dragon's Dogma Dark Arisen
