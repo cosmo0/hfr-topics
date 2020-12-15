@@ -328,25 +328,24 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Ape Out
 - Children of Morta
 - **Dead Cells**
-- **Enter the Gungeon**
+- **Enter the Gungeon**, Exit The Gungeon
 - Everspace
-- Exit the Gungeon
 - For The King
 - Going Under
+- Gonner 1, 2
 - **Hades**
 - [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Neon Abyss
 - **Nuclear Throne**
 - Risk of Rain 1, 2
 - **Rogue Legacy**
-- **Scourgebringer**
+- Scourgebringer
 - **Slay The Spire**
 - Star Renegades
 - Tangledeep
 - **The Binding of Isaac**
 - The Red Lantern
 - The Swords of Ditto
-- Void Bastards
 - Void Terrarium
 
 ## RPG/action
