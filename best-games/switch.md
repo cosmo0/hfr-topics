@@ -40,6 +40,10 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **Autre** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)
 - **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection)
 
+## Pour les joueurs occasionnels
+
+Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui durent un peu plus longtemps, vous ne savez pas ce que sont les hack & slash et beat'em up ? Voici un regroupement un peu moins technique, et peut-être plus adapté à vos besoins et envies.
+
 ## Jeux avec multijoueur local en écran splitté
 
 - **Aventure/action** : tous les jeux LEGO, Portal Knights, Astral Chain, Luigi's Mansion 3, Starlink Battle For Atlas
