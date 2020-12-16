@@ -44,6 +44,15 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui durent un peu plus longtemps, vous ne voyez pas la différence entre Aventure/action et RPG/action, vous ne savez pas ce qu'est un beat'em up ? Voici un regroupement un peu moins technique, et peut-être plus adapté à vos besoins et envies, sans jeu trop orienté "gamer".
 
+- **Je veux une aventure avec de l'action :**
+- **Je veux tirer sur des trucs :**
+- **Je veux lire et vivre une histoire :**
+- **Je veux de la stratégie :**
+- **Je veux des casse tête :**
+- **Je veux jouer en ligne :**
+- **Je veux me détendre :**
+- **Je veux jouer en famille :**
+
 ## Jeux avec multijoueur local en écran splitté
 
 - **Aventure/action** : tous les jeux LEGO, Portal Knights, Astral Chain, Luigi's Mansion 3, Starlink Battle For Atlas
