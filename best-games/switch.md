@@ -19,7 +19,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 - **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/)
 - **Hack & Slash, musou** : Diablo 3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Dynasty Warriors 8, Minecraft Dungeon
 - **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
-- **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3, Empire of Sin
+- **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
 - **Gestion** : Civilization 6, Two Point Hospital, Football Manager, RollerCoaster Tycoon 3, Tropico 6
 - **Construction, crafting, farming** : Stardew Valley, Dragon Quest Builders 1/2, Minecraft, Terraria, Rune Factory 4 Special
 - **Visual novel, walking simulator** : Firewatch, Steins;Gate Elite, Kentucky Route Zero, A Short Hike
@@ -483,7 +483,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Battle World Kronos
 - Bomber Crew, Space Crew
 - Element
-- **Empire of Sin**
+- Empire of Sin
 - **Into the Breach**
 - **Mario + Lapins Crétins**
 - Mutant Year Zero Road to Eden
