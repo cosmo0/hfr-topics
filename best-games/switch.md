@@ -42,16 +42,22 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 ## Pour les joueurs occasionnels
 
-Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui durent un peu plus longtemps, vous ne voyez pas la différence entre Aventure/action et RPG/action, vous ne savez pas ce qu'est un beat'em up ? Voici un regroupement un peu moins technique, et peut-être plus adapté à vos besoins et envies, sans jeu trop orienté "gamer".
+Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui durent un peu plus longtemps parce que vous n'en achetez pas toutes les semaines, vous ne voyez pas la différence entre Aventure/action et RPG/action, vous ne savez pas ce qu'est un beat'em up ? Voici un regroupement un peu moins technique, et peut-être plus adapté à vos besoins et envies, sans jeu trop orienté "gamer".
 
-- **Je veux une aventure avec de l'action :**
-- **Je veux tirer sur des trucs :**
-- **Je veux lire et vivre une histoire :**
-- **Je veux de la stratégie :**
-- **Je veux des casse tête :**
-- **Je veux jouer en ligne :**
-- **Je veux me détendre :**
-- **Je veux jouer en famille :**
+- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Assassin's Creed Rebel Collection, Astral Chain, Darksiders 1/2, Immortals Fenyx Rising, Luigi's Mansion 3, The Witcher 3, Skyrim, Hyrule Warriors 1/2, Diablo 3
+- **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Control, Crysis, Metro Redux, Saints Row 3/4, Wolfenstein 2, Starlink Battle for Atlas, Assault Android Cactus
+- **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Rayman Legends, Super Mario Odyssey, Ori Blind Forest/Will of the Wisps
+- **Je veux avoir peur :** Alien Isolation, Resident Evil, Outlast 1/2
+- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells
+- **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy
+- **Je veux de la stratégie :** Fire Emblem Three Houses, Valkyria Chronicles 4, Into The Breach, Mario + Lapins Crétins, Pikmin 3, XCOM 2, Wargroove, Tropico 6, Two Point Hospital
+- **Je veux un jeu de sport :** FIFA, Captain Tsubasa, Lonely Mountains Downhill, Mario Tennis Aces, Rocket League, Windjammers
+- **Je veux un jeu de course :** Burnout Paradise, Need For Speed Hot Pursuit, GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX, MotoGP 20
+- **Je veux un jeu de combat :** Dragon Ball FighterZ, Mortal Kombat 11, Samurai Shodown, Super Smash Bros Ultimate, Streets of Rage 4
+- **Je veux des casse tête :** Captain Toad Treasure Tracker, Catherine Full Body, Return of the Obra Dinn, Baba Is You, Grindstone, Puyo Puyo Tetris 2
+- **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us
+- **Je veux me détendre :** Yoku's Island Express, Spiritfarer, Stardew Valley, Untitled Goose Game, Animal Crossing New Horizons
+- **Je veux jouer en famille :** Just Dance, Let's Sing, Overcooked, Super Mario Party, Go Vacation, 51 Worldwide Games
 
 ## Jeux avec multijoueur local en écran splitté
 
@@ -162,7 +168,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Retro City Rampage, Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
-- Supraland
 - **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
 - **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
 
@@ -377,6 +382,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Final Fantasy XII, XV Pocket**
 - **Monster Hunter Generations Ultimate**
 - Ni No Kuni Wrath of the White Witch
+- **Sakuna of Rice And Ruin**
 - Shining Resonance Refrain
 - Snack World
 - **Skyrim**
@@ -761,7 +767,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - [Ninja Saviors Return of the Warriors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/)
 - Redeemer
 - **River City Girls**
-- **Sakuna of Rice And Ruin**
 - **Streets of Rage 4**
 - [The Friends of Ringo Ishikawa](https://www.cosmo0.fr/critique/the-friends-of-ringo-ishikawa/)
 - **The Wonderful 101**
@@ -893,7 +898,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
 - Urban Flow
 - Wandersong
-- [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
+- **[Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)**
 - [Yonder The Cloud Catcher Chronicles](https://www.cosmo0.fr/critique/yonder-the-cloud-catcher-chronicles/)
 - Yono And The Celestial Elephant
 
