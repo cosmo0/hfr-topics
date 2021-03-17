@@ -177,7 +177,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shooters, FPS, TPS
 
-- Apex Legends
 - Battlezone Gold Edition
 - **Bioshock Collection**
 - **Borderlands Collection**
