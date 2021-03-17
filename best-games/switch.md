@@ -177,6 +177,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shooters, FPS, TPS
 
+- Apex Legends
 - Battlezone Gold Edition
 - **Bioshock Collection**
 - **Borderlands Collection**
@@ -242,7 +243,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## Plate-forme
 
 - A Hat In Time
-- Crash Bandicoot
+- Crash Bandicoot Trilogy, 4
 - **Donkey Kong Country Tropical Freeze**
 - Freedom Planet
 - Ghostrunner
@@ -388,6 +389,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Dauntless**
 - **Dragon's Dogma: Dark Arisen**
 - **Final Fantasy XII, XV Pocket**
+- Kingdoms of Amalur
 - **Monster Hunter Generations Ultimate**
 - Ni No Kuni Wrath of the White Witch
 - **Persona 5 Strikers**
@@ -478,6 +480,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## T-RPG, S-RPG
 
 - **Banner Saga Trilogy**
+- Battle Brothers
 - Brigandine: The Legend of Runesia
 - Chroma Squad
 - **Disgaea** 1, 4, 5
@@ -585,6 +588,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Firewatch**
 - [Florence](https://www.cosmo0.fr/critique/florence/)
 - **Gone Home**
+- **Gnosia**
 - If Found
 - **Kentucky Route Zero**
 - Neo Cab
@@ -986,7 +990,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 - Jeux sortis, en attente de test : Anodyne 2
 
-- Mars : Gnosia (4), Harvest Moon One World (5), Apex Legends (9), Battle Brothers (11), WRC9 (11), Crash Bandicoot 4 (12), Kingdoms of Amalur (16), Stubbs the Zombie (16), Densha De Go (18), Plants vs Zombies Battle for Neighborville (19), Tales from the Borderlands (24), Black Legend (25), Littlewood (25), Monster Hunter Rise (26), Balan Wonderworld (26), Story of Seasons Pioneers of Olive Town (26), Okinawa Rush (26), Kaze & The Wild Masks (26)
+- Mars : Densha De Go (18), Plants vs Zombies Battle for Neighborville (19), Tales from the Borderlands (24), Black Legend (25), Littlewood (25), Monster Hunter Rise (26), Balan Wonderworld (26), Story of Seasons Pioneers of Olive Town (26), Okinawa Rush (26), Kaze & The Wild Masks (26)
 - Avril : Trails of Cold Steel IV (9), SaGa Frontier Remaster (15), Raiden IV (22), Atelier Mysterious Trilogy (22), MotoGP 21 (22), R-Type Final 2 (29 JP), New Pokémon Snap (30), Hoa (?), Battle Axe (?)
 - Mai : Famicom Detective Club (14), Subnautica+Below Zero (14), Rune Factory 5 (20 JP), Miitopia (21), Knockout City (21), World End’s Club (28), Wonder Boy Asha In Monster World (28), King of Seas (?)
 - Juin : DC Super Hero Girls (4), Ninja Gaiden Master Collection (10), Griftlands (10), Legend of Mana Remastered (24), Mario Golf (25), Disgaea 6 (29)
