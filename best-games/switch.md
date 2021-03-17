@@ -844,6 +844,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - **Cadence of Hyrule**
 - Crypt of the Necrodancer
 - Double Kick Heroes
+- **Everhood**
 - **Fuser**
 - Gal Metal
 - **Hatsune Miku Project Diva**
