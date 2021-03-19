@@ -77,7 +77,7 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 - **Puzzle/action** : Puyo Puyo Tetris/Champions, Tricky Towers, Unrailed!, Puzzle Bobble, Magical Drop
 - **Sport** : Mario Tennis Aces, FIFA, NBA 2K, Rocket League, NBA Playgrounds 2, Alpaca Ball All Stars, Windjammers, AO Tennis 2, Captain Tsubasa, Mario & Sonic aux JO
 - **Course, Time Attack** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow, Hotshot Racing, Inertial Drift, Crash Team Racing, GRID Autosport, GRIP, Moto GP 20, Team Sonic Racing
-- **Combat, brawlers** : un peu tous, mais notamment : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Mortal Kombat 11, Samurai Shodown, Nidhogg 2, Guilty Gear, Lethal League Blaze...
+- **Combat, brawlers** : un peu tous, mais notamment : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Mortal Kombat 11, Samurai Shodown, Nidhogg 2, Guilty Gear, Lethal League Blaze, Roof Rage...
 - **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4, Ninja Saviors, 9 Monkeys of Shaolin, Full Metal Furies, Double Dragon 1/2/3/4, Double Dragon & Kunio Kun, The Wonderful 101
 - **Shmups, twin stick shooters** : Ikaruga, Gunbird, Zero Gunner 2, Assault Android Cactus, Grand Brix Shooter, Aqua Kitty UDX, Twinkle Star Sprite, Blazing Star, Dragon Blaze, Rival Megagun
 - **Arcade, high score** : Killer Queen Black, Burger Time Party, Bubble Bobble 4 Friends, Pang Adventures
@@ -118,7 +118,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars, Hyperbrawl Tournament
 - **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/), Super Arcade Racing, Mantis Burn Racing, The Next Penelope, Super Pixel Racers, Absolute Drift
-- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash
+- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash, Roof Rage
 - **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots, The Takeover, Double Dragon Neon, Scott Pilgrim vs The World
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx, Black Bird, Bot Vice, Project Starship X
 - **Arcade, high score** : **Zen Pinball**, **Pinball FX3**, [Akane](https://www.cosmo0.fr/critique/akane/), Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, [Pix the Cat](https://www.cosmo0.fr/critique/pix-the-cat/), Ding Dong XL, Demon's Tilt, Pure Pool, Death's Hangover, Strikey Sisters
@@ -760,6 +760,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Nidhogg 2
 - Pokken Tournament
 - River City Melee Mach
+- Roof Rage
 - **Samurai Shodown**, Samurai Shodown NeoGeo Collection
 - Shovel Knight Shodown
 - Skullgirls 2nd Encore
@@ -767,6 +768,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **[Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/)**
 - **Super Smash Bros Ultimate**
 - **TowerFall**
+- Under Night In-Birth Ex:Late
 
 ## Beat'em Up
 
