@@ -4,7 +4,7 @@ $file = $Args[0]
 $content = get-content $file -raw -Encoding UTF8
 
 # titles
-$content = $content -replace '\[fixed\](.*)\[/fixed\]', '## $1'
+$content = $content -replace '\r\n\[fixed\](.*)\[/fixed\]', '## $1'
 
 # bold
 $content = $content -replace '\[b\]([^\[]+)\[/b\]', '**$1**'
@@ -13,7 +13,10 @@ $content = $content -replace '\[b\]([^\[]+)\[/b\]', '**$1**'
 $content = $content -replace '\[img\]([^\[]+)\[\/img\]', '![$1]($1)'
 
 # links
-$content = $content -replace '\[url=([^\]]+)\]([^\[\/url]+)\[\/url\]', '[$2]($1)'
+$content = $content -replace '\[url=([^\]]+)\](.*)\[\/url\]', '[$2]($1)'
+
+# plain links
+$content = $content -replace '^http(.*)$', '<http$1>'
 
 # line breaks
 $content = $content -replace "\r\n", "  `n"
