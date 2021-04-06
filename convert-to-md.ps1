@@ -16,10 +16,10 @@ $content = $content -replace '\[img\]([^\[]+)\[\/img\]', '![$1]($1)'
 $content = $content -replace '\[url=([^\]]+)\](.*)\[\/url\]', '[$2]($1)'
 
 # plain links
-$content = $content -replace '^http(.*)$', '<http$1>'
+$content = $content -replace '\r\nhttp([^\r\n]+)', "`r`n<http`$1>"
 
 # line breaks
-$content = $content -replace "\r\n", "  `n"
+$content = $content -replace "\r\n", "  `r`n"
 
 # save result
 $content | out-file 'result.md'
