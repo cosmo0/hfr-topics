@@ -112,7 +112,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, [Forager](https://www.cosmo0.fr/critique/forager/), Littlewood
 - **Walking simulator** : [Abzu](https://www.cosmo0.fr/critique/abzu/), Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/), Old Man's Journey, A Short Hike, Embracelet, Sagebrush, FAR Lone Sails
 - **Visual novel** : [80 Days](https://www.cosmo0.fr/critique/80-days/), Batman Telltale Series/Enemy Within, Cinders, [Bury Me My Love](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/), Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine, Later Daters, Chicken Police, If Found, Arcade Spirits, Telling Lies, Aviary Attorney
-- **Aventure, point & click** : Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, Wide Ocean Big Jacket, Memoranda, Ord, To The Moon, Hypnospace Outlaw, Heaven's Vault
+- **Aventure, point & click** : Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, Wide Ocean Big Jacket, Memoranda, Ord, To The Moon, Hypnospace Outlaw, Heaven's Vault, The Longing
 - **Aventure/puzzles** : [Pikuniku](https://www.cosmo0.fr/critique/pikuniku/), [The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/), Boxboy+Boxgirl, Death Coming, Etherborn, Aer Memories of Old, Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), [Pan-Pan](https://www.cosmo0.fr/critique/pan-pan-a-tiny-big-adventure/), I Am Dead, Fracter, Carto, Pixel Puzzle Makeout League, Evan's Remains, World For Two, Part Time UFO
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4/S5, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament, Mini Metro, Dude Stop, Tens!, Locomotion
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
@@ -277,6 +277,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 - **Boxboy+Boxgirl**
 - Evergate
+- **Fez**
 - Forgotton Anne
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
 - **Horace**
@@ -996,22 +997,23 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Black Legend
+- Jeux sortis, en attente de test : Black Legend, There Is No Game
 
 - Avril : Cozy Groove (8), Trails of Cold Steel IV (9), SaGa Frontier Remaster (15), Fighting EX Layer (15), Deiland: Pocket Planet Edition (15), Raiden IV (22), Atelier Mysterious Trilogy (22), MotoGP 21 (22), R-Type Final 2 (29 JP), New Pokémon Snap (30), Hoa (?), Battle Axe (?)
-- Mai : Save Me Mr Tako DX (5), Monster Harvest (13), Famicom Detective Club (14), Subnautica+Below Zero (14), SnowRunner (18), Rune Factory 5 (20 JP), Miitopia (21), Knockout City (21), Maneater (25), Shin Megami Tensei III Nocturne (25), Earth Defense Force World Brothers (27), World End’s Club (28), Wonder Boy Asha In Monster World (28), King of Seas (?)
-- Juin : DC Super Hero Girls (4), Ninja Gaiden Master Collection (10), Griftlands (10), Legend of Mana Remastered (24), Mario Golf (25), Disgaea 6 (29)
-- Juillet : Monster Hunter Stories 2 (9), The Silver Case 2425 (9), Zelda Skyward Sword HD (16), Samurai Warriors 5 (27), Cris Tales (?)
-- Août : King's Bounty II (24), No More Heroes 3 (27), Blood Bowl 3 (?)
+- Mai : Save Me Mr Tako DX (5), Monster Harvest (13), Famicom Detective Club (14), Subnautica+Below Zero (14), SnowRunner (18), Aerial_Knights Never Yield (19), Rune Factory 5 (20 JP), Miitopia (21), Knockout City (21), Maneater (25), Shin Megami Tensei III Nocturne (25), Earth Defense Force World Brothers (27), World End’s Club (28), Wonder Boy Asha In Monster World (28), King of Seas (?), Weaving Tides (?)
+- Juin : DC Super Hero Girls (4), Ninja Gaiden Master Collection (10), Griftlands (10), Ender Lilies: Quietus of the Knights (21), Legend of Mana Remastered (24), Mario Golf (25), Disgaea 6 (29), Beasts of Maravilla Island (?)
+- Juillet : Monster Hunter Stories 2 (9), The Silver Case 2425 (9), Zelda Skyward Sword HD (16), Cris Tales (20), Samurai Warriors 5 (27), Last Stop (?)
+- Août : King's Bounty II (24), No More Heroes 3 (27), Blood Bowl 3 (?), KeyWe (?)
 - Septembre : Hot Wheels Unleashed (30), Andro Dunos 2 (?)
 
-- Q1 2021/printemps : She Dreams Elsewhere, Braid Anniversary, Onirike, Warhammer Age Of Sigmar Storm Ground, Surviving The Aftermath, Ruined King, Leisure Suit Larry Wet Dreams Dry Twice, Fisti-fluffs, Very Very Valet, Alba A Wildlife Adventure, Happy Game, Trash Sailors, Finding Paradise, Conan Chop Chop, Kitaria Fables, Sky Children of the Light, Teratopia, Axiom Verge 2, Darius Cozmic Revelation, Wave Break, Super Bomberman R Online, Tunche, Kosmokrats, Hazel Sky, RetroMania Wrestling
-- Q2 2021/été : Ys IX Monstrum Nox, Neo The World Ends With You, The Good Life, Spelunky 1 & 2, Disco Elysium, Ender Lilies, Fall Guys, Stonefly, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Shadowverse Champion's Battle
-- Q3 2021/automne : Pokémon Brilliand Diamond/Shining Pearl, Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous
+- Q1 2021/printemps : She Dreams Elsewhere, Braid Anniversary, Onirike, Warhammer Age Of Sigmar Storm Ground, Surviving The Aftermath, Ruined King, Leisure Suit Larry Wet Dreams Dry Twice, Fisti-fluffs, Very Very Valet, Alba A Wildlife Adventure, Happy Game, Trash Sailors, Finding Paradise, Conan Chop Chop, Kitaria Fables, Sky Children of the Light, Teratopia, Axiom Verge 2, Darius Cozmic Revelation, Wave Break, Super Bomberman R Online, Tunche, Kosmokrats, Hazel Sky, RetroMania Wrestling, Labyrinth City: Pierre the Maze Detective
+- Q2 2021/été : Ys IX Monstrum Nox, Neo The World Ends With You, The Good Life, Spelunky 1 & 2, Disco Elysium, Ender Lilies, Fall Guys, Stonefly, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Shadowverse Champion's Battle, Skul The Hero Slayer, Art of Rally
+- Q3 2021/automne : Pokémon Brilliand Diamond/Shining Pearl, Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods
+- Q4 2021/hiver : OlliOlli World
 
-- 2021 : Legend of Heroes, Skatebird, Startopia, Lost In Random, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, XIII, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Sea of Solitude, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Skate City, Neon White, Star Wars Hunters, Tony Hawk Pro Skater 1+2, Boomerang X, Dynasty Warriors 9 Empires, Minute of Islands, Worms Rumble, The Colonists, Rustler, Sol Cresta
+- 2021 : Legend of Heroes, Skatebird, Startopia, Lost In Random, Rogue Lords, Shin Megami Tensei V, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, XIII, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Sea of Solitude, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Skate City, Neon White, Star Wars Hunters, Tony Hawk Pro Skater 1+2, Boomerang X, Dynasty Warriors 9 Empires, Minute of Islands, Worms Rumble, The Colonists, Rustler, Sol Cresta, Road 96, Hindsight, Teenage Mutant Ninja Turtles Shredder’s Revenge, House of the Dead Remake, Oxenfree 2
 
-- 2022 : Project Triangle Strategy, Splatoon 3, Pokémon Legends Arceus
+- 2022 : Project Triangle Strategy, Splatoon 3, Pokémon Legends Arceus, GetsuFumaDen: Undying Moon
 
 - Pas de date : Bayonetta 3, Metroid Prime 4, Unto The End, Astroneer, Layers of Fear 2, Fear Effect, Ninja Box, Amid Evil, Zelda Breath of the Wild 2, Shovel Knight Dig, Greak Memories of Azur, Hollow Knight Silksong, Yo Kai Watch 1, Lost Ember, Damnview Built From Nothing, Rebel Galaxy Outlaw, Hazelnut Bastille, Creaks, Memorrha, Ultra Bugs, Robo Kitchen Simulator, Samurai Gunn 2, TemTem, Roller Champions, Rogue Legacy 2, World War Z, Alex Kidd in Miracle World DX, Pokémon Unite, Superhot Mind Control, Yo Kai Watch Y Academy, Sports Story, Baldo, Strife, Picontier, Rivals of Aether Definitive Edition, Cyanide & Happines Freakpocalypse, Blade Runner, Olympic Games The Official Game, Omori, Genshin Impact, Shovel Knight Pocket Dungeon, Grindstone, Demons Ate My Neighbors, Potion Permit, Endless Dungeon, Here Comes Niko, Dangerous Driving 2, B.Ark, Quantum League, Darius Cozmic Collection 2, Poker Club, Circuit Superstars, Eastward, Skater XL, Port Royale 4, Auto Chess, Sunless Skies, Pillars of Eternity 2, Sail Forth, Godfire Rise of Prometheus, Metal Slug, Fae Tactics, Dreamscaper, Toy Soldiers, Astrodogs, Ever Forward, Lord of The Rings Gollum, TMNT Shredder's Revenge, BallisticNG, Lego Star Wars The Skywalker Saga, Okinawa Rush
 
