@@ -4,417 +4,519 @@
 
 **Dernières sorties :**
 
-- **WRC9**, un jeu de rallye
-- **A-Train All Aboard**, un jeu de gestion
-- **NeoGeo Pocket Color Selection Vol 1**, une compilation de jeux rétro
-- **Densha De Go** (JP), un simulateur de train
-- **Plants vs Zombies Battle for Neighborville**, un TPS
-- **Tales from the Borderlands**, un jeu d'aventure
-- **Black Legend**, un TRPG
-- **Littlewood**, un jeu de farming zen
-- **Monster Hunter Rise**, un action-RPG
-- **Balan Wonderworld**, un platformer 3D
-- **Story of Seasons Pioneers of Olive Town**, un jeu de farming
-- **Kaze & The Wild Masks**, un platformer 2D
-- **Narita Boy**, un jeu d'aventure/action 2D
+- **Pac-Man 99**, un Pac-Man battle royale, on aura tout vu
+- **Picross S6**, un sudoku. Ou un FPS ? J'ai un doute.
+- **Cozy Groove**, un Animal Crossing-like
+- **Trails of Cold Steel IV**, un JRPG
+- **SaGa Frontier Remaster**, un JRPG PS1
+- **Deiland: Pocket Planet Edition**, un jeu de farming zen
+- **Raiden IV**, un shmup
+- **Atelier Mysterious Trilogy**, des JRPG
+- **MotoGP 21**, un jeu de voitures
 
 **Prochaines sorties :**
 
-- **Cozy Groove**, un Animal Crossing-like
-- **Trails of Cold Steel IV**, un JRPG
-- **SaGa Frontier Remaster**, un JRPG
-- **Fighting EX Layer**, un jeu de baston
-- **Deiland: Pocket Planet Edition**, un jeu de farming
-- **Raiden IV**, un shmup
-- **Atelier Mysterious Trilogy**, des JRPG
-- **MotoGP 21**, un jeu de course
+- **R-Type Final 2** (JP), un shmup
+- **Before I Forget**, un jeu d'aventure
+- **New Pokémon Snap**, un jeu de photo
+- **The Colonists**, un city builder
+- **Save Me Mr Tako DX**, un platformer
+- **Skate City**, un jeu de foot ? de parapente ? c'est pas clair.
 
 ## Résumé
 
-- **Shin Megami Tensei 3** le 25 mai
-- Un nouveau **Astérix & Obélix** cet automne
-- **Fighting EX** Layer le 15 avril
-- Plein d'infos pour les remasters **Ninja Gaiden**
-- Des tonnes de tests pour **Monster Hunter Rise**, **Story of Seasons Pioneer of Olive Town**, **Balan Wonderworld** et **A-Train** (entre autres)
+- **Neo The World Ends With You** le 27 juillet
+- **The Great Ace Attorney Chronicles** le 27 juillet
+- **Ys IX** le 6 juillet
+- **Pac-Man 99** est sorti
+- Avalanche d'infos pour **New Pokémon Snap**
+- Previews de **Diablo 2** et **Shin Megami Tensei III**
+- Des tonnes de tests comme d'habitude
 
 ## Annonces, dates et sorties
 
-**Shin Megami Tensei 3**, un RPG, sort le 25 mai
-https://www.nintendolife.com/news/2021/03/shin_megami_tensei_iii_remaster_launches_this_may_on_switch
+**Neo The World Ends With You**, un JRPG, sort le 27 juillet
+https://www.destructoid.com/stories/neo-the-world-ends-with-you-launches-july-27-on-ps4-and-switch-is-also-headed-to-pc-625373.phtml
+![picture 2](https://i.imgur.com/QEiOkJ1m.png)  
 
-**Cozy Groove**, un Animal Crossing-like avec des fantômes, sort le 8 avril
-https://www.siliconera.com/people-can-camp-out-with-cozy-grove-release-date-in-april-on-consoles/
+**The Great Ace Attorney Chronicles**, une compilation de jeux d'aventure Phoenix Wright, sort le 27 juillet
+https://www.siliconera.com/great-ace-attorney-chronicles-will-arrive-in-july-2021/
+![picture 3](https://i.imgur.com/FJrqH7um.jpg)  
 
-**Yu Gi Oh Rush Duel**, un jeu de cartes, sort au Japon cet été
-https://www.nintendolife.com/news/2021/03/konami_announces_yu-gi-oh_rush_duel_is_in_development_for_switch
+**Ys IX**, un JRPG, sort le 6 juillet
+https://www.siliconera.com/ys-ix-monstrum-nox-switch-and-pc-copies-will-debut-in-july-2021/
+![picture 4](https://i.imgur.com/vDtLOFfm.png)  
 
-**Monster Harvest**, un croisement entre Stardew Valley et Pokémon, sort le 13 mai
-https://www.nintendolife.com/news/2021/03/monster_harvest_a_pokemon-meets-stardew_valley_game_is_ploughing_its_way_toward_switch
+**Pac-Man 99**, un Pac-Man battle royale, est sorti par surprise
+https://www.nintendolife.com/news/2021/04/pac-man_99_announced_exclusively_for_nintendo_switch_online
+![picture 5](https://i.imgur.com/l0fM4ERm.jpg)  
 
-**Astérix et Obélix Baffez-Les Tous**, un beat'em up, sort cet automne
-https://www.switch-actu.fr/actualites/jeux/asterix-obelix-baffez-les-tous-annonce-sur-nintendo-switch/
+**The Colonists**, un city builder mignon, sort le 4 mai
+https://www.nintendolife.com/news/2021/04/the_colonists_is_a_cute_city_building_game_with_robots_out_on_switch_in_may
+![picture 6](https://i.imgur.com/1suwWSc.jpg)  
 
-**Pinball FX**, une refonte de la série, sort cette année
-https://www.nintendolife.com/news/2021/03/zen_studios_announces_next-gen_pinball_fx_game_for_switch_introduces_new_battle_royale_mode
+**5 nouveaux jeux Schtroumpf** sont annoncés par Microids sur les cinq prochaines années
+https://www.destructoid.com/stories/brace-yourself-we-re-getting-five-smurfs-video-games-over-the-next-five-years-from-microids-625307.phtml
+![picture 7](https://i.imgur.com/pPVAv0e.jpg)  
 
-**Deiland: Pocket Planet Edition**, un jeu de farming, sort le 15 avril
-https://www.nintendolife.com/news/2021/03/deiland_pocket_planet_edition_crafts_its_way_onto_switch_next_month
+**Alex Kidd In Miracle World DX**, un remake/remaster du premier Alex Kidd, sort le 24 juin
+https://www.nintendolife.com/news/2021/04/alex_kidd_in_miracle_world_dx_lands_in_june_along_with_an_awesome_signature_edition
+![picture 8](https://i.imgur.com/qUEwvIt.jpg)  
 
-**Embr**, un party game, sort cet été
-https://www.nintendolife.com/news/2021/03/curve_digitals_frenetic_firefighting_multiplayer_embr_lights_up_nintendo_switch_this_summer
+**WRC10**, un jeu de rallye, sortira sur Switch "après" la version qui sort en septembre
+https://www.nintendolife.com/news/2021/04/nacon_announces_wrc_10_speeds_onto_switch_at_a_later_date
+![picture 9](https://i.imgur.com/ZRN1w6I.jpg)  
 
-**Andro Dunos 2**, un shmup, sort en semptembre (ainsi que sur 3DS et... Dreamcast ???)
-https://www.siliconera.com/andro-dunos-2-releasing-on-modern-consoles-plus-3ds-and-dreamcast/
+**King of Seas**, un RPG de pirates, sort le 25 mai
+https://www.nintendolife.com/news/2021/04/king_of_seas_confirmed_to_set_sail_on_nintendo_switch_in_may
+![picture 10](https://i.imgur.com/IZR6oTm.jpg)  
 
-**Nobugana's Ambition**, une vénérable série de jeux de stratégie débutée dans les années 80, reviendra en 2021, sans précision de plateforme ni de localisation
-https://www.destructoid.com/stories/the-legendary-nobunaga-s-ambition-series-will-return-later-this-year-624221.phtml
+**Picross S6** est sorti
+https://www.nintendolife.com/news/2021/04/picross_s6_launches_on_switch_next_week_and_the_whole_series_is_going_on_sale
+![picture 11](https://i.imgur.com/yXvWuQ7.png)  
 
-**SnowRunner**, une simulation de véhicules enneigés, sort le 18 mai
-https://www.nintendolife.com/news/2021/03/snowrunner_will_make_an_out_of_season_appearance_on_switch_in_may
+Les deux premiers **The Legend of Heroes Trails of Cold Steel** sortent en juillet et août mais seulement au Japon pour le moment
+https://www.siliconera.com/the-legend-of-heroes-trails-of-cold-steel-i-kai-to-release-on-switch-in-july/
+https://www.siliconera.com/the-legend-of-heroes-trails-of-cold-steel-ii-kai-to-release-on-switch-in-august/
+![picture 12](https://i.imgur.com/AaiCagi.png)  
 
-**Shadowverse Champion's Battle**, un jeu de cartes, sort cet été
-https://www.siliconera.com/shadowverse-champions-battle-will-head-to-the-switch-this-summer/
+**Sky Children of Light**, un jeu d'aventure/exploration, sortira en juin
+https://www.destructoid.com/stories/the-evocative-sky-children-of-the-light-is-coming-to-switch-in-june-626038.phtml
+![picture 13](https://i.imgur.com/mX3UXn2.png)  
 
-**Sol Cresta**, un shmup par Platinum Games, sort cette année, je suis sûr qu'ils ont mis Bayonetta 3 en pause pour ça, et ils ont bien raison, qui ça intéresse Bayonetta 3, hein ?
-https://www.nintendolife.com/news/2021/04/no_joke_platinumgames_is_releasing_sol_cresta_on_the_nintendo_switch
+**Youtubers Life 2**, un jeu où l'on incarne un Youtuber, sortira cette année parce qu'apparemment le premier s'est vendu à 1.4M d'exemplaires, ça y est je suis traumatisé
+https://www.nintendolife.com/news/2021/04/youtubers_life_2_will_dodge_dmcas_on_switch_later_this_year
+![picture 14](https://i.imgur.com/sS0kyBt.png)  
 
-**Earth Defense Force World Brothers**, un TPS en voxels, sort le 27 mai
-https://www.destructoid.com/stories/earth-defense-force-world-brothers-will-bring-cute-carnage-westward-on-may-27-624740.phtml
+**Roguebook**, un joli roguelike/jeu de cartes, sort cet été
+https://ladiesgamers.com/roguebook-headed-for-steam-switch-and-more/
+![picture 17](https://i.imgur.com/utqPnb0.png)  
 
-**Fighting EX Layer**, un jeu de baston par un des créateurs de Street Fighter 2, sort sur Switch le 15 avril
-https://www.nintendolife.com/news/2021/04/arika_announces_fighting_ex_layer_another_dash_for_nintendo_switch
+**Before I Forget**, une histoire interactive sur la démence, sort le 29 avril
+https://www.nintendolife.com/news/2021/04/before_i_forget_the_bafta-nominated_game_about_dementia_arrives_on_switch_very_soon
+![picture 15](https://i.imgur.com/yENOK2Q.jpg)  
 
-**Lego Star Wars Skywalker Saga** est repoussé à une date indéterminée parce qu'apparemment ils ne refont pas encore la même chose que tous leurs anciens jeux
-https://www.switch-actu.fr/actualites/jeux/lego-star-wars-la-saga-skywalker-repousse-a-nouveau/
+**Residual**, un survival/crafting, sort cette année
+https://www.nintendolife.com/news/2021/04/residual_confirmed_for_switch_as_apogee_entertainment_makes_publishing_comeback
+![picture 16](https://i.imgur.com/wrISwQ7.jpg)  
 
-**Save Me Mr Tako DX**, une version fortement remaniée du jeu de plateforme, sort le 5 mai
-https://www.siliconera.com/save-me-mr-tako-definitive-edition-will-debut-in-may/
+**Test Drive Unlimited Solar Crown**, un jeu de course dont on ne sait pas encore grand-chose, sort en juillet, mais c'est Kylotonn (responsables des très mal portés VRally 4, WRC et TT Isle of Man) donc n'en espérez pas trop sur Switch
+https://www.p-nintendo.com/news/la-simulation-auto-test-drive-unlimited-the-solar-crown-est-annoncee-et-sortira-aussi-sur-switch-256777
+![picture 18](https://i.imgur.com/T4XONu9.png)  
 
 ## Rétrogaming
 
-**Crime Fighters**, un beat'em up Konami, chez Arcade Archives
-https://www.destructoid.com/stories/konami-s-80s-brawler-crime-fighters-returns-to-clean-up-the-streets-623182.phtml
+**Destroy All Humans**, un TPS, sort le 29 juin
+https://www.nintendolife.com/news/2021/04/destroy_all_humans_brings_its_earth_conquering_madness_to_switch_on_29th_june
 
-**Shadow Man Remastered**, un FPS, sort le 15 avril
-https://www.destructoid.com/stories/shadow-man-remastered-returns-from-the-deadside-next-month-623632.phtml
+**Saboten Bomber** chez Arcade Archives
+https://www.destructoid.com/stories/arcade-archives-saboten-bombers-got-its-first-ever-home-release-this-week-625407.phtml
 
-**TY The Tasmanian Tiger 2**, un platformer 3D, est sorti
-https://www.nintendolife.com/news/2021/03/ty_the_tasmanian_tiger_2_hd_launches_on_the_switch_eshop_next_week
+Le premier **Shantae** de la Game Boy Color est sorti
+https://www.siliconera.com/release-date-announced-for-original-shantae-in-switch-eshop/
+
+**Frisky Tom** chez Arcade Archives
+https://www.destructoid.com/stories/frisky-tom-is-laying-pipe-in-this-week-s-arcade-archives-release-626037.phtml
+
+**A-JAX** chez Arcade Archives
+https://www.siliconera.com/a-jax-to-release-on-nintendo-switch-as-part-of-arcade-archives/
 
 ## Rumeurs, leaks, teasing et discussions
 
-**XCOM Chimera Squad**, un XCOM-like, a été évalué par PEGI
-https://www.nintendolife.com/news/2021/03/pegi_rating_suggests_xcom_chimera_squad_is_on_the_way_to_nintendo_switch
+Un leak d'un remaster de **Sonic Colors** qui était sorti sur Wii
+https://www.nintendolife.com/news/2021/04/rumour_sonic_colors_remaster_listed_in_localisation_companys_credits
+
+**Borderlands 3** a été brièvement listé sur Switch mais apparemment c'était une erreur (et vu comment il tourne moyennement sur PS4/Xbox ça m'aurait étonné)
+https://www.nintendolife.com/news/2021/04/switch_rating_for_borderlands_3_directors_cut_was_apparently_an_error
+
+Un leak pour **Dragon Ball Z Kakarot**
+https://www.nintendolife.com/news/2021/04/rumour_dragon_ball_z_kakarot_could_be_switch-bound_according_to_new_leak
+
+Un **Super Monkey Ball** a été évalué en Australie
+https://www.nintendolife.com/news/2021/04/a_new_super_monkey_ball_game_just_got_rated_in_australia
+
+Apparemment **F-Zero** n'est pas mort mais "on a déjà tout fait pourquoi vous en revoulez ?"
+https://www.nintendolife.com/news/2021/04/f-zero_isnt_dead_-_its_just_sleeping_says_nintendo_legend_takaya_imamura
+
+Konami a enregistré des marques relatives à **Castlevania** et **Metal Gear Rising**, jeu vidéo ou pachinko ?
+https://www.nintendolife.com/news/2021/04/konami_has_trademarked_castlevania_and_metal_gear_rising_in_japan
+
+Nintendo ne veut pas du **XCloud** sur Switch
+https://www.nintendolife.com/news/2021/04/xbox_cloud_on_switch_nintendo_wont_allow_it_says_industry_analyst
 
 ## Images, vidéos, infos
 
-Des infos sur **Ninja Gaiden Master Collection**
-https://www.siliconera.com/team-ninja-talks-about-decisions-behind-ninja-gaiden-master-collection/
-https://www.nintendolife.com/news/2021/03/ninja_gaiden_master_collection_includes_sigma_editions_because_the_originals_were_unsalvageable
-https://www.siliconera.com/new-ninja-gaiden-master-collection-screenshots-released/
-https://www.eurogamer.net/articles/2021-03-29-koei-tecmo-insists-ninja-gaiden-master-collection-is-based-on-the-ps3-version-in-quality
+Des tonnes d'infos sur **New Pokémon Snap**, la machine marketing s'est mise en route
+https://www.nintendolife.com/news/2021/04/new_pokemon_snaps_latest_trailer_shows_off_six_minutes_of_gameplay_footage
+https://www.nintendolife.com/news/2021/04/nintendo_of_america_releases_two_commercials_for_new_pokemon_snap
+https://www.p-nintendo.com/news/bande-annonce-en-anglais-pour-new-pokemon-snap-256744
+https://www.nintendolife.com/news/2021/04/video_new_pokemon_snap_trailer_highlights_the_games_stunning_scenery_and_wild_pokemon
 
-Des infos sur **Pokémon Snap**
-https://www.nintendoworldreport.com/news/56672/new-details-about-pokemon-snap-revealed
+Des images et vidéos pour **Ninja Gaiden Master Collection**, une compilation de beat'em up/hack & slash
+https://www.siliconera.com/kasumi-ayane-slice-n-dice-in-new-ninja-gaiden-master-collection-video/
+https://www.siliconera.com/new-ninja-gaiden-master-collection-action-trailer/
 
-Du gameplay pour **Miitopia**, je suis sûr que vous l'aviez oublié
-https://www.nintendolife.com/news/2021/03/video_heres_an_extended_look_at_the_miitopia_port_for_nintendo_switch
+Une vidéo pour **Shin Megami Tensei III**, un JRPG
+https://www.p-nintendo.com/news/shin-megami-tensei-iii-nocturne-hd-remaster-seance-de-gameplay-en-anglais-256756
 
-Un teaser pour **The Lord of the Rings Gollum**, un jeu d'infiltration
-https://www.nintendolife.com/news/2021/03/video_heres_a_sneak_peek_trailer_for_the_lord_of_the_rings_gollum
+Un trailer pour **SaGa Frontier**, un JRPG PS1
+https://www.siliconera.com/saga-frontier-remastered-trailer-reintroduces-its-characters/
 
-Une vidéo pour **Shin Megami Tensei 3**, un RPG
-https://www.siliconera.com/smt-iii-nocturne-hd-remaster-trailer-shows-the-worlds-rebirth/
+Un trailer pour **Asha In Monster World**, un pseudo-metroidvania
+https://www.siliconera.com/get-an-idea-of-what-asha-is-doing-in-monster-world-in-a-new-trailer/
 
-Des images pour **Monster Hunter Stories 2**, un RPG
-https://www.switch-actu.fr/actualites/jeux/monster-hunter-stories-2-de-nouveaux-scans-tires-du-famitsu/
+Un trailer pour **Hot Wheels Unleashed**, un jeu de course
+https://www.destructoid.com/stories/hot-wheels-unleashed-is-worth-watching-for-arcade-racing-fans-625322.phtml
 
-Un teaser pour **Clockwork Aquario**, un jeu d'arcade "perdu"
-https://www.nintendolife.com/news/2021/03/lost_classic_clockwork_aquario_gets_its_first_teaser_trailer
+Un trailer pour **No More Heroes 3**, un jeu d'action/aventure
+https://www.destructoid.com/stories/this-no-more-heroes-3-video-really-wants-you-to-play-travis-strikes-again-625351.phtml
+
+Un trailer pour **Bomb Rush Cyberfunk**, un Jet Set Radio-like
+https://www.nintendolife.com/news/2021/04/team_reptile_shows_off_the_fluid_movement_in_bomb_rush_cyberfunk
+
+Un trailer pour **Famicom Detective Club**, une compilation de jeux d'aventure
+https://www.siliconera.com/new-famicom-detective-club-trailers-focus-on-characters-and-gameplay/
+
+Un trailer pour **The Silver Case 2425**, un jeu d'aventure
+https://www.siliconera.com/heres-how-the-silver-case-2425s-the-25th-ward-looks-on-the-switch/
 
 ## Patchs, DLC et démos
 
-Une mise à jour pour **Monster Hunter Rise** fin avril
-https://www.nintendolife.com/news/2021/03/monster_hunter_rise_2_0_update_scheduled_for_the_end_of_april
+Du contenu pour **Streets of Rage 4**
+https://www.nintendolife.com/news/2021/04/streets_of_rage_4_is_getting_new_characters_modes_and_more_in_mr_x_nightmarer_dlc
 
-Une démo pour **R-Type Final 2** est disponible
-https://www.p-nintendo.com/news/une-demo-pour-r-type-final-2-annoncee-au-japon-pour-le-1er-avril-256654
+Des nouveaux jeux (gratuits) dans la **Blizzard Arcade Collection**
+https://www.destructoid.com/stories/blizzard-arcade-is-adding-lost-vikings-2-and-rpm-racing-as-free-dlc-625782.phtml
 
-Une mise à jour pour **Risk of Rain 2**
-https://www.destructoid.com/stories/risk-of-rain-2-s-anniversary-update-is-out-march-25-with-the-bandit-623665.phtml
+Un DLC pour **Curse of the Dead Gods** en crossover avec Dead Cells
+https://www.nintendolife.com/news/2021/04/curse_of_the_dead_gods_will_have_dead_cells_crossover_dlc_in_a_free_update
 
-Un nouveau DLC pour **Dead Cells**
-https://www.nintendolife.com/news/2021/03/dead_cells_free_whack-a-mole_update_adds_insanely_large_weapons_new_mutations_and_more
+Du contenu pour **Monster Sanctuary**
+https://www.nintendolife.com/news/2021/04/monster-catching_metroidvania_monster_sanctuary_is_getting_a_major_new_gameplus_update
+
+Du contenu pour **The Last Campfire**
+https://www.eurogamer.net/articles/2021-04-09-hello-games-the-last-campfire-adds-20-percent-more-puzzling-in-free-new-update
+
+Du contenu pour **Civilization 6**
+https://www.eurogamer.net/articles/2021-04-12-civilization-6s-final-free-game-update-adds-three-new-units-two-new-maps-and-more
+
+Ryu et Chun Li dans **Power Rangers Battle for the Grid**, et une édition "complète"
+https://www.siliconera.com/chun-li-ranger-and-ryu-ranger-head-to-power-rangers-battle-for-the-grid/
+https://www.siliconera.com/power-rangers-battle-for-the-grid-super-edition-details-shared/
+
+Les prochains DLC de **Minecraft** sont retardés et coupés en deux
+https://www.polygon.com/22385526/minecraft-caves-cliffs-expansion-release-dates-delayed-pc-xbox-one-nintendo-switch
+
+Le dernier DLC de **Immortals Fenyx Rising** est sorti
+https://www.p-nintendo.com/news/le-prochain-dlc-d-immortals-fenyx-rising-les-dieux-perdus-sortira-le-22-avril-256745
+
+Un nouveau perso pour **Spiritfarer**
+https://www.siliconera.com/the-free-spiritfarer-lily-update-debuts/
 
 ## Versions physiques et collector
 
-**Brothers a Tale of Two Sons**, un jeu d'aventure coopératif
-https://www.nintendolife.com/news/2021/03/brothers_a_tale_of_two_sons_gets_physical_release
+**Blasphemous** en édition "deluxe"
+https://www.nintendolife.com/news/2021/04/indie_metroidvania_blasphemous_is_getting_the_deluxe_physical_switch_release_it_deserves
 
-**Tanuki Justice**, un platformer/action
-https://www.switch-actu.fr/actualites/jeux/tanuki-justice-aura-droit-a-une-version-physique/
+**Legend of Mana**, mais au Japon, mais en anglais, ouf
+https://www.nintendolife.com/news/2021/04/legend_of_manas_physical_switch_release_will_include_english_language_support
 
-**Bustafellows**, un visual novel
-https://www.siliconera.com/bustafellows-physical-switch-collectors-edition-has-new-sieg-people-magazine/
+**Neo The World Ends With You** en collector
+https://www.siliconera.com/neo-the-world-ends-with-you-limited-edition-revealed/
 
-**Doom**, un jeu de clarinette
-https://www.destructoid.com/stories/limited-run-games-announces-doom-the-classics-collection-for-ps4-and-nintendo-switch-624309.phtml
+**Unrailed** chez Super Rare Games
+https://www.nintendolife.com/news/2021/04/unrailed_is_the_next_switch_limited_edition_from_super_rare_games
 
-**Battle Axe**, un hack & slash
-https://www.nintendolife.com/news/2021/03/numskull_games_announces_partnership_with_limited_run_games_starting_with_battle_axe
+**Sam & Max Save The World** chez Limited Run
+https://www.p-nintendo.com/news/sam-and-max-save-the-world-remaster-profite-d-une-edition-physique-256770
 
-**Star Wars Republic Commando**, un FPS
-https://www.nintendolife.com/news/2021/04/star_wars_republic_commando_is_getting_a_limited_run_switch_release
+**NeoGeo Pocket Color Selection** chez Limited Run mais aussi Pix N Love, ouf on n'est pas délaissés
+https://www.siliconera.com/neogeo-pocket-color-selection-vol-1-physical-copies-announced/
 
-**Monster Boy & The Cursed Kingdom**, un metroidvania
-https://www.nintendolife.com/news/2021/04/monster_boy_and_the_cursed_kingdom_is_getting_a_collectors_edition
+Super Rare Games annonce cinq titres : **Abzu**, **Deponia Collection**, **Inmost**, **Super Crush KO**, et **Vigil The Longest Night**
+https://www.nintendolife.com/news/2021/04/super_rare_games_announces_five_new_physical_releases_for_nintendo_switch
 
-**Oddworld Collection**, une compilation des trois Oddworld Switch
-https://www.destructoid.com/stories/oddworld-collection-compiles-three-classics-for-nintendo-switch-624744.phtml
+**Bug Fables** chez Limited Run
+https://www.nintendolife.com/news/2021/04/paper_mario_tribute_bug_fables_scores_a_limited_run_games_release
+
+**Star Renegades** en édition collector
+https://www.nintendolife.com/news/2021/04/star_renegades_special_editions_up_for_grabs_on_switch
 
 ## News diverses, chiffres, hardware
 
-Un **Split Pad Pro** aux couleurs de Monster Hunter Rise
-https://www.nintendolife.com/news/2021/03/horis_monster_hunter_rise_split_pad_pro_gets_a_western_release_next_month
+Le **dernier firmware** de la Switch ajoute (sans l'utiliser) le support du bluetooth audio
+https://www.nintendolife.com/news/2021/04/rumour_the_latest_switch_firmware_update_has_apparently_added_bluetooth_audio_support
 
-Des **contrôleurs typés Gamecube** par Hori
-https://www.nintendolife.com/news/2021/03/horis_launching_new_mario_and_zelda-themed_gamecube-style_controllers_for_switch
+Une **nouvelle couleur de Switch Lite**
+https://www.nintendolife.com/news/2021/04/nintendo_unveils_a_new_blue_switch_lite_console
 
-Test du **8bitdo Pro 2**
-https://www.nintendolife.com/news/2021/04/hardware_review_8bitdo_pro_2_-_the_best_switch_pro_controller_rival_has_evolved
+Un **nouveau pad "pro"** chez PowerA
+https://www.nintendolife.com/news/2021/04/powera_reveals_its_pro-grade_switch_controller_now_available_for_pre-order
+
+Une **imprimante spéciale pour la Switch**, pourquoi pas après tout on n'est plus à ça près
+https://www.switch-actu.fr/actualites/divers/mini-link-se-une-imprimante-photo-pour-switch/
 
 ## Previews
 
-**Buildings Have Feelings Too**, un jeu d'aventure
-https://ladiesgamers.com/buildings-have-feelings-too-coming-to-switch/
+**Knockout City**, un jeu de balle au prisonnier inspiré par Fortnite
+https://www.switch-actu.fr/actualites/jeux/knockout-city-une-beta-qui-suscite-la-curiosite-preview/
+
+**Diablo 2 Resurrected**, le remaster du célèbre hack & slash
+https://www.polygon.com/22374398/diablo-2-resurrected-preview-character-models-4k-graphics
+https://www.destructoid.com/stories/diablo-ii-resurrected-feels-like-a-magic-trick-625718.phtml
+https://www.siliconera.com/diablo-ii-resurrected-impressions/
+
+**Shin Megami Tensei 3**, un JRPG
+https://www.nintendoworldreport.com/hands-on-preview/56962/shin-megami-tensei-nocturne-a-great-game-a-disappointing-remaster
+https://www.siliconera.com/preview-smt-iii-nocturne-hd-remaster-feels-like-an-accessible-reintroduction/
+https://www.destructoid.com/stories/shin-megami-tensei-iii-nocturne-hd-remaster-is-just-as-good-as-i-remember-625912.phtml
+https://www.polygon.com/22393520/shin-megami-tensei-3-hd-preview-atlus-nintendo-switch-ps4-pc
+https://www.nintendolife.com/news/2021/04/hands_on_shin_megami_tensei_iii_nocturne_still_has_the_power_to_shake_you_up
 
 ## Tests de gros jeux et de petits qui semblent intéressants
 
-**Monster Hunter Rise**, un RPG/action
-https://www.siliconera.com/monster-hunter-rise-review/
-https://www.destructoid.com/stories/review-monster-hunter-rise-622463.phtml
-https://www.nintendolife.com/reviews/nintendo-switch/monster_hunter_rise
-https://www.gameinformer.com/review/monster-hunter-rise/monster-hunter-rise-review-runt-of-the-litter
-https://www.eurogamer.net/articles/2021-03-23-monster-hunter-rise-review-the-switchs-best-game-since-breath-of-the-wild
-https://www.gamespot.com/reviews/monster-hunter-rise-review-standing-tall/1900-6417652/?ftag=CAD-01-10abi2f
-https://www.polygon.com/reviews/22344620/monster-hunter-rise-review-switch
-https://www.nintendoworldreport.com/review/56589/monster-hunter-rise-switch-review
-https://www.ign.com/articles/monster-hunter-rise-review
-https://www.p-nintendo.com/tests/tests-complets/test-monster-hunter-rise-switch-256664
-https://www.switch-actu.fr/tests/tests-de-jeux/monster-hunter-rise-un-excellent-jeu-au-challenge-un-peu-limite-test/
-https://www.gameblog.fr/tests/3839-monster-hunter-rise-switch
-Analyse technique : https://www.eurogamer.net/articles/digitalfoundry-2021-monster-hunter-rise-switch-tech-review
+**Cozy Groove**, un Animal Crossing-like
+https://www.nintendoworldreport.com/review/56778/cozy-grove-switch-review
+https://www.polygon.com/reviews/22368702/cozy-grove-review-nintendo-switch-pc-animal-crossing-review
+https://www.siliconera.com/review-cozy-grove-is-an-animal-crossing-lite/
+https://www.nintendolife.com/reviews/switch-eshop/cozy_grove
+https://www.polygon.com/22375612/cozy-grove-apple-arcade-preferred-device-mobile
+https://ladiesgamers.com/cozy-grove-review-nintendo-switch/
+https://www.destructoid.com/stories/review-cozy-grove-626156.phtml
+![picture 19](https://i.imgur.com/eKBmb2D.png)  
 
-**Story of Seasons Pioneers of Olive Town**, un jeu de farming
-https://www.siliconera.com/review-story-of-seasons-pioneers-of-olive-town-expands-the-series-range/
-https://www.destructoid.com/stories/review-story-of-seasons-pioneers-of-olive-town-622888.phtml
-https://www.ign.com/articles/story-of-seasons-pioneers-of-olive-town-review
-https://www.nintendoworldreport.com/review/56668/story-of-seasons-pioneers-of-olive-town-switch-review
-https://ladiesgamers.com/story-of-seasons-pioneers-of-olive-town-review-nintendo-switch/
-https://www.gameblog.fr/tests/3838-story-of-seasons-pioneers-of-olive-town-switch
-https://www.nintendolife.com/reviews/nintendo-switch/story_of_seasons_pioneers_of_olive_town
-https://www.gameinformer.com/review/story-of-seasons-pioneers-of-olive-town/story-of-seasons-pioneers-of-olive-town-review
-https://www.p-nintendo.com/tests/tests-complets/test-story-of-seasons-pioneers-of-olive-town-n-est-pas-animal-crossing-qui-veut-256698
+**Pac-Man 99**, un Pac-Man battle royale
+https://www.nintendolife.com/reviews/switch-eshop/pac-man_99
+https://www.gameinformer.com/review/pac-man-99/pac-man-99-review-a-great-game-to-play-while-doing-something-else
+https://www.ign.com/articles/pac-man-99-review
+https://www.polygon.com/reviews/22386046/pac-man-99-review-nintendo-switch-strategy-how-to-confusing-ghosts-attacks
+https://www.siliconera.com/review-pac-man-99-feeds-a-power-pellet-to-the-battle-royale-genre/
+![picture 5](https://i.imgur.com/l0fM4ERm.jpg)  
 
-**Balan Wonderworld**, un platformer 3D
-https://www.nintendolife.com/reviews/nintendo-switch/balan_wonderworld
-https://www.switch-actu.fr/tests/tests-de-jeux/balan-wonderworld-quand-le-reve-tourne-au-cauchemar-test/
-https://www.ign.com/articles/balan-wonderworld-review
-https://www.nintendoworldreport.com/review/56722/balan-wonderworld-switch-review
-https://www.destructoid.com/stories/review-balan-wonderworld-624211.phtml
-https://www.eurogamer.net/articles/2021-04-01-balan-wonderworld-review-an-archaic-throwback-as-clumsy-as-it-is-enjoyable
-https://www.gameblog.fr/tests/3845-balan-wonderworld-xb1-xbs-pc-ps4-ps5-switch
+**Say No! More**, un... rail shooter ?
+https://www.nintendoworldreport.com/review/56786/say-no-more-switch-review
+https://www.polygon.com/22383709/say-no-more-studio-fizbin-nintendo-switch-impressions
+https://www.gameblog.fr/tests/3850-say-no-more-pc-switch
+https://www.siliconera.com/say-no-more-makes-workplace-assertiveness-feel-fun-switch/
+![picture 20](https://i.imgur.com/7zD5Q3W.jpg)  
 
-**A-Train All Aboard**, un jeu de gestion
-https://www.destructoid.com/stories/review-a-train-all-aboard-tourism-622887.phtml
-https://www.eurogamer.net/articles/2021-03-19-take-the-a-train-or-how-i-fell-in-love-with-a-hardcore-accounting-sim
-https://www.nintendolife.com/reviews/switch-eshop/a-train_all_aboard_tourism
-https://www.siliconera.com/review-a-train-switch-is-ready-to-steal-weeks-of-your-life/
-https://www.nintendoworldreport.com/review/56724/a-train-all-aboard-tourism
+**Rain on Your Parade**, un, heu, un jeu comme Untitled Goose Game, vous appelez ça comment vous ?
+https://www.nintendoworldreport.com/review/56835/rain-on-your-parade-switch-review
+https://www.destructoid.com/stories/review-rain-on-your-parade-625563.phtml
+https://ladiesgamers.com/rain-on-your-parade-review-nintendo-switch/
+![picture 21](https://i.imgur.com/NtkSkaq.png)  
 
-**Kaze & The Wild Masks**, un platformer 2D
-https://www.siliconera.com/review-kaze-and-the-wild-masks-has-perilous-platforming-in-pretty-places/
-https://www.gameblog.fr/tests/3836-kaze-and-the-wild-masks-xb1-switch-pc-ps4
-https://www.nintendoworldreport.com/review/56673/kaze-and-the-wild-masks-switch-review
+**Fez**, un puzzle/platformer
+https://www.nintendolife.com/reviews/switch-eshop/fez
+https://www.gameblog.fr/tests/3851-fez-switch
+https://www.nintendoworldreport.com/review/56973/fez-switch-review
+![picture 22](https://i.imgur.com/Eav7xBN.png)  
 
-**Narita Boy**, un jeu d'aventure/action super stylé
-https://www.nintendoworldreport.com/review/56680/narita-boy-switch-review
-https://www.nintendolife.com/reviews/switch-eshop/narita_boy
-https://www.ign.com/articles/narita-boy-review
+**The Legend of Heroes Trails of Cold Steel IV**, un JRPG
+https://www.nintendoworldreport.com/review/56791/the-legend-of-heroes-trails-of-cold-steel-iv-switch-review
+https://ladiesgamers.com/the-legend-of-heroes-trails-of-cold-steel-iv-review-nintendo-switch/
+![picture 23](https://i.imgur.com/JA1zHTj.png)  
 
-**WRC9**, un jeu de course
-https://www.p-nintendo.com/tests/tests-complets/test-de-wrc-9-tout-en-maitrise-256648
-https://www.nintendolife.com/reviews/nintendo-switch/wrc_9_the_official_game
-
-**Immortals Fenyx Rising Myths of the Easter Realm**, un DLC
-https://www.gamespot.com/reviews/immortals-fenyx-rising-myths-of-the-eastern-realm-dlc-review/1900-6417654/?ftag=CAD-01-10abi2f
-https://www.ign.com/articles/immortals-fenyx-rising-myths-of-the-eastern-realm-review
-
-**Harvest Moon One World**, un Harvest Moon-like
-https://www.siliconera.com/review-harvest-moon-one-world-wants-you-to-save-the-world-by-farming/
+**Atelier Mysterious Trilogy**, des JRPG
+https://ladiesgamers.com/atelier-sophie-the-alchemist-of-the-mysterious-book-dx-review-switch/
+https://ladiesgamers.com/atelier-firis-the-alchemist-and-the-mysterious-journey-dx-review-switch/
+![picture 24](https://i.imgur.com/Fc7wWVW.png)  
 
 ## Tests de jeux qui arrivent plus tard
 
-**Disco Elysium The Final Cut**, un RPG qui sort cet été
-https://www.ign.com/articles/disco-elysium-the-final-cut-review
-https://www.eurogamer.net/articles/2021-03-31-the-new-voices-in-disco-elysium-the-final-cut-make-it-feel-more-like-a-tabletop-experience-than-ever
-https://www.gameinformer.com/review/disco-elysium-the-final-cut/disco-elysium-the-final-cut-review-still-a-superstar
+**Disco Elysium Final Cut**, un RPG
+https://www.destructoid.com/stories/review-disco-elysium-the-final-cut-625328.phtml
 
 ## Tests en retard de gros jeux
 
-**Apex Legends**, analyse par Digital Foundry
-https://www.eurogamer.net/articles/digitalfoundry-2021-apex-legends-switch-analysis
+**Balan Wonderworld**, un platformer 3D
+https://www.gamespot.com/reviews/balan-wonderworld-review-costume-drama/1900-6417660/?ftag=CAD-01-10abi2f
+https://www.siliconera.com/review-balan-wonderworld-should-have-been-a-movie/
+https://www.p-nintendo.com/tests/tests-complets/test-de-balan-wonderworld-256755
+
+**Lost Words Beyond the Page**, un jeu d'aventure/histoire interactive
+https://www.gameinformer.com/review/lost-words-beyond-the-page/lost-words-beyond-the-page-review-a-touching-tale-full-of
+https://www.gameblog.fr/tests/3848-lost-words-beyond-the-page-xb1-switch-stadia-pc-ps4
 
 **Plants vs Zombies Battle for Neighborville**, un TPS
-https://www.nintendolife.com/reviews/nintendo-switch/plants_vs_zombies_battle_for_neighborville_complete_edition
+https://www.switch-actu.fr/tests/plants-vs-zombies-la-bataille-de-neighborville-un-tps-res-plante-di-ssant-test/
+
+**Overcooked All You Can Eat**, un party game
+https://ladiesgamers.com/overcooked-all-you-can-eat-review-nintendo-switch/
+
+**Torchlight 2**, un Diablo-like
+https://www.p-nintendo.com/tests/tests-complets/torchlight-ii-une-antichambre-lumineuse-a-diablo-3-255138
+
+**Sea of Solitude**, un jeu d'aventure
+https://www.switch-actu.fr/tests/tests-de-jeux/sea-of-solitude-en-eaux-troubles-test/
 
 ## Tests rétrogaming
 
-**NeoGeo Pocket Color Selection Vol 1**, une compilation rétro
-https://www.siliconera.com/neogeo-pocket-color-selection-vol-1-packs-in-retro-fun/
-https://www.nintendolife.com/reviews/switch-eshop/neo_geo_pocket_color_selection_vol_1
-https://www.nintendoworldreport.com/review/56726/neogeo-pocket-color-collection-vol-1-switch-eshop-review
+**Star Wars Republic Commando**, un FPS
+https://www.nintendolife.com/reviews/switch-eshop/star_wars_republic_commando
+https://www.polygon.com/reviews/22366818/star-wars-republic-commando-review-switch-ps4
+https://www.nintendoworldreport.com/review/56780/star-wars-republic-commando-switch-review
+https://www.gamespot.com/reviews/star-wars-republic-commando-remastered-review/1900-6417662/?ftag=CAD-01-10abi2f
+https://www.switch-actu.fr/tests/tests-de-jeux/star-wars-republic-commando-le-clone-rate-test/
 
-**Stubbs the Zombie**, un jeu d'aventure/action
-https://www.nintendolife.com/reviews/switch-eshop/stubbs_the_zombie_in_rebel_without_a_pulse
+**SaGa Frontier**, un JRPG
+https://www.siliconera.com/review-saga-frontier-gets-what-it-deserves-in-remastered/
+https://www.nintendoworldreport.com/review/56912/saga-frontier-remastered-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/saga_frontier_remastered
 
-**Haunted Castle**, probablement le pire Castlevania
-https://www.nintendolife.com/reviews/switch-eshop/arcade_archives_haunted_castle
+**Ty The Tasmanian Tiger 1 & 2**, des jeux de plateforme
+https://www.nintendolife.com/reviews/switch-eshop/ty_the_tasmanian_tiger_2_bush_rescue_hd
+https://ladiesgamers.com/ty-the-tasmanian-tiger-2-bush-fire-rescue-hd-review-switch/
+https://ladiesgamers.com/ty-the-tasmanian-tiger-hd-review-nintendo-switch/
 
 ## Tests de plus petits jeux et jeux sortis il y a un moment
 
-**Root Film**, un visual novel
-https://www.nintendoworldreport.com/review/56591/root-film-switch-review
-https://nintendoscene.com/2021/03/24/root-film-ns-review/
-https://www.nintendolife.com/reviews/nintendo-switch/root_film
+**Stitchy in Tooki Trouble**, un auto runner
+https://www.switch-actu.fr/tests/tests-de-jeux/stitchy-in-tooki-trouble-introduction-aux-plates-formes-test/
+https://ladiesgamers.com/stitchy-in-tooki-trouble-review-nintendo-switch/
+https://www.nintendolife.com/reviews/switch-eshop/stitchy_in_tooki_trouble
 
-**Genesis Noir**, un jeu d'aventure
-https://www.destructoid.com/stories/review-genesis-noir-623783.phtml
-https://www.eurogamer.net/articles/2021-03-25-genesis-noir-review-an-adventure-spanning-all-of-creation
-https://www.nintendolife.com/reviews/switch-eshop/genesis_noir
+**Poison Control**, un JRPG
+https://www.nintendolife.com/reviews/nintendo-switch/poison_control
+https://www.siliconera.com/review-poison-control-drags-various-game-elements-to-hell/
 
-**What Comes After**, un jeu d'aventure
-https://www.nintendoworldreport.com/review/56587/what-comes-after-switch-review
-https://www.switch-actu.fr/tests/tests-de-jeux/what-comes-after-le-baume-au-coeur-test/
+**Root File**, un visual novel
+https://ladiesgamers.com/root-film-nintendo-switch/
+https://www.siliconera.com/review-root-film-is-filled-with-lovely-locations-weak-mysteries/
 
-**Bladed Fury**, un jeu d'aventure/action
-https://www.nintendoworldreport.com/review/56667/bladed-fury-switch-review
-https://www.nintendolife.com/reviews/nintendo-switch/bladed_fury
+**Astro Aqua Kitty**, un mélange de Defender et de metroidvania
+https://www.nintendolife.com/reviews/switch-eshop/astro_aqua_kitty
+https://ladiesgamers.com/astro-aqua-kitty-review-nintendo-switch/
 
-**Overcooked All You Can Eat**, un party game
-https://www.nintendolife.com/reviews/nintendo-switch/overcooked_all_you_can_eat
-https://www.nintendoworldreport.com/review/56725/overcooked-all-you-can-eat-switch-review
+**Future Aero Racing S Ultra**, un F-Zero-like
+https://www.nintendoworldreport.com/review/56836/future-aero-racing-s-ultra-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/future_aero_racing_s_ultra_-_far_s_ultra
 
-**Later Alligator**, un jeu d'aventure
-https://www.nintendolife.com/reviews/switch-eshop/later_alligator
-https://www.nintendoworldreport.com/review/56717/later-alligator-switch-review
+**Kingdom of Arcadia**, un platformer/action
+https://ladiesgamers.com/kingdom-of-arcadia-review-nintendo-switch/
+https://www.nintendolife.com/reviews/switch-eshop/kingdom_of_arcadia
 
-**Rip Them Off**, un puzzle game
-https://ladiesgamers.com/rip-them-off-review-nintendo-switch/
-https://www.nintendoworldreport.com/review/56677/rip-them-off-switch-review
+**What the Dub**, un party game
+https://www.nintendoworldreport.com/review/56781/what-the-dub-switch-eshop-review
 
-**Can't Drive This**, un jeu de course et de construction coopératif
-https://www.ign.com/articles/cant-drive-this-review
-https://www.switch-actu.fr/tests/tests-de-jeux/cant-drive-this-chauffard-si-tes-champion-test/
+**Narita Boy**, un platformer/action
+https://www.gameinformer.com/review/narita-boy/narita-boy-review-easier-on-the-eyes
 
-**Lost Words**, un jeu d'aventure
-https://ladiesgamers.com/lost-words-beyond-the-page-review-nintendo-switch/
-https://www.nintendoworldreport.com/review/56718/lost-words-beyond-the-page-switch-review
+**Mega Mall Story 2**, un jeu de gestion
+https://ladiesgamers.com/mega-mall-story-2-review-nintendo-switch/
 
-**Beach Buggy Racing 2**, un jeu de kart
-https://www.nintendolife.com/reviews/switch-eshop/beach_buggy_racing_2_island_adventure
+**Moon Raider**, un metroidvania
+https://www.nintendolife.com/reviews/switch-eshop/moon_raider
 
-**Alchemist Simulator**, un jeu d'aventure/simulation
-https://ladiesgamers.com/alchemist-simulator-review-nintendo-switch/
+**Potion Party**, un party game
+https://ladiesgamers.com/potion-party-review-nintendo-switch/
 
-**Anodyne 2**, un jeu d'aventure/action
-https://ladiesgamers.com/anodyne-2-return-to-dust-review-nintendo-switch/
+**I Saw Black Clouds**, un FMV
+https://www.nintendoworldreport.com/review/56793/i-saw-black-clouds-switch-review
 
-**Sea of Solitude**, un jeu d'aventure
-https://www.nintendolife.com/reviews/nintendo-switch/sea_of_solitude_the_directors_cut
+**Train Station Simulator**, un jeu de gestion
+https://ladiesgamers.com/train-station-simulator-review-nintendo-switch/
 
-**Code Realize Windertide Miracles**, un visual novel
-https://ladiesgamers.com/code-realize-wintertide-miracles-switch-review/
+**Mazm The Phantom of the Opera**, un jeu d'aventure
+https://ladiesgamers.com/mazm-the-phantom-of-the-opera-review-switch/
 
-**Neurodeck**, un jeu de cartes
-https://www.gameblog.fr/tests/3837-neurodeck-pc-switch
+**Godstrike**, un twin stick shooter/boss rush
+https://www.nintendolife.com/reviews/switch-eshop/godstrike
 
-**Barrage Fantasia**, un shmup
-https://www.nintendoworldreport.com/review/56580/barrage-fantasia-switch-review
+**Deiland Pocket Planet Edition**, un jeu de farming zen
+https://ladiesgamers.com/deiland-pocket-planet-edition-review-switch/
 
-**Get a Grip Chip**, un jeu de plateforme
-https://www.nintendoworldreport.com/review/56583/get-a-grip-chip-switch-review
+**Synergia**, un visual novel
+https://ladiesgamers.com/synergia-switch-review/
 
-**Raiders of the Lost Island**, un party game
-https://ladiesgamers.com/raiders-of-the-lost-island-review-nintendo-switch/
+**Toree 3D**, un platformer 3D rétro
+https://www.nintendolife.com/reviews/switch-eshop/toree_3d
 
-**Lost Lands 2**, un point & click
-https://ladiesgamers.com/lost-lands-2-the-four-horsemen-review-switch/
+**Graviter**, un puzzle game
+https://ladiesgamers.com/graviter-review-nintendo-switch/
 
-**Tales from the Borderlands**, un jeu d'aventure
-https://www.nintendolife.com/reviews/switch-eshop/tales_from_the_borderlands
+**Odysseus Kosmos And His Robot Quest**, un point & click
+https://www.p-nintendo.com/tests/tests-complets/odysseus-kosmos-and-his-robot-quest-wall-e-et-oddy-en-conversion-au-tour-d-un-trou-noir-256633
 
-**Magic Twins**, un puzzle game coop arcade
-https://ladiesgamers.com/magic-twins-review-nintendo-switch/
+**Bamerang**, un arena shooter
+https://www.nintendoworldreport.com/review/56970/bamerang-switch-review
 
-**Densha De Go!**, un simulateur de conduite de train
-https://www.nintendolife.com/reviews/nintendo-switch/densha_de_go_hashiro_yamanote_line
+**Heal**, un puzzle game
+https://ladiesgamers.com/heal-console-edition-review-nintendo-switch/
 
-**Crimzon Clover**, un shmup
-https://www.nintendoworldreport.com/review/55647/crimzon-clover-world-explosion-switch-review
+**Buildings Have Feelings Too**, un mélange de jeu d'aventure et de gestion
+https://ladiesgamers.com/buildings-have-feelings-too-review-switch/
 
-**Stick Fight**, un brawler
-https://www.nintendoworldreport.com/review/56733/stick-fight-the-game-switch-review
+**Turnip Boy Commits Tax Evasion**, un jeu d'aventure/action
+https://www.nintendoworldreport.com/review/56964/turnip-boy-commits-tax-evasion-switch-review
 
-**Saviors of Sapphire Wings**, un dungeon crawler
-https://www.siliconera.com/review-saviors-of-sapphire-wings-is-a-great-intro-to-dungeon-crawling/
+**Smelter**, un mélange de plateforme/action et de stratégie, à la ActRaiser
+https://www.nintendolife.com/reviews/switch-eshop/smelter
 
-**Curse of the Dead Gods**, un roguelike
-https://www.gameinformer.com/review/curse-of-the-dead-gods/curse-of-the-dead-gods-review-a-roguelite-lesson-in-greed-and
+https://www.nintendoworldreport.com/review/56972/picross-s6-switch-review
+
+**Retromania Wrestling**, un jeu de catch
+https://www.nintendolife.com/reviews/switch-eshop/retromania_wrestling
 
 **Mini tests**
-https://www.nindiespotlight.com/2021/03/mini-reviews-march-22nd-edition.html
-https://www.nindiespotlight.com/2021/03/mini-reviews-march-23rd-edition.html
-https://www.nindiespotlight.com/2021/03/mini-reviews-march-25th-edition.html
-https://www.nindiespotlight.com/2021/03/mini-reviews-march-26th-edition.html
-https://www.nindiespotlight.com/2021/03/mini-reviews-march-30th-edition.html
-https://www.nindiespotlight.com/2021/04/mini-reviews-april-1st-edition-nintendo.html
-https://www.nindiespotlight.com/2021/04/mini-reviews-april-2nd-edition-nintendo.html
+https://www.nindiespotlight.com/2021/04/mini-reviews-april-7th-edition-nintendo.html
+https://www.nindiespotlight.com/2021/04/mini-reviews-april-14th-edition.html
+https://www.nindiespotlight.com/2021/04/mini-reviews-april-16th-edition.html
+https://www.nindiespotlight.com/2021/04/mini-reviews-april-20th-edition.html
+https://www.nindiespotlight.com/2021/04/mini-reviews-april-21st-edition.html
 
 ## Le coin des jeux moins connus et des jeux Japonais
 
-**Say No! More**, un jeu d'aventure/action, sort le 9 avril
-https://www.nintendolife.com/news/2021/03/following_its_delay_say_no_more_says_yes_to_a_switch_launch_next_month
+**Beast Breaker**, un jeu de combat de flipper avec une souris (oui oui), est annoncé pour cet été
+https://www.destructoid.com/stories/threes-creator-s-new-studio-announces-mouse-bouncing-battler-beast-breaker-625159.phtml
 
-**Sunshine Manor**, un jeu d'horreur 8 bits, sort à l'automne
-https://www.nintendolife.com/news/2021/03/8-bit_horror_rpg_sunshine_manor_creeps_onto_switch_this_fall
+**Ravensword**, un RPG dans la veine de The Elder Scrolls, est sorti
+https://www.nintendolife.com/news/2021/04/elder_scrolls-like_rpg_ravensword_shadowlands_launches_on_switch_this_week
 
-**World Splitter**, un puzzle-platformer, sort le 21 avril
-https://www.nintendolife.com/news/2021/03/twin-stick_puzzle-platformer_world-splitter_leaps_onto_switch_next_month
+**Wanna Survive**, un jeu de tactique, sort le 21 mai
+https://www.nintendolife.com/news/2021/04/wanna_survive_brings_turn-based_zombie_apocalypse_action_to_switch_next_month
 
-**RWBY Grimm Eclipse**, un beat'em up, sort le 13 mai
-https://www.siliconera.com/rwby-grimm-eclipse-switch-version-will-appear-in-may/
+**Exploding Kittens**, un jeu de cartes, est sorti
+https://www.polygon.com/22374215/exploding-kittens-card-game-switch-release-multiplayer
 
-**C14 Dating**, un dating sim, est sorti
-https://www.nintendolife.com/news/2021/03/c14_dating_is_a_new_otome_dating_sim_looking_for_love_on_switch_next_week
+**Asdivine Cross**, un RPG Kemco, est sorti
+https://www.nintendolife.com/news/2021/04/kemco_rpg_asdivine_cross_arrives_on_switch_very_soon
 
-**Demon Turf**, un platformer 3D développé par l'auteur de Slime San et publié par l'éditeur de Yooka Laylee, sort cet été
-https://www.nintendolife.com/news/2021/03/demon_turf_is_coming_to_switch_this_summer_thanks_to_playtonic_friends
+**The Darkside Detective A Fumble in the Dark**, un point & click, est sorti
+https://www.nintendolife.com/news/2021/04/the_darkside_detective_a_fumble_in_the_dark_will_haunt_switch_this_month
 
-**Secret Neighbor**, un spin-off multijoueur de la série Hello Neighbor, sort cet été
-https://www.nintendolife.com/news/2021/03/tinybuild_is_bringing_its_multiplayer_hello_neighbor_game_to_switch_this_summer
+Trois nouveaux visual novel par **Idea Factory** et **Otomate**
+https://www.siliconera.com/otomate-reveals-radiant-tale-three-more-visual-novels-for-switch/
 
-**Touhou Hyouibana Antinomy of Common Flowers**, un jeu de baston, sort le 22 avril
-https://www.siliconera.com/touhou-hyouibana-antinomy-of-common-flowers-will-appear-worldwide/
+**The Skylia Prophecy**, un metroidvania, sort le 23 avril
+https://www.nintendolife.com/news/2021/04/the_skylia_prophecy_begins_its_quest_on_switch_soon
 
-**Legend of Keepers**, un roguelike/RPG/tower defense, sort le 29 avril
-https://www.switch-actu.fr/actualites/jeux/legend-of-keepers-defendra-son-donjon-egalement-sur-switch/
+**Relicta**, un puzzle game à la première personne, est sorti par surprise
+https://www.switch-actu.fr/actualites/jeux/relicta-arrive-sur-switch-cette-semaine-apparemment/
 
-**Moon Raider**, un metroidvania en pixel art (tiens ça faisait longtemps), sort le 23 avril
-https://www.nintendolife.com/news/2021/03/moon_raider_brings_more_metroidvania_action_to_switch_on_april_23rd
+**Fallen Knight**, un platformer/action, sort le 23 juin
+https://www.nintendolife.com/news/2021/04/sword-fighting_action-platformer_fallen_knight_slashes_its_way_to_switch_this_june
 
-**Smelter**, un mélange de plateforme et stratégie, sort le 22 avril
-https://www.nintendolife.com/news/2021/03/smelter_blends_side-scrolling_action_with_top-down_strategy_and_its_coming_to_switch
+**The Forgotten City**, un jeu d'enquête, sort cet été
+https://www.nintendolife.com/news/2021/04/the_forgotten_city_a_midas-touched_time-loop_mystery_comes_to_switch_this_summer
 
-**Melty Blood Type Lumina**, un jeu de baston, est annoncé pour cette année
-https://www.siliconera.com/melty-blood-type-lumina-announced-for-consoles/
+**Skate City**, un jeu de... skate... sort le 6 mai
+https://www.nintendolife.com/news/2021/04/skate_city_kickflips_onto_switch_in_may
+
+**Leisure Suit Larry Wet Dreams Dry Twice**, un point & click, sort le 18 mai
+https://www.nintendolife.com/news/2021/04/leisure_suit_larry_wet_dreams_dry_twice_releases_on_switch_in_may
+
+**Dungeon & Gravestone**, un dungeon crawler, sort le 23 avril
+https://www.nintendolife.com/news/2021/04/voxel-style_rpg_dungeon_and_gravestone_offers_over_500_quests_launches_on_switch_this_week
+
+**Empire of Angels IV**, un TRPG, est sorti
+https://www.nintendolife.com/news/2021/04/tactical_rpg_empire_of_angels_heads_to_consoles_for_the_first_time_this_year
+
+**Retro Machina**, un jeu d'aventure, sort le 12 mai
+https://www.p-nintendo.com/news/retro-machina-sera-lance-le-12-mai-256785
+
+**Football Drama**, un jeu d'aventure/gestion footballistique, sort le 6 mai
+https://www.nintendolife.com/news/2021/04/forget_the_european_super_league_true_football_drama_is_coming_to_nintendo_switch
+
+**Hitchhiker**, un jeu d'aventure, est sorti
+https://www.nintendolife.com/news/2021/04/hitchhiker_gives_a_thumbs-up_for_an_imminent_switch_release
