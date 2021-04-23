@@ -9,6 +9,9 @@ $content = $content -replace '## (.*)',"`n[fixed]`$1[/fixed]"
 # bold
 $content = $content -replace '\*\*([^\*]+)\*\*','[b]$1[/b]'
 
+# images
+$content = $content -replace '!\[[^\]]*\]\((.*)\)', '[img]$1[/img]'
+
 # save result
 $content | out-file 'result.bb'
 
