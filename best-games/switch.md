@@ -57,7 +57,7 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 - **Je veux un jeu de course :** Burnout Paradise, Need For Speed Hot Pursuit, GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX, MotoGP 20
 - **Je veux un jeu de combat :** Dragon Ball FighterZ, Mortal Kombat 11, Samurai Shodown, Super Smash Bros Ultimate, Streets of Rage 4
 - **Je veux des casse tête :** Captain Toad Treasure Tracker, Catherine Full Body, Return of the Obra Dinn, Baba Is You, Grindstone, Puyo Puyo Tetris 2
-- **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us
+- **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us, Pac-Man 99
 - **Je veux me détendre :** Yoku's Island Express, Spiritfarer, Stardew Valley, Untitled Goose Game, Animal Crossing New Horizons
 - **Je veux jouer en famille :** Just Dance, Let's Sing, Overcooked, Super Mario Party, Go Vacation, 51 Worldwide Games
 
@@ -121,12 +121,12 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash, Roof Rage
 - **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots, The Takeover, Double Dragon Neon, Scott Pilgrim vs The World
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx, Black Bird, Bot Vice, Project Starship X
-- **Arcade, high score** : **Zen Pinball**, **Pinball FX3**, [Akane](https://www.cosmo0.fr/critique/akane/), Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, [Pix the Cat](https://www.cosmo0.fr/critique/pix-the-cat/), Ding Dong XL, Demon's Tilt, Pure Pool, Death's Hangover, Strikey Sisters
+- **Arcade, high score** : **Zen Pinball**, **Pinball FX3**, **Pac-Man 99**, [Akane](https://www.cosmo0.fr/critique/akane/), Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, [Pix the Cat](https://www.cosmo0.fr/critique/pix-the-cat/), Ding Dong XL, Demon's Tilt, Pure Pool, Death's Hangover, Strikey Sisters
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Party game, multijoueur** : Overcooked, The Stretchers, Tools Up!, Aeolis Tournament, Among Us, Ponpu
 - **Jeu de cartes** : **Eternal**, **Lightseekers**, **Warhammer Age of Sigmar**, Thronebreaker: The Witcher Tales, Frost, Faeria, Mystic Vale, Wingspan
 - **Jeu de société, jeu de plateau** : [Armello](https://www.cosmo0.fr/critique/armello/), Carcassonne
-- **Autre, inclassables** : [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), Death and Taxes, Art Sqool
+- **Autre, inclassables** : [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), Death and Taxes, Art Sqool, Cozy Groove, There Is No Game
 - **Rétrogaming** : Nintendo Switch Online, Mega Man [Legacy Collection](https://www.cosmo0.fr/critique/mega-man-legacy-collection/)/[X Legacy Collection](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/), série [SEGA AGES](https://www.cosmo0.fr/?s=sega+ages), série [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), série Arcade Archives, série [Johnny Turbo's Arcade](https://www.cosmo0.fr/?s=johnny+turbo), série [Konami Collection](https://www.cosmo0.fr/?s=konami+collection)
 
 ## Jeux adaptés aux enfants
@@ -410,7 +410,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## RPG tour par tour
 
-- **[Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/)** 1/2, Dusk Trilogy, Arland Trilogy
+- **[Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/)** 1/2, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy
 - Battle Chasers Nightwar
 - **Bravely Default 2**
 - **Bug Fables**
@@ -424,7 +424,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Ikenfell
 - Indivisible
 - Labyrinth of Refrain: Coven of Dusk
-- Legend of Heroes Trails of Cold Steel 3
+- Legend of Heroes Trails of Cold Steel 3, 4
 - **Moon**
 - Nexomon Extinction
 - **Octopath Traveler**
@@ -432,7 +432,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Pillars of Eternity**
 - **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/)
 - Pokémon Mystery Dungeon Rescue Team DX
-- Romancing SaGa 2, 3, Scarlet Grace
+- Romancing SaGa 2, 3, Scarlet Grace, SaGa Frontier
 - Shiren The Wanderer
 - South Park Le Bâton de Vérité, L'Annale du Destin
 - Star Ocean First Departure R
@@ -555,6 +555,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Farming
 
+- Deiland: Pocket Planet Edition
 - Doraemon Story of Seasons
 - Farming Simulator
 - Graveyard Keeper
@@ -676,7 +677,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Grindstone**
 - Manifold Garden
 - Murder by Numbers
-- **Picross S, S2, S3, S4, S5**
+- **Picross S, S2, S3, S4, S5, S6**
 - Picto Quest
 - **Puzzle Quest The Legend Returns**
 - **realMyst**
@@ -738,7 +739,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Mantis Burn Racing
 - **Mario Kart 8 DX**
 - Monster Energy Supercross 3
-- **Moto GP 20**
+- **Moto GP 21**
 - **Need For Speed Hot Pursuit**
 - [Out Run (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-out-run/)
 - Redout
@@ -838,6 +839,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Creature in the Well
 - **Demon's Tilt**
 - Killer Queen Black
+- **Pac-Man CE 2**, **Pac-Man 99**
 - Pang Adventures
 - **Pinball FX3**
 - **Pure Pool**
@@ -980,6 +982,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 ## Autres/inclassables
 
 - **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
+- Cozy Groove
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
 - Nintendo Labo
@@ -997,16 +1000,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de test : Black Legend, There Is No Game
+- Jeux sortis, en attente de test : Black Legend, R-Type Final 2
 
-- Avril : Pac-Man 99, Picross S6, Cozy Groove (8), Trails of Cold Steel IV (9), SaGa Frontier Remaster (15), Deiland: Pocket Planet Edition (15), Raiden IV (22), Atelier Mysterious Trilogy (22), MotoGP 21 (22), R-Type Final 2 (29 JP), Before I Forget (29), New Pokémon Snap (30), Hoa (?), Battle Axe (?)
+- Avril : Before I Forget (29), New Pokémon Snap (30), Hoa (?), Battle Axe (?)
 - Mai : The Colonists (4), Save Me Mr Tako DX (5), Skate City (6), Monster Harvest (13), Famicom Detective Club (14), Subnautica+Below Zero (14), SnowRunner (18), Aerial_Knights Never Yield (19), Rune Factory 5 (20 JP), Miitopia (21), Knockout City (21), Maneater (25), Shin Megami Tensei III Nocturne (25), King of Seas (25), Earth Defense Force World Brothers (27), World End’s Club (28), Wonder Boy Asha In Monster World (28), Weaving Tides (?)
 - Juin : DC Super Hero Girls (4), Ninja Gaiden Master Collection (10), Griftlands (10), Ender Lilies: Quietus of the Knights (21), Legend of Mana Remastered (24), Alex Kidd in Miracle World DX (24), Mario Golf (25), Disgaea 6 (29), Destroy All Humans (29), Beasts of Maravilla Island (?), Sky Children of the Light (?)
 - Juillet : Ys IX Monstrum Nox (6), Monster Hunter Stories 2 (9), The Silver Case 2425 (9), Zelda Skyward Sword HD (16), Cris Tales (20), Samurai Warriors 5 (27), Neo The World Ends With You (27), The Great Ace Attorney Chronicles (27), Last Stop (?), Test Drive Unlimited Solar Crown (?)
 - Août : King's Bounty II (24), No More Heroes 3 (27), Blood Bowl 3 (?), KeyWe (?)
 - Septembre : Hot Wheels Unleashed (30), Andro Dunos 2 (?)
 
-- Q1 2021/printemps : She Dreams Elsewhere, Braid Anniversary, Onirike, Warhammer Age Of Sigmar Storm Ground, Surviving The Aftermath, Ruined King, Fisti-fluffs, Very Very Valet, Alba A Wildlife Adventure, Happy Game, Trash Sailors, Finding Paradise, Conan Chop Chop, Kitaria Fables, Teratopia, Axiom Verge 2, Darius Cozmic Revelation, Wave Break, Super Bomberman R Online, Tunche, Kosmokrats, Hazel Sky, RetroMania Wrestling, Labyrinth City: Pierre the Maze Detective, Fighting EX Layer
+- Q1 2021/printemps : She Dreams Elsewhere, Braid Anniversary, Onirike, Warhammer Age Of Sigmar Storm Ground, Surviving The Aftermath, Ruined King, Fisti-fluffs, Very Very Valet, Alba A Wildlife Adventure, Happy Game, Trash Sailors, Finding Paradise, Conan Chop Chop, Kitaria Fables, Teratopia, Axiom Verge 2, Darius Cozmic Revelation, Wave Break, Super Bomberman R Online, Tunche, Kosmokrats, Hazel Sky, RetroMania Wrestling, Labyrinth City: Pierre the Maze Detective, Fighting EX Layer, Raiden IV
 - Q2 2021/été : The Good Life, Spelunky 1 & 2, Disco Elysium, Ender Lilies, Fall Guys, Stonefly, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Shadowverse Champion's Battle, Skul The Hero Slayer, Art of Rally, Roguebook
 - Q3 2021/automne : Pokémon Brilliand Diamond/Shining Pearl, Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods
 - Q4 2021/hiver : OlliOlli World

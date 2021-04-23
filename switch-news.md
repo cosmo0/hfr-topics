@@ -1,4 +1,4 @@
-#cosmonews  
+#cosmonews du jour bonjour
 
 ## Calendrier  
 
@@ -151,10 +151,12 @@ https://www.nintendolife.com/news/2021/04/new_pokemon_snaps_latest_trailer_shows
 https://www.nintendolife.com/news/2021/04/nintendo_of_america_releases_two_commercials_for_new_pokemon_snap  
 https://www.p-nintendo.com/news/bande-annonce-en-anglais-pour-new-pokemon-snap-256744  
 https://www.nintendolife.com/news/2021/04/video_new_pokemon_snap_trailer_highlights_the_games_stunning_scenery_and_wild_pokemon  
+https://www.nintendolife.com/news/2021/04/video_another_new_pokemon_snap_trailer_appears_and_this_ones_a_treat_for_the_ears  
 
 Des images et vidéos pour **Ninja Gaiden Master Collection**, une compilation de beat'em up/hack & slash  
 https://www.siliconera.com/kasumi-ayane-slice-n-dice-in-new-ninja-gaiden-master-collection-video/  
 https://www.siliconera.com/new-ninja-gaiden-master-collection-action-trailer/  
+https://www.destructoid.com/stories/ninja-gaiden-master-collection-demonstrates-ryu-hayabusa-s-ninja-rap-626845.phtml  
 
 Une vidéo pour **Shin Megami Tensei III**, un JRPG  
 https://www.p-nintendo.com/news/shin-megami-tensei-iii-nocturne-hd-remaster-seance-de-gameplay-en-anglais-256756  
@@ -291,7 +293,7 @@ https://www.gameinformer.com/review/pac-man-99/pac-man-99-review-a-great-game-to
 https://www.ign.com/articles/pac-man-99-review  
 https://www.polygon.com/reviews/22386046/pac-man-99-review-nintendo-switch-strategy-how-to-confusing-ghosts-attacks  
 https://www.siliconera.com/review-pac-man-99-feeds-a-power-pellet-to-the-battle-royale-genre/  
-![picture 5](https://i.imgur.com/l0fM4ERmm.jpg)  
+![picture 5](https://i.imgur.com/l0fM4ERm.jpg)  
 
 **Say No! More**, un... rail shooter ?  
 https://www.nintendoworldreport.com/review/56786/say-no-more-switch-review  
@@ -321,6 +323,10 @@ https://ladiesgamers.com/the-legend-of-heroes-trails-of-cold-steel-iv-review-nin
 https://ladiesgamers.com/atelier-sophie-the-alchemist-of-the-mysterious-book-dx-review-switch/  
 https://ladiesgamers.com/atelier-firis-the-alchemist-and-the-mysterious-journey-dx-review-switch/  
 ![picture 24](https://i.imgur.com/Fc7wWVWm.png)  
+
+**MotoGP 21**, un jeu de cornemuse (je suppose) (version next-gen mais dites-vous que sur Switch c'est pareil en un peu moche)  
+https://www.ign.com/articles/motogp-21-review  
+![picture 25](https://i.imgur.com/M60U1nam.png)  
 
 ## Tests de jeux qui arrivent plus tard  
 
@@ -363,11 +369,15 @@ https://www.switch-actu.fr/tests/tests-de-jeux/star-wars-republic-commando-le-cl
 https://www.siliconera.com/review-saga-frontier-gets-what-it-deserves-in-remastered/  
 https://www.nintendoworldreport.com/review/56912/saga-frontier-remastered-switch-review  
 https://www.nintendolife.com/reviews/switch-eshop/saga_frontier_remastered  
+https://www.switch-actu.fr/tests/tests-de-jeux/saga-frontier-remastered-sa-gaze-pour-moi-switch-test/  
 
 **Ty The Tasmanian Tiger 1 & 2**, des jeux de plateforme  
 https://www.nintendolife.com/reviews/switch-eshop/ty_the_tasmanian_tiger_2_bush_rescue_hd  
 https://ladiesgamers.com/ty-the-tasmanian-tiger-2-bush-fire-rescue-hd-review-switch/  
 https://ladiesgamers.com/ty-the-tasmanian-tiger-hd-review-nintendo-switch/  
+
+**Shantae**, un platformer GBC  
+https://www.nintendoworldreport.com/review/56977/shantae-switch-eshop-review  
 
 ## Tests de plus petits jeux et jeux sortis il y a un moment  
 
@@ -395,6 +405,10 @@ https://www.nintendolife.com/reviews/switch-eshop/future_aero_racing_s_ultra_-_f
 **Kingdom of Arcadia**, un platformer/action  
 https://ladiesgamers.com/kingdom-of-arcadia-review-nintendo-switch/  
 https://www.nintendolife.com/reviews/switch-eshop/kingdom_of_arcadia  
+
+**Picross S6**, un... picross  
+https://www.nintendoworldreport.com/review/56972/picross-s6-switch-review  
+https://www.nintendolife.com/reviews/switch-eshop/picross_s6  
 
 **What the Dub**, un party game  
 https://www.nintendoworldreport.com/review/56781/what-the-dub-switch-eshop-review  
@@ -452,8 +466,6 @@ https://www.nintendoworldreport.com/review/56964/turnip-boy-commits-tax-evasion-
 
 **Smelter**, un mélange de plateforme/action et de stratégie, à la ActRaiser  
 https://www.nintendolife.com/reviews/switch-eshop/smelter  
-
-https://www.nintendoworldreport.com/review/56972/picross-s6-switch-review  
 
 **Retromania Wrestling**, un jeu de catch  
 https://www.nintendolife.com/reviews/switch-eshop/retromania_wrestling  
