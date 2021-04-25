@@ -43,7 +43,7 @@ Plus un éditeur de jeu qu'une "fantasy console", le but est de faciliter la cr�
 
 ## CHIP-8
 
-![CHIP-8](https://i.imgur.com/lC11uiomm.png)
+![CHIP-8](https://i.imgur.com/lC11uiom.png)
 
 Probablement le premier "fantasy computer", il a été créé en 1972 pour faciliter le développement de jeux sans avoir besoin d'écrire de l'assembleur.
 
@@ -222,7 +222,7 @@ Une console virtuelle avec des limitations assez extrêmes (une unique palette d
 
 Tout comme le Pico-8 s'inspire des consoles 8 bits, le TIC-80 fait la même chose en s'inspirant des ordinateurs 8 bits, qui utilisaient souvent un processeur Z80 (d'où le nom). Il est tout aussi complet que le Pico-8 avec un IDE intégré, mais un tout petit peu moins mature.
 
-- **Spécifications :** affichage 240x136 en 16 couleurs, 256 sprites de 8x8, son sur 4 canaux, plusieurs langages possibles (Lua, Javascript, etc).
+- **Spécifications :** affichage 240x136 en 16 couleurs, 256 sprites de 8x8, son sur 4 canaux ; programmes en Lua, Javascript, ou autre.
 - **Avantages :** assez complet et puissant, moins restrictif que le Pico-8 et donne un style "ordinateur" aux jeux.
 - **Inconvénients :** moins complet que le Pico-8, moins portable.
 - **Prix :** gratuit (closed source), version payante (5$) avec plus de possibilités.
@@ -232,9 +232,9 @@ Tout comme le Pico-8 s'inspire des consoles 8 bits, le TIC-80 fait la même chos
 
 ![Vectorboy](https://i.imgur.com/f80BAbNm.png)
 
-Une console qui ne fonctionne pas avec des pixels mais des vecteurs, comme la Vectrex, et utilise le langage LUA, un langage de programmation plutôt populaire en tant que langage de script de jeu vidéo.
+Une console qui ne fonctionne pas avec des pixels mais des vecteurs, comme la Vectrex.
 
-- **Spécifications :** affichage vectoriel monochrome.
+- **Spécifications :** affichage vectoriel monochrome ; programmes en Lua.
 - **Avantages :** la seule machine de la liste qui fait du vectoriel.
 - **Inconvénients :** pas open source, et projet à l'abandon depuis 2018.
 - **Prix :** gratuit (closed source).
@@ -260,10 +260,10 @@ Techniquement ce n'est pas une machine virtuelle mais plutôt un jeu hautement m
 
 Une micro-console qui simule un appareil de type Tamagochi.
 
-- **Spécifications :**
-- **Avantages :**
-- **Inconvénients :**
-- **Prix :**
+- **Spécifications :** affichage monochrome en 128x128 ; programmes en Lua.
+- **Avantages :** c'est rigolo.
+- **Inconvénients :** projet abandonné, mal documenté, etc.
+- **Prix :** gratuit (open source).
 - [Site officiel](https://github.com/gardrek/VVpet)
 
 ## Zany80
