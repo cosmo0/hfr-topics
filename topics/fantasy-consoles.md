@@ -11,7 +11,7 @@ Il y a [des tas de fantasy consoles](https://paladin-t.github.io/fantasy/), je n
 - **Les plus connus :** Pico-8, TIC-80
 - **Le plus vieux :** CHIP-8
 - **Le plus souple :** Pixel Vision 8
-- **Les plus faciles :** Bitsy, Fancade
+- **Les plus faciles :** Bitsy, Fancade, MakeCode
 
 Si vous voulez débuter, commencez donc plutôt par le Pico-8 ou le TIC-80 : vous aurez bien plus de support de la communauté, et une vraie documentation. Et pour être parfaitement honnête, si vous ne vous intéressez pas un minimum au sujet, vous n'entendrez jamais parler que du Pico-8.
 
@@ -19,7 +19,7 @@ La liste suivante est triée par ordre alphabétique.
 
 ## BASIC8
 
-![BASIC8](https://i.imgur.com/slltjRj.png)
+![BASIC8](https://i.imgur.com/slltjRjm.png)
 
 Une fantasy console similaire aux autres mais qui préfère utiliser le BASIC comme langage, des outils d'édition puissants, et préfère avoir un look final rétro plutôt que des outils rétro.
 
@@ -31,9 +31,9 @@ Une fantasy console similaire aux autres mais qui préfère utiliser le BASIC co
 
 ## Bitsy
 
-![Bitsy](https://i.imgur.com/0lVvR92.png)
+![Bitsy](https://i.imgur.com/0lVvR92m.png)
 
-Plus un éditeur et exporteur de jeu qu'une "fantasy console", le but est de faciliter la création de petits jeux d'aventure ou d'histoires interactives joués en vue de dessus sur des grilles. Il est doté d'un éditeur complet qui permet de créer une petite aventure sans avoir besoin de taper de code.
+Plus un éditeur de jeu qu'une "fantasy console", le but est de faciliter la création de petits jeux d'aventure ou d'histoires interactives joués en vue de dessus sur des grilles. Il est doté d'un éditeur complet qui permet de créer une petite aventure sans avoir besoin de taper de code.
 
 - **Spécifications :** 3 couleurs maximum, sprites de 8x8 pixels, grille de déplacement fixe.
 - **Avantages :** il est possible de créer des jeux très simplement et sans rien coder.
@@ -43,7 +43,7 @@ Plus un éditeur et exporteur de jeu qu'une "fantasy console", le but est de fac
 
 ## CHIP-8
 
-![CHIP-8](https://i.imgur.com/lC11uiom.png)
+![CHIP-8](https://i.imgur.com/lC11uiomm.png)
 
 Probablement le premier "fantasy computer", il a été créé en 1972 pour faciliter le développement de jeux sans avoir besoin d'écrire de l'assembleur.
 
@@ -58,7 +58,7 @@ Il est tellement vieux qu'il n'existe pas vraiment de "site officiel", et de nom
 
 ## Fancade
 
-![Fancade](https://i.imgur.com/nujTtV9.png)
+![Fancade](https://i.imgur.com/nujTtV9m.png)
 
 Un éditeur de jeu avec un éditeur visuel qui utilise des blocs à relier plutôt qu'un langage de programmation, le tout intégralement dans votre smartphone.
 
@@ -70,7 +70,7 @@ Un éditeur de jeu avec un éditeur visuel qui utilise des blocs à relier plut�
 
 ## Homegirl
 
-![Homegirl](https://i.imgur.com/NsqwfJ0.png)
+![Homegirl](https://i.imgur.com/NsqwfJ0m.png)
 
 Un fantasy computer qui s'inspire spécifiquement de l'Amiga : couleurs et résolution, multi-tâche, système de fenêtres, etc. Avec des fonctionnalités modernes comme la possibilité de monter un lecteur réseau.
 
@@ -82,7 +82,7 @@ Un fantasy computer qui s'inspire spécifiquement de l'Amiga : couleurs et réso
 
 ## Leikr
 
-![Leikr](https://i.imgur.com/kI8Wkjv.png)
+![Leikr](https://i.imgur.com/kI8Wkjvm.png)
 
 Un outil de développement qui a la particularité de se baser sur Mini2Dx, un framework de développement de jeux 2D multi-plateforme.
 
@@ -94,7 +94,7 @@ Un outil de développement qui a la particularité de se baser sur Mini2Dx, un f
 
 ## LGE (Little Game Engine) / ESPboy
 
-![ESPboy](https://i.imgur.com/6Te9yrL.png)
+![ESPboy](https://i.imgur.com/6Te9yrLm.png)
 
 Un moteur de jeu destiné au processeur ESP8266, un processeur Arduino (un système de plateforme open source pour bricoler des projets électroniques). C'est donc moins une "fantasy console" qu'une "custom console".
 
@@ -106,9 +106,9 @@ Un moteur de jeu destiné au processeur ESP8266, un processeur Arduino (un syst�
 
 ## Liko-12
 
-![Liko-12](https://i.imgur.com/v0jYrpk.png)
+![Liko-12](https://i.imgur.com/v0jYrpkm.png)
 
-Liko-12 est très proche de TIC-80, en intégrant également un éditeur de sprites et un système d'exploitation en ligne de commande.
+Le Liko-12 est très proche du TIC-80, et se démarque surtout par sa gestion des périphériques.
 
 - **Spécifications :** affichage 192x128 en 4 bits, 2 disques virtuels de 50Mo, support des manettes, clavier/souris et tactile, programmes en Lua.
 - **Avantages :** aussi complet que TIC-80 mais rajoute la simulation des périphériques, tout en étant plus moderne avec le support de requêtes HTTP.
@@ -118,9 +118,9 @@ Liko-12 est très proche de TIC-80, en intégrant également un éditeur de spri
 
 ## LowRes NX
 
-![LowRes NX](https://i.imgur.com/ES09dEa.png)
+![LowRes NX](https://i.imgur.com/ES09dEam.png)
 
-Une console inspirée par le Pico-8 mais qui utilise le BASIC et cherche à reproduire le fonctionnement des machines d'époque : il n'y a pas de screen buffer, mais un système de registres, et des techniques d'époque comme le vblank ou le raster interrupt.
+Une console inspirée par le Pico-8 mais qui utilise le BASIC et cherche à reproduire le fonctionnement des machines d'époque : il n'y a pas de screen buffer mais un système de registres, et des techniques d'époque comme le vblank ou le raster interrupt.
 
 - **Spécifications :** affichage 160x128 avec 8 palettes de 4 couleurs, 4 canaux de son, langage BASIC, techniques de rendu à l'ancienne, pas de limitation de cartouche, supporte le clavier/souris.
 - **Avantages :** très flexible, il est possible de modifier les outils intégrés pour les adapter à son usage ; pensé pour l'usage sur smartphone, y compris l'IDE.
@@ -130,7 +130,7 @@ Une console inspirée par le Pico-8 mais qui utilise le BASIC et cherche à repr
 
 ## MakeCode
 
-![MakeCode](https://i.imgur.com/ayKoyat.png)
+![MakeCode](https://i.imgur.com/ayKoyatm.png)
 
 Une console virtuelle par Microsoft qui permet de coder soit avec un éditeur visuel (des blocs à imbriquer), soit avec un langage (Javascript ou Python).
 
@@ -140,21 +140,9 @@ Une console virtuelle par Microsoft qui permet de coder soit avec un éditeur vi
 - **Prix :** gratuit (open source).
 - [Site officiel](https://arcade.makecode.com/)
 
-## Mini-Micro
-
-![Mini Micro](https://i.imgur.com/AyIbX29.png)
-
-Un ordinateur virtuel basé sur le MiniScript et assez "puissant".
-
-- **Spécifications :** affichage 640x960, pas de limite de couleurs, module HTTP.
-- **Avantages :** très puissant avec ses contraintes très larges ; tourne sous Unity donc très portable.
-- **Inconvénients :** les contraintes très larges limitent l'intérêt par rapport à un framework standard ; tourne sous Unity donc assez lourd.
-- **Prix :** gratuit (closed source).
-- [Site officiel](https://joestrout.itch.io/mini-micro)
-
 ## Nibble
 
-![Nibble](https://i.imgur.com/zcqmjnj.png)
+![Nibble](https://i.imgur.com/zcqmjnjm.png)
 
 La Nibble est une console portable basée sur du Arduino destinée à apprendre en s'amusant ; des outils existent pour lancer les jeux sur Windows, MacOS et Linux.
 
@@ -166,7 +154,7 @@ La Nibble est une console portable basée sur du Arduino destinée à apprendre 
 
 ## Pico-8
 
-![Pico-8](https://i.imgur.com/bYbK2pE.png)
+![Pico-8](https://i.imgur.com/bYbK2pEm.png)
 
 La plus célèbre des fantasy consoles, c'est sans doute celle qui a le meilleur équilibre entre ses restrictions, ses facilités d'usage, ses outils, sa flexibilité, etc. Elle s'inspire du rendu des consoles 8 bits, tout en utilisant ses propres restrictions, et n'impose pas de limitation de puissance, ce qui permet de faire des projets très impressionnants techniquement.
 
@@ -182,11 +170,11 @@ Sa grande souplesse contribue à sa popularité : on peut distribuer les "cartou
 
 ## Pixel Vision 8
 
-![Pixel Vision 8](https://i.imgur.com/xsplN5b.png)
+![Pixel Vision 8](https://i.imgur.com/xsplN5bm.png)
 
-Plus une plateforme qu'une machine spécifique, le Pixel Vision 8 permet de spécifier ses propres contraintes : affichage, mémoire, tout est modifiable (dans certaines contraintes bien sûr).
+Plus une plateforme qu'une machine spécifique, le Pixel Vision 8 permet de spécifier ses propres contraintes : affichage, mémoire, tout est modifiable (dans certaines limites bien sûr).
 
-- **Spécifications :** les contraintes sont modifiables et donc très souples. Utilise du Lua ou du C#.
+- **Spécifications :** les contraintes sont modifiables et donc très souples ; programmes en Lua ou C#.
 - **Avantages :** très flexible ; outil de développement intégré assez puissant et divers outils qui facilitent la vie ; permet d'utiliser ses propres outils.
 - **Inconvénients :** pas encore parfaitement stable, sujet à modifications, pas encore utilisable partout.
 - **Prix :** gratuit (open source).
@@ -194,7 +182,7 @@ Plus une plateforme qu'une machine spécifique, le Pixel Vision 8 permet de spé
 
 ## Pyxel
 
-![Pyxel](https://i.imgur.com/gRMI4xu.png)
+![Pyxel](https://i.imgur.com/gRMI4xum.png)
 
 On peut résumer Pyxel en "Pico-8 en Python".
 
@@ -206,9 +194,9 @@ On peut résumer Pyxel en "Pico-8 en Python".
 
 ## Quadplay
 
-![Quadplay](https://i.imgur.com/JdXrbLJ.png)
+![Quadplay](https://i.imgur.com/JdXrbLJm.png)
 
-Une console virtuelle qui, comme son nom l'indique, permet jusqu'à 4 joueurs, et s'intègre donc très bien dans des bornes d'arcade personnalisées.
+Une console virtuelle qui, comme son nom l'indique, permet jusqu'à 4 joueurs, et s'intègre donc très bien dans des bornes d'arcade personnalisées par exemple.
 
 - **Spécifications :** affichage jusqu'à 384x224 (à peu près 16/9e) en 4096 couleurs, 4 joueurs.
 - **Avantages :** une des rares consoles virtuelles qui permettent le jeu en multijoueur ; export possible sur de nombreux supports ; permet une grande liberté.
@@ -218,7 +206,7 @@ Une console virtuelle qui, comme son nom l'indique, permet jusqu'à 4 joueurs, e
 
 ## Script-8
 
-![Script-8](https://i.imgur.com/iljpPGD.png)
+![Script-8](https://i.imgur.com/iljpPGDm.png)
 
 Une console virtuelle avec des limitations assez extrêmes (une unique palette de 8 couleurs qui forment un dégradé) mais une intégration avec Github assez intéressante, et des outils assez puissants comme la possibilité de remonter le temps pour ajuster finement des valeurs.
 
@@ -230,7 +218,7 @@ Une console virtuelle avec des limitations assez extrêmes (une unique palette d
 
 ## TIC-80
 
-![TIC-80](https://i.imgur.com/gzlqBfS.png)
+![TIC-80](https://i.imgur.com/gzlqBfSm.png)
 
 Tout comme le Pico-8 s'inspire des consoles 8 bits, le TIC-80 fait la même chose en s'inspirant des ordinateurs 8 bits, qui utilisaient souvent un processeur Z80 (d'où le nom). Il est tout aussi complet que le Pico-8 avec un IDE intégré, mais un tout petit peu moins mature.
 
@@ -242,7 +230,7 @@ Tout comme le Pico-8 s'inspire des consoles 8 bits, le TIC-80 fait la même chos
 
 ## Vectorboy
 
-![Vectorboy](https://i.imgur.com/f80BAbN.png)
+![Vectorboy](https://i.imgur.com/f80BAbNm.png)
 
 Une console qui ne fonctionne pas avec des pixels mais des vecteurs, comme la Vectrex, et utilise le langage LUA, un langage de programmation plutôt populaire en tant que langage de script de jeu vidéo.
 
@@ -254,7 +242,7 @@ Une console qui ne fonctionne pas avec des pixels mais des vecteurs, comme la Ve
 
 ## Voxatron
 
-![Voxatron](https://i.imgur.com/nXUiq18.png)
+![Voxatron](https://i.imgur.com/nXUiq18m.png)
 
 Créé par les développeurs du Pico-8, Voxatron est, comme son nom le suggère, dédié à un affichage en voxel, ces petits cubes 3D popularisés par Minecraft (mais qui était déjà utilisé au début des années 90), qui peuvent être pensés comme "une grille de pixels à laquelle on rajoute une information de hauteur".
 
@@ -268,7 +256,7 @@ Techniquement ce n'est pas une machine virtuelle mais plutôt un jeu hautement m
 
 ## VVPet
 
-![VVPet](https://i.imgur.com/tgh5fej.png)  
+![VVPet](https://i.imgur.com/tgh5fejm.png)  
 
 Une micro-console qui simule un appareil de type Tamagochi.
 
