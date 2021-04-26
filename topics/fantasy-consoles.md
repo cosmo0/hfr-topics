@@ -10,12 +10,11 @@ Et en tant que développeur, quel est l'intérêt de ce type de projet par rappo
 
 Il y a [des tas de fantasy consoles](https://paladin-t.github.io/fantasy/), je ne vais noter que celles qui me semblent les plus intéressantes, que ce soit parce qu'elles sont puissantes, connues, stables, mises à jour, bien documentées ; ou bien rien de tout ça mais originales.
 
-- **Les plus connus :** Pico-8, TIC-80
-- **Le plus vieux :** CHIP-8
-- **Le plus souple :** Pixel Vision 8
-- **Les plus faciles :** Bitsy, Fancade, MakeCode
-
-Si vous voulez débuter, commencez donc plutôt par le Pico-8 ou le TIC-80 : vous aurez bien plus de support de la communauté, et une vraie documentation. Et pour être parfaitement honnête, si vous ne vous intéressez pas un minimum au sujet, vous n'entendrez jamais parler que du Pico-8. Si vous voulez bricoler sans avoir besoin d'apprendre à coder, jetez donc un oeil à Fancade ou MakeCode.
+- Si vous voulez juste jouer, vous pouvez vous contenter du Pico-8, et jeter un oeil au TIC-80.
+- Si vous débutez, commencez plutôt par le Pico-8 ou le TIC-80 : vous aurez bien plus de support de la communauté, et une vraie documentation.
+- Si vous ne voulez rien payer (le Pico-8 est payant, le TIC-80 est limité en version gratuite), regardez les Pixel Vision 8 et Liko 12.
+- Si vous voulez bricoler sans avoir besoin d'apprendre à coder, jetez donc un oeil à Fancade ou MakeCode.
+- Si vous voulez apprendre à coder "à l'ancienne" (à peu près), regardez le CHIP-8 et le LowRes NX.
 
 La liste suivante est triée par ordre alphabétique.
 
