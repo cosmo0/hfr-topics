@@ -50,21 +50,21 @@ Chacune a ses avantages et ses inconvénients.
 - Avantages : simple à installer et configurer, grosse communauté francophone
 - Inconvénients : difficile à personnaliser au-delà de ce qui est prévu, impossible d'utiliser le Pi pour autre chose (pas d'apt-get)
 - Site : <https://www.recalbox.com/>
-- Doc : <https://github.com/recalbox/recalbox-os/wiki>
+- Doc : <https://recalbox.gitbook.io/documentation/v/francais/>
 
 ### Retropie
 
 - Avantages : très configurable, extensible, modulaire, grosse communauté (anglophone), beaucoup d'émulateurs, interface très paramétrable
 - Inconvénients : un peu moins facile à configurer que Recalbox, il ne faut pas avoir peur des interfaces en ligne de commande
 - Site : <https://retropie.org.uk/>
-- Doc : <https://github.com/retropie/retropie-setup/wiki>
+- Doc : <https://retropie.org.uk/docs/>
 
 ### Batocera
 
 - Avantages : fork de Recalbox mais tourne sur plein de systèmes, plus d'émulateurs que Recalbox, plus d'options, etc
 - Inconvénients : moins de développeurs, toute petite communauté
 - Site : <https://batocera.org/>
-- Doc : <https://wiki.batocera.org/doku.php>
+- Doc : <https://wiki.batocera.org/>
 
 ### Blast16 & SNESES
 
@@ -78,13 +78,7 @@ Chacune a ses avantages et ses inconvénients.
 - Avantages : distribution officielle de Libretro, généralement la plus à jour et la plus complète
 - Inconvénients : interface infernale
 - Site : <https://www.lakka.tv/>
-- Doc : <https://www.lakka.tv/doc/home/>
-
-### Happi
-
-- Avantages : simple à utiliser, assez complète en terme d'émulateurs, proposent également une version "Happiga" dédiée à l'Amiga
-- Inconvénients : mises à jour très rares, support inexistant
-- Site : <https://www.bpj-studio.fr/_happi/index.html>
+- Doc : <http://www.lakka.tv/doc/Home/>
 
 ## FAQ et vocabulaire
 
