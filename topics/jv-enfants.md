@@ -67,9 +67,9 @@ Il est tentant de faire connaître le jeu vidéo à vos enfants à travers ce qu
 
 Cela dit, le rétrogaming n'est pas à oublier, pour deux raisons principales.
 
-La première raison, c'est que les jeux sont plus simples, et donc plus accessibles : les contrôleurs ont moins de boutons, et les jeux en 2D (ou en 3D avec caméra fixe) sont plus simples à contrôler que les jeux modernes avec 50 actions possibles qui changent en fonction du contexte. La manipulation est plus simple, mais les jeux eux-même également : Mario qui va de gauche à droite dans le premier épisode, c'est plus facile à gérer que Mario qui peut aller partout, faire du wall jump et se transformer dans Odyssey.
+La première raison, c'est que les jeux sont plus simples, et donc plus accessibles : les manettes ont moins de boutons, et les jeux en 2D (ou en 3D avec caméra fixe) sont plus simples à contrôler que les jeux modernes avec 50 actions possibles qui changent en fonction du contexte. La manipulation est plus simple, mais les jeux eux-même également : Mario qui va de gauche à droite dans le premier épisode, c'est plus facile à gérer que Mario qui peut aller partout, faire du wall jump et se transformer dans Odyssey.
 
-La seconde raison, c'est que la plupart des jeux étaient moins violents qu'aujourd'hui, du moins avant Mortal Kombat. En plus des restrictions mises en place notamment par Nintendo, ils étaient souvent calibrés pour les enfants ou les ados, et la technique limitée rend la violence très abstraite car les personnages ne sont pas réalistes.
+La seconde raison, c'est que la plupart des jeux ont une violence moins "graphique" qu'aujourd'hui, du moins avant Mortal Kombat. En plus des restrictions mises en place notamment par Nintendo qui refusait le sang, la technique limitée rend la violence très abstraite (du moins bien plus qu'aujourd'hui), car les personnages ne sont pas réalistes.
 
 Enfin, votre enfant peut aussi être intéressé pour découvrir ce avec quoi vous avez grandi ; mais n'essayez pas de lui faire aimer à tout prix si vous ne voulez pas passer pour un vieux con.
 
