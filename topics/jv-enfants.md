@@ -8,6 +8,8 @@ Voici un topic pour regrouper toutes ces questions et tenter de vous aider à y 
 
 Avant tout chose, que l'on soit bien clair : le but du topic n'est **pas** de juger l'éducation des autres. Il y a des topics "éducation" pour ça, qui vous permettront d'insinuer à loisir que votre éducation est meilleure, mais je ne veux pas de ça ici : pas de "ohlala 16 ans c'est bien trop jeune pour jouer à Fortnite" ni à l'inverse de "pfff tu peux laisser ton nouveau-né te regarder jouer à Doom ça change quoi ?". Je n'hésiterai pas à alerter les gros relous.
 
+Pareil pour votre expérience personnelle : "oh moi je jouais à Resident Evil à 4 ans et je vais très bien", on s'en passe, merci, et "je vais très bien" reste à prouver. Vos enfants ne sont pas vous, et plus important encore, nos enfants ne sont pas vous.
+
 Rappelez-vous une chose : chaque enfant a ses propres besoins et sensibilités, ce qui va terrifier votre grand de 8 ans peut ne pas faire broncher votre petit de 4 ans. Chaque parent a aussi le droit de mener son éducation comme bon lui semble, dans la limite de la législation évidemment.
 
 Le but du topic n'est pas de chercher à interdire ou obliger les gens à faire ceci ou cela, mais de donner des conseils, des indications, aider à choisir, à comprendre.
