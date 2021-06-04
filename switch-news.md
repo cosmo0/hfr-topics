@@ -4,6 +4,49 @@ https://www.p-nintendo.com/news/nintendo-annonce-sa-conference-e3-nintendo-direc
 
 ## Calendrier
 
+**Sorties récentes :**
+
+- Fighting EX Layer
+- Super Bomberman R Online
+- Overboard!
+- SnowRunner
+- Aerial_Knights Never Yield
+- Sunless Skies
+- Layers of Fear 2
+- Rune Factory 5 (JP)
+- Knockout City
+- Miitopia
+- Maneater
+- Shin Megami Tensei III Nocturne
+- King of Seas
+- Earth Defense Force World Brothers
+- Crying Suns
+- Pathway
+- World End’s Club
+- Port Royale 4
+- Beautiful Desolation
+- Wonder Boy Asha In Monster World
+- Weaving Tides
+- Stonefly
+- DC Super Hero Girls
+
+**Sorties prochaines :**
+
+- Alba A Wildlife Adventure
+- Ninja Gaiden Master Collection
+- Griftlands
+- L'Atelier du Jeu Vidéo
+- Ender Lilies: Quietus of the Knights
+- Olympic Games Tokyo 2020
+- Lego Builder's Journey
+- Legend of Mana Remastered
+- Alex Kidd in Miracle World DX
+- Raiden IV x Mikado
+- Tony Hawk Pro Skater 1+2
+- Mario Golf
+- Disgaea 6
+- Destroy All Humans
+
 ## Résumé
 
 ## Annonces, dates et sorties
@@ -60,6 +103,9 @@ https://www.nintendolife.com/news/2021/06/the_critically_acclaimed_alba_a_wildli
 Overboard!, un jeu d'enquête inversée (on a commis un meurtre, il faut le camoufler), est sorti par surprise
 https://www.nintendolife.com/news/2021/06/surprise_the_creator_of_80_days_just_released_overboard_a_reverse_murder-mystery
 
+Une suite à Bloodstained est en développement, ou plutôt "au tout début du planning"
+https://www.nintendolife.com/news/2021/06/bloodstained_ritual_of_the_night_sequel_officially_confirmed
+
 ## Rétrogaming
 
 De nouveaux titres NES et SNES sur le Switch Online
@@ -88,14 +134,14 @@ https://www.nintendolife.com/news/2021/05/nintendo_switch_eshop_accounts_could_s
 Un nouveau Sonic teasé pour 2022
 https://www.siliconera.com/new-sonic-the-hedgehog-game-will-debut-in-2022/
 
-Une annonce de second épisode de Bloodstained cachée dans un rapport financier
-https://www.nintendolife.com/news/2021/05/there_might_be_a_bloodstained_ritual_of_the_night_sequel_in_the_works
-
 Cruis'n Blast, un jeu de course arcade (je veux dire borne d'arcade), pourrait sortir sur Switch
 https://www.nintendolife.com/news/2021/05/cruisn_blast_could_be_coming_to_nintendo_switch
 
 Un teaser pour Crysis Remastered Trilogy, aussi sur Switch
 https://www.p-nintendo.com/news/crysis-remastered-trilogy-annonce-sur-switch-257029
+
+Un leak pour la date de Shin Megami Tensei V (11 novembre)
+https://www.nintendolife.com/news/2021/06/shin_megami_tensei_v_release_date_seemingly_leaked_ahead_of_nintendos_e3_direct
 
 ## Images, vidéos, infos
 
@@ -390,46 +436,61 @@ https://www.p-nintendo.com/tests/tests-complets/test-de-flowing-lights-quand-puz
 Cthulhu Saves Christmas, un JRPG
 https://ladiesgamers.com/cthulhu-saves-christmas-review/
 
+Astalon Tears of the Earth, un metroidvania typé NES
+https://www.nintendoworldreport.com/review/57340/astalon-tears-of-the-earth-switch-review
+
+Fallen Legion Revenant, un RPG
+https://ladiesgamers.com/fallen-legion-revenants-review/
+
+Stonefly, un jeu d'aventure/action
+https://www.eurogamer.net/articles/2021-06-04-stonefly-review-a-bugs-life-with-all-its-grind-and-glory
+
+Poison Control, un action-RPG
+https://www.p-nintendo.com/tests/tests-complets/purifier-l-enfer-dans-poison-control-256991
+
 ## Le coin des jeux moins connus et des jeux Japonais
 
+Love: A Puzzle Box Filled With Stories, un jeu d'aventure/puzzle, est sorti
 https://www.nintendolife.com/news/2021/05/love_-_a_puzzle_box_filled_with_stories_hits_switch_later_this_month
 
+A Little Golf Journey, un jeu de golf zen, sort "cet été"
 https://www.nintendolife.com/news/2021/05/a_little_golf_journey_will_start_its_round_on_switch_this_summer
 
+Demon Gaze Extra, un dungeon crawler, sort le 2 septembre au Japon
 https://www.siliconera.com/demon-gaze-extra-will-release-for-the-ps4-and-switch-in-september/
 
+Umurangi Generation, un jeu de photographie, sort le 5 juin
 https://www.nintendolife.com/news/2021/05/devastating_photography_game_umurangi_generation_is_coming_to_switch_in_june
 
+Mutazione, un jeu d'aventure, est sorti
 https://www.nintendolife.com/news/2021/05/get_to_know_mutants_gardening_and_death_in_mutazione_coming_to_switch_very_soon
 
+Foreclosed, un TPS cyberpunk néon, sort le 12 août
 https://www.nintendolife.com/news/2021/05/foreclosed_is_a_stylish_cyberpunk_tale_heading_to_switch_this_summer
 
-https://www.nintendolife.com/news/2021/05/moon_samurai_is_a_stylish_action_game_thats_heading_to_switch
-
-https://www.nintendolife.com/news/2021/05/the_addams_family_mansion_mayhem_is_bringing_co-op_scares_to_switch_this_year
-
+Eight Dragons, un beat'em up néorétro, est sorti
 https://www.nintendolife.com/news/2021/05/you_know_whats_better_than_double_dragon_eight_dragons
 
+Pecaminosa, un action-RPG "polar noir", est sorti
 https://www.p-nintendo.com/news/l-action-rpg-pecaminosa-du-polar-tres-noir-256972
 
+Inexistence Rebirth, un metroidvania, sort le 11 juin
 https://www.nintendolife.com/news/2021/05/classics-inspired_metroidvania_inexistence_rebirth_lands_on_switch_next_month
 
-https://www.nintendolife.com/news/2021/05/7_horizons_aims_to_bring_rayman_meets_mega_man_to_switch_this_year
-
+Mayhem Brawler, un beat'em up, sort le 18 août
 https://www.nintendolife.com/news/2021/05/mayhem_brawler_starts_the_fight_on_switch_this_summer
 
+Marsupilami Hoobadventure, un platformer, sort le 16 novembre
 https://www.nintendolife.com/news/2021/05/marsupilami_hoobadventure_is_a_charming_platformer_heading_to_switch
 
+Dragon Star Varnir, un JRPG, sort le 15 juin
 https://www.destructoid.com/dragon-star-varnir-for-switch-is-headed-west-this-summer/
 
+Super Magbot, un platformer, sort le 22 juin
 https://www.nintendolife.com/news/2021/05/super_magbot_is_a_magnetic_platformer_out_soon_on_switch_demo_playable_now
 
+Out of Line, un puzzle-platformer, sort le 23 juin
 https://www.nintendolife.com/news/2021/05/ghibli-inspired_puzzle-platformer_out_of_line_scores_june_release_date_on_switch
 
+Empire of Angels IV, un TRPG, sort le 24 juin
 https://www.nintendolife.com/news/2021/05/all-female_tactics_rpg_empire_of_angels_iv_arrives_on_switch_this_summer
-
-https://www.nintendolife.com/news/2021/06/missing_features_2d_is_a_new_switch_platformer_with_all_of_its_features_well_missing
-
-https://www.nintendolife.com/news/2021/06/willy_morgan_and_the_curse_of_bone_town_brings_modern_point-and-click_to_switch_next_week
-
-https://www.nintendolife.com/news/2021/06/video_indie_world_star_aztech_forgotten_gods_fights_its_way_to_switch_this_fall
