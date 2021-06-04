@@ -35,12 +35,12 @@ On ne parlera **PAS** :
 A noter : Atari est depuis longtemps dans une sorte d'enfer des licences. Suite au crash des jeux vidéos dans les années 80, l'entité s'est divisée et les droits ont été revendus à droite et à gauche : la distribution de jeux, le hardware et l'arcade (j'en oublie) sont détenus par des sociétés différentes.  
 Atari subit aussi le vieillissement de ses grands succès : les jeux Atari 2600 ont généralement beaucoup moins bien vieilli que les jeux de l'époque NES, et sont plutôt considérés comme des curiosités historiques que des bons jeux à vraiment jouer.
 
-Tout comme Sega, Atari propose depuis longtemps des consoles rétro et mini bornes d'arcade, créées par divers fabricants (AT Games, Blaze...), notamment l'Atari Flashback, l'Atari Joystick Plug n Play, la Atari Retro Handheld, et diverses mini-bornes d'arcade.  
+Tout comme Sega, Atari propose depuis longtemps des consoles rétro et mini bornes d'arcade, créées par divers fabricants (AT Games, Blaze...), notamment l'**Atari Flashback**, l'Atari Joystick Plug n Play, la Atari Retro Handheld, et diverses mini-bornes d'arcade.  
 Tout comme chez Sega, ces machines sont généralement de bien piètre qualité, à tous les niveaux, et sont généralement déconseillées.
 
 ![Atari Flashback](https://i.imgur.com/NTqQsOut.jpg)
 
-L'Atari VCS est un projet crowdfundé pour créer une machine moderne avec le logo Atari dessus. C'est a priori un bête PC sous Linux, avec un processeur AMD basse consommation et GPU associé, similaires à ce qu'on trouve sur Xbox One et PS4. Ils proposeront un système d'achats de jeux "classiques" et la machine devrait être "ouverte" et modifiable comme n'importe quel PC.  
+L'**Atari VCS** est un projet crowdfundé pour créer une machine moderne avec le logo Atari dessus. C'est a priori un bête PC sous Linux, avec un processeur AMD basse consommation et GPU associé, similaires à ce qu'on trouve sur Xbox One et PS4. Ils proposeront un système d'achats de jeux "classiques" et la machine devrait être "ouverte" et modifiable comme n'importe quel PC.  
 On ne sait pas grand-chose d'autre, le projet est déjà très en retard, les specs ont déjà changé plusieurs fois et ne sont toujours pas définitives, mais au pire, ça fera peut-être un joli mini-PC à mettre sous la TV pour regarder Netflix (si jamais ça sort un jour).  
 Site : <https://atarivcs.com/>
 
@@ -48,45 +48,51 @@ Site : <https://atarivcs.com/>
 
 ### Capcom
 
-Arrivant durant la "seconde vague" des mini-machines rétro, Capcom sort le Home Arcade, un stick arcade premium : "pleine taille" pour 2 joueurs, avec des sticks et des boutons Sanwa (donc de bonne qualité), une sélection de jeux d'arcade petite mais qui ratisse large, mais un design absolument ridicule, et un prix très élevé.  
+Arrivant durant la "seconde vague" des mini-machines rétro, Capcom sort le **Capcom Home Arcade**, un stick arcade premium : "pleine taille" pour 2 joueurs, avec des sticks et des boutons Sanwa (donc de bonne qualité), une sélection de jeux d'arcade petite mais qui ratisse large, mais un design absolument ridicule, et un prix très élevé.  
 Site : <http://www.capcomhomearcade.com/>
 
 ![Capcom Home Arcade](https://i.imgur.com/7eIqy1lt.jpg)
 
+Au vu du succès (relatif) de la NeoGeo Mini, ils sortent une borne similaire : la **Retro Station**, en forme d'une tête de Mega Man aux couleurs de Capcom ? Quelle idée ? Avec 4 jeux Mega Man et 4 versions de Street Fighter 2 ? C'est... étrange.  
+Site : <http://www.retrostationarcade.com/>
+
+![Capcom Retro Station](https://i.imgur.com/1qxzJtCt.png)
+
 ### Commodore
 
-S'engouffrant dans la brèche des mini-machines, un Commodore 64 Mini est proposé avec une sélection un peu aléatoire de jeux qui ont généralement assez mal vieilli, et une qualité de fabrication encore une fois assez moyenne.
+S'engouffrant dans la brèche des mini-machines, un **Commodore 64 Mini** est proposé avec une sélection un peu aléatoire de jeux qui ont généralement assez mal vieilli, et une qualité de fabrication encore une fois assez moyenne.  
+Site : <http://thec64mini.com/>
 
 ![C64 Mini](https://i.imgur.com/ZIHDJgjt.jpg)
 
 ### Intellivision
 
-Les propriétaires des droits de la marque (qui n'ont plus rien à voir avec les propriétaire de l'époque) créent l'Intellivision Amico : une console moderne, peu puissante, pas trop chère (entre 150 et 200$), destinée à la famille (avec capteurs de mouvement à la Wii) et aux enfants (que des jeux PEGI 10 ou moins, 10$ max, pas de DLC, pas de microtransactions). Que fait cette console "moderne" dans ce topic ? Le catalogue devrait être composé principalement de vieilles gloires et de jeux "néorétro" inspirés des hits d'antan. Et si j'en parle pas ici, qui le fera ?  
+Les propriétaires des droits de la marque (qui n'ont plus rien à voir avec les propriétaire de l'époque) créent l'**Intellivision Amico** : une console moderne, peu puissante, pas trop chère (entre 150 et 200$), destinée à la famille (avec capteurs de mouvement à la Wii) et aux enfants (que des jeux PEGI 10 ou moins, 10$ max, pas de DLC, pas de microtransactions). Que fait cette console "moderne" dans ce topic ? Le catalogue devrait être composé principalement de vieilles gloires et de jeux "néorétro" inspirés des hits d'antan. Et si j'en parle pas ici, qui le fera ?  
 Site : <https://www.intellivisionentertainment.com/>
 
 ![Intellivision Amico](https://i.imgur.com/6mU08B3t.png)
 
 ### NEC
 
-Les droits de la PC Engine se sont baladés et appartiennent aujourd'hui à Konami, qui, un peu à la bourre, se lancent eux aussi dans le business des mini-consoles. Trois versions sont disponibles (JP, US, EU), avec une bonne sélection de jeux qui sont, de manière très surprenante, tous disponibles sur toutes les versions (à l'exception de quelques-uns). Vous pourrez donc jouer à Snatcher et Dracula X sur la version EU... mais en Japonais.  
+Les droits de la PC Engine se sont baladés et appartiennent aujourd'hui à Konami, qui, un peu à la bourre, se lancent eux aussi dans le business des mini-consoles avec la **PC Engine Mini**. Trois versions sont disponibles (JP, US, EU), avec une bonne sélection de jeux qui sont, de manière très surprenante, tous disponibles sur toutes les versions (à l'exception de quelques-uns). Vous pourrez donc jouer à Snatcher et Dracula X sur la version EU... mais en Japonais.  
 Site : <https://www.konami.com/games/pcemini/gate>
 
 ![CoreGrafx Mini](https://i.imgur.com/xUTlGebt.jpg) ![PC Engine Mini](https://i.imgur.com/QrRg1hrt.jpg) ![TurboGrafx Mini](https://i.imgur.com/knQvCFst.jpg)
 
-NEC fabriquait aussi un PC 8 bits, le PC-8001, et HAL (créateurs de Kirby) vont en produire une recréation au 1/4e, avec 15 jeux mais surtout la possibilité de programmer en BASIC, et la possibilité (officielle) de rajouter des titres.  
+NEC fabriquait aussi un PC 8 bits, le **PC-8001**, et HAL (créateurs de Kirby) vont en produire une recréation au 1/4e, avec 15 jeux mais surtout la possibilité de programmer en BASIC, et la possibilité (officielle) de rajouter des titres.  
 Site : <https://www.pcmini.jp/>
 
 ![PC8001 Mini](https://i.imgur.com/6SzqvoRt.png)
 
 ### Nintendo
 
-La NES Mini est la console qui a lancé la mode actuelle des consoles "mini" officielles. Avec une fabrication de bonne qualité, une émulation de bonne facture et une bonne sélection de jeux pour un prix honnête, tout était présent pour réussir.  
+La **NES Mini** est la console qui a lancé la mode actuelle des consoles "mini" officielles. Avec une fabrication de bonne qualité, une émulation de bonne facture et une bonne sélection de jeux pour un prix honnête, tout était présent pour réussir.  
 Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html>  
 Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/nintendo-entertainment-edition-sujet_191061_1.htm>
 
 ![NES Mini](https://i.imgur.com/2Wrs7wrt.jpg)
 
-La SNES Mini était la suite logique, avec moins de jeux et plus chère, mais une 2e manette de base, et toujours la même qualité générale.  
+La **SNES Mini** était la suite logique, avec moins de jeux et plus chère, mais une 2e manette de base, et toujours la même qualité générale.  
 Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System-1238330.html>  
 Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/nintendo-entertainment-nintendo-sujet_194878_1.htm>
 
@@ -98,7 +104,7 @@ Sega propose depuis longtemps des consoles créées par AT Games : Megadrive Cla
 
 ![Megadrive Flashback](https://i.imgur.com/YlElLxTt.jpg)
 
-Pour les 30 ans de la Megadrive aux US, Sega s'est décidé à (enfin) faire les choses bien, et crée une Megadrive Mini, avec une approche similaire à Nintendo : bonne qualité, bons jeux, bonne émulation (par M2, des spécialistes du genre).  
+Pour les 30 ans de la Megadrive aux US, Sega s'est décidé à (enfin) faire les choses bien, et crée une **Megadrive Mini**, avec une approche similaire à Nintendo : bonne qualité, bons jeux, bonne émulation (par M2, des spécialistes du genre).  
 Site : <http://megadrivemini.sega.com/>
 Topic : <https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=200383>
 
@@ -108,45 +114,56 @@ Sega a également créé une **Game Gear Mini**, un produit absurde, disponible 
 
 ![Game Gear Mini](https://i.imgur.com/hviAw6yt.png)
 
-Sega étaient également très présents dans l'arcade, et ils sortent une **Astro City Mini** similaire à la NeoGeo Mini, mais qui semble de meilleure qualité.
+Sega étant également très présents dans l'arcade, ils sortent une **Astro City Mini** similaire à la NeoGeo Mini.  
+Site : <https://sega.jp/astrocitymini/>
 
 ![Astro City Mini](https://i.imgur.com/1BqBEAkt.png)
 
 ### Sharp
 
-Producteur de PC 8 bits, HAL va produire une reproduction miniature de leur MZ-80, en même temps que le PC-8001 de NEC (cf plus haut), avec également le support du BASIC.  
+Producteur de PC 8 bits, HAL va produire une reproduction miniature de leur **MZ-80**, en même temps que le PC-8001 de NEC (cf plus haut), avec également le support du BASIC.  
 Site : <https://www.pcmini.jp/>
 
 ![MZ80 Mini](https://i.imgur.com/ZmAmxKpt.jpg)
 
 ### Sinclair
 
-Après la sortie du ZX Spectrum Vega, une recréation minimaliste de la machine par une société qui a obtenu les droits d'utilisation du nom, une campagne de financement participatif pour une Vega+, modèle similaire mais portable, est un tel échec (retards et embrouilles diverses) que les droits d'utilisation de la marque sont retirés au constructeur.
+Après la sortie du **ZX Spectrum Vega**, une recréation minimaliste de la machine par une société qui a obtenu les droits d'utilisation du nom, une campagne de financement participatif pour une **Vega+**, modèle similaire mais portable, est un tel échec (retards et embrouilles diverses) que les droits d'utilisation de la marque sont retirés au constructeur.
 
 ![Spectrum Vega](https://i.imgur.com/Ces9NQkt.jpg) ![Vega+](https://i.imgur.com/WV44Rtct.jpg)
 
-Une autre société commercialise le Recreated ZX Spectrum, cette fois une recréation "taille réelle" avec un clavier complet, mais dont la qualité laisse encore une fois à désirer.
+Une autre société commercialise le **Recreated ZX Spectrum**, cette fois une recréation "taille réelle" avec un clavier complet, mais dont la qualité laisse encore une fois à désirer.
 
 ![Recreated ZX Spectrum](https://i.imgur.com/HRUWYYFt.jpg)
 
 ### SNK
 
-Toujours dans la veine ouverte par Nintendo, SNK a proposé une NeoGeo Mini. Plutôt que de proposer une réplique de la console, c'est une mini borne d'arcade (modèle Japonais), avec un petit écran intégré, mais qu'on peut quand-même brancher sur la télé. Sans atteindre l'attention aux détails de Nintendo, le produit est très correct, bien qu'un peu cher, et la ludothèque très ciblée restreint fortement son public potentiel. La machine s'est néanmoins suffisamment vendue pour que SNK souhaite en faire de nouveaux modèles.  
+Toujours dans la veine ouverte par Nintendo, SNK a créé une **NeoGeo Mini**. Plutôt que de proposer une réplique de la console, c'est une mini borne d'arcade (modèle Japonais), avec un petit écran intégré, mais qu'on peut quand-même brancher sur la télé. Sans atteindre l'attention aux détails de Nintendo, le produit est très correct, bien qu'un peu cher, mais la ludothèque très ciblée baston restreint fortement son public potentiel. La machine s'est néanmoins suffisamment vendue pour que SNK souhaite en faire de nouveaux modèles.  
 Site : <https://www.snk-corp.co.jp/us/neogeomini/>
 
 ![NeoGeo Mini](https://i.imgur.com/z2TbTFqt.jpg)
 
-Suite au succès de la NeoGeo Mini, SNK prépare plusieurs machines dans le même genre. La première annoncée est un stick arcade hybride, qui peut soit servir de manette, soit de stick "standalone" avec jeux intégrés, tel le stick Capcom similaire, sur lequel on peut brancher des pads supplémentaires.
+Suite au succès de la NeoGeo Mini, SNK créer le **NeoGeo Arcade Stick Pro**, un stick arcade hybride qui peut soit servir de manette, soit de stick "standalone" avec jeux intégrés, tel le stick Capcom similaire, sur lequel on peut brancher des pads supplémentaires.  
+Site : <https://www.snk-corp.co.jp/us/neogeoarcadestickpro/>
 
 ![SNK arcade stick](https://i.imgur.com/EU2d4iyt.png)
 
 ### Sony
 
-Suite au succès des consoles mini de Nintendo, Sony sort une Playstation Classic d'une qualité hardware correcte, mais avec une sélection de jeux douteuse, une émulation pourrie, et un prix élevé, l'échec a été assez violent.  
+Suite au succès des consoles mini de Nintendo, Sony sort une **Playstation Classic** d'une qualité hardware correcte, mais avec une sélection de jeux douteuse, une émulation pourrie, et un prix élevé, l'échec a été assez violent.  
 Site : <https://www.playstation.com/fr-fr/explore/playstation-classic/>  
 Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/topikunik-playstation-classic-sujet_198463_1.htm>
 
 ![Playstation Classic](https://i.imgur.com/iXvmJn5t.jpg)
+
+### Taito
+
+Après l'Astro City Mini de Sega, c'est au tour de Taito de créer une reproduction de leur célèbre Candy Cab : la **Taito Egret II Mini**. Avec 40 jeux intégrés mais surtout un écran rotatif qui peut se mettre verticalement ! Et un contrôleur (externe) avec un spinner, qui permet de jouer à Arkanoid (et autres jeux similaires) dans de bonnes conditions. Un peu chère, mais ces fonctionnalités sont uniques.  
+Site : <https://www.taito.co.jp/egret2mini>
+
+![Egret 2 Mini](https://i.imgur.com/XHQJXLht.png) ![Egret 2 Mini Spinner](https://i.imgur.com/mQ1BBNLt.png)
+
+---
 
 ## Arcade
 
@@ -161,6 +178,8 @@ Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/topikunik-playstation-
 [Numskull](http://www.numskull.com/quarter-arcades/) fabrique des bornes au quart (45cm de haut environ) avec une attention particulière à la fidélité de reproduction des originales (forme de la borne, déco sur les côtés, orientation de l'écran, type et position des contrôles...), mais du coup avec un seul jeu à chaque fois, pour environ 150 à 200€.
 
 ![Numskull](https://i.imgur.com/GcuvQFqt.jpg)
+
+---
 
 ## Consoles non officielles
 
@@ -196,6 +215,8 @@ Autre concept de console rétro "semi-officielle", c'est une console portable/hy
 ### Autres
 
 [My Arcade Gaming](https://www.myarcadegaming.com/) fabriquent des consoles de qualité variable, avec jeux intégrés ou avec des slots de cartouches.
+
+---
 
 ## L'émulation non officielle
 
