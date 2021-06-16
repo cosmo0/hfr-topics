@@ -1022,26 +1022,27 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 ## Les jeux à venir
 
-- Jeux sortis, en attente de tests : Jin Conception, Overboard!, Stonefly, DC Super Hero Girls
+En gras les jeux exclusifs et les "grosses sorties".
 
-- Juin : Alba A Wildlife Adventure (9), Ninja Gaiden Master Collection (10), Griftlands (10), L'Atelier du Jeu Vidéo (11), Ender Lilies: Quietus of the Knights (21), Olympic Games Tokyo 2020 (22), Lego Builder's Journey (22), Legend of Mana Remastered (24), Alex Kidd in Miracle World DX (24), Raiden IV x Mikado (25), Tony Hawk Pro Skater 1+2 (25), Mario Golf (25), Disgaea 6 (29), Destroy All Humans (29), Beasts of Maravilla Island (?), Sky Children of the Light (?)
-- Juillet : Ys IX Monstrum Nox (6), Monster Harvest (8), Monster Hunter Stories 2 (9), The Silver Case 2425 (9), Zelda Skyward Sword HD (16), Cris Tales (20), Samurai Warriors 5 (27), Neo The World Ends With You (27), The Great Ace Attorney Chronicles (27), Last Stop (?), Test Drive Unlimited Solar Crown (?)
-- Août : The Falconeer (5), King's Bounty II (24), No More Heroes 3 (27), Blood Bowl 3 (?), KeyWe (?)
-- Septembre : Kitaria Fables (3), Sonic Colours Ultimate (7), Ni No Kuni 2 (17), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
-- Octobre :
-- Novembre : Shin Megami Tensei V (11), Pokémon Brilliand Diamond/Shining Pearl (19)
-- Décembre :
-- Janvier : Pokémon Legends Arceus (28)
+- Jeux sortis, en attente de tests : Jin Conception, Overboard!, Stonefly, DC Super Hero Girls, Mushihimesama, Wave Break, Minute of Islands, Strange Brigade, Warhammer Age Of Sigmar Storm Ground
 
-- Q1 2021/printemps : She Dreams Elsewhere, Braid Anniversary, Onirike, Warhammer Age Of Sigmar Storm Ground, Surviving The Aftermath, Ruined King, Fisti-fluffs, Happy Game, Trash Sailors, Finding Paradise, Conan Chop Chop, Teratopia, Darius Cozmic Revelation, Wave Break, Tunche, Kosmokrats, Hazel Sky, RetroMania Wrestling, Labyrinth City: Pierre the Maze Detective
-- Q2 2021/été : The Good Life, Spelunky 1 & 2, Disco Elysium, Ender Lilies, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Shadowverse Champion's Battle, Skul The Hero Slayer, Art of Rally, Roguebook
+- Juin : Alba A Wildlife Adventure (9), Ninja Gaiden Master Collection (10), Griftlands (10), **L'Atelier du Jeu Vidéo** (11), Ender Lilies: Quietus of the Knights (21), Olympic Games Tokyo 2020 (22), Lego Builder's Journey (22), Worms Rumble (23), Legend of Mana Remastered (24), Alex Kidd in Miracle World DX (24), Raiden IV x Mikado (25), **Tony Hawk Pro Skater 1+2** (25), **Mario Golf** (25), **Disgaea 6** (29), Destroy All Humans (29), Sky Children of Light (29), Doki Doki Literature Club Plus (30), Beasts of Maravilla Island (?)
+- Juillet : Ys IX Monstrum Nox (6), Monster Harvest (8), Black Skylands (9), **Monster Hunter Stories 2** (9), The Silver Case 2425 (9), **Zelda Skyward Sword HD** (16), Cris Tales (20), Akiba's Trip: Hellbound & Debriefed (20), Last Stop (22), Samurai Warriors 5 (27), **Neo The World Ends With You** (27), **The Great Ace Attorney Chronicles** (27), The Forgotten City (28), Unbound: Worlds Apart (28), Blaster Master Zero 3 (29), Test Drive Unlimited Solar Crown (?), Eldest Souls (?), Chernobylite (?)
+- Août : The Falconeer (5), Shadowverse Champion's Battle (10), Dreamscaper (12), Fire Tonight (12), SkateBird (12), King's Bounty II (24), **No More Heroes 3** (27), Blood Bowl 3 (?), KeyWe (?), Toy Soldiers HD (?), Golf Club: Wasteland (?)
+- Septembre : Kitaria Fables (3), Big Rumble Boxing Creed Champions (3), Sonic Colours Ultimate (7), **Wario Ware Get It Together** (10), **Life Is Strange Remastered & True Colors** (10), **Ni No Kuni 2** (17), **Diablo 2 Resurrected** (23), **Dragon Ball Z Kakarot** (24), Atria Ascending (30), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
+- Octobre : Super Monkey Ball Banana Mania (5), **Metroid Dread** (8), Marvel's Guardian of the Galaxy (26 cloud), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
+- Novembre : Just Dance 2022 (4), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19)
+- Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Olli Olli World (?)
+- Janvier : **Pokémon Legends Arceus** (28)
+
+- Q2 2021/été : The Good Life, Spelunky 1 & 2, Disco Elysium, Ender Lilies, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Skul The Hero Slayer, Art of Rally, Roguebook
 - Q3 2021/automne : Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods
-- Q4 2021/hiver : OlliOlli World
+- Q4 2021/hiver : Neon White
 
-- 2021 : Legend of Heroes, Skatebird, Startopia, Lost In Random, Rogue Lords, Garden Story, Subnautica, Subnautica Below Zero, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Sea of Solitude, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Neon White, Star Wars Hunters, Boomerang X, Dynasty Warriors 9 Empires, Minute of Islands, Worms Rumble, Rustler, Sol Cresta, Road 96, Hindsight, Teenage Mutant Ninja Turtles Shredder’s Revenge, House of the Dead Remake, Oxenfree 2, Residual, Axiom Verge 2, Fast & Furious Spy Racers, Eastward
+- 2021 : Startopia, Lost In Random, Rogue Lords, Garden Story, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Boomerang X, Dynasty Warriors 9 Empires, Rustler, Sol Cresta, Road 96, Hindsight, Teenage Mutant Ninja Turtles Shredder’s Revenge, House of the Dead Remake, Oxenfree 2, Residual, Axiom Verge 2, She Dreams Elsewhere, Fast & Furious Spy Racers, Eastward, Espgaluda, DoDonPachi Resurrection, Danganronpa Decadence, Fatal Frame Maiden of Black Water, Cruis'n Blast, Grow: Song of the Evertree, Aeon Drive, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Vampire The Masquerade Swansong, Airborne, Coromon, Super Robot Wars 30, Death's Gambit: Afterlife, Far: Changing Tides, Ruined King, Fisti-fluffs, Happy Game, Trash Sailors, Finding Paradise, Tunche, Hazel Sky, Labyrinth City: Pierre the Maze Detective, Sail Forth
 
-- 2022 : Project Triangle Strategy, Splatoon 3, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways
+- 2022 : Project Triangle Strategy, Splatoon 3, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, **Rune Factory 5**, Monark, River City Girls 2
 
-- Pas de date : Bayonetta 3, Metroid Prime 4, Zelda Breath of the Wild 2, Shovel Knight Dig, Hollow Knight Silksong, Yo Kai Watch 1, Rogue Legacy 2, World War Z, Pokémon Unite, Superhot Mind Control Delete, Yo Kai Watch Y Academy, Sports Story, Baldo, Strife, Picontier, Blade Runner, Shovel Knight Pocket Dungeon, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Sail Forth, Fae Tactics, Dreamscaper, Lord of The Rings Gollum, BallisticNG, Lego Star Wars The Skywalker Saga, Okinawa Rush, Fall Guys, Sonic Origins, XIII Remake, Rune Factory 5
+- Pas de date : **Bayonetta 3**, **Metroid Prime 4**, Shovel Knight Dig, Hollow Knight Silksong, Rogue Legacy 2, World War Z, Pokémon Unite, Superhot Mind Control Delete, Yo Kai Watch Y Academy, Sports Story, Baldo, Strife, Picontier, Blade Runner, Shovel Knight Pocket Dungeon, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, BallisticNG, Lego Star Wars The Skywalker Saga, Okinawa Rush, Fall Guys, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Surviving The Aftermath, Teratopia, Darius Cozmic Revelation
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
