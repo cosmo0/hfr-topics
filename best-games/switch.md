@@ -176,8 +176,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
 - Ruiner
 - **Weaving Tides**
-- **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**
-- **[Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**
+- **[Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)**, **[Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)**, **Skyward Sword HD**
 
 ## Shooters, FPS, TPS
 
@@ -412,7 +411,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Vampyr
 - **Xenoblade Chronicles Definitive Edition**
 - **Xenoblade Chronicles 2**
-- Ys VIII Lacrimosa of Dana, [Ys Origin](https://www.cosmo0.fr/critique/ys-origin/)
+- Ys VIII Lacrimosa of Dana, [Ys Origin](https://www.cosmo0.fr/critique/ys-origin/), Ys IX Monstrum Nox
 
 ## RPG tour par tour
 
@@ -420,21 +419,21 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Battle Chasers Nightwar
 - **Bravely Default 2**
 - **Bug Fables**
+- CrisTales
 - **Darkest Dungeon**
-- Digimon Story Cyber Sleuth
 - **Divinity Original Sin 2**
 - **Dragon Quest** 1, 2, 3, XI S
 - **Final Fantasy** VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)
 - Hand of Fate 2
-- **Haven**
+- Haven
 - Ikenfell
 - Indivisible
 - Labyrinth of Refrain: Coven of Dusk
 - Legend of Heroes Trails of Cold Steel 3, 4
 - Legend of Mana Remastered
 - Miitopia
-- **Moon**
-- Nexomon Extinction
+- **Monster Hunter Stories 2**
+- Moon
 - **Octopath Traveler**
 - Operencia: The Stolen Sun
 - **Pillars of Eternity**
@@ -480,6 +479,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Arena of Valor
 - DC Universe Online
 - Onigiri
+- Pokémon Unite
 - Skyforge
 - Smite
 - Super Kirby Clash
@@ -1042,23 +1042,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : 
+- Jeux sortis, en attente de tests : Pokémon Unite
 
-- Juillet : The Procession To Calvary (2), Ys IX Monstrum Nox (6), A Plague Tale Innocence (cloud) (6), Monster Harvest (8), Black Skylands (9), **Monster Hunter Stories 2** (9), The Silver Case 2425 (9), **Zelda Skyward Sword HD** (16), Cris Tales (20), Akiba's Trip: Hellbound & Debriefed (20), Last Stop (22), Samurai Warriors 5 (27), **Neo The World Ends With You** (27), **The Great Ace Attorney Chronicles** (27), The Forgotten City (28), Unbound: Worlds Apart (28), Blaster Master Zero 3 (29), Test Drive Unlimited Solar Crown (?), Eldest Souls (?), Chernobylite (?), Pokémon Unite (?)
-- Août : The Falconeer (5), Shadowverse Champion's Battle (10), Dreamscaper (12), Fire Tonight (12), SkateBird (12), King's Bounty II (24), **No More Heroes 3** (27), Blood Bowl 3 (?), KeyWe (?), Toy Soldiers HD (?), Golf Club: Wasteland (?)
-- Septembre : Kitaria Fables (3), Big Rumble Boxing Creed Champions (3), Sonic Colours Ultimate (7), **Wario Ware Get It Together** (10), **Life Is Strange Remastered & True Colors** (10), **Ni No Kuni 2** (17), **Diablo 2 Resurrected** (23), **Dragon Ball Z Kakarot** (24), Atria Ascending (30), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
-- Octobre : Super Monkey Ball Banana Mania (5), **Metroid Dread** (8), Marvel's Guardian of the Galaxy (26 cloud), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
+- Juillet : Last Stop (22), Samurai Warriors 5 (27), **Neo The World Ends With You** (27), **The Great Ace Attorney Chronicles** (27), The Forgotten City (28), Unbound: Worlds Apart (28), Blaster Master Zero 3 (29), Eldest Souls (?), Chernobylite (?), Pokémon Unite (?)
+- Août : The Falconeer (5), Shadowverse Champion's Battle (10), Dreamscaper (12), Fire Tonight (12), SkateBird (12), Road 96 (16), Monster Harvest (19), King's Bounty II (24), **No More Heroes 3** (27), Blood Bowl 3 (?), KeyWe (?), Toy Soldiers HD (?), Golf Club: Wasteland (?)
+- Septembre : Kitaria Fables (3), Big Rumble Boxing Creed Champions (3), Sonic Colours Ultimate (7), **Wario Ware Get It Together** (10), NBA 2K22 (10), **Life Is Strange Remastered & True Colors** (10), **Cruis'n Blast** (14), **Ni No Kuni 2** (17), **Diablo 2 Resurrected** (23), **Dragon Ball Z Kakarot** (24), Atria Ascending (30), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
+- Octobre : FIFA 22 (1), Super Monkey Ball Banana Mania (5), **Metroid Dread** (8), Marvel's Guardian of the Galaxy (26 cloud), Super Robot Wars 30 (28 JP), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
 - Novembre : Just Dance 2022 (4), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19)
-- Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Olli Olli World (?)
-- Janvier : **Pokémon Legends Arceus** (28)
+- Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Danganronpa Decadence (3), Olli Olli World (?)
+- Janvier 2022 : **Pokémon Legends Arceus** (28)
+- Février 2022 : Vampire The Masquerade Swansong (?)
 
-- Q2 2021/été : Spelunky 1 & 2, Disco Elysium, Ender Lilies, Le Donjon de Naheulbeuk, Townscaper, Yu Gi Oh Rush Duel (JP), Embr, Skul The Hero Slayer, Art of Rally, Roguebook, Trove
-- Q3 2021/automne : Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods, The Good Life
+- Q2 2021/été : Spelunky 1 & 2, Disco Elysium, Embr, Skul The Hero Slayer, Art of Rally, Roguebook, Nexomon
+- Q3 2021/automne : Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods, The Good Life, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2
 
-- 2021 : Startopia, Lost In Random, Rogue Lords, Garden Story, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Boomerang X, Dynasty Warriors 9 Empires, Rustler, Sol Cresta, Road 96, Hindsight, Teenage Mutant Ninja Turtles Shredder’s Revenge, House of the Dead Remake, Oxenfree 2, Residual, Axiom Verge 2, She Dreams Elsewhere, Fast & Furious Spy Racers, Eastward, Espgaluda, DoDonPachi Resurrection, Danganronpa Decadence, Fatal Frame Maiden of Black Water, Cruis'n Blast, Grow: Song of the Evertree, Aeon Drive, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Vampire The Masquerade Swansong, Airborne, Coromon, Super Robot Wars 30, Death's Gambit: Afterlife, Far: Changing Tides, Ruined King, Fisti-fluffs, Happy Game, Trash Sailors, Finding Paradise, Tunche, Hazel Sky, Labyrinth City: Pierre the Maze Detective, Sail Forth
+- 2021 : Startopia, Lost In Random, Rogue Lords, Garden Story, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Boyfriend Dungeon, Zengeon, Clockwork Aquario, Deathsmiles Collection, Moncage, Digimon Survive, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Boomerang X, Dynasty Warriors 9 Empires, Rustler, Sol Cresta, Hindsight, Teenage Mutant Ninja Turtles Shredder’s Revenge, House of the Dead Remake, Oxenfree 2, Residual, Axiom Verge 2, She Dreams Elsewhere, Fast & Furious Spy Racers, Eastward, Espgaluda, DoDonPachi Resurrection, Fatal Frame Maiden of Black Water, Grow: Song of the Evertree, Aeon Drive, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Airborne, Coromon, Death's Gambit: Afterlife, Far: Changing Tides, Ruined King, Fisti-fluffs, Happy Game, Trash Sailors, Finding Paradise, Tunche, Hazel Sky, Labyrinth City: Pierre the Maze Detective, Sail Forth
 
-- 2022 : Project Triangle Strategy, Splatoon 3, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, **Rune Factory 5**, Monark, River City Girls 2, AI The Somnium Files NirvanA
+- 2022 : Project Triangle Strategy, Splatoon 3, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, **Rune Factory 5**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown
 
 - Pas de date : **Bayonetta 3**, **Metroid Prime 4**, Shovel Knight Dig, Hollow Knight Silksong, Rogue Legacy 2, World War Z, Pokémon Unite, Superhot Mind Control Delete, Yo Kai Watch Y Academy, Sports Story, Baldo, Strife, Picontier, Blade Runner, Shovel Knight Pocket Dungeon, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, BallisticNG, Lego Star Wars The Skywalker Saga, Okinawa Rush, Fall Guys, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Surviving The Aftermath, Teratopia, Darius Cozmic Revelation
 
