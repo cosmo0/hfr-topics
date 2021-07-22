@@ -1053,7 +1053,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Janvier 2022 : **Pokémon Legends Arceus** (28)
 - Février 2022 : Vampire The Masquerade Swansong (?)
 
-- Q2 2021/été : Spelunky 1 & 2, Disco Elysium, Embr, Skul The Hero Slayer, Art of Rally, Roguebook, Nexomon
+- Q2 2021/été : Spelunky 1 & 2, Disco Elysium, Embr, Skul The Hero Slayer, Art of Rally, Roguebook, Nexomon, The Outer Wilds
 - Q3 2021/automne : Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods, The Good Life, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2
 
