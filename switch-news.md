@@ -1,85 +1,69 @@
-#cosmonews spéciale Indie World
+#cosmonews
 
-La vidéo complète :
+## Calendrier
 
-https://www.youtube.com/watch?v=QDclD1QMmYM
+## Résumé
 
-## Sorties aujourd'hui
+## Annonces, dates et sorties
 
-**Nécrobarista Dernier Service**, ça ressemble à un visual novel de barista en 3D, exclu temporaire
+https://www.p-nintendo.com/news/konami-annonce-une-ribambelle-de-jeux-yu-gi-oh-257334
 
-https://www.youtube.com/watch?v=9R8fPRfRQ6w
+https://www.nintendolife.com/news/2021/07/lost_in_random_now_has_a_confirmed_release_date
 
-**Garden Story**, un Stardew Valley-like mignon, exclu temporaire
+## Rétrogaming
 
-https://www.youtube.com/watch?v=uh2_SdmW8SQ
+## Rumeurs, leaks, teasing et discussions
 
-**Boyfriend Dungeon**, un dungeon crawler/dating sim
+https://www.nintendolife.com/news/2021/07/square_enix_says_a_console_version_of_final_fantasy_pixel_remaster_depends_on_demand
 
-https://www.youtube.com/watch?v=7UO1vBdzbRA
+## Images, vidéos, infos
 
-**Axiom Verge 2**, un metroidvania
+https://www.destructoid.com/astria-ascending-jrpg-tabletop-strategy-in-game-news/?utm_source=rss&utm_medium=rss&utm_campaign=astria-ascending-jrpg-tabletop-strategy-in-game-news
 
-https://www.youtube.com/watch?v=ipM0ZQWKMwk
+https://www.eurogamer.net/articles/2021-07-23-jurassic-world-evolution-2-dev-video-talks-dino-behaviours-habitat-enhancements-and-more
 
-**Islanders**, un city builder zen super mignon
+## Patchs, DLC et démos
 
-https://www.youtube.com/watch?v=nnDWm9dpu3o
+https://www.siliconera.com/monster-hunter-stories-2-bugs-color-change/
 
-**Slime Rancher**, un jeu de collectionnite aigüe hyper addictif
+https://www.nintendolife.com/news/2021/07/another_free_add-on_is_now_available_for_classic_doom_on_switch
 
-https://www.youtube.com/watch?v=oOL-dsa79Xs
+## Versions physiques et collector
 
-**Curious Expedition 2**, un roguelike d'exploration
+## News diverses, chiffres, hardware
 
-https://www.youtube.com/watch?v=YENKrEWgfD0
+## Previews
 
-## 2021
+https://www.nintendolife.com/news/2021/07/hands_on_streets_of_rage_4s_mr_x_nightmare_dlc_is_a_dreamy_add-on
 
-**Eastward**, un jeu d'aventure/action, 16 septembre
+## Tests de gros jeux et de petits qui semblent intéressants
 
-https://www.youtube.com/watch?v=4Jvne3fOwj8
+https://www.gameinformer.com/review/last-stop/last-stop-review-a-playable-tv-show-with-an-albert-camus-twist
 
-**Tetris Effect Connected**, un Puyo Puyo-like, avec du multi cross-platform, 8 octobre
+https://www.destructoid.com/pokemon-unite-review-in-progress/
+https://www.polygon.com/22587685/pokemon-unite-moba-easy-beginner-free-to-play-online
 
-https://www.youtube.com/watch?v=CCBpwyS0E1o
+https://www.nintendolife.com/reviews/nintendo-switch/cris_tales
 
-**Toem**, un jeu chill genre Animal Crossing de photo en noir & blanc, cet automne
+## Tests de jeux qui arrivent plus tard
 
-https://www.youtube.com/watch?v=KgBRLRaEdws
+## Tests en retard de gros jeux
 
-**Gang Beasts**, un brawler genre Power Stone croisé avec Human Fall FLat, cet automne
+https://www.p-nintendo.com/tests/tests-complets/the-legend-of-zelda-skyward-sword-hd-l-heure-de-la-reconciliation-257333?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pn-majs+%28Puissance+Nintendo%29
+https://www.siliconera.com/review-the-legend-of-zelda-skyward-sword/?utm_source=rss&utm_medium=rss&utm_campaign=review-the-legend-of-zelda-skyward-sword
 
-https://www.youtube.com/watch?v=tNgCy92QWZY
+## Tests rétrogaming
 
-**Loop Hero**, un roguelike/deck builder, apparament hyper addictif (j'en ai déjà entendu parler), cet hiver
+https://www.nintendolife.com/reviews/switch-eshop/arcade_archives_vendetta
 
-https://www.youtube.com/watch?v=7P58L0AVIEM
+## Tests de plus petits jeux et jeux sortis il y a un moment
 
-**Shovel Knight Pocket Dungeon**, un puzzle game/dungeon crawler, cet hiver
+https://ladiesgamers.com/bai-qu-hundreds-of-melodies-review/?utm_source=rss&utm_medium=rss&utm_campaign=bai-qu-hundreds-of-melodies-review
 
-https://www.youtube.com/watch?v=HL9b265y_k0
+https://www.p-nintendo.com/tests/tests-complets/test-d-everhood-la-magie-au-pays-de-la-musique-257092?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pn-majs+%28Puissance+Nintendo%29
 
-**Hundred Days Wine Making Simulator**, un jeu de gestion tout mignon, cet hiver
+https://www.nintendolife.com/reviews/switch-eshop/procession_to_calvary
 
-https://www.youtube.com/watch?v=uNViYnT_at8
+## Le coin des jeux moins connus et des jeux Japonais
 
-## 2022
-
-**Astroneer**, un jeu d'exploration/survie/crafting, en janvier
-
-https://www.youtube.com/watch?v=Lzb5nyZrTKY
-
-**Bomb Rush Cyberfunk**, un clone de Jet Set Radio
-
-https://www.youtube.com/watch?v=eTMQC-_M6uk
-
-**FAR Changing Tides**, la suite de FAR Lone Sails
-
-https://www.youtube.com/watch?v=ahVMf1OxKAM
-
-**Metal Slug Tactics**, un TRPG dans l'univers Metal Slug par Dotemu
-
-https://www.youtube.com/watch?v=DqF0KLsaf6U
-
-**Lumbear Jack**, ça ressemble à un jeu d'aventure/action mignon, et il n'y a aucune image disponible, c'est fou
+https://www.nintendolife.com/news/2021/07/heist_simulator_aims_to_steal_away_our_spare_time_is_heading_to_switch
