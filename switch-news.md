@@ -56,11 +56,7 @@ https://www.nintendolife.com/news/2021/08/not_tonight_2_sets_its_post-brexit_sat
 
 ## Rétrogaming
 
-https://www.nintendolife.com/news/2021/07/super_mario_bros_3_special_version_jumps_onto_the_switch_online_nes_library
-
 https://www.nintendolife.com/news/2021/08/space_invaders_invincible_collection_is_finally_getting_a_western_digital_release
-
-https://www.destructoid.com/zool-redimensioned-trailer-pc-amiga-90s-retro-sumo-digital/
 
 https://www.nintendolife.com/news/2021/08/another_shmup_joins_the_arcade_archives_collection_on_switch
 https://www.nintendolife.com/news/2021/08/taito_action_beat_em_up_kuri_kinton_joins_the_arcade_archives_on_switch
@@ -79,11 +75,16 @@ https://www.nintendolife.com/news/2021/08/head_of_xbox_shuts_down_idea_of_game_p
 
 ## Images, vidéos, infos
 
+https://www.p-nintendo.com/news/30-screenshots-de-shin-megami-tensei-v-257386
+https://www.siliconera.com/take-a-look-at-bethel-in-the-new-smt-v-story-trailer/
+
+https://www.siliconera.com/metroid-dread-teaser-new-society/
+
+https://www.nintendolife.com/news/2021/07/no_more_heroes_3_footage_showcases_open_world_segments
+
 https://www.destructoid.com/astria-ascending-jrpg-tabletop-strategy-in-game-news/
 
 https://www.eurogamer.net/articles/2021-07-23-jurassic-world-evolution-2-dev-video-talks-dino-behaviours-habitat-enhancements-and-more
-
-https://www.nintendolife.com/news/2021/07/no_more_heroes_3_footage_showcases_open_world_segments
 
 https://www.nintendolife.com/news/2021/07/video_hot_wheels_unleashed_shows_off_its_licensed_launch_day_cars
 
@@ -95,12 +96,7 @@ https://www.nintendolife.com/news/2021/07/kings_bounty_ii_gameplay_trailer_shows
 
 https://www.nintendolife.com/news/2021/07/new_life_is_strange_true_colors_trailer_shows_off_colorado_setting_arcade_machines
 
-https://www.p-nintendo.com/news/30-screenshots-de-shin-megami-tensei-v-257386
-https://www.siliconera.com/take-a-look-at-bethel-in-the-new-smt-v-story-trailer/
-
 https://www.nintendolife.com/news/2021/08/upcoming_jrpg_monark_unveils_its_stylish_opening_movie
-
-https://www.siliconera.com/metroid-dread-teaser-new-society/
 
 https://www.eurogamer.net/articles/2021-08-12-a-little-golf-journey-strips-back-all-the-stress-of-the-sport
 
@@ -112,22 +108,21 @@ https://www.nintendolife.com/news/2021/08/video_new_tails_of_iron_trailer_shows_
 
 ## Patchs, DLC et démos
 
+https://www.nintendolife.com/news/2021/07/new_pokemon_snap_is_getting_more_areas_and_pokemon_in_free_update
+https://www.nintendolife.com/news/2021/08/this_weeks_new_pokemon_snap_update_also_includes_quality_of_life_improvements
+
 https://www.siliconera.com/monster-hunter-stories-2-bugs-color-change/
+https://www.nintendolife.com/news/2021/08/monster_hunter_stories_2_adds_new_co-op_quest_and_monsties_in_free_update
+
+https://www.nintendolife.com/news/2021/07/nintendo_says_more_animal_crossing_new_horizons_content_is_in_development_next_update_drops_this_week
 
 https://www.nintendolife.com/news/2021/07/another_free_add-on_is_now_available_for_classic_doom_on_switch
 
 https://www.nintendolife.com/news/2021/07/raji_an_ancient_epic_enhanced_edition_coming_as_a_free_update_to_switch
 
-https://www.nintendolife.com/news/2021/07/nintendo_says_more_animal_crossing_new_horizons_content_is_in_development_next_update_drops_this_week
-
-https://www.nintendolife.com/news/2021/07/new_pokemon_snap_is_getting_more_areas_and_pokemon_in_free_update
-https://www.nintendolife.com/news/2021/08/this_weeks_new_pokemon_snap_update_also_includes_quality_of_life_improvements
-
 https://www.siliconera.com/two-point-hospital-sonic-the-hedgehog-pack-out-now/
 
 https://www.p-nintendo.com/news/gouverner-le-monde-avec-civilization-vi-anthology-257375
-
-https://www.nintendolife.com/news/2021/08/monster_hunter_stories_2_adds_new_co-op_quest_and_monsties_in_free_update
 
 https://www.nintendolife.com/news/2021/08/horizon_chase_turbo_teases_a_brand_new_expansion
 
@@ -157,6 +152,7 @@ https://www.nintendolife.com/news/2021/08/crysis_remastered_gets_switch_retail_r
 
 ## News diverses, chiffres, hardware
 
+Plein de chiffres à l'occasion du rapport de mi-année de Nintendo
 https://www.nintendoworldreport.com/news/57985/nintendo-releases-financial-results-for-first-fiscal-quarter-of-2021
 https://www.nintendolife.com/news/2021/08/switch_console_sales_hit_89_million_has_now_outsold_ps3_and_xbox_360
 https://www.nintendolife.com/news/2021/08/here_are_the_top_ten_best-selling_nintendo_switch_games_as_of_june_2021
@@ -164,14 +160,17 @@ https://www.nintendolife.com/news/2021/08/nintendos_profits_drop_as_expected_but
 
 ## Previews
 
+Prise en main de la Switch OLED
 https://www.p-nintendo.com/articles/dossiers/premiere-prise-en-main-avec-la-switch-oled-257368
 
+Sonic Colors Ultimate, un jeu de plateforme
 https://www.destructoid.com/sonic-colors-ultimate-hands-on-preview/
 https://www.siliconera.com/preview-sonic-colors-ultimate-seems-as-slick-as-ever/
 https://www.nintendolife.com/news/2021/08/feature_zooming_through_sonic_colors_ultimate_and_getting_the_switch_lowdown
 
 ## Tests de gros jeux et de petits qui semblent intéressants
 
+NEO The World Ends With You, un JRPG
 https://www.siliconera.com/review-neo-twewy-recaptures-the-magic/
 https://www.nintendoworldreport.com/review/57916/neo-the-world-ends-with-you-switch-review
 https://www.polygon.com/reviews/22592191/neo-the-world-ends-with-you-review-square-enix-nintendo-switch-playstation-4-pc
@@ -184,6 +183,7 @@ https://www.gamespot.com/reviews/neo-the-world-ends-with-you-review-reap-what-yo
 https://www.nintendoworldreport.com/review/57916/neo-the-world-ends-with-you-switch-review
 https://www.gameinformer.com/review/neo-the-world-ends-with-you/neo-the-world-ends-with-you-review-a-catchy-but-familiar-refrain
 
+The Great Ace Attorney, un jeu d'aventure/enquête
 https://www.gameblog.fr/tests/3892-the-great-ace-attorney-chronicles-switch
 https://www.siliconera.com/review-the-great-ace-attorney-chronicles-brings-tales-from-long-ago-across-oceans/
 https://www.nintendoworldreport.com/review/57918/the-great-ace-attorney-chronicles-is-as-great-as-ace-attorney-gets-switch-review
@@ -193,13 +193,7 @@ https://www.nintendolife.com/reviews/nintendo-switch/great_ace_attorney_chronicl
 https://www.gamespot.com/reviews/the-great-ace-attorney-chronicles-review-no-objections-here/1900-6417704/?ftag=CAD-01-10abi2f
 https://www.gameinformer.com/review/the-great-ace-attorney-chronicles/the-great-ace-attorney-chronicles-review-you-know-these
 
-https://www.polygon.com/reviews/22590714/samurai-warriors-5-review-playstation-4-koei-tecmo
-https://www.siliconera.com/review-samurai-warriors-5-offers-involved-fights-a-striking-visual-style/
-https://www.nintendoworldreport.com/review/57919/samurai-warriors-5-switch-review
-https://www.p-nintendo.com/tests/tests-complets/test-de-samurai-warriors-5-le-lifting-sans-inspiration-257354
-https://www.nintendolife.com/reviews/nintendo-switch/samurai_warriors_5
-https://ladiesgamers.com/samurai-warriors-5-review/
-
+Pokémon Unite, un MOBA free to play
 https://www.destructoid.com/pokemon-unite-review-in-progress/
 https://www.polygon.com/22587685/pokemon-unite-moba-easy-beginner-free-to-play-online
 https://www.destructoid.com/reviews/pokemon-unite-review/
@@ -209,140 +203,178 @@ https://www.gameblog.fr/tests/3901-pokemon-unite-switch
 https://www.nintendolife.com/reviews/switch-eshop/pokemon_unite
 https://www.gameinformer.com/review/pokemon-unite/pokemon-unite-review-a-thunder-shock-to-the-system
 
+Samurai Warriors 5, un musou
+https://www.polygon.com/reviews/22590714/samurai-warriors-5-review-playstation-4-koei-tecmo
+https://www.siliconera.com/review-samurai-warriors-5-offers-involved-fights-a-striking-visual-style/
+https://www.nintendoworldreport.com/review/57919/samurai-warriors-5-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-samurai-warriors-5-le-lifting-sans-inspiration-257354
+https://www.nintendolife.com/reviews/nintendo-switch/samurai_warriors_5
+https://ladiesgamers.com/samurai-warriors-5-review/
+
+Cris Tales, un JRPG occidental
 https://www.nintendolife.com/reviews/nintendo-switch/cris_tales
 https://ladiesgamers.com/cris-tales-review/
 https://www.siliconera.com/review-cris-tales-switch-offers-style-and-substance/
 https://www.gameinformer.com/review/cris-tales/cris-tales-review-in-a-time-loop
 
+Axiom Verge 2, un metroidvania
 https://www.gameinformer.com/review/axiom-verge-2/axiom-verge-2-review-lost-in-another-world
 https://www.nintendoworldreport.com/review/58042/axiom-verge-2-switch-review
 https://www.destructoid.com/reviews/review-axiom-verge-2/
 https://www.nintendolife.com/reviews/nintendo-switch/axiom_verge_2_switch-eshop
 
-https://www.nintendoworldreport.com/review/57925/eldest-souls-switch-review
-https://www.gameinformer.com/review/eldest-souls/eldest-souls-review-what-a-rush
-
-https://www.polygon.com/22600225/boomerang-x-flying-slingshot-boss-arena-shooter-impressions
-https://www.p-nintendo.com/tests/tests-complets/boomerang-x-de-l-action-frenetique-au-c-ur-d-une-ile-perdue-257320
-
-https://www.gameinformer.com/review/the-forgotten-city/the-forgotten-city-review-a-narrative-masterpiece
-
-https://www.nintendoworldreport.com/review/57983/picross-s-genesis-and-master-system-edition-switch-review
-https://www.nintendolife.com/reviews/switch-eshop/picross_s_genesis_and_master_system_edition
-
+Dreamscaper, un roguelike
 https://www.gameinformer.com/review/dreamscaper/dreamscaper-review-ethereal-enchantment
 https://www.p-nintendo.com/tests/tests-complets/test-de-dreamscaper-une-pepite-comme-hades-257401
 https://ladiesgamers.com/dreamscaper-review/
 
+Eldest Souls, un Souls-like 2D
+https://www.nintendoworldreport.com/review/57925/eldest-souls-switch-review
+https://www.gameinformer.com/review/eldest-souls/eldest-souls-review-what-a-rush
+
+Boomerang X, un FPS acrobatique
+https://www.polygon.com/22600225/boomerang-x-flying-slingshot-boss-arena-shooter-impressions
+https://www.p-nintendo.com/tests/tests-complets/boomerang-x-de-l-action-frenetique-au-c-ur-d-une-ile-perdue-257320
+
+Picross S Genesis & Master System, un picross
+https://www.nintendoworldreport.com/review/57983/picross-s-genesis-and-master-system-edition-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/picross_s_genesis_and_master_system_edition
+
+Shadowverse Champion's Battle, un jeu de cartes
 https://www.nintendoworldreport.com/review/58023/shadowverse-champions-battle
 https://www.nintendolife.com/reviews/nintendo-switch/shadowverse_champions_battle
 
+Islanders, un puzzle game typé city builder
 https://www.nintendoworldreport.com/review/58076/islanders-console-edition-switch-review
 https://www.nintendolife.com/reviews/switch-eshop/islanders_console_edition
 
 ## Tests de jeux qui arrivent plus tard
 
+Idol Manager, un jeu de gestion
 https://www.siliconera.com/review-idol-manager-is-a-fascinating-business-sim-when-it-works/
 
 ## Tests en retard de gros jeux
 
+Zelda Skyward Sword, un Zelda-like
 https://www.p-nintendo.com/tests/tests-complets/the-legend-of-zelda-skyward-sword-hd-l-heure-de-la-reconciliation-257333
 https://www.siliconera.com/review-the-legend-of-zelda-skyward-sword/
 
+A Plague Tale Innocence, un jeu d'aventure/action
 https://www.nintendoworldreport.com/review/58068/a-plague-tale-innocence-cloud-edition-switch-review
 
 ## Tests rétrogaming
 
+Vendetta, un beat'em up
 https://www.nintendolife.com/reviews/switch-eshop/arcade_archives_vendetta
 
+Cotton Reboot, un shmup
 https://www.siliconera.com/review-cotton-reboot-offers-two-great-shmups-in-one-package/
 https://ladiesgamers.com/cotton-reboot-review/
 
+Darius Burst Another Chronicle EX, un shmup
 https://www.nintendoworldreport.com/review/57980/dariusburst-another-chronicle-ex-switch-review
 https://ladiesgamers.com/dariusburst-another-chronicle-ex-review/
 
 ## Tests de plus petits jeux et jeux sortis il y a un moment
 
-https://www.nintendoworldreport.com/review/57982/dodgeball-academia-switch-review
-https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid/
-
-https://www.gameinformer.com/review/last-stop/last-stop-review-a-playable-tv-show-with-an-albert-camus-twist
-https://www.nintendolife.com/reviews/switch-eshop/last_stop
-https://www.gameblog.fr/tests/3899-last-stop-xb1-xbs-pc-ps5-ps4-switch
-
-https://www.nintendoworldreport.com/review/58070/greak-memories-of-azur-switch-review
-https://www.nintendolife.com/reviews/nintendo-switch/greak_memories_of_azur
-
-https://www.destructoid.com/reviews/review-road-96/
-https://www.nintendoworldreport.com/review/58103/road-96-switch-review
-
-https://ladiesgamers.com/a-monsters-expedition-review/
-
-https://www.nintendoworldreport.com/review/57931/fuga-melodies-of-steel-switch-review
-
-https://ladiesgamers.com/bai-qu-hundreds-of-melodies-review/
-
-https://www.p-nintendo.com/tests/tests-complets/test-d-everhood-la-magie-au-pays-de-la-musique-257092
-
-https://www.nintendolife.com/reviews/switch-eshop/procession_to_calvary
-
-https://www.nintendolife.com/reviews/switch-eshop/risk_system
-
-https://ladiesgamers.com/ayo-the-clown-review/
-https://www.nintendolife.com/reviews/switch-eshop/ayo_the_clown
-
-https://www.nintendoworldreport.com/review/57880/bark-switch-review
-https://www.p-nintendo.com/tests/tests-complets/test-de-bark-le-cute-em-up-de-tic-toc-studio-257393
-
-https://www.p-nintendo.com/tests/tests-complets/glyph-un-petit-jeu-en-or-257358
-
+Blaster Master Zero 3, un metroidvania
 https://www.destructoid.com/reviews/review-blaster-master-zero-3/
 https://www.nintendolife.com/reviews/switch-eshop/blaster_master_zero_3
 https://www.nintendoworldreport.com/review/58029/blaster-master-zero-3-switch-review
 https://www.siliconera.com/blaster-master-zero-3-builds-on-a-strong-foundation/
 
-https://www.p-nintendo.com/tests/tests-complets/test-de-labyrinth-city-pierre-the-maze-detective-ou-le-labyrinthe-enfantin-revisite-257340
+Last Stop, une histoire interactive
+https://www.gameinformer.com/review/last-stop/last-stop-review-a-playable-tv-show-with-an-albert-camus-twist
+https://www.nintendolife.com/reviews/switch-eshop/last_stop
+https://www.gameblog.fr/tests/3899-last-stop-xb1-xbs-pc-ps5-ps4-switch
 
-https://www.nintendolife.com/reviews/switch-eshop/unbound_worlds_apart
-https://ladiesgamers.com/unbound-worlds-apart-review/
-
-https://www.p-nintendo.com/tests/tests-complets/test-de-rogue-heroes-ruins-of-tasos-257256
-
-https://ladiesgamers.com/rogue-wizards-review/
-
-https://www.nintendolife.com/reviews/switch-eshop/trigger_witch
-https://www.nintendoworldreport.com/review/58032/trigger-witch-switch-review
-
-https://www.nintendoworldreport.com/review/57966/the-falconeer-warrior-edition-switch-review
-https://www.p-nintendo.com/tests/tests-complets/test-de-the-falconeer-un-titre-virevoltant-reussi-257391
-
-https://www.nintendolife.com/reviews/switch-eshop/skydrift_infinity
-
-https://www.siliconera.com/review-bustafellows-will-have-you-bust-a-fellow-and-bust-a-move/
-
-https://ladiesgamers.com/toodee-and-topdee-review/
-
-https://www.gameblog.fr/tests/3902-the-procession-to-calvary-pc-mac-iphone-android-xb1-ps4-swit
-
-https://ladiesgamers.com/omno-review/
-
-https://www.nintendoworldreport.com/review/58022/papas-quiz-switch-review
-
+Haven Park, un jeu d'anventure zen
 https://www.nintendolife.com/reviews/switch-eshop/haven_park
 https://ladiesgamers.com/haven-park-review/
 https://www.destructoid.com/reviews/haven-park-review/
 
+Button City, un autre jeu d'aventure zen
 https://www.nintendoworldreport.com/review/58025/button-city-switch-review
 https://ladiesgamers.com/button-city-review/
 https://www.destructoid.com/reviews/review-button-city/
 
-https://www.p-nintendo.com/tests/tests-complets/test-de-griftlands-quand-le-roguelike-rencontre-le-deck-building-257276
+Dodgeball Academia, un RPG sportif
+https://www.nintendoworldreport.com/review/57982/dodgeball-academia-switch-review
+https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid/
 
-https://www.nintendoworldreport.com/review/58036/induction-switch-review
+Greak Memories of Azur, un metroidvania
+https://www.nintendoworldreport.com/review/58070/greak-memories-of-azur-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/greak_memories_of_azur
 
+Road 96, une histoire interactive
+https://www.destructoid.com/reviews/review-road-96/
+https://www.nintendoworldreport.com/review/58103/road-96-switch-review
+
+Ayo The Clown, un platformer
+https://ladiesgamers.com/ayo-the-clown-review/
+https://www.nintendolife.com/reviews/switch-eshop/ayo_the_clown
+
+Bark, un shmup
+https://www.nintendoworldreport.com/review/57880/bark-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-bark-le-cute-em-up-de-tic-toc-studio-257393
+
+Unbound Worlds Apart, un puzzle/platformer
+https://www.nintendolife.com/reviews/switch-eshop/unbound_worlds_apart
+https://ladiesgamers.com/unbound-worlds-apart-review/
+
+Fire Tonight, un jeu d'aventure
 https://www.nintendolife.com/reviews/switch-eshop/fire_tonight
 https://ladiesgamers.com/fire-tonight-review/
 
+Trigger Witch, un jeu d'aventure/action
+https://www.nintendolife.com/reviews/switch-eshop/trigger_witch
+https://www.nintendoworldreport.com/review/58032/trigger-witch-switch-review
+
+The Falconeer Warrior Edition, un rail shooter
+https://www.nintendoworldreport.com/review/57966/the-falconeer-warrior-edition-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-the-falconeer-un-titre-virevoltant-reussi-257391
+
+The Procession To Cavalry, un point & click déjanté dans l'esprit Monty Python
+https://www.nintendolife.com/reviews/switch-eshop/procession_to_calvary
+https://www.gameblog.fr/tests/3902-the-procession-to-calvary-pc-mac-iphone-android-xb1-ps4-swit
+
+The Forgotten City, un jeu d'aventure/enquête
+https://www.gameinformer.com/review/the-forgotten-city/the-forgotten-city-review-a-narrative-masterpiece
+
+A Monster's Expedition, un puzzle game
+https://ladiesgamers.com/a-monsters-expedition-review/
+
+Fuga Melodies of Steel, un RPG
+https://www.nintendoworldreport.com/review/57931/fuga-melodies-of-steel-switch-review
+
+Everhood, un jeu musical
+https://www.p-nintendo.com/tests/tests-complets/test-d-everhood-la-magie-au-pays-de-la-musique-257092
+
+Rogue Heroes Ruins of Tasos, un roguelike
+https://www.p-nintendo.com/tests/tests-complets/test-de-rogue-heroes-ruins-of-tasos-257256
+
+Rogue Wizards, un roguelike
+https://ladiesgamers.com/rogue-wizards-review/
+
+Skydrift Infinity, un jeu de course
+https://www.nintendolife.com/reviews/switch-eshop/skydrift_infinity
+
+Bustafellow, un visual novel
+https://www.siliconera.com/review-bustafellows-will-have-you-bust-a-fellow-and-bust-a-move/
+
+Omno, un jeu d'aventure
+https://ladiesgamers.com/omno-review/
+
+Papa's Quiz, un party game
+https://www.nintendoworldreport.com/review/58022/papas-quiz-switch-review
+
+Griftlands, un roguelike/deck builder
+https://www.p-nintendo.com/tests/tests-complets/test-de-griftlands-quand-le-roguelike-rencontre-le-deck-building-257276
+
+Induction, un puzzle game
+https://www.nintendoworldreport.com/review/58036/induction-switch-review
+
+Silver Case 2425, un jeu d'aventure/enquête
 https://www.nintendolife.com/reviews/nintendo-switch/silver_case_2425
 
 ## Le coin des jeux moins connus et des jeux Japonais
