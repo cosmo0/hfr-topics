@@ -136,6 +136,10 @@ https://www.nintendolife.com/news/2021/08/spelunky_1_and_2_listed_for_26th_augus
 https://www.nintendolife.com/news/2021/08/the_original_game_in_pokemon-like_series_nexomon_lands_on_switch_next_month
 ![picture 36](https://i.imgur.com/qrWX8bg.jpg)  
 
+**Young Souls**, un hack & slash coop, sort cet automne
+https://www.nintendolife.com/news/2021/08/young_souls_shows_off_cool_co-op_boss_fights_due_this_fall
+![picture 38](https://i.imgur.com/XxIXovZ.jpg)  
+
 ## Rétrogaming
 
 **Space Invaders Invincible Collection**, une compilation de 11 jeux Space Invaders (dont 3 versions du premier), pour... 60€, lol
@@ -363,6 +367,7 @@ https://www.nintendoworldreport.com/review/58042/axiom-verge-2-switch-review
 https://www.destructoid.com/reviews/review-axiom-verge-2/
 https://www.nintendolife.com/reviews/nintendo-switch/axiom_verge_2_switch-eshop
 https://www.gamespot.com/reviews/axiom-verge-2-review-more-vania-than-metroid/1900-6417711/?ftag=CAD-01-10abi2f
+https://www.polygon.com/reviews/22629138/axiom-verge-2-review-metroidvania-nintendo-switch-ps4-pc-epic-games-store
 ![picture 28](https://i.imgur.com/LJc5KiS.png)  
 
 **Dreamscaper**, un roguelike hack & slash très joli
@@ -403,6 +408,10 @@ https://www.nintendolife.com/reviews/switch-eshop/art_of_rally
 **Boyfriend Dungeon**, un dungeon crawler/dating sim
 https://www.siliconera.com/review-boyfriend-dungeon-includes-good-and-bad-dates/
 ![picture 35](https://i.imgur.com/H6cgZrt.png)  
+
+**Necrobarista Final Pour**, un visual novel
+https://www.nintendoworldreport.com/review/58105/necrobarista-final-pour-switch-review
+![picture 37](https://i.imgur.com/7uuPztj.png)  
 
 ## Tests de jeux qui arrivent plus tard
 
@@ -462,13 +471,14 @@ https://www.destructoid.com/reviews/review-road-96/
 https://www.nintendoworldreport.com/review/58103/road-96-switch-review
 https://www.gameblog.fr/tests/3904-road-96-switch
 
-**Dodgeball Academia**, un RPG sportif
-https://www.nintendoworldreport.com/review/57982/dodgeball-academia-switch-review
-https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid/
-
 **Greak Memories of Azur**, un metroidvania
 https://www.nintendoworldreport.com/review/58070/greak-memories-of-azur-switch-review
 https://www.nintendolife.com/reviews/nintendo-switch/greak_memories_of_azur
+https://www.p-nintendo.com/tests/tests-complets/test-de-greak-memories-of-azur-le-plaisir-trop-court-257406
+
+**Dodgeball Academia**, un RPG sportif
+https://www.nintendoworldreport.com/review/57982/dodgeball-academia-switch-review
+https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid/
 
 **Ayo The Clown**, un platformer
 https://ladiesgamers.com/ayo-the-clown-review/
@@ -500,6 +510,7 @@ https://www.gameblog.fr/tests/3902-the-procession-to-calvary-pc-mac-iphone-andro
 
 **The Forgotten City**, un jeu d'aventure/enquête
 https://www.gameinformer.com/review/the-forgotten-city/the-forgotten-city-review-a-narrative-masterpiece
+https://www.gamespot.com/reviews/the-forgotten-city-review-seven-deadly-sins/1900-6417712/?ftag=CAD-01-10abi2f
 
 **A Monster's Expedition**, un puzzle game
 https://ladiesgamers.com/a-monsters-expedition-review/
@@ -580,9 +591,6 @@ https://www.siliconera.com/bloodrayne-betrayal-release-date-falls-in-september-2
 
 **A Monster's Expedition**, un puzzle game tout mignon, est sorti
 https://www.nintendolife.com/news/2021/07/cutie_puzzle_game_a_monsters_expedition_is_coming_to_switch_with_new_dlc
-
-**Young Souls**, un hack & slash coop, sort cet automne
-https://www.nintendolife.com/news/2021/08/young_souls_shows_off_cool_co-op_boss_fights_due_this_fall
 
 **Rescue Party: Live**, un Overcooked-like, sort cet automne
 https://www.destructoid.com/rescue-party-live-co-op-game-fires-floods-earthquakes/
