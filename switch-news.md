@@ -1,80 +1,140 @@
 #cosmonews
 
-J'espère que la mode des indés qui font des metroidvania en pixel art (qui s'est bien calmée), puis celle des roguelike/twin stick shooter (ou platformers) en pixel art (qui commence à ralentir doucement) ne vous gavent pas trop : nous entrons dans la mode des roguelike deck builders en dessin vectoriel (suite à Slay the Spire). La mode des party games en 3D mignon (à la Overcooked) est en stagnation, il faut croire que c'est pas facile d'innover dans ce secteur.
+J'espère que la mode des indés qui font des metroidvania en pixel art (qui s'est bien calmée), puis celle des roguelike/twin stick shooter (ou platformers) en pixel art (qui commence à ralentir doucement) ne vous gavait pas trop : nous entrons dans la mode des roguelike deck builders en dessin vectoriel (suite à Slay the Spire). La mode des party games en 3D mignon (à la Overcooked) est en stagnation, il faut croire que c'est pas facile d'innover dans ce secteur.
 
 Repérez le dernier jeu indé à succès (Hadès ? Among Us ? Fall Guys ?) : d'ici 2 ans, on en aura des tonnes du même genre.
 
 ## Calendrier
 
+**Dernières sorties :**
+
+- **Last Stop**, un jeu d'aventure
+- **Samurai Warriors 5**, un musou
+- **Neo The World Ends With You**, un JRPG
+- **The Great Ace Attorney Chronicles**, un jeu d'enquête
+- **The Forgotten City**, un jeu d'enquête
+- **Unbound: Worlds Apart**, un puzzle/platformer
+- **Blaster Master Zero 3**, un metroidvania
+- **Necrobarista Final Pour**, un visual novel
+- **Garden Story**, un jeu d'aventure/action
+- **Boyfriend Dungeon**, un RPG/dungeon crawler
+- **Axiom Verge 2**, un metroidvania
+- **Slime Rancher**, un FPS de farming
+- **Curious Expedition 2**, un roguelike d'exploration
+- **Fort Triumph**, un XCOM-like
+- **Art of Rally**, un jeu de course
+- **Boomerang X**, un FPS acrobatique
+- **Eldest Souls**, un Souls-like
+- **Pokémon Unite**, un MOBA free to play
+- **The Falconeer**, un rail shooter
+- **Shadowverse Champion's Battle**, un jeu de cartes/aventure
+- **Dreamscaper**, un roguelike
+- **Fire Tonight**, un jeu d'aventure
+- **Road 96**, un jeu d'aventure procédural
+
+**Prochaines sorties :**
+
+- **Monster Harvest**, un Pokémon-like avec du farming
+- **King's Bounty II**, un jeu de stratégie
+- **Spelunky 1 & 2**, des roguelikes/platformers
+- **No More Heroes 3**, un jeu d'aventure/action
+- **Baldo**, un jeu d'aventure/action
+- **RICO London**, un FPS tactique/roguelike
+- **Kitaria Fables**, un jeu d'aventure/action
+- **Big Rumble Boxing Creed Champions**, un jeu de boxe
+
 ## Résumé
+
+- **Spelunky 1 & 2** le 26 août
+- **Baldo** le 27 août
+- **SkateBIRD** le 16 septembre
+- **Darksiders 3** le 30 septembre
+- **Lego Marvel Super Heroes** le 5 octobre
+- **Earth Defense Force 3 & 4** arrivent en occident
+- Des rumeurs pour **Xenoblade 3** et les **GTA PS2**
+- Des tests pour **NEO The World Ends With You**, **The Great Ace Attorney**, **Pokémon Unite**, **Samurai Warriors 5**, **Cris Tales**, **Axiom Verge 2**, **Dreamscaper**, **Eldest Souls**, **Boomerang X**, **Shadowverse Champion's Battle**, **Islanders**, **Art of Rally**, **Boyfriend Dungeon**, oui ça fait beaucoup, et il y en a encore d'autres !
 
 ## Annonces, dates et sorties
 
 **Baldo**, un jeu d'aventure/action, sort le 27 août
 https://www.destructoid.com/baldo-the-guardian-owls-release-date-news/
+![picture 1](https://i.imgur.com/OWsSuxs.jpg)  
 
 Konami annonce des jeux **Yu-Gi-Oh** : Rush Duel cet automne ; et Master Duel sans précision (et un jeu mobile)
 https://www.p-nintendo.com/news/konami-annonce-une-ribambelle-de-jeux-yu-gi-oh-257334
+![picture 2](https://i.imgur.com/JnnqULU.jpg)  
 
 **Lost In Random**, un jeu d'aventure/action, sort le 10 septembre
 https://www.nintendolife.com/news/2021/07/lost_in_random_now_has_a_confirmed_release_date
+![picture 3](https://i.imgur.com/vyRDRB7.jpg)  
 
 **Earth Defense Force 3**, un TPS initialement intitulé EDF 2017 et sorti en 2007 (oui c'est le bordel), sort le 14 octobre
 https://www.siliconera.com/earth-defense-force-2017-switch-will-arrive-in-japan-this-october/
+![picture 4](https://i.imgur.com/cVYnWpy.png)  
 
 **Earth Defense Force 4.1**, un TPS datant de la PS3/X360 (sous le nom EDF 2025), est prévu pour 2022
 https://www.siliconera.com/earth-defense-force-4-1-nintendo-switch/
+![picture 5](https://i.imgur.com/c2tWzf6.jpg)  
 
 **Picross S Genesis & Master System**, un picross, est sorti
 https://www.siliconera.com/picross-s-genesis-master-system-will-arrive-in-august/
+![picture 6](https://i.imgur.com/nDENarm.png)  
 
 **Digimon Survive**, un RPG, est repoussé pour la centième fois, pour 2022, sérieusement il se passe quoi avec ce jeu ?
 https://www.nintendolife.com/news/2021/07/digimon_survive_has_been_delayed_yet_again_this_time_to_2022
+![picture 7](https://i.imgur.com/3oYYaOX.png)  
 
 **Mary Skelter Finale**, un dungeon crawler, sortira le 1er octobre
 https://www.siliconera.com/mary-skelter-finale-release-date-announced/
+![picture 8](https://i.imgur.com/HKxUEuM.jpg)  
 
 **SkateBIRD**, un jeu de skate mignon, est repoussé au 16 septembre
 https://www.nintendolife.com/news/2021/07/skatebird_gets_pushed_back_once_more_now_kickflipping_onto_switch_in_september
-
-Annapurna annonce plusieurs choses : **Outer Wilds**, un jeu d'aventure/action, sort durant les fêtes ; **Storyteller**, un puzzle game, sort "bientôt" ; **Neon White**, un FPS/jeu de cartes, sort cet hiver.
-https://www.nintendolife.com/news/2021/07/annapurna_interactive_showcase_confirms_two_switch_titles_and_outer_wilds_release_window
-
-**Rescue Party: Live**, un Overcooked-like, sort cet automne
-https://www.destructoid.com/rescue-party-live-co-op-game-fires-floods-earthquakes/
+![picture 9](https://i.imgur.com/uuSI2SS.png)  
 
 **Fort Triumph**, un XCOM-like médiéval, est sorti
 https://www.nintendolife.com/news/2021/08/fort_triumph_blends_turn-based_combat_and_world_exploration_out_on_switch_soon
+![picture 12](https://i.imgur.com/XNcNi9x.png)  
 
 **Art of Rally**, un jeu de course, est sorti (en version lo-fi)
 https://www.nintendolife.com/news/2021/08/art_of_rally_arrives_today_with_new_kenya_dlc_included
+![picture 13](https://i.imgur.com/dJUTt93.png)  
 
 **Dorfromantik**, un jeu de plateau solo, sortira sur Switch, sans précision
 https://www.nintendolife.com/news/2021/08/dorfromantik_is_a_peaceful_building_strategy_experience_coming_to_switch
-
-**Cruis'n Blast**, un jeu de course arcade, sort le 14 septembre
-https://www.nintendoworldreport.com/news/57984/cruisn-blast-takes-green-flag-on-september-14
+![picture 14](https://i.imgur.com/QlEx6q2.jpg)  
 
 **RICO London**, un FPS tactique/roguelike, sort le 2 septembre
 https://www.nintendolife.com/news/2021/08/rico_london_will_kick_the_doors_down_on_switch_in_september
+![picture 16](https://i.imgur.com/YJfnziD.jpg)  
 
 **Knockout Home Fitness**, un jeu de... fitness... sort le 28 septembre
 https://www.nintendolife.com/news/2021/08/knockout_home_fitness_brings_more_high-intensity_workouts_to_switch
+![picture 17](https://i.imgur.com/h4SIBT3.jpg)  
 
 **Darksiders 3**, un jeu d'aventure/action, sort le 30 septembre
 https://www.nintendolife.com/news/2021/08/darksiders_iii_is_coming_to_switch_and_it_launches_next_month
+![picture 18](https://i.imgur.com/edvBb2u.png)  
 
 **Lego Marvel Super Heroes**, un (excellent) jeu Lego, sort le 5 octobre
 https://www.siliconera.com/lego-marvel-super-heroes-heading-to-the-switch/
+![picture 19](https://i.imgur.com/qOVjyjs.png)  
 
-**Wytchwood**, un jeu de survie, sort cet automne
+**Wytchwood**, un jeu de survie super joli, sort cet automne
 https://www.nintendolife.com/news/2021/08/play_a_witch_in_the_woods_in_wytchwood_a_crafting_adventure_game_coming_this_autumn
+![picture 20](https://i.imgur.com/UfAVHcT.jpg)  
 
 **Ultra Age**, un Devil May Cry-like, sort cet automne
 https://www.nintendolife.com/news/2021/08/the_devil_may_cry-like_ultra_age_is_hacking_and_slashing_its_way_to_switch_this_year
+![picture 21](https://i.imgur.com/V0UEeXT.png)  
 
 **Spelunky 1 & 2**, des platformers/roguelike à succès, sortent le 26 août
 https://www.nintendolife.com/news/2021/08/spelunky_1_and_2_listed_for_26th_august_release_on_switch_eshop
+![picture 22](https://i.imgur.com/WR8t2xp.jpg)  
+
+**Nexomon**, le premier épisode d'une série de Pokémon-like, sort le 17 septembre
+https://www.nintendolife.com/news/2021/08/the_original_game_in_pokemon-like_series_nexomon_lands_on_switch_next_month
+![picture 36](https://i.imgur.com/qrWX8bg.jpg)  
 
 ## Rétrogaming
 
@@ -224,6 +284,9 @@ https://www.nintendolife.com/news/2021/08/switch_console_sales_hit_89_million_ha
 https://www.nintendolife.com/news/2021/08/here_are_the_top_ten_best-selling_nintendo_switch_games_as_of_june_2021
 https://www.nintendolife.com/news/2021/08/nintendos_profits_drop_as_expected_but_it_remains_in_a_strong_position
 
+Le **Hori Flex Controller**, un pad adaptatif, est dispo (aux US)
+https://www.nintendolife.com/news/2021/08/the_hori_flex_assistive_controller_for_switch_is_now_available_in_the_us
+
 ## Previews
 
 Prise en main de la **Switch OLED**
@@ -254,6 +317,7 @@ https://www.gameblog.fr/tests/3898-neo-the-world-ends-with-you-ps4
 https://www.gamespot.com/reviews/neo-the-world-ends-with-you-review-reap-what-you-sow/1900-6417708/?ftag=CAD-01-10abi2f
 https://www.nintendoworldreport.com/review/57916/neo-the-world-ends-with-you-switch-review
 https://www.gameinformer.com/review/neo-the-world-ends-with-you/neo-the-world-ends-with-you-review-a-catchy-but-familiar-refrain
+![picture 23](https://i.imgur.com/S0LpDpO.jpg)  
 
 **The Great Ace Attorney**, un jeu d'aventure/enquête
 https://www.gameblog.fr/tests/3892-the-great-ace-attorney-chronicles-switch
@@ -264,6 +328,7 @@ https://www.eurogamer.net/articles/2021-07-26-the-great-ace-attorney-chronicles-
 https://www.nintendolife.com/reviews/nintendo-switch/great_ace_attorney_chronicles
 https://www.gamespot.com/reviews/the-great-ace-attorney-chronicles-review-no-objections-here/1900-6417704/?ftag=CAD-01-10abi2f
 https://www.gameinformer.com/review/the-great-ace-attorney-chronicles/the-great-ace-attorney-chronicles-review-you-know-these
+![picture 24](https://i.imgur.com/8M1BmEL.png)  
 
 **Pokémon Unite**, un MOBA free to play
 https://www.destructoid.com/pokemon-unite-review-in-progress/
@@ -274,6 +339,7 @@ https://www.gamespot.com/reviews/pokemon-unite-review-a-micro-aggressive-moba/19
 https://www.gameblog.fr/tests/3901-pokemon-unite-switch
 https://www.nintendolife.com/reviews/switch-eshop/pokemon_unite
 https://www.gameinformer.com/review/pokemon-unite/pokemon-unite-review-a-thunder-shock-to-the-system
+![picture 25](https://i.imgur.com/TtpWeO5.jpg)  
 
 **Samurai Warriors 5**, un musou
 https://www.polygon.com/reviews/22590714/samurai-warriors-5-review-playstation-4-koei-tecmo
@@ -282,12 +348,14 @@ https://www.nintendoworldreport.com/review/57919/samurai-warriors-5-switch-revie
 https://www.p-nintendo.com/tests/tests-complets/test-de-samurai-warriors-5-le-lifting-sans-inspiration-257354
 https://www.nintendolife.com/reviews/nintendo-switch/samurai_warriors_5
 https://ladiesgamers.com/samurai-warriors-5-review/
+![picture 26](https://i.imgur.com/YQCotfG.jpg)  
 
-**Cris Tales**, un JRPG occidental
+**Cris Tales**, un JRPG occidental super beau
 https://www.nintendolife.com/reviews/nintendo-switch/cris_tales
 https://ladiesgamers.com/cris-tales-review/
 https://www.siliconera.com/review-cris-tales-switch-offers-style-and-substance/
 https://www.gameinformer.com/review/cris-tales/cris-tales-review-in-a-time-loop
+![picture 27](https://i.imgur.com/SfJwkWP.jpg)  
 
 **Axiom Verge 2**, un metroidvania
 https://www.gameinformer.com/review/axiom-verge-2/axiom-verge-2-review-lost-in-another-world
@@ -295,37 +363,46 @@ https://www.nintendoworldreport.com/review/58042/axiom-verge-2-switch-review
 https://www.destructoid.com/reviews/review-axiom-verge-2/
 https://www.nintendolife.com/reviews/nintendo-switch/axiom_verge_2_switch-eshop
 https://www.gamespot.com/reviews/axiom-verge-2-review-more-vania-than-metroid/1900-6417711/?ftag=CAD-01-10abi2f
+![picture 28](https://i.imgur.com/LJc5KiS.png)  
 
-**Dreamscaper**, un roguelike
+**Dreamscaper**, un roguelike hack & slash très joli
 https://www.gameinformer.com/review/dreamscaper/dreamscaper-review-ethereal-enchantment
 https://www.p-nintendo.com/tests/tests-complets/test-de-dreamscaper-une-pepite-comme-hades-257401
 https://ladiesgamers.com/dreamscaper-review/
+![picture 29](https://i.imgur.com/8NlmAyh.jpg)  
 
 **Eldest Souls**, un Souls-like 2D
 https://www.nintendoworldreport.com/review/57925/eldest-souls-switch-review
 https://www.gameinformer.com/review/eldest-souls/eldest-souls-review-what-a-rush
+![picture 30](https://i.imgur.com/YoyLKmh.png)  
 
 **Boomerang X**, un FPS acrobatique
 https://www.polygon.com/22600225/boomerang-x-flying-slingshot-boss-arena-shooter-impressions
 https://www.p-nintendo.com/tests/tests-complets/boomerang-x-de-l-action-frenetique-au-c-ur-d-une-ile-perdue-257320
+![picture 31](https://i.imgur.com/KkaXPxN.jpg)  
 
 **Picross S Genesis & Master System**, un picross
 https://www.nintendoworldreport.com/review/57983/picross-s-genesis-and-master-system-edition-switch-review
 https://www.nintendolife.com/reviews/switch-eshop/picross_s_genesis_and_master_system_edition
+![picture 32](https://i.imgur.com/qSTyTkA.png)  
 
 **Shadowverse Champion's Battle**, un jeu de cartes
 https://www.nintendoworldreport.com/review/58023/shadowverse-champions-battle
 https://www.nintendolife.com/reviews/nintendo-switch/shadowverse_champions_battle
+![picture 33](https://i.imgur.com/N8BGI8K.jpg)  
 
 **Islanders**, un puzzle game typé city builder
 https://www.nintendoworldreport.com/review/58076/islanders-console-edition-switch-review
 https://www.nintendolife.com/reviews/switch-eshop/islanders_console_edition
+![picture 34](https://i.imgur.com/24n28H1.jpg)  
 
 **Art of Rally**, un jeu de course low-poly en version moche
 https://www.nintendolife.com/reviews/switch-eshop/art_of_rally
+![picture 13](https://i.imgur.com/dJUTt93.png)  
 
 **Boyfriend Dungeon**, un dungeon crawler/dating sim
 https://www.siliconera.com/review-boyfriend-dungeon-includes-good-and-bad-dates/
+![picture 35](https://i.imgur.com/H6cgZrt.png)  
 
 ## Tests de jeux qui arrivent plus tard
 
@@ -380,6 +457,11 @@ https://www.nintendoworldreport.com/review/58025/button-city-switch-review
 https://ladiesgamers.com/button-city-review/
 https://www.destructoid.com/reviews/review-button-city/
 
+**Road 96**, une histoire interactive
+https://www.destructoid.com/reviews/review-road-96/
+https://www.nintendoworldreport.com/review/58103/road-96-switch-review
+https://www.gameblog.fr/tests/3904-road-96-switch
+
 **Dodgeball Academia**, un RPG sportif
 https://www.nintendoworldreport.com/review/57982/dodgeball-academia-switch-review
 https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid/
@@ -387,10 +469,6 @@ https://www.siliconera.com/review-dodgeball-academia-is-a-hit-you-shouldnt-avoid
 **Greak Memories of Azur**, un metroidvania
 https://www.nintendoworldreport.com/review/58070/greak-memories-of-azur-switch-review
 https://www.nintendolife.com/reviews/nintendo-switch/greak_memories_of_azur
-
-**Road 96**, une histoire interactive
-https://www.destructoid.com/reviews/review-road-96/
-https://www.nintendoworldreport.com/review/58103/road-96-switch-review
 
 **Ayo The Clown**, un platformer
 https://ladiesgamers.com/ayo-the-clown-review/
@@ -502,3 +580,9 @@ https://www.siliconera.com/bloodrayne-betrayal-release-date-falls-in-september-2
 
 **A Monster's Expedition**, un puzzle game tout mignon, est sorti
 https://www.nintendolife.com/news/2021/07/cutie_puzzle_game_a_monsters_expedition_is_coming_to_switch_with_new_dlc
+
+**Young Souls**, un hack & slash coop, sort cet automne
+https://www.nintendolife.com/news/2021/08/young_souls_shows_off_cool_co-op_boss_fights_due_this_fall
+
+**Rescue Party: Live**, un Overcooked-like, sort cet automne
+https://www.destructoid.com/rescue-party-live-co-op-game-fires-floods-earthquakes/
