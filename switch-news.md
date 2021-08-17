@@ -184,6 +184,9 @@ https://www.destructoid.com/apex-legends-cross-progression-isnt-coming-until-202
 Un gros patch pour **Dragon Ball FighterZ**
 https://www.destructoid.com/dragon-ball-fighterz-massive-patch/
 
+Du contenu pour **Risk of Rain 2**
+https://www.nintendolife.com/news/2021/08/risk_of_rain_2_anniversary_update_makes_its_way_to_switch_tomorrow
+
 ## Versions physiques et collector
 
 **Super Meat Boy**, avec une pochette (volontairement) atroce chez LimitedRun
@@ -233,6 +236,9 @@ https://www.nintendolife.com/news/2021/08/feature_zooming_through_sonic_colors_u
 
 **Tinytopia**, un city builder
 https://ladiesgamers.com/tinytopia-preview/
+
+**Eastward**, un jeu d'aventure/action
+https://www.eurogamer.net/articles/2021-08-16-eastward-captures-a-lot-of-vintage-gba-charm
 
 ## Tests de gros jeux et de petits qui semblent intéressants
 
@@ -288,6 +294,7 @@ https://www.gameinformer.com/review/axiom-verge-2/axiom-verge-2-review-lost-in-a
 https://www.nintendoworldreport.com/review/58042/axiom-verge-2-switch-review
 https://www.destructoid.com/reviews/review-axiom-verge-2/
 https://www.nintendolife.com/reviews/nintendo-switch/axiom_verge_2_switch-eshop
+https://www.gamespot.com/reviews/axiom-verge-2-review-more-vania-than-metroid/1900-6417711/?ftag=CAD-01-10abi2f
 
 **Dreamscaper**, un roguelike
 https://www.gameinformer.com/review/dreamscaper/dreamscaper-review-ethereal-enchantment
@@ -314,6 +321,12 @@ https://www.nintendolife.com/reviews/nintendo-switch/shadowverse_champions_battl
 https://www.nintendoworldreport.com/review/58076/islanders-console-edition-switch-review
 https://www.nintendolife.com/reviews/switch-eshop/islanders_console_edition
 
+**Art of Rally**, un jeu de course low-poly en version moche
+https://www.nintendolife.com/reviews/switch-eshop/art_of_rally
+
+**Boyfriend Dungeon**, un dungeon crawler/dating sim
+https://www.siliconera.com/review-boyfriend-dungeon-includes-good-and-bad-dates/
+
 ## Tests de jeux qui arrivent plus tard
 
 **Idol Manager**, un jeu de gestion
@@ -327,6 +340,9 @@ https://www.siliconera.com/review-the-legend-of-zelda-skyward-sword/
 
 **A Plague Tale Innocence**, un jeu d'aventure/action
 https://www.nintendoworldreport.com/review/58068/a-plague-tale-innocence-cloud-edition-switch-review
+
+**Ys IX**, un JRPG
+https://www.p-nintendo.com/tests/tests-complets/test-de-ys-ix-monstrum-nox-peut-mieux-faire-et-c-est-dommage-257415
 
 ## Tests rétrogaming
 
