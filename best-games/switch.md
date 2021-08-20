@@ -117,7 +117,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4/S5, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament, Mini Metro, Dude Stop, Tens!, Locomotion
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, **Knockout City**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars, Hyperbrawl Tournament
-- **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/), Super Arcade Racing, Mantis Burn Racing, The Next Penelope, Super Pixel Racers, Absolute Drift
+- **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/), Super Arcade Racing, Mantis Burn Racing, The Next Penelope, Super Pixel Racers, Absolute Drift, Rush Rally Origin
 - **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash, Roof Rage
 - **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots, The Takeover, Double Dragon Neon, Scott Pilgrim vs The World
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx, Black Bird, Bot Vice, Project Starship X
@@ -375,6 +375,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Going Under
 - Griftlands
 - **Hades**
+- Monster Train
 - [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Neon Abyss
 - **Nuclear Throne**
@@ -782,7 +783,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - [Out Run (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-out-run/)
 - Redout
 - Road Redemption
-- Rush Rally 3
+- Rush Rally 3, Origins
 - Team Sonic Racing
 - **Trials Rising**
 - TT Isle of Man 2
@@ -1050,10 +1051,10 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Slime Rancher, Curious Expedition 2, Fort Triumph, Art of Rally
+- Jeux sortis, en attente de tests : Slime Rancher, Curious Expedition 2, Fort Triumph, Monster Harvest
 
-- Août : Monster Harvest (19), **King's Bounty II** (24), Spelunky 1 & 2 (26), **No More Heroes 3** (27), **Baldo** (27)
-- Septembre : RICO London (2), Kitaria Fables (3), Big Rumble Boxing Creed Champions (3), Sonic Colours Ultimate (7), Residual (9), **Wario Ware Get It Together** (10), **NBA 2K22** (10), **Life Is Strange Remastered & True Colors** (10), **Cruis'n Blast** (14), **Eastward** (16), SkateBird (16), Nexomon (17), **Ni No Kuni 2** (17), Lost In Random (18), **Diablo 2 Resurrected** (23), **Dragon Ball Z Kakarot** (24), Atria Ascending (30), **Darksiders 3** (30), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
+- Août : **King's Bounty II** (24), Spelunky 1 & 2 (26), The Magnificient Trufflepigs (26), Secret Neighbor (26), **No More Heroes 3** (27), **Baldo** (27)
+- Septembre : RICO London (2), Kitaria Fables (3), Big Rumble Boxing Creed Champions (3), Sonic Colours Ultimate (7), Residual (9), Espgaluda 2 (9), **Wario Ware Get It Together** (10), **NBA 2K22** (10), **Life Is Strange Remastered & True Colors** (10), **Cruis'n Blast** (14), Flynn Son of Crimson (15), **Eastward** (16), SkateBird (16), Nexomon (17), **Ni No Kuni 2** (17), Lost In Random (18), **Diablo 2 Resurrected** (23), Spacebase Startopia (24), **Dragon Ball Z Kakarot** (24), Atria Ascending (30), **Darksiders 3** (30), Hot Wheels Unleashed (30), Andro Dunos 2 (?)
 - Octobre : **FIFA 22** (1), Mary Skelter Finale (1), Super Monkey Ball Banana Mania (5), **Lego Marvel Super Heroes** (5), **Metroid Dread** (8), **Tetris Effect Connected** (8), Earth Defense Force 3 (14), **Marvel's Guardian of the Galaxy** (26 cloud), Super Robot Wars 30 (28 JP), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
 - Novembre : Just Dance 2022 (4), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19)
 - Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Danganronpa Decadence (3), Olli Olli World (?)
@@ -1064,7 +1065,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Q3 2021/automne : Pocky & Rocky, Beyond a Steel Sky, Astérix et Obélix Baffez-Les Tous, Aztech Forgotten Gods, The Good Life, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel, Toem, Gang Beasts, Wytchwood, Ultra Age
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Shovel Knight Pocket Dungeon, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 
-- 2021 : Startopia, Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Dynasty Warriors 9 Empires, Rustler, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Fast & Furious Spy Racers, Espgaluda, DoDonPachi Resurrection, Fatal Frame Maiden of Black Water, Grow: Song of the Evertree, Aeon Drive, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Airborne, Coromon, Death's Gambit: Afterlife, Ruined King, Fisti-fluffs, Finding Paradise, Hazel Sky, Sail Forth
+- 2021 : Startopia, Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Dynasty Warriors 9 Empires, Rustler, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Fast & Furious Spy Racers, DoDonPachi Resurrection, Fatal Frame Maiden of Black Water, Grow: Song of the Evertree, Aeon Drive, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Airborne, Coromon, Death's Gambit: Afterlife, Ruined King, Fisti-fluffs, Finding Paradise, Hazel Sky, Sail Forth
 
 - 2022 : **Project Triangle Strategy**, **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, **Rune Factory 5**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive
 
