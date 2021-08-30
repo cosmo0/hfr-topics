@@ -220,19 +220,70 @@ Autre concept de console rétro "semi-officielle", c'est une console portable/hy
 
 ## L'émulation non officielle
 
-**Ici on ne parle pas :**
+Il existe [un forum spécialisé dans les consoles "open source"](http://www.open-consoles.com/) sur lesquelles sont basées bon nombre de ces machines.
 
-- de Raspberry Pi ([voir ici](https://forum.hardware.fr/hfr/JeuxVideo/Consoles/emulation-gaming-raspberry-sujet_182496_1.htm))
-- d'émulation sur PC ou dans une borne d'arcade "custom" ([voir ici](https://forum.hardware.fr/hfr/JeuxVideo/Consoles/emulation-consoles-arcade-sujet_194637_1.htm))
+Une (énorme) [liste de machines d'émulation](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/)
 
-Mais uniquement de machines "toutes prêtes" dans lesquelles on doit mettre des roms.
-
-A voir aussi :
-
-- Un forum spécialisé dans les consoles "open source" sur lesquelles sont basées bon nombre de ces machines : <http://www.open-consoles.com/>
-- Une (énorme) liste de machines d'émulation : <https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit#gid=0>
+Pour acheter ces machines, en général, vous n'avez pas beaucoup d'autre option que d'aller sur AliExpress ou un autre site équivalent.
 
 **A noter :** ce sont souvent des machines avec des firmwares officiels un peu nazes qu'il faut remplacer par des firmwares développés par la communauté pour en exploiter le potentiel. N'espérez pas avoir une machine "plug and play" et sans souci.
+
+### Les "petites" machines (50 à 100€)
+
+Dans cette gamme, vous trouverez énormément de machines clones les unes des autres, basées sur la GCW Zero, une machine open source. La puissance est évidemment limitée, mais les machines se ressemblant énormément, leur communauté est assez large et supporte très bien les machines, avec de nouveaux firmware, des modifications d'émulateurs, etc.
+
+**DigiRetro** (DigiRetroBoy)  
+Une machine qui combine lecteur de cartouche GBA et émulateurs intégrés.  
+Site : <https://digiretro.com/>
+
+![https://i.imgur.com/7fxcirpb.jpg](https://i.imgur.com/7fxcirpb.jpg)
+
+**Odroid Go Advance, Super**  
+Des machines basées sur ODroid, une carte concurrente du Raspberry Pi, et donc modifiables, et se basant sur des systèmes open source (RetroPie, Recalbox, etc). Un rapport qualité/prix correct même si la qualité de fabrication est assez moyenne.
+
+![https://i.imgur.com/RgOamCtb.jpg](https://i.imgur.com/RgOamCtb.jpg) ![https://i.imgur.com/U6mBjgFb.jpg](https://i.imgur.com/U6mBjgFb.jpg)
+
+**Powkiddy** (LDK)  
+Un fabricant de machines généralement assez peu chères, mais évidemment moins performantes et de moins bonnes qualité. Un bon compromis si vous ne voulez restreindre votre budget.
+
+![https://i.imgur.com/CgbgGp4b.jpg](https://i.imgur.com/CgbgGp4b.jpg) ![https://i.imgur.com/dqVXrfnb.jpg](https://i.imgur.com/dqVXrfnb.jpg)
+
+**RG-300, RG-350, RG-351...**  
+RetroGame est un spécialiste des machines plutôt équilibrées, avec des prix qui tournent autour des 100€, et une très grosse communauté. Ils sortent de nouveaux modèles régulièrement, avec des améliorations de performances, de maniabilité ou juste d'esthétique. Leurs machines sont plutôt recommandées, mais n'achetez pas n'importe quoi les yeux fermés, ils sont capables du meilleur comme du pire.
+
+![https://i.imgur.com/IyNmo9ob.jpg](https://i.imgur.com/IyNmo9ob.jpg) ![https://i.imgur.com/x9FYNo6b.jpg](https://i.imgur.com/x9FYNo6b.jpg) ![https://i.imgur.com/ufUX0LQb.jpg](https://i.imgur.com/ufUX0LQb.jpg)
+
+### Les "grosses" machines (> 100€)
+
+Des machines souvent très puissantes mais aussi très chères, elles sont généralement très versatiles car basées sur des systèmes généralistes (Android ou Windows) mais utilisent le jeu portable comme argument de vente principal (et pas toujours l'émulation).
+
+**Aya Neo**  
+Une machine Windows, puissante (APU Ryzen 5, 16Go de RAM) mais très, très chère (autour de 1000$).  
+Site : <https://www.ayaneo.com/>
+
+![https://i.imgur.com/RN9haF4b.png](https://i.imgur.com/RN9haF4b.png)
+
+**GPD**
+Fabricant d'ordinateurs avant tout, ils font des ultra-micro-PC sous Windows ou Android avec pads et boutons intégrés.  
+Site : <https://www.gpd.hk/>
+
+![https://i.imgur.com/sDma426b.png](https://i.imgur.com/sDma426b.png) [img]![https://i.imgur.com/ojAVMNXb.png](https://i.imgur.com/ojAVMNXb.png)[/img]
+
+**Lyra**  
+Nouveau venu dans un marché déjà bien fourni, c'est une console basée sur Raspberry Pi 3 (en version "compute module").  
+Site : <https://www.kickstarter.com/projects/creoqode/lyra-handheld-game-console/description>
+
+![https://i.imgur.com/GqeBqDmb.jpg](https://i.imgur.com/GqeBqDmb.jpg)
+
+**Moqi I7s**  
+Une console tournant sous Android, avec un look de PSP/Vita. Elle est très chère (plus de 350€) mais la qualité est au rendez-vous, le suivi est excellent, et le fait qu'elle tourne sous Android la rend très versatile, en plus d'être un véritable téléphone avec lequel on peut appeler.  
+Site : <http://www.moqiphone.com/>
+
+![https://i.imgur.com/gGsm3pNt.jpg](https://i.imgur.com/gGsm3pNt.jpg)
+
+### Le DIY
+
+Dans cette catégorie vous trouverez des kits à monter soi-même, comme des boîtiers pour Raspberry Pi par exemple.
 
 **8BCraft** (RaspiBoy, RetroStone)  
 Fabrique un boîtier dans lesquels vous ajoutez un Pi Zero (RaspiBoy), et un autre "tout compris" au format Game Boy (RetroStone).  
@@ -252,23 +303,11 @@ Site : <https://www.clockworkpi.com/>
 
 ![https://i.imgur.com/WIAgemCb.jpg](https://i.imgur.com/WIAgemCb.jpg)
 
-**DigiRetro** (DigiRetroBoy)  
-Une machine qui combine lecteur de cartouche GBA et émulateurs intégrés.  
-Site : <https://digiretro.com/>
-
-![https://i.imgur.com/7fxcirpb.jpg](https://i.imgur.com/7fxcirpb.jpg)
-
 **GBZ Mods** (1Up Pi Boy, Retro CM3)  
 Fabriquent diverses tailles de boîtiers dans lesquels ajouter des Pi soi-même, et une console compacte avec aussi un Pi, mais pré-intégré.  
 Site : <https://www.gbzmods.com/>
 
 ![https://i.imgur.com/FJRgA8ib.jpg](https://i.imgur.com/FJRgA8ib.jpg) ![https://i.imgur.com/12ws0OXb.jpg](https://i.imgur.com/12ws0OXb.jpg)
-
-**GPD** (XD+, Win2)  
-Fabricant d'ordinateurs avant tout, ils font des ultra-micro-PC sous Windows ou Android avec pads et boutons intégrés.  
-Site : <https://www.gpd.hk/>
-
-![https://i.imgur.com/sDma426b.png](https://i.imgur.com/sDma426b.png) [img]![https://i.imgur.com/ojAVMNXb.png](https://i.imgur.com/ojAVMNXb.png)[/img]
 
 **GPi Case**  
 Un boîtier clone de Game Boy, dans lequel on insère un Raspberry Pi Zero pour pouvoir jouer.
@@ -277,43 +316,8 @@ Site : <http://retroflag.com/>
 
 ![https://i.imgur.com/9lKNVzmb.jpg](https://i.imgur.com/9lKNVzmb.jpg)
 
-**GWC Zero**  
-Une console open source, qui est donc vendue sous de nombreuses marques ; certaines machines dans cette liste sont basées sur ces specs.  
-Site : <http://www.gcw-zero.com/>
-
-![https://i.imgur.com/vCJJUXib.png](https://i.imgur.com/vCJJUXib.png)
-
-**LDK Game**  
-Vend deux machines (format vertical ou horizontal) basées sur le même hardware (GCW Zero).  
-Site : <https://ldkgame.com/>
-
-![https://i.imgur.com/CgbgGp4b.jpg](https://i.imgur.com/CgbgGp4b.jpg) ![https://i.imgur.com/dqVXrfnb.jpg](https://i.imgur.com/dqVXrfnb.jpg)
-
-**Lyra**  
-Nouveau venu dans un marché déjà bien fourni, c'est une console basée sur Raspberry Pi 3 (en version "compute module").  
-Site : <https://www.kickstarter.com/projects/creoqode/lyra-handheld-game-console/description>
-
-![https://i.imgur.com/GqeBqDmb.jpg](https://i.imgur.com/GqeBqDmb.jpg)
-
 **MiSTer**  
 Ce n'est pas une machine "clés en main", mais c'est assez particulier pour que je veuille en parler : une machine open source qui fonctionne en émulation FPGA, que vous devez construire vous-même en achetant des morceaux ici et là.  
 Site : <https://github.com/MiSTer-devel/Main_MiSTer/wiki>
 
 ![https://i.imgur.com/vbCkHBhb.jpg](https://i.imgur.com/vbCkHBhb.jpg)
-
-**Moqi I7s**  
-Une console tournant sous Android, avec un look de PSP/Vita. Elle est très chère (plus de 350€) mais la qualité est au rendez-vous, le suivi est excellent, et le fait qu'elle tourne sous Android la rend très versatile, en plus d'être un véritable téléphone avec lequel on peut appeler.  
-Site : <http://www.moqiphone.com/>
-
-![https://i.imgur.com/gGsm3pNt.jpg](https://i.imgur.com/gGsm3pNt.jpg)
-
-**RS-97 Plus**  
-Machine open source, et donc vendue sous de nombreuses marques et avec de nombreuses qualités.
-
-![https://i.imgur.com/vpOQT2yt.png](https://i.imgur.com/vpOQT2yt.png)
-
-**Retro Game 300/350** (RG 300, RG 350, GKD 350H...)  
-Des machines basées sur la GCW Zero (qui est, pour rappel, open source), avec diverses variantes plus ou moins puissantes.  
-Site : <https://retrogame300.com/>
-
-![https://i.imgur.com/IyNmo9ob.jpg](https://i.imgur.com/IyNmo9ob.jpg) ![https://i.imgur.com/x9FYNo6b.jpg](https://i.imgur.com/x9FYNo6b.jpg) ![https://i.imgur.com/ufUX0LQb.jpg](https://i.imgur.com/ufUX0LQb.jpg)
