@@ -40,7 +40,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Jeux de cartes** : Eternal, Faeria
 - **Jeux de société** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/)
 - **Autre** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), New Pokémon Snap
-- **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection), Capcom Arcade Stadium
+- **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection), Capcom Arcade Stadium, Castlevania Advance Collection
 
 ## Pour les joueurs occasionnels
 
@@ -1051,7 +1051,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES et SNES avec un mode multijoueur en ligne (20€/an)
 - Plusieurs labels proposent des émulations fidèles ou améliorées de jeux à l'unité : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", "Johnny Turbo's Arcade", "SEGA AGES"...
 - De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2/3, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, etc.
-- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, SNK 40th Anniversary Collection, Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roil Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, Capcom Arcade Stadium, Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection, etc.
+- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, SNK 40th Anniversary Collection, Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roil Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, Capcom Arcade Stadium, Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection, Castlevania Advance Collection, etc.
 
 [Une liste très complète](https://docs.google.com/spreadsheets/d/1Nkboda1RKVF-Y431vQSUl9MXSUBVjphuyBK8n6RaKFE/)
 
@@ -1062,22 +1062,22 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Jeux sortis, en attente de tests :
 
 - Septembre : **Diablo 2 Resurrected** (23), Spacebase Startopia (24), **Dragon Ball Z Kakarot** (24), Steel Assault (28), Atria Ascending (30), **Darksiders 3** (30), Hot Wheels Unleashed (30), Aeon Drive (30), Unsighted (30), Death Gambit (30), Andro Dunos 2 (?)
-- Octobre : **FIFA 22** (1), Mary Skelter Finale (1), Super Monkey Ball Banana Mania (5), **Lego Marvel Super Heroes** (5), **Metroid Dread** (8), **Tetris Effect Connected** (8), Earth Defense Force 3 (14), Crysis 2 & 3 (15), The Good Life (15), **Marvel's Guardian of the Galaxy** (26 cloud), Super Robot Wars 30 (28 JP), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
-- Novembre : World War Z (2), Just Dance 2022 (4), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19), Asterix & Obélix Baffez-Les Tous (25)
+- Octobre : **FIFA 22** (1), Mary Skelter Finale (1), Super Monkey Ball Banana Mania (5), **Lego Marvel Super Heroes** (5), **Metroid Dread** (8), **Tetris Effect Connected** (8), **Disco Elysium** (12), Earth Defense Force 3 (14), Crysis 2 & 3 (15), The Good Life (15), Dying Light (19), **Marvel's Guardian of the Galaxy** (26 cloud), Voice of Cards (28), Super Robot Wars 30 (28 JP), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
+- Novembre : World War Z (2), Just Dance 2022 (4), **Star Wars KOTOR** (11), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19), Asterix & Obélix Baffez-Les Tous (25)
 - Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Danganronpa Decadence (3), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
-- Février 2022 : Vampire The Masquerade Swansong (?)
-- Mars 2022 : Marvel Midnight Sun (?)
+- Février 2022 : Dying Light 2 (4 cloud), Vampire The Masquerade Swansong (?)
+- Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25), Marvel Midnight Sun (?)
 - Avril 2022 : Sociable Soccer (17)
 
-- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel, Gang Beasts, Wytchwood
-- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Shovel Knight Pocket Dungeon, Hundred Days: Wine Making Simulator, **The Outer Wilds**
-- Q1 2022/printemps : Lego Star Wars The Skywalker Saga
+- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel, Gang Beasts, Wytchwood, Wreckfest
+- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Shovel Knight Pocket Dungeon, Hundred Days: Wine Making Simulator, **The Outer Wilds**, Surviving the Aftermath
+- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**
 
 - 2021 : Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Dynasty Warriors 9 Empires, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Fast & Furious Spy Racers, DoDonPachi Resurrection, Fatal Frame Maiden of Black Water, Grow: Song of the Evertree, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Airborne, Coromon, Death's Gambit: Afterlife, Ruined King, Fisti-fluffs, Finding Paradise, Hazel Sky, Sail Forth
 
-- 2022 : **Project Triangle Strategy**, **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, **Rune Factory 5**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads
+- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**
 
-- Pas de date : **Bayonetta 3**, **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, Yo Kai Watch Y Academy, **Sports Story**, Strife, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, Okinawa Rush, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Surviving The Aftermath, Teratopia, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Toy Soldiers HD, Golf Club: Wasteland, **Disco Elysium**, Embr, Skul The Hero Slayer, Roguebook, Life Is Strange Remastered & True Colors
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, Yo Kai Watch Y Academy, **Sports Story**, Strife, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, Okinawa Rush, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Teratopia, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Toy Soldiers HD, Golf Club: Wasteland, Embr, Skul The Hero Slayer, Roguebook, Life Is Strange Remastered & True Colors
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
