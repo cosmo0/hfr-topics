@@ -1,135 +1,159 @@
-#cosmonews spécial Nintendo Direct du 24 septembre
+#cosmonews
 
-La vidéo complète :
+## Calendrier
 
-https://www.youtube.com/watch?v=P9ZakvGwBMI
+## Résumé
 
-## Plus d'infos plus tard
+- Deux Warriors et un Atelier, cool
+- La trilogie GTA se rapproche
+- Des previews pour Metroid Dread
+- Des tas de tests, et en particulier : Hot Wheels Unleashed, Super Monkey Ball, Diablo 2, Castlevania Advance, etc
 
-C'est une nouveauté dans ce Direct, des annonces d'annonces :
+## Annonces, dates et sorties
 
-- un **Smash Direct** le 5 octobre pour présenter le dernier personnage ;
-- une présentation de nouveau contenu (dont le café !) pour **Animal Crossing New Horizon** en octobre pour une disponibilité en novembre
-- le **film Mario** qui sortira le 21 décembre aux USA
+Touken Ranbu Warriors, un musou, est annoncé pour le 24 mai
+https://www.siliconera.com/touken-ranbu-warriors-will-come-to-the-west-in-may-2022/
 
-## Disponible immédiatement
+Dynasty Warriors 9 Empires, un musou, sort en occident le 15 février
+https://www.siliconera.com/dynasty-warriors-9-empires-us-release-date-falls-in-february/
 
-Du contenu gratuit pour **Mario Golf Super Rush** : personnages et parcours
+Blossom Tales 2, un Zelda-like, est annoncé pour 2022
+https://www.nintendolife.com/news/2021/09/blossom_tales_sequel_to_be_published_by_playtonic_next_year
 
-https://www.youtube.com/watch?v=paBp4nG7WBQ
+Record of Lodoss War Deedlit In Wonder Labyrinth, un joli metroidvania dans l'univers Lodoss, sort le 16 décembre
+https://www.nintendolife.com/news/2021/09/record_of_lodoss_war_deedlit_in_wonder_labyrinth_is_coming_to_switch_this_year
 
-**Castlevania Advance Collection**, une compilation des excellents Castlevania GBA (Circle of the Moon, Harmony of Dissonance, Aria of Sorrow)... et Dracula X/Vampire Hunter sur SNES ?
+A Little Golf Journey, un jeu de golf relaxant, sort le 14 octobre
+https://www.nintendolife.com/news/2021/09/a_little_golf_journey_brings_a_relaxing_take_on_the_sport_to_switch_next_month
 
-https://www.youtube.com/watch?v=EtdJho8vfUs
+Kukoos Lost Pets, un platformer 3D qui me fait un peu penser à Super Lucky's Tale, sort cet automne
+https://www.nintendolife.com/news/2021/09/kukoos_-_lost_pets_is_a_colourful_3d_platformer_inspired_by_the_nintendo_64_era
 
-**ActRaiser Renaissance**, un remake HD/2.5D du classique de la SNES
+Victory Heat Rally, un jeu de course stylé "super scaler" (OutRun, Rad Mobile, Power Drift), est annoncé sur Switch en 2022
+https://www.nintendolife.com/news/2021/09/playtonic_friends_presents_victory_heat_rally_a_throwback_superscaler_racer
 
-https://www.youtube.com/watch?v=rGUlL7-HwDg
+Atelier Sophie 2, un JRPG d'une longue série, sort le 25 février
+https://www.destructoid.com/atelier-sophie-2-reveal-trailer/
 
-**Deltarune Chapter 2**, un RPG "décalé"
+Dragon Quest X Offline, la version hors-ligne du MMO (c'est original comme démarche), sortira le 26 février... au Japon
+https://www.siliconera.com/dragon-quest-x-offline-version-will-appear-in-february-2022/
 
-https://www.youtube.com/watch?v=AdY8c0XQCcM
+## Rumeurs, leaks, teasing et discussions
 
-Hamster commence à ajouter des classiques Namco à leur collection **Arcade Archives**, en commençant par **Pac-Man** et **Xevious**
+Une trilogie GTA listée sur l'organisme de classification Coréen, ça se rapproche
+https://www.eurogamer.net/articles/2021-09-30-grand-theft-auto-the-trilogy-the-definitive-edition-listed-on-korean-rating-board
 
-https://www.youtube.com/watch?v=57HBqiZGNxE
+Konami serait en train de travailler sur des suites et des remakes de MGS, Castlevania et Silent Hill
+https://www.nintendolife.com/news/2021/10/rumour-konami-reportedly-reviving-castlevania-metal-gear-solid-and-silent-hill
 
-https://www.youtube.com/watch?v=jNSKPyEH2nU
+## Images, vidéos, infos
 
-## Octobre
+Une liste de tous les changements apportés à Triangle Strategy grâce au feedback des joueurs
+https://www.nintendolife.com/news/2021/09/here_are_all_the_changes_coming_to_triangle_strategy_thanks_to_player_demo_feedback
 
-Encore une présentation de **Metroid Dread** qui sort le 8 octobre, on est noyé sous les infos
+Des infos sur Pokémon Legends Arceus
+https://www.p-nintendo.com/news/de-nouvelles-infos-sur-legendes-pokemon-arceus-257551
 
-https://www.youtube.com/watch?v=WXdcPaTnTHg
+Des infos sur Pokémon Diamant Etincelant/Perle Scintillante
+https://www.p-nintendo.com/news/des-nouveautes-pour-pokemon-diamant-etincelant-et-perle-scintillante-257553
 
-**Disco Elysium**, un cRPG, est (enfin !) daté au 12 octobre, avec une version physique début 2022
+## Patchs, DLC et démos
 
-https://www.youtube.com/watch?v=HXrsN8AHbKA
+Un DLC Senna le 20 octobre pour Horizon Chase Turbo, l'excellent jeu de course arcade
+https://www.nintendolife.com/news/2021/09/horizon_chase_turbo_honours_f1s_ayrton_senna_in_new_senna_forever_expansion
 
-**Dying Light**, un survival horror open world, sort le 19 octobre
+Le rajout de Aladdin version SNES à la version originale de Disney Classic Games sera possible pour la modique somme de 10€
+https://www.nintendolife.com/news/2021/09/disney_classic_games_collection_dlc_upgrade_will_be_available_for_usd9_99
 
-https://www.youtube.com/watch?v=C2L-vxhDstk
+## Versions physiques et collector
 
-**Voice of Cards**, un RPG où tout se fait à base de cartes créé par Yoko Taro (Nier) et qui a l'air profondément ennuyeux, sort le 28 octobre ; une démo est disponible
+Ikenfell chez Limited Run
+https://www.nintendolife.com/news/2021/09/wizard_school_rpg_ikenfell_is_getting_a_physical_edition
 
-https://www.youtube.com/watch?v=T975SPBIL6s
+Axiom Verge 2 chez Limited Run
+https://www.p-nintendo.com/news/axiom-verge-2-et-un-bipack-des-deux-opus-en-edition-physique-257550
 
-Des infos sur **Mario Party Superstars**, qui sort le 29 octobre
+## Previews
 
-https://www.youtube.com/watch?v=Fce7YwdwIS8
+Metroid Dread, un Metroid-like
+http://www.nintendoworldreport.com/hands-on-preview/58507/metroid-dread-switch-preview
+https://www.eurogamer.net/articles/2021-09-27-metroid-dread-looks-like-it-could-be-the-real-deal
 
-Un nouveau season pass pour **Hyrule Warriors Age of Calamity** disponible le 29 octobre
+Blue Reflection Second Light, un RPG
+https://www.siliconera.com/blue-reflection-second-light-playtest/
 
-https://www.youtube.com/watch?v=-EwUhO47gFU
+## Tests
 
-Fin octobre sortira un "pack additionnel" pour l'**abonnement Switch Online**, qui ajoutera des jeux Nintendo 64 et Mega Drive, ainsi que des manettes correspondantes. On n'a ni le prix, ni la date.
+Hot Wheels Unleashed, un jeu de course arcade
+http://www.nintendoworldreport.com/review/58508/hot-wheels-unleashed-switch-review-in-progress
+https://www.destructoid.com/reviews/review-hot-wheels-unleashed/
+https://www.nintendolife.com/reviews/nintendo-switch/hot_wheels_unleashed
+https://www.polygon.com/reviews/22702163/hot-wheels-unleashed-review-score-nintendo-switch-ps4-xbox
+https://www.gamespot.com/reviews/hot-wheels-unleashed-review-toybox-drift/1900-6417753/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/hot-wheels-unleashed/hot-wheels-unleashed-review-simple-satisfying-speed
 
-## Novembre
-
-**Star Wars Knights of the Old Republic**, le légendaire RPG, le 11 novembre, en version originale à peine retouchée
-
-https://www.youtube.com/watch?v=InuZCanV4_Q
-
-## Décembre
-
-**Disney Magical World 2: Enchanted Edition**, le remaster d'un jeu 3DS pour enfants
-
-https://www.youtube.com/watch?v=_nCMc1sbXXc
-
-## Février
-
-**Dying Light 2**, un RPG/jeu d'action/aventure open world, le 4 février en version cloud
-
-https://www.youtube.com/watch?v=C2L-vxhDstk
-
-## Mars
-
-**Triangle Strategy**, l'excitant TRPG de Square qui fait furieusement penser à un croisement entre Final Fantasy Tactics et Octopath Traveler, est daté au 4 mars
-
-https://www.youtube.com/watch?v=go-XqC8vb_I
-
-**Rune Factory 5**, un mélange de farming et de RPG/action, est enfin daté pour le 25 mars
-
-https://www.youtube.com/watch?v=acNFfRafGhQ
-
-## Automne 2021
-
-**Wreckfest**, un jeu de course arcade type Destruction Derby
-
-https://www.youtube.com/watch?v=r3WmsOLURR4
-
-## Hiver 2021
-
-**Surviving the Aftermath**, un city builder/jeu de survie
-
-https://www.youtube.com/watch?v=AAvUGOJgNl8
-
-## Printemps 2022
-
-**Kirby et le Monde Oublié**, Kirby qui passe à la 3D c'est assez inattendu
-
-https://www.youtube.com/watch?v=U-RxaJTy5zs
-
-## Été 2022
-
-**Monster Hunter Rise Sunbreak**, une grosse extension de type Iceborne pour World
-
-https://www.youtube.com/watch?v=j3CjTmiupmM
-
-## 2022
-
-**Chocobo GP**, un jeu de kart avec des personnages Final Fantasy, en exclusivité
-
-https://www.youtube.com/watch?v=pY9weUmUw_0
-
-**Shadowrun Trilogy**, de très bons RPG tactiques cyberpunk
-
-https://www.youtube.com/watch?v=vKCEbwAJXTY
-
-Une présentation de **Splatoon 3**, qui n'a toujours pas de fenêtre de lancement
-
-https://www.youtube.com/watch?v=qoy6TVKQ6W4
-
-**Bayonetta 3** est enfin "daté" à 2022... annoncé en 2017, toujours pas de date fixe
-
-https://www.youtube.com/watch?v=v81BP9-dcBU
+Super Monkey Ball Banana Mania, un jeu de plateforme sans plateforme
+https://www.nintendolife.com/reviews/nintendo-switch/super_monkey_ball_banana_mania
+http://www.nintendoworldreport.com/review/58516/super-monkey-ball-banana-mania-switch-review
+https://www.gamespot.com/reviews/super-monkey-ball-banana-mania-review-fresh-and-a-peel-ing/1900-6417750/?ftag=CAD-01-10abi2f
+https://www.destructoid.com/reviews/review-super-monkey-ball-banana-mania/
+https://www.siliconera.com/review-super-monkey-ball-banana-mania-rolls-up-nostalgia/
+https://www.eurogamer.net/articles/2021-09-29-super-monkey-ball-banana-mania-review-effective-cover-version-of-an-all-time-great
+
+Diablo 2 Resurrected, un hack & slash
+https://www.destructoid.com/reviews/review-diablo-ii-resurrected/
+https://www.gameinformer.com/review/diablo-ii-resurrected/diablo-ii-resurrected-review-memories-made-real
+https://www.gamespot.com/reviews/diablo-ii-resurrected-review-pile-of-old-bones/1900-6417749/?ftag=CAD-01-10abi2f
+https://www.polygon.com/reviews/22701208/diablo-2-resurrected-review-ps5-xbox-series-x-pc-switch
+https://www.p-nintendo.com/tests/tests-complets/test-de-diablo-ii-resurrected-la-terreur-au-sommet-257568
+
+Knockout Home Fitness, un jeu de fitness
+https://www.destructoid.com/reviews/knockout-home-fitness-review/
+https://www.siliconera.com/review-knockout-home-fitness-is-a-low-key-switch-exercise-game/
+http://www.nintendoworldreport.com/review/58512/knockout-home-fitness-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-knockout-home-fitness-le-rythme-dans-le-poing-257524
+https://www.nintendolife.com/reviews/nintendo-switch/knockout_home_fitness
+
+Castlevania Advance Collection, une compilation des Castlevania GBA (et Dracula X)
+https://www.destructoid.com/reviews/review-castlevania-advance-collection/
+https://www.siliconera.com/castlevania-advance-collection-bundles-gba-era-adventures/
+https://www.nintendolife.com/reviews/switch-eshop/castlevania_advance_collection
+http://www.nintendoworldreport.com/review/58524/castlevania-advance-collection-switch-review
+
+Lost In Random, un jeu d'aventure/action
+http://www.nintendoworldreport.com/review/58468/lost-in-random-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/lost-in-random
+
+Dragon Ball Z Kakarot, un RPG/jeu de combat
+http://www.nintendoworldreport.com/review/58505/dragon-ball-z-kakarot-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/dragon_ball_z_kakarot_plus_a_new_power_awakens_set
+
+ActRaiser Renaissance, le remake du jeu SNES
+https://www.destructoid.com/reviews/review-actraiser-renaissance-switch-pc-ps4-mobile/
+https://www.nintendolife.com/reviews/switch-eshop/actraiser_renaissance
+
+The Forgotten City, un jeu d'aventure/enquête (en version cloud)
+http://www.nintendoworldreport.com/review/58517/the-forgotten-city-cloud-version-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/the-forgotten-city-cloud-version
+
+Darksiders 3, un jeu d'aventure/action
+https://www.nintendolife.com/reviews/nintendo-switch/darksiders_iii
+http://www.nintendoworldreport.com/review/58582/darksiders-iii-switch-review
+
+FIFA 22, un jeu de curling
+https://www.nintendolife.com/reviews/nintendo-switch/fifa-22
+
+Spacebase Startopia, un jeu de construction et gestion de base spatiale
+https://ladiesgamers.com/spacebase-startopia-review/
+
+Ender Lilies Quietus of the Knights, un metroidvania
+https://www.p-nintendo.com/tests/tests-complets/test-d-ender-lilies-quietus-of-the-knights-le-metroidvania-de-l-ete-2021-257496
+
+Steel Assault, un platformer/action
+https://www.nintendolife.com/reviews/switch-eshop/steel_assault
+
+RIMS Racing, un jeu de moto
+https://www.p-nintendo.com/tests/tests-complets/test-de-rims-racing-obsession-mecanique-257561
+
+Skatebird, un jeu de skate avec des petits oiseaux mignons
+https://www.siliconera.com/skatebird-provides-hours-of-bird-like-fun-and-struggles/
