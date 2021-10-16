@@ -15,7 +15,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Plate-forme** : [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/), Super Mario 3D All Stars ([64](https://www.cosmo0.fr/critique/super-mario-64/)/Sunshine/Galaxy), [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Super Mario Maker 2, [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), Super Mario 3D World
 - **Plate-forme/puzzle** : [Gris](https://www.cosmo0.fr/critique/gris/), Inmost, Limbo, Inside, Trine, Boxboy+Boxgirl
 - **Plate-forme/action** : Shovel Knight, Cuphead, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), Katana Zero, Cyber Shadow
-- **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous
+- **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous, Metroid Dread
 - **Roguelikes** : Dead Cells, The Binding of Isaac, Hades, Enter the Gungeon, Slay the Spire, Spelunky 1/2
 - **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, Monster Hunter Rise, Persona 5 Strikers, Diablo 2 Resurrected
 - **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2
@@ -28,7 +28,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, Night in the Wood, Paradise Killer
 - **Aventure/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), The Talos Principle, Return of the Obra Dinn, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S/S2/S3/S4/S5, realMyst
-- **Puzzle/action** : Puyo Puyo Tetris [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)/2, Lumines Remastered, Tetris 99, Mr Driller Drill Land
+- **Puzzle/action** : Puyo Puyo Tetris [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)/2, Lumines Remastered, Tetris 99, Mr Driller Drill Land, Tetris Effect Connected
 - **Sport** : **Knockout City**, **Rocket League**, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
 - **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP 20
 - **Baston, brawler** : **Fighting EX Layer**, Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11
@@ -46,17 +46,17 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 
 Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui durent un peu plus longtemps parce que vous n'en achetez pas toutes les semaines, vous ne voyez pas la différence entre Aventure/action et RPG/action, vous ne savez pas ce qu'est un beat'em up ? Voici un regroupement un peu moins technique, et peut-être plus adapté à vos besoins et envies, sans jeu trop orienté "gamer".
 
-- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Assassin's Creed Rebel Collection, Astral Chain, Darksiders 1/2, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Luigi's Mansion 3, The Witcher 3, Skyrim, Hyrule Warriors 1/2, Diablo 3
-- **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Control, Crysis, Metro Redux, Saints Row 3/4, Wolfenstein 2, Starlink Battle for Atlas, Assault Android Cactus
-- **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Rayman Legends, Super Mario Odyssey, [Ori Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)
+- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Assassin's Creed Rebel Collection, Astral Chain, Darksiders 1/2, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Luigi's Mansion 3, The Witcher 3, Skyrim, Diablo 2/3, Dragon's Dogma Dark Arisen
+- **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Control, Crysis 1/2/3, Metro Redux, Saints Row 3/4, Wolfenstein 2, Starlink Battle for Atlas, Assault Android Cactus
+- **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Rayman Legends, Super Mario Odyssey, [Ori Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Metroid Dread
 - **Je veux avoir peur :** Alien Isolation, Resident Evil, Outlast 1/2
-- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells
-- **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy
-- **Je veux de la stratégie :** Fire Emblem Three Houses, Valkyria Chronicles 4, Into The Breach, Mario + Lapins Crétins, Pikmin 3, XCOM 2, Wargroove, Tropico 6, Two Point Hospital
+- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells, Spelunky
+- **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy, The Great Ace Attorney
+- **Je veux de la stratégie :** Fire Emblem Three Houses, Valkyria Chronicles 4, Into The Breach, Mario + Lapins Crétins, Pikmin 3, XCOM 2, Wargroove, Tropico 6, Two Point Hospital, Spacebase Startopia
 - **Je veux un jeu de sport :** FIFA, Captain Tsubasa, Lonely Mountains Downhill, Mario Tennis Aces, Rocket League, Windjammers
-- **Je veux un jeu de course :** Burnout Paradise, Need For Speed Hot Pursuit, GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX, MotoGP 20
+- **Je veux un jeu de course :** Burnout Paradise, Need For Speed Hot Pursuit, GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX
 - **Je veux un jeu de combat :** Dragon Ball FighterZ, Mortal Kombat 11, Samurai Shodown, Super Smash Bros Ultimate, Streets of Rage 4
-- **Je veux des casse tête :** Captain Toad Treasure Tracker, Catherine Full Body, Return of the Obra Dinn, Baba Is You, Grindstone, Puyo Puyo Tetris 2
+- **Je veux des casse tête :** Captain Toad Treasure Tracker, Catherine Full Body, Return of the Obra Dinn, Baba Is You, Grindstone, Puyo Puyo Tetris 2, Tetris Effect Connected
 - **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us, Pac-Man 99
 - **Je veux me détendre :** Yoku's Island Express, Spiritfarer, Stardew Valley, Untitled Goose Game, Animal Crossing New Horizons
 - **Je veux jouer en famille :** Just Dance, Let's Sing, Overcooked, Super Mario Party, Go Vacation, 51 Worldwide Games
@@ -177,7 +177,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Bioshock Collection**
 - **Borderlands Collection**
 - Control (cloud)
-- Crysis Remaster
+- Crysis 1, 2, 3
 - [Daemon X Machina](https://www.cosmo0.fr/critique/daemon-x-machina/)
 - **Doom** [1993](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016, Eternal
 - Duke Nukem 3D
@@ -322,6 +322,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Hollow Knight**
 - Iconoclasts
 - La-Mulana 1&2
+- **Metroid Dread**
 - **Monster Boy and the Cursed Kingdom**
 - Momodora Reverie Under The Moonlight, Minoria
 - **[Ori & the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori & the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)**
@@ -385,10 +386,11 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## RPG tour par tour
 
 - **Atelier Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), [2](https://www.cosmo0.fr/critique/atelier-ryza-2/)**, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy
-- **Bravely Default 2**
-- **Bug Fables**
+- Bravely Default 2
+- Bug Fables
 - CrisTales
 - **Darkest Dungeon**
+- **Disco Elysium**
 - **Divinity Original Sin 2**
 - **Dragon Quest** 1, 2, 3, XI S
 - **Final Fantasy** VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)
@@ -662,6 +664,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - QUBE 2
 - Sushi Striker
 - **Tetris 99**
+- **Tetris Effect Connected**
 - TouHou Spell Bubble
 - Tricky Towers
 - Unrailed!
@@ -669,6 +672,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 ## Sport
 
 - ACA NEOGEO Baseball Stars, Neo Turf Masters, Street Hoops, Super Sidekicks
+- A Little Golf Journey
 - AO Tennis 2
 - **Captain Tsubasa**
 - FIFA
@@ -849,6 +853,7 @@ Les jeux qui détendent, sans stress, pour décompresser, souvent sans difficult
 Certains jeux apparaissant ici sont aussi dans d'autres catégories.  
 Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzle game, casual games, jeux de farming, jeux de société...
 
+- **A Little Golf Journey**
 - **[A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/)**
 - [AER Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/)
 - **Alba A Wildlife Adventure**
@@ -956,11 +961,11 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : Steel Assault, Aeon Drive, Unsighted, Death Gambit, Mary Skelter Finale
 
-- Octobre : **Metroid Dread** (8), **Tetris Effect Connected** (8), **Disco Elysium** (12), Earth Defense Force 3 (14), A Little Golf Journey (14), Crysis 2 & 3 (15), The Good Life (15), Dying Light (19), **Marvel's Guardian of the Galaxy** (26 cloud), Voice of Cards (28), Super Robot Wars 30 (28 JP), **Mario Party Superstars** (29), The Legend of Tianding (?), Ikai (?)
+- Octobre : The Good Life (15), **Marvel's Guardian of the Galaxy** (26 cloud), Voice of Cards (28), **Mario Party Superstars** (29)
 - Novembre : World War Z (2), Just Dance 2022 (4), **Star Wars KOTOR** (11), **Shin Megami Tensei V** (12), **Pokémon Brilliant Diamond/Shining Pearl** (19), Asterix & Obélix Baffez-Les Tous (25)
 - Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Danganronpa Decadence (3), Record of Lodoss War (16), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
-- Février 2022 : Dying Light 2 (4 cloud), Dynasty Warriors 9 Empires (15), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
+- Février 2022 : Dying Light 2 (4 cloud), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
 - Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25), Marvel Midnight Sun (?)
 - Avril 2022 : Sociable Soccer (17)
 - Mai 2022 : Touken Ranbu Warriors (24)
@@ -973,6 +978,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, Yo Kai Watch Y Academy, **Sports Story**, Strife, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, Okinawa Rush, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Teratopia, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Toy Soldiers HD, Golf Club: Wasteland, Embr, Skul The Hero Slayer, Roguebook, Life Is Strange Remastered & True Colors
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, Yo Kai Watch Y Academy, **Sports Story**, Strife, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, Okinawa Rush, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Teratopia, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Toy Soldiers HD, Golf Club: Wasteland, Embr, Skul The Hero Slayer, Roguebook, Life Is Strange Remastered & True Colors, GTA Trilogy
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
+cal
