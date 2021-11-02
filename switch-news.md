@@ -1,169 +1,108 @@
-#cosmonews du jour bonjour  
-  
-## Résumé  
-  
-- La **trilogie GTA** enfin officialisée  
-- **Circuit Superstars** arrive bientôt  
-- Du contenu pour **Animal Crossing**  
-- Des tests pour la **Switch OLED**, **Metroid Dread**, **Disco Elysium**, et beaucoup d'autres  
-  
-## Calendrier  
-  
-**Sorties récentes :**  
-  
-- **Metroid Dread**, un Metroid-like  
-- **Tetris Effect Connected**, un Tetris un peu psychédélique  
-- **Disco Elysium**, un RPG narratif  
-- **A Little Golf Journey**, un jeu de golf relaxant  
-- **Crysis 2 & 3**, des FPS  
-- **The Good Life**, un "RPG simulation de vie"  
-  
-**Prochaines sorties :**  
-  
-- **Marvel's Guardian of the Galaxy** (cloud), un jeu d'aventure/action/RPG  
-- **Voice of Cards**, un RPG à base de cartes  
-- **Mario Party Superstars**, un party game  
-  
-## Annonces, dates et sorties  
-  
-La **trilogie GTA** (3, Vice City, San Andreas) est enfin annoncée officiellement après moult leaks  
-https://www.destructoid.com/grand-theft-auto-the-trilogy-definitive-edition-reveal/  
-![picture 2](https://i.imgur.com/cVDmgLQm.jpg)  
-  
-**Monark**, un JRPG horrifique, est daté au 22 février  
-http://www.nintendoworldreport.com/news/58663/monark-ascending-to-north-american-switch-throne-february-22  
-![picture 1](https://i.imgur.com/uryfhHSm.png)  
-  
-**Circuit Superstars**, un jeu de course en vue de dessus légèrement orienté simulation, est sorti sur PC et Xbox, et arrive "bientôt" sur Switch  
-https://www.nintendolife.com/news/2021/10/circuit-superstars-is-out-now-on-pc-and-xbox-coming-soon-to-switch  
-![picture 3](https://i.imgur.com/YYT64Kmm.png)  
-  
-Un remake "dessiné" de **Joe & Mac Caveman Ninja** est annoncé, sans détails  
-https://www.nintendolife.com/news/2021/10/snes-classic-joe-and-mac-caveman-ninja-is-getting-a-proper-remake-on-modern-consoles  
-![picture 4](https://i.imgur.com/SYyDLgJm.jpg)  
-  
-**Where Cards Fall**, un jeu de puzzle narratif très joli, sort le 4 novembre  
-https://www.nintendolife.com/news/2021/10/charming-puzzler-where-cards-fall-plays-its-hand-on-switch-next-month  
-![picture 5](https://i.imgur.com/FT4ZZSMm.png)  
-  
-## Rétrogaming  
-  
-L'**extension du Switch Online** aura bien les jeux N64 en 60Hz, mais en anglais seulement (version US)  
-http://www.nintendoworldreport.com/news/58649/european-nintendo-switch-online-expansion-pack-will-include-60hz-english-only-option  
-  
-## Rumeurs, leaks, teasing et discussions  
-  
-**Alan Wake Remastered** a été vu sur Switch sur le site de l'ESRB  
-http://www.nintendoworldreport.com/news/58660/alan-wake-remastered-receives-esrb-rating-for-switch  
-  
-## Images, vidéos, infos  
-  
-Un **Animal Crossing Direct** a eu lieu : une dernière grosse mise à jour de contenu gratuit, et un gros DLC payant, le tout le 5 novembre  
-https://www.p-nintendo.com/articles/dossiers/tout-ce-qu-il-faut-retenir-du-animal-crossing-direct-du-15-octobre-2021-257603  
-  
-**Pokémon Legends Arceus** ne sera pas un vrai open world, mais sera découpé en zones à la Monster Hunter  
-https://www.nintendolife.com/news/2021/10/pokemon-legends-arceus-wont-actually-be-an-open-world-game  
-  
-## Versions physiques et collector  
-  
-**Rune Factory 5**, un RPG de farming, en édition collector  
-https://www.siliconera.com/rune-factory-5-limited-edition-includes-soundtrack-and-dlc/  
-  
-**Pathway**, un XCOM-like stylé Indiana Jones, chez Limited Run  
-https://www.nintendolife.com/news/2021/10/tomb-raiding-pixel-art-game-pathway-is-getting-a-physical-edition  
-  
-Deux bundles de jeux **Star Wars** : Jedi Knight 1+2, et Racer+Commando  
-https://www.nintendolife.com/news/2021/10/aspyr-reveals-two-star-wars-bundles-for-nintendo-switch  
-  
-**Ori The Collection** édition collector chez Iam8bit  
-https://www.nintendolife.com/news/2021/10/ori-the-collection-is-out-now-for-you-switch-physical-collectors  
-  
-## News diverses, chiffres, hardware  
-  
-Des tests de la **Switch OLED**  
-https://www.eurogamer.net/articles/digitalfoundry-2021-nintendo-switch-oled-model-review-an-excellent-premium-upgrade  
-https://www.polygon.com/reviews/22711349/nintendo-switch-oled-model-review-impressions-comparison  
-https://www.destructoid.com/review-nintendo-switch-oled/  
-https://www.nintendolife.com/features/hardware-review-nintendo-switch-oled-the-screens-the-star  
-https://www.p-nintendo.com/news/switch-oled-une-bonne-revision-en-attendant-de-veritables-nouveautes-257582  
-  
-La Switch OLED aura des **joycons** avec une meilleure fiabilité, mais il ne faut pas s'attendre à une révolution  
-https://www.siliconera.com/nintendo-switch-oled-model-will-come-with-improved-joy-con-controllers/  
-  
-## Previews  
-  
-**Oxenfree 2**, un jeu d'aventure  
-http://www.nintendoworldreport.com/preview/58597/oxenfree-ii-lost-signals-preview  
-https://www.nintendolife.com/features/oxenfree-ii-lost-signals-looks-like-oxenfree-but-better  
-https://www.p-nintendo.com/previews/impressions/retour-a-camena-dans-oxenfree-ii-lost-signals-257578  
-  
-**Pokémon Brilliant Diamond / Shining Pearl**  
-http://www.nintendoworldreport.com/preview/58665/pokemon-brilliant-diamond-and-shining-pearl-preview  
-https://www.eurogamer.net/articles/2021-10-13-pokemon-brilliant-diamond-and-shining-pearl-look-like-welcome-if-low-key-remasters  
-https://www.nintendolife.com/features/first-impressions-for-better-or-worse-pokemon-brilliant-diamond-and-shining-pearl-look-like-extremely-safe-remakes  
-  
-## Tests  
-  
-**Metroid Dread**, un Metroid-like  
-https://www.nintendolife.com/reviews/nintendo-switch/metroid-dread  
-https://www.eurogamer.net/articles/2021-10-06-metroid-dread-review-a-sublime-return-for-a-nintendo-icon  
-https://www.gamespot.com/reviews/metroid-dread-review-space-truckin/1900-6417757/?ftag=CAD-01-10abi2f  
-https://www.polygon.com/reviews/22709647/metroid-dread-review-release-date-nintendo-switch-oled  
-https://www.gameinformer.com/review/metroid-dread/metroid-dread-review-astro-dreadnought  
-https://www.destructoid.com/reviews/review-metroid-dread/  
-http://www.nintendoworldreport.com/review/58647/metroid-dread-switch-review  
-https://www.p-nintendo.com/tests/tests-complets/test-de-metroid-dread-l-apogee-de-la-saga-257589  
-https://www.siliconera.com/review-metroid-dread-is-an-example-of-atmospheric-excellence/  
-Analyse technique : https://www.eurogamer.net/articles/digitalfoundry-2021-metroid-dread-tech-review  
-![picture 6](https://i.imgur.com/TL122uHm.png)  
-  
-**Nickelodeon All-Star Brawl**, un Smash Bros-like avec Bob L'Eponge et compagnie  
-https://www.nintendolife.com/reviews/nintendo-switch/nickelodeon-all-star-brawl  
-https://www.destructoid.com/reviews/nickelodeon-all-star-brawl-review/  
-https://www.gamespot.com/reviews/nickelodeon-all-star-brawl-review-better-than-bad-its-good/1900-6417760/?ftag=CAD-01-10abi2f  
-https://www.gameinformer.com/review/nickelodeon-all-star-brawl/nickelodeon-all-star-brawl-review-almost-ready-for-slime-time  
-![picture 7](https://i.imgur.com/A4KeYl7m.jpg)  
-  
-**The Good Life**, un "RPG de vie"  
-https://www.siliconera.com/review-the-good-life-is-an-uneven-experience/  
-https://www.nintendolife.com/reviews/switch-eshop/the-good-life  
-https://www.gameinformer.com/review/the-good-life/the-good-life-review-shoot-for-a-higher-standard-of-living  
-https://www.destructoid.com/reviews/review-the-good-life/  
-![picture 8](https://i.imgur.com/p9VDyMLm.jpg)  
-  
-**Disco Elysium**, un RPG isométrique avec beaucoup de texte  
-https://www.nintendolife.com/reviews/switch-eshop/disco-elysium-the-final-cut  
-http://www.nintendoworldreport.com/review/58648/disco-elysium-switch-review  
-https://www.eurogamer.net/articles/2021-10-14-disco-elysiums-switch-port-feels-like-the-perfect-form-for-this-most-novelistic-of-games  
-![picture 9](https://i.imgur.com/kNUZ1XYm.jpg)  
-  
-**Astria Ascending**, un JRPG  
-http://www.nintendoworldreport.com/review/58651/astria-ascending-switch-review  
-https://www.nintendolife.com/reviews/nintendo-switch/astria-ascending  
-![picture 10](https://i.imgur.com/cItRyMzm.jpg)  
-  
-**Tetris Effect Connected**, un Tetris psychédélique  
-http://www.nintendoworldreport.com/review/58609/tetris-effect-connected-switch-review  
-https://www.nintendolife.com/reviews/switch-eshop/tetris-effect-connected  
-![picture 11](https://i.imgur.com/WCcxbKem.jpg)  
-  
-**Aeon Drive**, un platformer orienté speedrun  
-https://www.nintendolife.com/reviews/switch-eshop/aeon-drive  
-  
-**Rainbow Billy The Curse of the Leviathan**, un RPG/jeu d'aventure tout mignon  
-https://www.nintendolife.com/reviews/switch-eshop/rainbow-billy-the-curse-of-the-leviathan  
-  
-**Mary Skelter Finale**, un dungeon crawler  
-https://www.siliconera.com/review-mary-skelter-finale-could-keep-you-captive/  
-  
-**Gleylancer**, un shmup Megadrive  
-https://www.nintendolife.com/reviews/switch-eshop/gleylancer  
-  
-**Unsighted**, un jeu d'aventure/action avec un superbe pixel art  
-https://www.gameinformer.com/review/unsighted/unsighted-review-the-ultimate-beat-the-clock-challenge  
-  
-**A Little Golf Journey**, un jeu de golf relaxant  
-http://www.nintendoworldreport.com/review/58667/a-little-golf-journey-switch-review  
-  
-**The Caligula Effect 2**, un JRPG  
-https://ladiesgamers.com/the-caligula-effect-2-review/  
+#cosmonews
+
+## Résumé
+
+- **Surviving the Aftermath** et **Death's Door** en novembre
+- Des tests pour **Fatal Frame/Project Zero**, **Mario Party Superstars**, **Unpacking**, **Voice of Cards**, **Dungeon Encounters**
+
+## Calendrier
+
+**Sorties récentes :**
+
+- **Marvel's Guardian of the Galaxy**
+- **Voice of Cards**
+- **Mario Party Superstars**
+- **World War Z**
+
+**Prochaines sorties :**
+
+- **Just Dance 2022**
+- **Star Wars KOTOR**
+- **Shin Megami Tensei V**
+
+## Annonces, dates et sorties
+
+Surviving the Aftermath, un city builder post-apocalyptique, sortira le 16 novembre
+https://www.nintendolife.com/news/2021/10/surviving-the-aftermath-will-bring-post-apocalyptic-strategy-to-switch-soon
+
+Death's Door, un Zelda-like (si j'ai bien compris), sort le 23 novembre
+https://www.nintendolife.com/news/2021/10/devolver-digital-is-bringing-the-indie-gem-deaths-door-to-switch-next-month
+
+Lara Croft Guardian of Light et Temple of Osiris, deux Tomb Raider en vue de dessus, sont annoncés pour 2022
+https://www.siliconera.com/two-tomb-raider-switch-ports-will-appear-next-year/
+
+Un jeu Goldorak sortira en 2023, malheureusement édité pas les médiocres Microïds
+https://www.p-nintendo.com/news/goldorak-lancera-ses-fulguropoings-depuis-la-switch-en-2023-257644
+
+Maglam Lord, un action-RPG/dating sim, sort le 4 février
+https://www.nintendolife.com/news/2021/10/action-rpg-date-em-up-maglam-lord-hits-the-west-early-next-year
+
+Un portage de Tetris The Grand Master est annoncé, sans précision (en fait ils ont annoncé un report de l'annonce, c'est absurde)
+https://www.siliconera.com/tetris-the-grand-master-home-port-announced/
+
+## Rétrogaming
+
+Un datamining pour la N64 et la Megadrive du Switch Online
+https://www.destructoid.com/nintendo-switch-online-expansion-pack-datamine-possible-n64-sega-genesis-game-list-size/
+
+Rage of the Dragons, un jeu de baston NeoGeo sorti en 2002, revient en 2022
+https://www.destructoid.com/rage-of-the-dragons-double-dragon-neo-geo-fighter-returns-in-2022/
+
+Breakers Collection, une compilation de jeux de baston NeoGeo, est repoussée en 2022
+https://www.destructoid.com/breakers-collection-fighting-game-delay-pushed-back-to-2022-closed-beta/
+
+## Images, vidéos, infos
+
+Un nouveau trailer pour Triangle Strategy, le futur TRPG de Square
+https://www.destructoid.com/triangle-strategy-trailer-intrigue-convictions-combat/
+
+## Patchs, DLC et démos
+
+Une démo pour Metroid Dread
+https://www.destructoid.com/metroid-dread-demo-released/
+
+## Versions physiques et collector
+
+La version physique de GTA Trilogy aura un téléchargement obligatoire
+https://www.nintendolife.com/news/2021/10/gta-trilogys-physical-edition-on-switch-appears-to-require-a-download
+
+Mushihimesama en version "borne d'arcade" pas du tout pratique
+https://www.nintendolife.com/news/2021/10/mushihimesama-gets-a-fantastic-switch-mini-arcade-limited-edition
+
+## Tests
+
+Fatal Frame Maiden of Black Water / Project Zero, un survival horror photographique
+https://www.siliconera.com/review-fatal-frame-maiden-of-black-water-remains-a-divisive-entry/
+https://www.nintendolife.com/reviews/switch-eshop/fatal-frame-maiden-of-black-water
+https://www.destructoid.com/reviews/review-fatal-frame-maiden-of-black-water-2021-remaster/
+http://www.nintendoworldreport.com/review/58799/fatal-frame-maiden-of-black-water
+https://www.p-nintendo.com/tests/tests-complets/titre-test-de-project-zero-la-pretresse-des-eaux-noires-flashez-les-tous-257642
+
+Mario Party Superstars, un party game
+https://www.nintendolife.com/reviews/nintendo-switch/mario-party-superstars
+https://www.polygon.com/reviews/22749509/mario-party-superstars-review-switch-nintendo-64-boards-mini-games
+https://www.gamespot.com/reviews/mario-party-superstars-review-the-fault-in-our-stars/1900-6417771/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/mario-party-superstars/mario-party-superstars-review-reliable-party-tricks
+
+Unpacking, un puzzle game zen
+https://www.gamespot.com/reviews/unpacking-review-the-things-we-carry/1900-6417774/?ftag=CAD-01-10abi2f
+https://www.siliconera.com/review-unpacking-game-is-a-calming-peek-into-someones-life/
+http://www.nintendoworldreport.com/review/58849/unpacking-switch-review
+https://www.eurogamer.net/articles/2021-11-01-unpacking-review-incredibly-satisfying-tidy-em-up
+
+Voice of Cards The Isle Dragon Roars, un RPG à base de cartes
+http://www.nintendoworldreport.com/review/58797/voice-of-cards-the-isle-dragon-roars-switch-review
+https://www.siliconera.com/review-yoko-taros-voice-of-cards-puts-a-lot-of-stock-in-its-visuals/
+https://www.destructoid.com/reviews/review-voice-of-cards-the-isle-dragon-roars/
+
+Dungeon Encounters, un dungeon crawler stratégique
+https://www.destructoid.com/reviews/dungeon-encounters-review-ps4/
+https://www.eurogamer.net/articles/2021-10-27-dungeon-encounters-review-all-star-team-assembles-for-one-of-square-enixs-most-fascinating-rpgs-in-an-age
+http://www.nintendoworldreport.com/review/58795/dungeon-encounters-switch-review
+
+Dusk, un fast-FPS rétro
+http://www.nintendoworldreport.com/review/58794/dusk-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/dusk
+
+The Legend of Tianding, un platformer/action
+https://www.nintendolife.com/reviews/switch-eshop/the-legend-of-tianding
