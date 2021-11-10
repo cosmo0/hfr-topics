@@ -11,8 +11,10 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - A Plague Tale: Innocence (Game Pass)
 - **Apex Legends** (free to play)
 - Darksiders 1, 2
+- **Death's Door**
 - Dragon Ball Z Kakarot
 - Furi
+- Guardians of the Galaxy
 - Haven (Game Pass)
 - **Hellblade: Senua's Sacrifice** (Game Pass)
 - Hunt Showdown
@@ -20,12 +22,16 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Jotun
 - [Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/) (Game Pass)
 - LEGO (tous)
+- **Lost Judgment**
+- Lost In Random
 - [Minit](https://www.cosmo0.fr/critique/minit/)
 - [Okami HD](https://www.cosmo0.fr/critique/okami-hd/)
 - [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
+- **Psychonauts 2**
 - **ReCore** (Game Pass)
 - Ruiner
 - **Ryse: Son of Rome** (Game Pass)
+- Sable
 - **Star Wars Jedi: Fallen Order** (Game Pass)
 - Supraland (Game Pass)
 - The Touryst (Game Pass)
@@ -37,8 +43,9 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Assassin's Creed** Ezio Collection, Black Flag, Rogue, Unity, Syndicate, Origins, Odyssey, Valhalla
 - **Batman: Arkham Knight** (Game Pass), **Return to Arkham**
 - **Crackdown 3** (Game Pass)
-- **Far Cry 3, 4, 5, Primal, New Dawn**
+- **Far Cry 3, 4, 5, 6, Primal, New Dawn**
 - **GTA V**
+- Immortals Fenyx Rising
 - Just Cause 3, 4
 - **Mafia 1, 2, 3**
 - Middle-Earth: Shadow of Mordor, Shadow of War (Game Pass)
@@ -56,7 +63,8 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Bioshock Collection
 - **Borderlands 1, 2, 3, Pre-Sequel**
 - Bulletstorm
-- **Call of Duty** Ghosts, Advanced Warfare, Black Ops 3/4/Cold War, Modern Warfare, Infinite Warfare, WWII, Warzone
+- **Call of Duty** Ghosts, Advanced Warfare, Black Ops 3/4/Cold War, Modern Warfare, Infinite Warfare, WWII, Warzone, Vanguard
+- Crysis Remastered Trilogy
 - **Destiny 2** (Game Pass)
 - **Deus Ex Mankind Divided**
 - **Dishonored 1, 2** (Game Pass), Death of the Outsider
@@ -95,12 +103,13 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 - Aragami
 - Hello Neighbor, Secret Neighbor (tous sur le Game Pass)
-- **Hitman 1, 2**
+- **Hitman 1, 2, 3**
 - **Metal Gear Solid Ground Zeroes, V Phantom Pain**
 - Sniper Elite [2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), [3](https://www.cosmo0.fr/critique/sniper-elite-3/), 4 (Game Pass)
 
 ## Survival/horror
 
+- Alan Wake Remastered
 - **Alien: Isolation** (Game Pass)
 - Blair Witch (Game Pass)
 - **D4 Dark Dreams Don't Die**
@@ -108,12 +117,12 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - DayZ (Game Pass)
 - Dead by Daylight (Game Pass)
 - **Dead Rising 1, 2, 3, 4**
-- Dying Light
+- Dying Light 1, 2
 - Five Nights at Freddy's 1, 2, 3, 4 (tous sur le Game Pass)
 - Layers of Fear
 - Little Nightmares
 - Outlast 1, 2
-- **Resident Evil** 0, 1, 2, 3, 4, 5, 6, 7 (Game Pass), Revelations 1/2
+- **Resident Evil** 0, 1, 2, 3, 4, 5, 6, 7 (Game Pass), Village, Revelations 1/2
 - **State of Decay 2** (Game Pass)
 - The Evil Within 2
 - World War Z (Game Pass)
@@ -130,6 +139,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 - **[Celeste](https://www.cosmo0.fr/critique/celeste/)** (Game Pass)
 - **Crash Bandicoot Trilogy, 4**
+- Demon Turf
 - Forgotton Anne
 - **[Gris](https://www.cosmo0.fr/critique/gris/)**
 - **Inside**
@@ -154,6 +164,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Foregone
 - **Huntdown**
 - **Katana Zero** (Game Pass)
+- Kaze and the Wild Masks
 - **[Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/)**
 - Mega Man [Legacy](https://www.cosmo0.fr/critique/mega-man-legacy-collection/), [X Legacy](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), Zero/ZX Legacy
 - My Friend Pedro (Game Pass)
@@ -221,7 +232,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Kingdom Hearts** HD I.5 + II.5 ReMix, HD II.8 Final Chapter Prologue, III (tous sur le Game Pass)
 - Mass Effect Andromeda (Game Pass)
 - **Monster Hunter World** (Game Pass)
-- **NieR Automata** (Game Pass)
+- **NieR Automata** (Game Pass), Replicant
 - Remnant: From the Ashes (Game Pass)
 - **Sekiro: Shadows Die Twice**
 - Sword Art Online: Fatal Bullet (Game Pass)
@@ -251,6 +262,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - The Bard's Tale Trilogy (Game Pass)
 - Thronebreaker: The Witcher Tales (Game Pass)
 - Torment Tides of Numenera
+- Undernauts: Labyrinth of Yomi
 - Vambrace: Cold Soul (Game Pass)
 - **Wasteland** Remastered, 2, 3 (tous sur le Game Pass)
 - **Yakuza Like A Dragon**
@@ -259,9 +271,10 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 - [Bastion](https://www.cosmo0.fr/critique/bastion/)
 - Darksiders Genesis (Game Pass)
-- **Diablo 3**
+- **Diablo 2, 3**
 - **Minecraft Dungeons** (Game Pass)
 - Path of Exile (free to play)
+- **Samurai Warriors 5**
 - Torchlight 2, 3
 
 ## MMORPG
@@ -293,7 +306,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Aven Colony
 - [Cities: Skylines](https://www.cosmo0.fr/critique/cities-skylines/) (Game Pass)
 - **Frostpunk** (Game Pass)
-- Jurassic World Evolution
+- Jurassic World Evolution 1, 2
 - Planet Coaster (Game Pass)
 - Railway Empire
 - Surviving Mars (Game Pass)
@@ -316,7 +329,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Portal Knight
 - **Slime Rancher** (Game Pass)
 - **Stardew Valley**
-- **Subnautica** (Game Pass)
+- **Subnautica**, Below Zero (Game Pass)
 - Terraria (Game Pass)
 - The Long Dark (Game Pass)
 - This War of Mine
@@ -381,6 +394,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Death Squared (Game Pass)
 - **Lumines Remastered**
 - Peggle 2 (Game Pass)
+- **Puyo Puyo Tetris 2**
 - QUBE 1, 2
 - Superliminal
 - **Tetris Effect: Connected** (Game Pass)
@@ -390,20 +404,22 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 ## Sport
 
-- Cricket 19 (Game Pass)
-- **FIFA** 15-20 (tous sur le Game Pass)
+- **FIFA** (tous sur le Game Pass)
 - Golf With Your Friends (Game Pass)
+- Knockout City
 - Laser League
-- Madden NFL 15-25 (tous sur le Game Pass)
+- Madden NFL (tous sur le Game Pass)
 - **NBA 2K**
-- NBA LIVE 15-19 (tous sur le Game Pass)
-- NHL 17-20 (tous sur le Game Pass)
+- NBA LIVE (tous sur le Game Pass)
+- NHL (tous sur le Game Pass)
 - OlliOlli 2
 - **PES** Pro Evolution Soccer, eFootball PES 2020
-- PGA Tour 2K21
+- PGA Tour 2K
 - Powerstar Golf
+- Riders Republic
 - **Rocket Arena** (Game Pass)
 - Rory McIlroy PGA Tour (Game Pass)
+- **Steep**
 - Super Mega Baseball 3
 - **Tony Hawk's Pro Skater 1+2**
 
@@ -414,8 +430,8 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Crash Team Racing**
 - Descenders (Game Pass)
 - **DiRT** 4 (Game Pass), 5, Rally 1/2
-- **F1 2019** (Game Pass), 2020
-- **Forza Horizon 2, 3, 4** (Game Pass)
+- **F1 20xx** (Game Pass), 2020
+- **Forza Horizon 2, 3, 4, 5** (Game Pass)
 - **Forza Motorsport 5, 6, 7** (Game Pass)
 - GRID
 - [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/)
@@ -423,7 +439,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/)
 - **[Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/)** (Game Pass)
 - MudRunner, SnowRunner
-- MotoGP 20 (Game Pass)
+- MotoGP (Game Pass)
 - Need for Speed (2015), Heat, Payback, Rivals (tous sur le Game Pass), Hot Pursuit
 - Project CARS 1, 2, 3
 - Redout
@@ -432,7 +448,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Trackmania Turbo
 - Trials Fusion, Rising
 - TT Isle of Man 2
-- WRC 9
+- WRC 9, 10
 - Wreckfest
 
 ## Combat, baston, brawler
