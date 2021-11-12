@@ -9,7 +9,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Bomberman Land Touch! 1, 2
 - Dementium : The Ward
 - Dragon Ball Origins 1, 2
-- **Grand Theft Auto Chinatown Wars**
+- **Grand Theft Auto Chinatown Wars** (aussi une version PSP)
 - Lost In Blue
 - Ninja Gaiden : Dragon Sword
 - **Okamiden**
@@ -49,7 +49,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Aliens infestation
 - **Castlevania Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia**
 - Contra 4
-- **Mega Man ZX, ZX Advent, Zero Collection**
+- **Mega Man ZX, ZX Advent, Zero Collection** (aussi sur plateformes modernes)
 - Monster Tale
 - **Spider-man: Web of Shadows**
 - The Legend of Kage 2
@@ -61,14 +61,14 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Away: Shuffle Dungeon
 - Boktai DS
 - Children of Mana
-- **Chrono Trigger**
+- **Chrono Trigger** (aussi sur SNES)
 - Contact
 - Digimon World DS, Dusk/Dawn
 - Dragonball Z: Attack of the Saiyans
-- **Dragon Quest IV, V, VI, IX, Monsters Joker 1/2, Heroes Rocket Slime**
+- **Dragon Quest IV, V, VI, IX, Monsters Joker 1/2, Heroes Rocket Slime** (les 4/5/6 sont sur d'autres plateformes)
 - Dungeon Explorer
-- **Etrian Odyssey 1, 2**
-- **Final Fantasy III, IV**
+- **Etrian Odyssey 1, 2, 3** (les deux premiers ont des remakes sur 3DS)
+- **Final Fantasy III, IV** (remakes 3D des jeux NES/SNES, aussi sur mobile)
 - Final Fantasy Crystal Chronicles Rings of Fate, Echoes of Time
 - **Infinite Space**
 - Izuna 1, 2
@@ -80,30 +80,32 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - **Lunar Knights**
 - Orcs & Elves
 - Phantasy Star Zero
-- **Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold, Noir/Blanc**
-- Pokémon Donjon Mystère Rouge/Bleu, Explorateurs du Temps/Des Ténèbres
+- **Pokémon Diamant/Perle/Platine, SoulSilver/HeartGold, Noir/Blanc** (Perle/Platine ont des remakes sur Switch)
+- Pokémon Donjon Mystère Rouge/Bleu, Explorateurs du Temps/Des Ténèbres (Donjon Mystère a un remake sur Switch)
 - Pokémon Ranger 2, 3
-- **Radiant Historia**
+- **Radiant Historia** (a un remaster sur 3DS)
 - Rhapsody: A Musical Adventure
 - Rune Factory 1, 2
-- **Shin Megami Tensei Strange Journey**
+- **Shin Megami Tensei Strange Journey** (a un remaster sur 3DS)
 - Solatorobo: Red the Hunter
 - Soma Bringer
 - Sonic Chronicles The Dark Brotherhood
 - Steal Princess
 - Suikoden Tierkreis
 - The Dark Spire
-- **The World Ends With You**
+- **The World Ends With You** (a un remaster sur mobile et Switch)
 - Tingle's Rosy Rupeeland
 
 ## S-RPG, T-RPG
 
-- **Disgaea Hours of Darkness**
-- **Fire Emblem Shadow Dragon**
+- **Disgaea Afternoon of Darkness** (portage de Hour of Darkness sur PS2)
+- **Final Fantasy Tactics A2, XII Revenant Wings**
+- **Fire Emblem Shadow Dragon** (l'autre épisode DS, New Mystery of the Emblem, a une fantrad)
+- **Front Mission 1st**
 - Knights In The Nightmare
 - Luminous Arc 1, 2
 - Rondo of Swords
-- **Shin Megami Tensei Devil Survivor 1, 2**
+- **Shin Megami Tensei Devil Survivor 1, 2** (ont des remasters sur 3DS)
 - Shining Force Feather
 - Super Robot Taisen OG Saga
 - Valkyrie Profile Covenant of the Plume
@@ -116,8 +118,6 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - City Life DS
 - **Civilization Revolution**
 - **Drone Tactics**
-- **Final Fantasy Tactics A2, XII Revenant Wings**
-- **Front Mission 1st**
 - Lock's Quest
 - Ninjatown
 - Mini Ninjas
@@ -140,7 +140,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Last Window: The Secret of Cape West
 - Les Chevaliers de Baphomet Director's Cut
 - Life Signs : Hospital Affairs
-- **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth**
+- **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth** (ont des remasters sur Switch)
 - **Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
 - Runaway The Dream of the Turtle, A Twist of Fate
 - Time Hollow
