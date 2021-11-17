@@ -1,118 +1,180 @@
-#cosmonews du jour bonjour  
-  
-## Résumé  
-  
-- **Surviving the Aftermath** et **Death's Door** en novembre  
-- Des tests pour **Fatal Frame/Project Zero**, **Mario Party Superstars**, **Unpacking**, **Voice of Cards**, **Dungeon Encounters**  
-  
-## Calendrier  
-  
-**Sorties récentes :**  
-  
-- **Marvel's Guardian of the Galaxy** (cloud), un jeu d'aventure/action  
-- **Voice of Cards**, un RPG à base de cartes  
-- **Mario Party Superstars**, un party game  
-- **World War Z**, un TPS multi  
-  
-**Prochaines sorties :**  
-  
-- **Just Dance 2022**, un jeu de danse  
-- **Star Wars KOTOR**, un RPG "légendaire"  
-- **Shin Megami Tensei V**, un JRPG  
-  
-## Annonces, dates et sorties  
-  
-**Surviving the Aftermath**, un city builder post-apocalyptique, sortira le 16 novembre  
-https://www.nintendolife.com/news/2021/10/surviving-the-aftermath-will-bring-post-apocalyptic-strategy-to-switch-soon  
-![picture 1](https://i.imgur.com/KVCrCBtm.png)  
-  
-**Death's Door**, un Zelda-like (si j'ai bien compris), sort le 23 novembre  
-https://www.nintendolife.com/news/2021/10/devolver-digital-is-bringing-the-indie-gem-deaths-door-to-switch-next-month  
-![picture 2](https://i.imgur.com/fnyuCqWm.png)  
-  
-**Lara Croft Guardian of Light** et **Temple of Osiris**, deux Tomb Raider en vue de dessus, sont annoncés pour 2022  
-https://www.siliconera.com/two-tomb-raider-switch-ports-will-appear-next-year/  
-![picture 3](https://i.imgur.com/DUScoOSm.png)  
-  
-Un jeu **Goldorak** sortira en 2023, malheureusement édité pas les médiocres Microïds  
-https://www.p-nintendo.com/news/goldorak-lancera-ses-fulguropoings-depuis-la-switch-en-2023-257644  
-![picture 4](https://i.imgur.com/6rP410dm.png)  
-  
-**Maglam Lord**, un action-RPG/dating sim, sort le 4 février  
-https://www.nintendolife.com/news/2021/10/action-rpg-date-em-up-maglam-lord-hits-the-west-early-next-year  
-![picture 5](https://i.imgur.com/fzt8Wyom.jpg)  
-  
-Un portage de **Tetris The Grand Master** est annoncé, sans précision (en fait ils ont annoncé un report de l'annonce, c'est absurde)  
-https://www.siliconera.com/tetris-the-grand-master-home-port-announced/  
-![picture 6](https://i.imgur.com/JN2BAVqm.png)  
-  
-## Rétrogaming  
-  
-**Rage of the Dragons**, un jeu de baston NeoGeo sorti en 2002, revient en 2022  
-https://www.destructoid.com/rage-of-the-dragons-double-dragon-neo-geo-fighter-returns-in-2022/  
-  
-**Breakers Collection**, une compilation de jeux de baston NeoGeo, est repoussée en 2022  
-https://www.destructoid.com/breakers-collection-fighting-game-delay-pushed-back-to-2022-closed-beta/  
-  
-## Images, vidéos, infos  
-  
-Un nouveau trailer pour **Triangle Strategy**, le futur TRPG de Square  
-https://www.destructoid.com/triangle-strategy-trailer-intrigue-convictions-combat/  
-  
-## Patchs, DLC et démos  
-  
-Une démo pour **Metroid Dread**  
-https://www.destructoid.com/metroid-dread-demo-released/  
-  
-## Versions physiques et collector  
-  
-La version physique de **GTA Trilogy** aura un téléchargement obligatoire  
-https://www.nintendolife.com/news/2021/10/gta-trilogys-physical-edition-on-switch-appears-to-require-a-download  
-  
-**Mushihimesama** en version "borne d'arcade" pas du tout pratique  
-https://www.nintendolife.com/news/2021/10/mushihimesama-gets-a-fantastic-switch-mini-arcade-limited-edition  
-  
-## Tests  
-  
-**Fatal Frame Maiden of Black Water / Project Zero**, un survival horror photographique  
-https://www.siliconera.com/review-fatal-frame-maiden-of-black-water-remains-a-divisive-entry/  
-https://www.nintendolife.com/reviews/switch-eshop/fatal-frame-maiden-of-black-water  
-https://www.destructoid.com/reviews/review-fatal-frame-maiden-of-black-water-2021-remaster/  
-http://www.nintendoworldreport.com/review/58799/fatal-frame-maiden-of-black-water  
-https://www.p-nintendo.com/tests/tests-complets/titre-test-de-project-zero-la-pretresse-des-eaux-noires-flashez-les-tous-257642  
-![picture 7](https://i.imgur.com/LVojkU9m.jpg)  
-  
-**Mario Party Superstars**, un party game  
-https://www.nintendolife.com/reviews/nintendo-switch/mario-party-superstars  
-https://www.polygon.com/reviews/22749509/mario-party-superstars-review-switch-nintendo-64-boards-mini-games  
-https://www.gamespot.com/reviews/mario-party-superstars-review-the-fault-in-our-stars/1900-6417771/?ftag=CAD-01-10abi2f  
-https://www.gameinformer.com/review/mario-party-superstars/mario-party-superstars-review-reliable-party-tricks  
-![picture 8](https://i.imgur.com/cssYYqBm.jpg)  
-  
-**Unpacking**, un puzzle game zen  
-https://www.gamespot.com/reviews/unpacking-review-the-things-we-carry/1900-6417774/?ftag=CAD-01-10abi2f  
-https://www.siliconera.com/review-unpacking-game-is-a-calming-peek-into-someones-life/  
-http://www.nintendoworldreport.com/review/58849/unpacking-switch-review  
-https://www.eurogamer.net/articles/2021-11-01-unpacking-review-incredibly-satisfying-tidy-em-up  
-![picture 9](https://i.imgur.com/AfVBubdm.jpg)  
-  
-**Voice of Cards The Isle Dragon Roars**, un RPG à base de cartes  
-http://www.nintendoworldreport.com/review/58797/voice-of-cards-the-isle-dragon-roars-switch-review  
-https://www.siliconera.com/review-yoko-taros-voice-of-cards-puts-a-lot-of-stock-in-its-visuals/  
-https://www.destructoid.com/reviews/review-voice-of-cards-the-isle-dragon-roars/  
-![picture 10](https://i.imgur.com/ZMXomTAm.jpg)  
-  
-**Dungeon Encounters**, un dungeon crawler stratégique  
-https://www.destructoid.com/reviews/dungeon-encounters-review-ps4/  
-https://www.eurogamer.net/articles/2021-10-27-dungeon-encounters-review-all-star-team-assembles-for-one-of-square-enixs-most-fascinating-rpgs-in-an-age  
-http://www.nintendoworldreport.com/review/58795/dungeon-encounters-switch-review  
-![picture 11](https://i.imgur.com/E4yj6Kum.jpg)  
-  
-**Dusk**, un fast-FPS rétro  
-http://www.nintendoworldreport.com/review/58794/dusk-switch-review  
-https://www.nintendolife.com/reviews/switch-eshop/dusk  
-![picture 12](https://i.imgur.com/qu3Syxpm.jpg)  
-  
-**The Legend of Tianding**, un platformer/action  
-https://www.nintendolife.com/reviews/switch-eshop/the-legend-of-tianding  
-![picture 13](https://i.imgur.com/co0XdMWm.jpg)  
+#cosmonews
+
+## Résumé
+
+- La **trilogie GTA** est sortie dans un état lamentable, elle se prend un tollé
+- Des rumeurs de **Final Fantasy Tactics** et **Metroid Prime Remakster**
+- Des tests pour **Shin Megami Tensei V**, **Pokémon**, **Voice of Cards**, **Blue Reflection Second Light**, **Demon Turf**, et bien d'autres
+
+## Calendrier
+
+**Sorties récentes :**
+
+- **Okinawa Rush**, un beat'em up typé Amiga
+- **Skul The Hero Slayer**, un roguelike/platformer/action
+- **Unpacking**, un puzzle game
+- **Just Dance 2022**, un jeu de pétanque
+- **Star Wars KOTOR**, un (vieux) RPG PC
+- **GTA Trilogy**, une débâcle
+- **Shin Megami Tensei V**, un JRPG à l'ancienne
+- **Surviving the Aftermath**, un city builder
+- **Ruined King A League of Legends Story**, un RPG
+- **Grow: Song of the Evertree**, un jeu de farming
+
+**Prochaines sorties :**
+
+- **Pokémon Brilliant Diamond/Shining Pearl**, le dernier épisode d'une petite série pas très connue
+- **NASCAR Heat**, un jeu de course
+- **Death's Door**, un jeu d'aventure/action
+- **Asterix & Obélix Baffez-Les Tous**, un beat'em up
+- **Danganronpa Decadence**, une compilation de visual novel
+
+## Annonces, dates et sorties
+
+Tout juste annoncé, **Marvel Midnight Suns** est déjà repoussé à fin 2022
+https://www.destructoid.com/marvels-midnight-suns-delayed-second-half-2022/
+
+**Shovel Knight Dig**, un platformer/roguelike, est repoussé à 2022
+https://www.nintendolife.com/news/2021/11/sorry-folks-shovel-knight-dig-has-been-delayed-until-next-year
+
+**Sociable Soccer**, une suite spirituelle à Sensible Soccer, sortira sur consoles en 2022
+https://www.eurogamer.net/articles/2021-11-05-sensible-soccer-spiritual-successor-sociable-soccer-launches-on-pc-and-consoles-q2-2022
+
+**Mercenaries Rebirth**, un TRPG, est sorti
+https://www.nintendolife.com/news/2021/11/tactical-rpg-mercenaries-rebirth-call-of-the-wild-lynx-launches-on-switch-this-week
+
+**Steamworld Headhunter**, un TPS dans l'univers Steamworld, est annoncé pour 2022, sans précisions
+https://www.destructoid.com/steamworld-headhunter-cowboy-robot-adventure-body-snatching-co-op-teaser-trailer/
+
+**Dragon Ball The Breakers**, un jeu de baston asymétrique (7 contre 1), sortira en 2022
+https://www.nintendolife.com/news/2021/11/dragon-ball-the-breakers-is-a-seven-against-one-online-multiplayer-game-coming-to-switch
+
+**Ruined Kings A League of Legends Story**, un RPG par les devs de Battle Chasers Nightwar, est sorti par surprise
+https://www.destructoid.com/ruined-king-league-of-legends-story-surprise-drops-today/
+
+**Sail Forth**, un Wind Waker-like (oui c'est précis), est repoussé à 2022
+https://www.nintendolife.com/news/2021/11/zelda-wind-waker-vibes-await-in-sail-forth-now-setting-course-for-switch-in-2022
+![picture 1](https://i.imgur.com/zB9OCPW.png)  
+
+## Rétrogaming
+
+**Eschatos**, un shmup Xbox 360, devrait bientôt être localisé
+https://www.destructoid.com/eschatos-ps4-switch-port-announced-by-qute-corporation-trailer/
+
+**Gynoug**, un shmup Megadrive, est sorti
+https://www.destructoid.com/gynoug-rerelease-playstation-xbox-nintendo-switch-retro-classic-shmup-sega/
+
+## Rumeurs, leaks, teasing et discussions
+
+Des rumeurs d'un portage de **Final Fantasy Tactics**
+https://www.nintendolife.com/news/2021/11/rumour-the-original-final-fantasy-tactics-might-be-getting-a-remaster
+
+Des rumeurs sur un remakster du premier **Metroid Prime** prêt à sortir
+https://www.nintendolife.com/news/2021/11/rumour-metroid-prime-switch-remaster-is-wrapped-up-according-to-industry-insider
+
+## Patchs, DLC et démos
+
+Une démo pour **Dragon Ball Z Kakarot** au Japon
+https://www.siliconera.com/dragon-ball-z-kakarot-demo-now-available-on-nintendo-switch/
+
+Une démo pour **Big Brain Academy**
+http://www.nintendoworldreport.com/news/58969/big-brain-academy-brain-vs-brain-demo-out-now
+
+## Versions physiques et collector
+
+**Star Wars KOTOR** chez Limited Run, si ça suit la même trajectoire que les autres remasters Star Wars il sortira en version non-limitée en Europe dans quelque temps
+https://www.nintendolife.com/news/2021/11/star-wars-kotor-is-receiving-a-limited-run-games-physical-release-on-switch
+
+**Death's Gambit Afterlife**, un metroidvania très joli
+https://www.p-nintendo.com/news/death-s-gambit-afterlife-une-edition-physique-exclusive-a-la-switch-257701
+
+**Gaiares**, un shmup Megadrive, décidément c'est la mode
+https://www.nintendolife.com/news/2021/11/gaiares-is-getting-a-physical-re-release-with-the-help-of-the-kid-who-promoted-it-31-years-ago
+
+## News diverses, chiffres, hardware
+
+Un test du grip **Skull & Co NeoGrip**
+https://www.nintendolife.com/features/accessory-review-skull-and-co-neogrip-for-switch-oled
+
+## Tests
+
+**Shin Megami Tensei V**, un JRPG old school
+http://www.nintendoworldreport.com/review/58850/shin-megami-tensei-v-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/shin-megami-tensei-v
+https://www.polygon.com/reviews/22762591/shin-megami-tensei-5-review-atlus-nintendo-switch
+https://www.destructoid.com/reviews/review-shin-megami-tensei-v/
+https://www.siliconera.com/review-shin-megami-tensei-v-is-powerful-smt-v/
+https://www.gamespot.com/reviews/shin-megami-tensei-v-review-the-end-of-the-world-as-we-know-it-and-i-feel-fine/1900-6417779/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/shin-megami-tensei-v/shin-megami-tensei-v-review-beauty-in-an-unforgiving-world
+
+**Pokémon Perle Scintillante/Diamant Brillant**, le remake d'un RPG DS
+https://www.nintendolife.com/reviews/nintendo-switch/pokemon-brilliant-diamond-and-shining-pearl
+http://www.nintendoworldreport.com/review/58970/pokemon-brilliant-diamond--shining-pearl-switch-review
+https://www.polygon.com/reviews/22785807/pokemon-brilliant-diamond-shining-pearl-review-nintendo-switch
+https://www.gamespot.com/reviews/pokemon-brilliant-diamond-shining-pearl-review-in-progress/1900-6417790/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/pokemon-brilliant-diamond-pokemon-shining-pearl/pokemon-brilliant-diamond-and-shining-pearl
+
+**Voice of Cards**, un RPG à base de cartes
+https://www.gamespot.com/reviews/voice-of-cards-the-isle-dragon-roars-review-cards-against-humanity/1900-6417775/?ftag=CAD-01-10abi2f
+https://www.p-nintendo.com/tests/tests-complets/voice-of-cards-le-test-de-ce-jeu-de-cartes-narratif-257690
+https://www.nintendolife.com/reviews/switch-eshop/voice-of-cards-the-isle-dragon-roars
+https://ladiesgamers.com/voice-of-cards-the-isle-dragon-roars-review/
+
+**Blue Reflection Second Light**, un JRPG par Gust (Atelier)
+https://www.siliconera.com/review-blue-reflection-second-light-is-exactly-what-youd-expect-from-gust/
+https://ladiesgamers.com/blue-reflection-second-light-review/
+https://www.nintendolife.com/reviews/nintendo-switch/blue-reflection-second-light
+http://www.nintendoworldreport.com/review/58912/blue-reflection-second-light-switch-review
+
+**Demon Turf**, un platformer 3D
+https://www.destructoid.com/reviews/review-demon-turf-platformer-ps4-ps5-pc-xbox-switch/
+http://www.nintendoworldreport.com/review/58860/demon-turf-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/demon-turf
+https://ladiesgamers.com/demon-turf-review/
+
+**Animal Crossing** avec la mise à jour 2.0 et le DLC Happy Home Paradise
+https://www.nintendolife.com/features/our-verdict-on-animal-crossing-new-horizons-update-2-0-the-last-major-free-content
+https://www.nintendolife.com/reviews/switch-eshop/animal-crossing-new-horizons-happy-home-paradise-dlc
+https://www.destructoid.com/reviews/review-animal-crossing-happy-home-paradise/
+
+**Circa Infinity**, un platformer minimaliste hardcore
+http://www.nintendoworldreport.com/review/58865/circa-infinity-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/circa-infinity
+
+**Unpacking**, un puzzle game narratif
+https://ladiesgamers.com/unpacking-review/
+https://www.nintendolife.com/reviews/switch-eshop/unpacking
+
+**Rainbow Billy The Curse of the Leviathan**, un jeu d'aventure/action
+https://nindienexus.net/rainbow-billy-the-curse-of-the-leviathan-review/
+https://www.p-nintendo.com/tests/tests-complets/rainbow-billy-the-curse-of-the-leviathan-rendre-ses-couleurs-au-monde-257656
+
+**Star Wars Knights of the Old Republic**, un (vieux) RPG
+http://www.nintendoworldreport.com/review/58917/star-wars-knights-of-the-old-republic-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/star-wars-knights-of-the-old-republic
+
+**Airborne Kingdom**, un city builder
+https://ladiesgamers.com/airborne-kingdom-review/
+https://www.nintendolife.com/reviews/switch-eshop/airborne-kingdom
+
+**Tunche**, un beat'em up Péruvien au style dessiné
+https://www.destructoid.com/reviews/tunche-review-destructoid-leap-switch-pc-xbox-brawler-indie-peru/
+https://www.nintendolife.com/reviews/switch-eshop/tunche
+
+**Horizon Chase Turbo Senna Forever**, un DLC
+http://www.nintendoworldreport.com/reviewmini/58908/horizon-chase-turbo-senna-forever-switch-eshop-review
+
+**Gynoug**, un shmup Megadrive
+https://www.nintendolife.com/reviews/switch-eshop/gynoug
+
+**GTA Trilogy**, une catastrophe
+https://www.nintendolife.com/reviews/nintendo-switch/grand-theft-auto-the-trilogy-t
+
+**Undernauts Labyrinth of Yomi**, un dungeon crawler
+https://www.siliconera.com/review-undernauts-labyrinth-of-yomi-puts-you-in-charge/
+
+**Beyond Blue**, un jeu de nage sous-marine à la Endless Ocean
+https://www.nintendolife.com/reviews/switch-eshop/beyond-blue
+
+**Okinawa Rush**, un beat'em up 2D aux combats typé International Karate/Exploding Fist
+https://www.p-nintendo.com/tests/tests-complets/test-d-okinawa-rush-le-defouloir-sans-complexe-257696

@@ -194,6 +194,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Starlink: Battle for Atlas
 - **Superhot**
 - **Wolfenstein II**, Youngblood
+- World War Z
 - Zombie Army Trilogy
 
 ## Shooters multijoueur
@@ -224,6 +225,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Observer
 - **Outlast** 1, 2
 - Perception
+- Project Zero (Fatal Frame) Maiden of Black Water
 - Remothered: Tormented Fathers
 - **Resident Evil** 0, 1, 4, 5, 6, Revelations
 - Sunless Sea / Skies
@@ -964,24 +966,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Death Gambit Afterlife, World War Z
+- Jeux sortis, en attente de tests : Okinawa Rush, Skul The Hero Slayer
 
-- Novembre : Just Dance 2022 (4), **Star Wars KOTOR** (11), **Shin Megami Tensei V** (12), Surviving the Aftermath (16), **Pokémon Brilliant Diamond/Shining Pearl** (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25)
-- Décembre : **Advance Wars 1+2 Re-boot-camp** (3), Danganronpa Decadence (3), Record of Lodoss War (16), Olli Olli World (?)
+- Novembre : Unpacking (2), Just Dance 2022 (4), **Star Wars KOTOR** (11), **GTA Trilogy** (11), **Shin Megami Tensei V** (12), Surviving the Aftermath (16), Ruined King A League of Legends Story (16), Grow: Song of the Evertree (16), **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25)
+- Décembre : Danganronpa Decadence (3), Record of Lodoss War (16), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
 - Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
-- Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25), Marvel Midnight Sun (?)
+- Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25)
 - Avril 2022 : Sociable Soccer (17)
 - Mai 2022 : Touken Ranbu Warriors (24)
 
-- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Nickelodeon All Star Brawl, Yu-Gi-Oh Rush Duel, Gang Beasts, Wytchwood, Wreckfest, Kukoos: Lost Pets
+- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Yu-Gi-Oh Rush Duel, Wytchwood, Wreckfest, Kukoos Lost Pets
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Shovel Knight Pocket Dungeon, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 - Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**
 
-- 2021 : Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Kingpin Reloaded, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, NASCAR Heat 6, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Fast & Furious Spy Racers, DoDonPachi Resurrection, Fatal Frame Maiden of Black Water, Grow: Song of the Evertree, Ruby The Wayward Mira, Unpacking, Arcade Paradise, Airborne, Coromon, Death's Gambit: Afterlife, Ruined King, Fisti-fluffs, Finding Paradise, Hazel Sky, Sail Forth
+- 2021 : Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, DoDonPachi Resurrection, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
-- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris
+- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Sociable Soccer, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, Yo Kai Watch Y Academy, **Sports Story**, Strife, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, Okinawa Rush, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Onirike, Teratopia, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Toy Soldiers HD, Golf Club: Wasteland, Embr, Skul The Hero Slayer, Roguebook, Life Is Strange Remastered & True Colors, GTA Trilogy
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Roguebook, Life Is Strange Remastered & True Colors, Kingpin Reloaded
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
