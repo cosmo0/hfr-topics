@@ -18,7 +18,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous, Metroid Dread
 - **Roguelikes** : Dead Cells, The Binding of Isaac, Hades, Enter the Gungeon, Slay the Spire, Spelunky 1/2
 - **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Persona 5 Strikers, Diablo 2 Resurrected
-- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2
+- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
 - **Hack & Slash, musou** : Diablo 3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Dynasty Warriors 8, Minecraft Dungeon
 - **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
@@ -412,9 +412,10 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/)
 - Pokémon Mystery Dungeon Rescue Team DX
 - Romancing SaGa 2, 3, Scarlet Grace, SaGa Frontier
-- **Shin Megami Tensei III Nocturne**
+- **Shin Megami Tensei III Nocturne**, **Shin Megami Tensei V**
 - Shiren The Wanderer
 - South Park Le Bâton de Vérité, L'Annale du Destin
+- Star Wars Knights of the Old Republic
 - The Alliance Alive HD
 - The Last Remnant
 - Thronebreaker: The Witcher Tales
@@ -659,6 +660,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Superliminal
 - Tens!
 - The Turing Test
+- **Unpacking**
 
 ## Puzzle/action
 
@@ -763,6 +765,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Mother Russia Bleeds
 - Ninja Gaiden Master Collection
 - [Ninja Saviors Return of the Warriors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/)
+- Okinawa Rush
 - **River City Girls**
 - Scott Pilgrim vs The World
 - **[Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/)**
@@ -850,6 +853,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - 1-2 Switch
 - Fitness Boxing 1, 2
 - **Go Vacation**
+- Just Dance
 - **Programme d'Entraînement Cérébral du Dr Kawashima**
 - **Ring Fit Adventure**
 - Sports Party
@@ -890,6 +894,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - **Toem**
 - **[Townscaper](https://www.cosmo0.fr/critique/townscaper/)**
 - Tracks
+- **Unpacking**
 - **[Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)**
 - Urban Flow
 - Wandersong
@@ -926,21 +931,6 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Trivial Pursuit
 - UNO
 
-## Jeux "érotiques"
-
-- Criminal Girls
-- Dead or Alive Xtreme 3
-- Gal*Gun 2
-- Gun Gun Pixies
-- Kotodama The 7 Mysteries of Fujisawa
-- Leisure Suit Larry Wet Dreams Don't Dry
-- Lust for Darkness
-- Mary Skelter 2
-- Moero Chronicles/Crystal H
-- Omega Labyrinth Life
-- Senran Kagura Peach Ball
-- Senran Kagura Reflexions
-
 ## Autres/inclassables
 
 - **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
@@ -966,10 +956,10 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Okinawa Rush, Skul The Hero Slayer
+- Jeux sortis, en attente de tests : Surviving the Aftermath, Ruined King A League of Legends Story, Grow: Song of the Evertree
 
-- Novembre : Unpacking (2), Just Dance 2022 (4), **Star Wars KOTOR** (11), **GTA Trilogy** (11), **Shin Megami Tensei V** (12), Surviving the Aftermath (16), Ruined King A League of Legends Story (16), Grow: Song of the Evertree (16), **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25)
-- Décembre : Danganronpa Decadence (3), Record of Lodoss War (16), Olli Olli World (?)
+- Novembre : **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25)
+- Décembre : Danganronpa Decadence (3), Loop Hero (9), Record of Lodoss War (16), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
 - Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
 - Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25)
