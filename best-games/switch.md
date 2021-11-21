@@ -963,8 +963,8 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : Surviving the Aftermath, Ruined King A League of Legends Story, Grow: Song of the Evertree
 
-- Novembre : **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25)
-- Décembre : Danganronpa Decadence (3), Loop Hero (9), Record of Lodoss War (16), Olli Olli World (?)
+- Novembre : **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25), DoDonPachi Resurrection (25)
+- Décembre : Danganronpa Decadence (3), Loop Hero (9), Record of Lodoss War (16), Deathsmiles 1 & 2 (16), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
 - Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
 - Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25)
