@@ -8,7 +8,7 @@
   
 ## Calendrier  
   
-**Sorties récentes :**  
+**Dernières sorties :**  
   
 - **Okinawa Rush**, un beat'em up typé Amiga  
 - **Skul The Hero Slayer**, un roguelike/platformer/action  
@@ -22,7 +22,7 @@
 - **Grow: Song of the Evertree**, un jeu de farming  
 - **Pokémon Brilliant Diamond/Shining Pearl**, le dernier épisode d'une petite série pas très connue  
   
-**Prochaines sorties :**  
+**Prochaine sorties :**  
   
 - **NASCAR Heat**, un jeu de course  
 - **Death's Door**, un jeu d'aventure/action  
@@ -107,7 +107,8 @@ https://www.nintendolife.com/news/2021/11/gaiares-is-getting-a-physical-re-relea
 Un test du grip **Skull & Co NeoGrip**  
 https://www.nintendolife.com/features/accessory-review-skull-and-co-neogrip-for-switch-oled  
   
-## Tests  
+**Dusk**, un FPS rétro  
+https://www.eurogamer.net/articles/digitalfoundry-2021-dusk-on-switch-a-beautifully-nightmarish-modern-retro-shooter  
   
 **Shin Megami Tensei V**, un JRPG old school  
 http://www.nintendoworldreport.com/review/58850/shin-megami-tensei-v-switch-review  
