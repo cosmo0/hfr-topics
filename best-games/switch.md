@@ -775,15 +775,18 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shoot'em ups (shmups), twin stick shooters, rail shooters
 
-Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, Ghost Pilots, Sol Divide, In The Hunt, Blazing Star, Esp Ra De, Psikyo Shooting Stars Alpha, Konami Arcade Classics, Darius Cozmic Collection, Space Invaders Invincible Collection (JP), Mushihimesama, Espgaluda 2, etc.
+Beaucoup de classiques de l'arcade sont présents en portages ou compilations : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, In The Hunt, [Blazing Star](https://www.cosmo0.fr/critique/aca-neogeo-blazing-star/), EspRaDe Psy, Psikyo Shooting Stars, [Konami Arcade Classics](https://www.cosmo0.fr/critique/konami-anniversary-collection-arcade-classics/), [R-Type](https://www.cosmo0.fr/critique/r-type-dimensions-ex/), Darius Cozmic Collection, Space Invaders Invincible Collection, Mushihimesama, Espgaluda 2, etc.
 
 - Assault Android Cactus
 - **[Crimzon Clover](https://www.cosmo0.fr/critique/crimzon-clover-world-explosion/)**
 - **[Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/)**
 - **Devil Engine**
 - [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/)
+- **EspGaluda 2**
+- EspRaDe Psy (JP)
+- Ghost Blade HD
 - [Graceful Explosion Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/)
-- [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/)
+- **[Ikaruga](https://www.cosmo0.fr/critique/ikaruga/)**
 - Jamestown+
 - [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/)
 - **Mushihimesama**
@@ -791,6 +794,8 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compiles : Gunb
 - Rival Megagun
 - **Rolling Gunner**
 - [Sky Force Reloaded](https://www.cosmo0.fr/critique/sky-force-reloaded/)
+- Space Moth
+- Star Hunter DX
 - Steredenn Binary Stars
 - **[Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)**
 - [Thunder Force IV](https://www.cosmo0.fr/critique/sega-ages-thunder-force-4/), AC
