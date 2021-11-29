@@ -18,7 +18,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous, Metroid Dread
 - **Roguelikes** : Dead Cells, The Binding of Isaac, Hades, Enter the Gungeon, Slay the Spire, Spelunky 1/2
 - **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Persona 5 Strikers, Diablo 2 Resurrected
-- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
+- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/) / Diamant Brillant/Perle Scintillante, Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
 - **Hack & Slash, musou** : Diablo 3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Dynasty Warriors 8, Minecraft Dungeon
 - **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
@@ -147,6 +147,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Dark Souls Remastered**
 - **Darksiders** 1, 2
 - Deadly Premonition 1, 2
+- **Death's Door**
 - Devil May Cry 1, 2, 3
 - Eastward
 - Garden Story
@@ -409,9 +410,9 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Octopath Traveler**
 - Operencia: The Stolen Sun
 - **Pillars of Eternity**
-- **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/)
+- **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante
 - Pokémon Mystery Dungeon Rescue Team DX
-- Romancing SaGa 2, 3, Scarlet Grace, SaGa Frontier
+- Ruined King: A League of Legends Story
 - **Shin Megami Tensei III Nocturne**, **Shin Megami Tensei V**
 - Shiren The Wanderer
 - South Park Le Bâton de Vérité, L'Annale du Destin
@@ -519,6 +520,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Railway Empire
 - **Roller Coaster Tycoon 3**
 - Spacebase Startopia
+- Surviving the Aftermath
 - The Colonists
 - The Shrouded Isle
 - Townsmen
@@ -775,12 +777,13 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shoot'em ups (shmups), twin stick shooters, rail shooters
 
-Beaucoup de classiques de l'arcade sont présents en portages ou compilations : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, In The Hunt, [Blazing Star](https://www.cosmo0.fr/critique/aca-neogeo-blazing-star/), EspRaDe Psy, Psikyo Shooting Stars, [Konami Arcade Classics](https://www.cosmo0.fr/critique/konami-anniversary-collection-arcade-classics/), [R-Type](https://www.cosmo0.fr/critique/r-type-dimensions-ex/), Darius Cozmic Collection, Space Invaders Invincible Collection, Mushihimesama, Espgaluda 2, etc.
+Beaucoup de classiques de l'arcade sont présents en portages ou compilations : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, In The Hunt, [Blazing Star](https://www.cosmo0.fr/critique/aca-neogeo-blazing-star/), EspRaDe Psy, Psikyo Shooting Stars, [Konami Arcade Classics](https://www.cosmo0.fr/critique/konami-anniversary-collection-arcade-classics/), [R-Type](https://www.cosmo0.fr/critique/r-type-dimensions-ex/), Darius Cozmic Collection, Space Invaders Invincible Collection, Mushihimesama, Espgaluda 2, DoDonPachi Resurrection, etc.
 
 - Assault Android Cactus
 - **[Crimzon Clover](https://www.cosmo0.fr/critique/crimzon-clover-world-explosion/)**
 - **[Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/)**
 - **Devil Engine**
+- **DoDonPachi Resurrection**
 - [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/)
 - **EspGaluda 2**
 - EspRaDe Psy (JP)
@@ -961,24 +964,23 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Surviving the Aftermath, Ruined King A League of Legends Story, Grow: Song of the Evertree
+- Jeux sortis, en attente de tests : 
 
-- Novembre : **Pokémon Brilliant Diamond/Shining Pearl** (19), NASCAR Heat (19), Death's Door (23), Asterix & Obélix Baffez-Les Tous (25), DoDonPachi Resurrection (25)
-- Décembre : Danganronpa Decadence (3), Loop Hero (9), Record of Lodoss War (16), Deathsmiles 1 & 2 (16), Olli Olli World (?)
+- Décembre : Asterix & Obélix Baffez-Les Tous (2), Danganronpa Decadence (3), Yu-Gi-Oh Rush Duel (7), Twelve Minutes (7), Life Is Strange True Colors (7), Loop Hero (9), Shovel Knight Pocket Dungeon (13), Record of Lodoss War (16), Deathsmiles 1 & 2 (16), Olli Olli World (?)
 - Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
 - Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
 - Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25)
-- Avril 2022 : Sociable Soccer (17)
+- Avril 2022 : 13 Sentinels Aegis Rim (12), Sociable Soccer (17)
 - Mai 2022 : Touken Ranbu Warriors (24)
 
-- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Yu-Gi-Oh Rush Duel, Wytchwood, Wreckfest, Kukoos Lost Pets
-- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Shovel Knight Pocket Dungeon, Hundred Days: Wine Making Simulator, **The Outer Wilds**
-- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**
+- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Wytchwood, Wreckfest, Kukoos Lost Pets
+- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Hundred Days: Wine Making Simulator, **The Outer Wilds**
+- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+
 
 - 2021 : Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, DoDonPachi Resurrection, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
 - 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Sociable Soccer, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Roguebook, Life Is Strange Remastered & True Colors, Kingpin Reloaded
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Roguebook, Life Is Strange Remastered & True Colors, Kingpin Reloaded, Enigma Archives Rain Code
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
