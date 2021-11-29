@@ -30,7 +30,7 @@
   
 **13 Sentinels Aegis Rim**, un mélange de jeu d'aventure et RPG qui a fait grand bruit lors de sa sortie sur PS4, sort le 12 avril  
 https://www.destructoid.com/13-sentinels-aegis-rim-comes-to-switch-next-april/  
-![picture 1](https://i.imgur.com/8AHielmm.png)  
+![picture 25](https://i.imgur.com/Z35L5d0m.png)  
   
 **Enigma Archives Rain Code**, un jeu d'aventure par les créateurs de Danganronpa, est annoncé sans précisions  
 https://www.siliconera.com/danganronpa-team-working-on-enigma-archives-rain-code/  
