@@ -228,58 +228,85 @@ Pour acheter ces machines, en général, vous n'avez pas beaucoup d'autre option
 
 **A noter :** ce sont souvent des machines avec des firmwares officiels un peu nazes qu'il faut remplacer par des firmwares développés par la communauté pour en exploiter le potentiel. N'espérez pas avoir une machine "plug and play" et sans souci.
 
-### Les "petites" machines (50 à 100€)
+### Les consoles hackées
+
+Il est possible de hacker la plupart des consoles portables pour pouvoir y utiliser des émulateurs.
+
+**GBA**  
+En utilisant un linker (Supercard Mini, EZ Flash), vous pouvez faire tourner non seulement les roms GBA sur le vrai hardware, mais vous trouverez également quelques [émulateurs pour d'autres consoles](http://emulation.gametechwiki.com/index.php/Emulators_on_GBA) : NES (PocketNES), Master System (DrSMS), PC Engine (PCEAdvance), Game Boy/Color (Goomba/Goomba Color), NeoGeo Pocket (NGP Advance), et bien d'autres de plus ou moins bonne qualité, limités forcément par la résolution de l'écran et le nombre de boutons en façade : il existe bien un émulateur SNES, mais avec 2 boutons en moins, n'espérez pas jouer à grand-chose.
+
+**Nintendo DS**  
+En utilisant un linker (M3, R4, Supercard, EZ Flash, etc), vous pouvez faire tourner non seulement les roms DS sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_DS) : arcade, ordinateurs, et un peu toutes les consoles 8 et 16 bits. La DS n'est pas très puissante, mais son double écran permet d'émuler les anciens ordinateurs avec un clavier fonctionnel.
+
+**PSP**  
+En hackant la PSP, vous pouvez y faire tourner des ISO des jeux sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_PSP) pour toutes les consoles de 8 à 32 bits, et même parfois au-delà : elle peut même émuler la DS ! (même si ce n'est évidemment pas très utilisable). Elle possède également l'émulation PS1 en hardware, c'est donc un choix populaire pour ce type d'émulation. La console se trouve encore à pas trop cher, son hack n'est pas très compliqué, mais les Memory Stick commencent à être difficiles à trouver : vérifiez avant si vous en trouvez à pas trop cher.
+
+**3DS**
+En hackant la 3DS, vous pouvez faire tourner les roms sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_3DS) pour toutes les consoles de 8 à 32 bits, mais sa puissance relativement limitée lui empêche d'émuler la PSP. C'est sans doute le meilleur choix si vous voulez jouer aux jeux DS et 3DS, surtout s'ils utilisent les particularités du hardware (tactile, double écran). Il est également possible de trouver des linkers pour 3DS, mais ceux-ci vous limiteront aux roms 3DS.
+
+**Vita**  
+En hackant la Vita, vous pouvez faire tourner les roms sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_Vita) pour toutes les consoles de 8 à 32 bits, y compris (et c'est sans doute son plus gros avantage) la PSP : vous avez donc ainsi une machine Sony qui fait tourner la PS1, PSP et les jeux Vita, en plus de tout le reste. La machine se trouve encore à pas trop cher même si son prix commence à bien grimper, mais comme pour la PSP, son inconvénient principal est son format propriétaire de cartes mémoires, très chères et de plus en plus difficiles à trouver.
+
+**Switch**  
+Les premiers modèles de Switch peuvent être hackés pour y faire tourner des roms Switch, mais on peut également y installer Android (et tous les émulateurs disponibles dessus), ou bien [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_Switch), particulièrement RetroArch qui permet de faire tourner un très grand nombre de systèmes de manière performante, et même dans une certaine mesure la Saturn, la Dreamcast, et la Gamecube ! C'est un excellent choix d'émulation, mais la faille permettant de hacker la machine ayant été corrigée assez rapidement, vous êtes limité à certains modèles, un peu plus difficiles (et plus chers) à trouver.
+
+### Les "petites" machines (moins de 100€)
 
 Dans cette gamme, vous trouverez énormément de machines clones les unes des autres, basées sur la GCW Zero, une machine open source. La puissance est évidemment limitée, mais les machines se ressemblant énormément, leur communauté est assez large et supporte très bien les machines, avec de nouveaux firmware, des modifications d'émulateurs, etc.
+
+**Anbernic RG-300, RG-350, RG-351...**  
+Anbernic est un spécialiste des machines plutôt équilibrées, avec des prix qui tournent autour des 100€, et une très grosse communauté. Ils sortent de nouveaux modèles régulièrement, avec des améliorations de performances, de maniabilité ou juste d'esthétique. Leurs machines sont plutôt recommandées, mais n'achetez pas n'importe quoi les yeux fermés, ils sont capables du meilleur comme du pire.
+
+![https://i.imgur.com/IyNmo9ot.jpg](https://i.imgur.com/IyNmo9ot.jpg) ![https://i.imgur.com/x9FYNo6t.jpg](https://i.imgur.com/x9FYNo6t.jpg) ![https://i.imgur.com/ufUX0LQt.jpg](https://i.imgur.com/ufUX0LQt.jpg)
 
 **DigiRetro** (DigiRetroBoy)  
 Une machine qui combine lecteur de cartouche GBA et émulateurs intégrés.  
 Site : <https://digiretro.com/>
 
-![https://i.imgur.com/7fxcirpb.jpg](https://i.imgur.com/7fxcirpb.jpg)
+![https://i.imgur.com/7fxcirpt.jpg](https://i.imgur.com/7fxcirpt.jpg)
+
+**LDK Powkiddy**  
+Un fabricant de machines généralement assez peu chères, mais évidemment moins performantes et de moins bonnes qualité. Un bon compromis si vous ne voulez restreindre votre budget.
+
+![https://i.imgur.com/CgbgGp4t.jpg](https://i.imgur.com/CgbgGp4t.jpg) ![https://i.imgur.com/dqVXrfnt.jpg](https://i.imgur.com/dqVXrfnt.jpg)
 
 **Odroid Go Advance, Super**  
 Des machines basées sur ODroid, une carte concurrente du Raspberry Pi, et donc modifiables, et se basant sur des systèmes open source (RetroPie, Recalbox, etc). Un rapport qualité/prix correct même si la qualité de fabrication est assez moyenne.
 
-![https://i.imgur.com/RgOamCtb.jpg](https://i.imgur.com/RgOamCtb.jpg) ![https://i.imgur.com/U6mBjgFb.jpg](https://i.imgur.com/U6mBjgFb.jpg)
+![https://i.imgur.com/RgOamCtt.jpg](https://i.imgur.com/RgOamCtt.jpg) ![https://i.imgur.com/U6mBjgFt.jpg](https://i.imgur.com/U6mBjgFt.jpg)
 
-**Powkiddy** (LDK)  
-Un fabricant de machines généralement assez peu chères, mais évidemment moins performantes et de moins bonnes qualité. Un bon compromis si vous ne voulez restreindre votre budget.
+**Retroid**  
+Leur première version a un hardware un peu vieillissant et pas très performant, mais leur nouveau modèle "2+" a un rapport performances/prix très intéressant, en plus de proposer un upgrade "DIY" moins cher, si vous possédez le premier.  
+Site : <https://www.goretroid.com/>
 
-![https://i.imgur.com/CgbgGp4b.jpg](https://i.imgur.com/CgbgGp4b.jpg) ![https://i.imgur.com/dqVXrfnb.jpg](https://i.imgur.com/dqVXrfnb.jpg)
+![https://i.imgur.com/iLbwnKYt.png](https://i.imgur.com/iLbwnKYt.png)
 
-**RG-300, RG-350, RG-351...**  
-RetroGame est un spécialiste des machines plutôt équilibrées, avec des prix qui tournent autour des 100€, et une très grosse communauté. Ils sortent de nouveaux modèles régulièrement, avec des améliorations de performances, de maniabilité ou juste d'esthétique. Leurs machines sont plutôt recommandées, mais n'achetez pas n'importe quoi les yeux fermés, ils sont capables du meilleur comme du pire.
-
-![https://i.imgur.com/IyNmo9ob.jpg](https://i.imgur.com/IyNmo9ob.jpg) ![https://i.imgur.com/x9FYNo6b.jpg](https://i.imgur.com/x9FYNo6b.jpg) ![https://i.imgur.com/ufUX0LQb.jpg](https://i.imgur.com/ufUX0LQb.jpg)
-
-### Les "grosses" machines (> 100€)
+### Les "grosses" machines (plus de 100€)
 
 Des machines souvent très puissantes mais aussi très chères, elles sont généralement très versatiles car basées sur des systèmes généralistes (Android ou Windows) mais utilisent le jeu portable comme argument de vente principal (et pas toujours l'émulation).
+
+**Anbernic RG-552**  
+Anbernic se diversifie avec des modèles beaucoup plus puissants, mais aussi beaucoup plus chers : leur nouveau (à l'heure où je l'écris) RG-552 coûte deux fois le prix des RG-3xx, mais permet de faire tourner la N64, la Dreamcast et la PSP sans trop de souci.
+
+![https://i.imgur.com/b337bJUt.jpg](https://i.imgur.com/b337bJUt.jpg)
 
 **Aya Neo**  
 Une machine Windows, puissante (APU Ryzen 5, 16Go de RAM) mais très, très chère (autour de 1000$).  
 Site : <https://www.ayaneo.com/>
 
-![https://i.imgur.com/RN9haF4b.png](https://i.imgur.com/RN9haF4b.png)
+![https://i.imgur.com/RN9haF4t.png](https://i.imgur.com/RN9haF4t.png)
+
+**Ayn Odin**  
+Une machine sous Android avec un form factor rappelant fortement la Switch, avec un bon rapport performances/prix et plusieurs configurations possibles, un dock, une sortie HDMI, et devrait permettre de faire tourner certains jeux Gamecube/Wii, PSP voire PS2.  
+Site : <https://www.ayn.hk/>
+
+![https://i.imgur.com/HFoXJtCt.png](https://i.imgur.com/HFoXJtCt.png)
 
 **GPD**
 Fabricant d'ordinateurs avant tout, ils font des ultra-micro-PC sous Windows ou Android avec pads et boutons intégrés.  
 Site : <https://www.gpd.hk/>
 
-![https://i.imgur.com/sDma426b.png](https://i.imgur.com/sDma426b.png) [img]![https://i.imgur.com/ojAVMNXb.png](https://i.imgur.com/ojAVMNXb.png)[/img]
-
-**Lyra**  
-Nouveau venu dans un marché déjà bien fourni, c'est une console basée sur Raspberry Pi 3 (en version "compute module").  
-Site : <https://www.kickstarter.com/projects/creoqode/lyra-handheld-game-console/description>
-
-![https://i.imgur.com/GqeBqDmb.jpg](https://i.imgur.com/GqeBqDmb.jpg)
-
-**Moqi I7s**  
-Une console tournant sous Android, avec un look de PSP/Vita. Elle est très chère (plus de 350€) mais la qualité est au rendez-vous, le suivi est excellent, et le fait qu'elle tourne sous Android la rend très versatile, en plus d'être un véritable téléphone avec lequel on peut appeler.  
-Site : <http://www.moqiphone.com/>
-
-![https://i.imgur.com/gGsm3pNt.jpg](https://i.imgur.com/gGsm3pNt.jpg)
+![https://i.imgur.com/sDma426t.png](https://i.imgur.com/sDma426t.png) ![https://i.imgur.com/ojAVMNXt.png](https://i.imgur.com/ojAVMNXt.png)
 
 ### Le DIY
 
@@ -289,35 +316,35 @@ Dans cette catégorie vous trouverez des kits à monter soi-même, comme des bo�
 Fabrique un boîtier dans lesquels vous ajoutez un Pi Zero (RaspiBoy), et un autre "tout compris" au format Game Boy (RetroStone).  
 Site : <https://www.8bcraft.com/>
 
-![https://i.imgur.com/dJoOr8Sb.jpg](https://i.imgur.com/dJoOr8Sb.jpg) ![https://i.imgur.com/HgLIGVBb.png](https://i.imgur.com/HgLIGVBb.png)
+![https://i.imgur.com/dJoOr8St.jpg](https://i.imgur.com/dJoOr8St.jpg) ![https://i.imgur.com/HgLIGVBt.png](https://i.imgur.com/HgLIGVBt.png)
 
 **BittBoy**  
 Deux boîtiers sur la même base mais avec des formes différentes : BittBoy (verticale) et PocketGO (horizontale).  
 Site : <https://www.bittboy.com/>
 
-![https://i.imgur.com/gsXs8k0b.jpg](https://i.imgur.com/gsXs8k0b.jpg) ![https://i.imgur.com/bmge1Cab.jpg](https://i.imgur.com/bmge1Cab.jpg)
+![https://i.imgur.com/gsXs8k0t.jpg](https://i.imgur.com/gsXs8k0t.jpg) ![https://i.imgur.com/bmge1Cat.jpg](https://i.imgur.com/bmge1Cat.jpg)
 
 **Clockwork Pi** (Gameshell)  
 Une machine open source, destinée à être bricolée. Ils vendent la machine montée ou en pièces détachées.  
 Site : <https://www.clockworkpi.com/>
 
-![https://i.imgur.com/WIAgemCb.jpg](https://i.imgur.com/WIAgemCb.jpg)
+![https://i.imgur.com/WIAgemCt.jpg](https://i.imgur.com/WIAgemCt.jpg)
 
 **GBZ Mods** (1Up Pi Boy, Retro CM3)  
 Fabriquent diverses tailles de boîtiers dans lesquels ajouter des Pi soi-même, et une console compacte avec aussi un Pi, mais pré-intégré.  
 Site : <https://www.gbzmods.com/>
 
-![https://i.imgur.com/FJRgA8ib.jpg](https://i.imgur.com/FJRgA8ib.jpg) ![https://i.imgur.com/12ws0OXb.jpg](https://i.imgur.com/12ws0OXb.jpg)
+![https://i.imgur.com/FJRgA8it.jpg](https://i.imgur.com/FJRgA8it.jpg) ![https://i.imgur.com/12ws0OXt.jpg](https://i.imgur.com/12ws0OXt.jpg)
 
 **GPi Case**  
 Un boîtier clone de Game Boy, dans lequel on insère un Raspberry Pi Zero pour pouvoir jouer.
 A noter l'existence d'un module GPi Mate qui permet d'utiliser un Compute Module 3, qui est un Pi 3 en forme de barrette d'extension, et donc bien plus puissant que le Zero : <http://www.retrogamerestore.com/gpimate/>  
 Site : <http://retroflag.com/>
 
-![https://i.imgur.com/9lKNVzmb.jpg](https://i.imgur.com/9lKNVzmb.jpg)
+![https://i.imgur.com/9lKNVzmt.jpg](https://i.imgur.com/9lKNVzmt.jpg)
 
 **MiSTer**  
 Ce n'est pas une machine "clés en main", mais c'est assez particulier pour que je veuille en parler : une machine open source qui fonctionne en émulation FPGA, que vous devez construire vous-même en achetant des morceaux ici et là.  
 Site : <https://github.com/MiSTer-devel/Main_MiSTer/wiki>
 
-![https://i.imgur.com/vbCkHBhb.jpg](https://i.imgur.com/vbCkHBhb.jpg)
+![https://i.imgur.com/vbCkHBht.jpg](https://i.imgur.com/vbCkHBht.jpg)
