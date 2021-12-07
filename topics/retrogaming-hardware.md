@@ -235,20 +235,37 @@ Il est possible de hacker la plupart des consoles portables pour pouvoir y utili
 **GBA**  
 En utilisant un linker (Supercard Mini, EZ Flash), vous pouvez faire tourner non seulement les roms GBA sur le vrai hardware, mais vous trouverez également quelques [émulateurs pour d'autres consoles](http://emulation.gametechwiki.com/index.php/Emulators_on_GBA) : NES (PocketNES), Master System (DrSMS), PC Engine (PCEAdvance), Game Boy/Color (Goomba/Goomba Color), NeoGeo Pocket (NGP Advance), et bien d'autres de plus ou moins bonne qualité, limités forcément par la résolution de l'écran et le nombre de boutons en façade : il existe bien un émulateur SNES, mais avec 2 boutons en moins, n'espérez pas jouer à grand-chose.
 
+![GBA SP](https://i.imgur.com/kR4ZtjFt.png)
+
 **Nintendo DS**  
 En utilisant un linker (M3, R4, Supercard, EZ Flash, etc), vous pouvez faire tourner non seulement les roms DS sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_DS) : arcade, ordinateurs, et un peu toutes les consoles 8 et 16 bits. La DS n'est pas très puissante, mais son double écran permet d'émuler les anciens ordinateurs avec un clavier fonctionnel.
 
+![NDS](https://i.imgur.com/poM85Txt.png)
+
 **PSP**  
-En hackant la PSP, vous pouvez y faire tourner des ISO des jeux sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_PSP) pour toutes les consoles de 8 à 32 bits, et même parfois au-delà : elle peut même émuler la DS ! (même si ce n'est évidemment pas très utilisable). Elle possède également l'émulation PS1 en hardware, c'est donc un choix populaire pour ce type d'émulation. La console se trouve encore à pas trop cher, son hack n'est pas très compliqué, mais les Memory Stick commencent à être difficiles à trouver : vérifiez avant si vous en trouvez à pas trop cher.
+En hackant la PSP, vous pouvez y faire tourner des ISO des jeux sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_PSP) pour toutes les consoles de 8 à 32 bits, et même parfois au-delà : elle peut même émuler la DS ! (même si ce n'est évidemment pas très utilisable). Elle possède également l'émulation PS1 en hardware, c'est donc un choix populaire pour ce type d'émulation. La console se trouve encore à pas trop cher, son hack n'est pas très compliqué, mais les Memory Stick commencent à être difficiles à trouver : vérifiez avant si vous en trouvez à pas trop cher, ou si vous trouvez un adaptateur pour micro SD.
+
+![PSP](https://i.imgur.com/4rxcXhXt.jpg)
 
 **3DS**
 En hackant la 3DS, vous pouvez faire tourner les roms sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_3DS) pour toutes les consoles de 8 à 32 bits, mais sa puissance relativement limitée lui empêche d'émuler la PSP. C'est sans doute le meilleur choix si vous voulez jouer aux jeux DS et 3DS, surtout s'ils utilisent les particularités du hardware (tactile, double écran). Il est également possible de trouver des linkers pour 3DS, mais ceux-ci vous limiteront aux roms 3DS.
 
+![3DS](https://i.imgur.com/chX20Hct.png)
+
 **Vita**  
-En hackant la Vita, vous pouvez faire tourner les roms sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_Vita) pour toutes les consoles de 8 à 32 bits, y compris (et c'est sans doute son plus gros avantage) la PSP : vous avez donc ainsi une machine Sony qui fait tourner la PS1, PSP et les jeux Vita, en plus de tout le reste. La machine se trouve encore à pas trop cher même si son prix commence à bien grimper, mais comme pour la PSP, son inconvénient principal est son format propriétaire de cartes mémoires, très chères et de plus en plus difficiles à trouver.
+En hackant la Vita, vous pouvez faire tourner les roms sur le vrai hardware, mais aussi [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_Vita) pour toutes les consoles de 8 à 32 bits, y compris (et c'est sans doute son plus gros avantage) la PSP nativement (via rétrocompatibilité) : vous avez donc ainsi une machine Sony qui fait tourner la PS1, la PSP et bien sûr les jeux Vita, en plus de tout le reste. La machine se trouve encore à pas trop cher même si son prix commence à bien grimper, mais comme pour la PSP, son inconvénient principal est son format propriétaire de cartes mémoires, très chères et de plus en plus difficiles à trouver ; il existe cependant des adaptateurs pour y utiliser des cartes micro SD.
+
+![Vita](https://i.imgur.com/u90GVOjt.jpg)
 
 **Switch**  
 Les premiers modèles de Switch peuvent être hackés pour y faire tourner des roms Switch, mais on peut également y installer Android (et tous les émulateurs disponibles dessus), ou bien [de nombreux émulateurs](http://emulation.gametechwiki.com/index.php/Emulators_on_Switch), particulièrement RetroArch qui permet de faire tourner un très grand nombre de systèmes de manière performante, et même dans une certaine mesure la Saturn, la Dreamcast, et la Gamecube ! C'est un excellent choix d'émulation, mais la faille permettant de hacker la machine ayant été corrigée assez rapidement, vous êtes limité à certains modèles, un peu plus difficiles (et plus chers) à trouver.
+
+![Switch](https://i.imgur.com/Gfhogu4t.png)
+
+**Xbox One/Series S/X**  
+Les consoles ne se hackent pas, mais il est possible d'y activer un "mode développeur" (mode officiel, activable moyennant quelques euros pour se créer un compte développeur) [qui permet ensuite d'y installer RetroArch](https://www.youtube.com/watch?v=2uZu1hITwy0), et avoir ainsi accès à tous les émulateurs RA. La Xbox Series S est certainement la machine qui a le meilleur rapport performances/prix du marché actuellement, et elle fait tourner sans aucun souci tous les émulateurs, y compris N64, Saturn, Dreamcast, Gamecube, Wii et PSP, et même la PS2. En revanche, contrairement aux consoles ci-dessus, elle n'est évidemment pas transportable.
+
+![Xbox Series S](https://i.imgur.com/dCdAq1gt.png)
 
 ### Les machines dédiées
 
