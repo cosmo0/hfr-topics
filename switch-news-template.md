@@ -1,7 +1,5 @@
 #cosmonews
 
-## Résumé
-
 ## Calendrier
 
 ## Annonces, dates et sorties

@@ -354,6 +354,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - For The King
 - Going Under
 - **Hades**
+- **Loop Hero**
 - Monster Train
 - [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Neon Abyss
@@ -555,6 +556,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - The Survivalists
 - **The Long Dark**
 - **This War of Mine**
+- Wytchwood
 
 ## Walking simulator, histoires interactives
 
@@ -581,6 +583,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Café Enchanté
 - **Clannad**
 - Code: Realize Guardian of Rebirth, Future Blessings
+- **Danganronpa Decadence** (1/2/3)
 - Disaster Report 4
 - Doki Doki Literature Club Plus
 - [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
@@ -604,6 +607,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Heaven's Vault**
 - Hypnospace Outlaw
 - Les Chevaliers de Baphomet 5
+- Life Is Strange True Colors
 - **Night in the Wood**
 - **Overboard!**
 - **Paradise Killer**
@@ -964,23 +968,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : 
+- Jeux sortis, en attente de tests : Clockwork Aquario, Yu-Gi-Oh Rush Duel
 
-- Décembre : Asterix & Obélix Baffez-Les Tous (2), Danganronpa Decadence (3), Yu-Gi-Oh Rush Duel (7), Twelve Minutes (7), Life Is Strange True Colors (7), Loop Hero (9), Shovel Knight Pocket Dungeon (13), Record of Lodoss War (16), Deathsmiles 1 & 2 (16), Olli Olli World (?)
-- Janvier 2022 : **Pokémon Legends Arceus** (28), Astroneer (?)
-- Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25), Vampire The Masquerade Swansong (?)
-- Mars 2022 : **Triangle Strategy** (4), **Rune Factory 5** (25)
-- Avril 2022 : 13 Sentinels Aegis Rim (12), Sociable Soccer (17)
-- Mai 2022 : Touken Ranbu Warriors (24)
+- Décembre : Shovel Knight Pocket Dungeon (13), Record of Lodoss War (16), Omno (16), Deathsmiles 1 & 2 (16)
+- Janvier 2022 : Astroneer (13), **Pokémon Legends Arceus** (28)
+- Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25)
+- Mars 2022 : **Triangle Strategy** (4), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25)
+- Avril 2022 : **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
+- Mai 2022 : Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
+- Juin 2022 : Yurukill: The Calumnation Game (7)
 
-- Q3 2021/automne : Pocky & Rocky, Aztech Forgotten Gods, Wytchwood, Wreckfest, Kukoos Lost Pets
+- Q3 2021/automne : Pocky & Rocky, Wreckfest, Kukoos Lost Pets
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Hundred Days: Wine Making Simulator, **The Outer Wilds**
-- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+
+- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+, Aztech Forgotten Gods
 
-- 2021 : Rogue Lords, Bear & Breakfast, Card Shark, Gamedec, Graven, Rise of the Triad, Hatch Tales, Clockwork Aquario, Deathsmiles Collection, Moncage, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, DoDonPachi Resurrection, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
+- 2021 : Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
-- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, Metal Max Xeno Reborn, Mini Motorways, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Monark, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Sociable Soccer, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**
+- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, Sonic Frontiers
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Auto Chess, Fae Tactics, Lord of The Rings Gollum, **Fall Guys**, Sonic Origins, XIII Remake, Braid Anniversary, Darius Cozmic Revelation, Dorfromantik, Chernobylite, Blood Bowl 3, Roguebook, Life Is Strange Remastered & True Colors, Kingpin Reloaded, Enigma Archives Rain Code
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)

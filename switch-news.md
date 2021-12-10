@@ -1,141 +1,178 @@
-#cosmonews  
-  
-## Résumé  
-  
-- Annonce de **13 Sentinels Aegis Rim** pour le 12 avril  
-- Quelques annonces de jeux qui ont l'air sympathiques  
-- Des tests pour des jeux **League of Legends**, **Death's Door**, et d'autres  
+#cosmonews du jour bonjour  
   
 ## Calendrier  
   
-**Dernières sorties :**  
+Sorties récentes :  
   
-- **Surviving the Aftermath**, un jeu de gestion/stratégie  
-- **Ruined King: A League of Legends Story**, un RPG tour par tour dans l'univers League of Legends  
-- **Grow: Song of the Evertree**, un jeu de farming/glande  
-- **Pokémon Brilliant Diamond/Shining Pearl**, un RPG tour par tour  
-- **Death's Door**, un jeu d'aventure/action  
-- **DoDonPachi Resurrection**, un shmup bullet hell par Cave  
-  
-**Prochaines sorties :**  
-  
+- **Wytchwood**, un RPG/crafting  
+- **Clockwork Aquario**, un jeu d'arcade des années 90  
 - **Asterix & Obélix Baffez-Les Tous**, un beat'em up  
-- **Danganronpa Decadence**, 3 visual novels et un autre jeu dans l'univers  
-- **Yu-Gi-Oh Rush Duel**, un jeu de cartes multijoueur  
-- **Twelve Minutes**, un jeu d'aventure  
+- **Danganronpa Decadence**, une trilogie de visual novels  
+- **Yu-Gi-Oh Rush Duel**, un jeu de cartes  
+- **Twelve Minutes**, un jeu d'aventure/enquête  
 - **Life Is Strange True Colors**, un jeu d'aventure  
 - **Loop Hero**, un roguelike  
   
+Sorties prochaines :  
+  
+- **Shovel Knight Pocket Dungeon**, un puzzle game  
+- **Record of Lodoss War Deedlit in Wonder Labyrinth**, un metroidvania  
+- **Omno**, un jeu d'aventure/exploration  
+- **Deathsmiles 1 & 2**, deux shmups  
+  
 ## Annonces, dates et sorties  
   
-**13 Sentinels Aegis Rim**, un mélange de jeu d'aventure et RPG qui a fait grand bruit lors de sa sortie sur PS4, sort le 12 avril  
-https://www.destructoid.com/13-sentinels-aegis-rim-comes-to-switch-next-april/  
-![picture 25](https://i.imgur.com/Z35L5d0m.png)  
+**13 Sentinels Aegis Rim**, un mélange de jeu d'aventure et de RPG, sort le 12 avril avec un peu de nouveau contenu  
+https://www.siliconera.com/13-sentinels-aegis-rim-on-switch-gets-new-weapons/  
+![picture 3](https://i.imgur.com/poY4c0Bm.png)  
   
-**Enigma Archives Rain Code**, un jeu d'aventure par les créateurs de Danganronpa, est annoncé sans précisions  
-https://www.siliconera.com/danganronpa-team-working-on-enigma-archives-rain-code/  
-![picture 2](https://i.imgur.com/kNNtbBHm.png)  
+**Fall Guys** est officiellement repoussé à 2022 ; on s'en doutait puisqu'il devait sortir cet été et qu'on est déjà en hiver...  
+https://www.nintendolife.com/news/2021/12/sorry-folks-fall-guys-for-nintendo-switch-wont-be-released-this-year  
+![picture 6](https://i.imgur.com/SpkHoYFm.png)  
   
-**Yu-Gi-Oh Rush Duel**, un jeu de cartes, sort le 7 décembre  
-https://www.nintendolife.com/news/2021/11/yu-gi-oh-rush-duel-dawn-of-the-battle-royale-gets-dealt-a-december-release-date-on-switch  
-![picture 5](https://i.imgur.com/wD7Bgl8m.png)  
+**Persona 4 Arena Ultimax**, un jeu de baston dans l'univers Persoa, sort le 17 mars, Atlus nous trolle en sortant tous les spin-off de Persona mais aucun jeu "principal"  
+https://www.nintendolife.com/news/2021/12/persona-4-arena-ultimax-brings-the-fight-to-nintendo-switch-next-year  
+![picture 9](https://i.imgur.com/C8p7pvCm.jpg)  
   
-**DoDonPachi Resurrection**, un shmup Cave, est sorti  
-https://www.destructoid.com/dodonpachi-resurrection-jswitch-nintendo-cave-shmup-november-23/  
-![picture 6](https://i.imgur.com/zIJYyc9m.jpg)  
+**Sonic Frontiers**, un Sonic open world (on aura tout vu), est annoncé pour fin 2022  
+https://www.nintendolife.com/news/2021/12/introducing-sonic-frontiers-arriving-on-nintendo-switch-holiday-2022  
+![picture 11](https://i.imgur.com/QLmh3WCm.png)  
   
-**Shovel Knight Pocket Dungeon**, un puzzle game, sort le 13 décembre  
-https://www.nintendolife.com/news/2021/11/shovel-knights-brand-new-puzzle-game-launches-on-the-switch-eshop-next-month  
-![picture 7](https://i.imgur.com/Ebre6Fqm.png)  
+**.hack//GU Last Recode**, une quadrilogie de JRPG, sort le 11 mars  
+https://www.destructoid.com/hack-g-u-last-recode-nintendo-switch-march-2022-trailer-bandai-namco/  
+![picture 2](https://i.imgur.com/kJVsp7Wm.jpg)  
   
-**Twelve Minutes**, un jeu d'aventure en boucle temporelle, sort le 7 décembre  
-https://www.destructoid.com/twelve-minutes-playstation-switch-port-release-date-december-7/  
-![picture 3](https://i.imgur.com/8r2dyFXm.png)  
+**Omno**, un jeu d'aventure pacifique, sort le 16 décembre  
+https://www.nintendolife.com/news/2021/12/combat-free-fantasy-adventure-omno-is-finally-coming-to-switch  
+![picture 1](https://i.imgur.com/EcEKHSim.png)  
   
-**Life Is Strange True Colors**, un jeu d'aventure, sort le 7 décembre (et en physique le 25 février)  
-https://www.nintendolife.com/news/2021/11/life-is-strange-true-colors-secures-december-switch-release-physical-version-arrives-later  
-![picture 4](https://i.imgur.com/yA8qvpGm.png)  
+**Astroneer**, un jeu de survie/crafting, sort le 13 janvier  
+https://www.nintendolife.com/news/2021/12/astroneer-gets-january-release-date-and-finally-adds-cute-animals-to-the-game  
+![picture 4](https://i.imgur.com/nxcn4x4m.png)  
   
-## Rétrogaming  
+**Vampire the Masquerade Swansong**, un RPG vampirique, est repoussé au 19 mai  
+https://www.destructoid.com/vampire-the-masquerade-swansong-delayed-to-may-2022-big-bad-wolf/  
+![picture 5](https://i.imgur.com/1qlPEkTm.jpg)  
   
-**Pac-Man Museum+**, une compilation de 14 jeux Pac-Man, sort début 2022  
-https://www.siliconera.com/pac-man-museum-to-release-early-2022/  
-![picture 8](https://i.imgur.com/LCl0dwqm.png)  
+**Yurukill: The Calumnation Game**, un mélange de visual novel à la Danganronpa et de shmup, sort le 7 juin  
+https://www.destructoid.com/yurukill-the-calumniation-games-localization-june-2022-shmup-nis/  
+![picture 7](https://i.imgur.com/1CicItym.png)  
   
 ## Rumeurs, leaks, teasing et discussions  
   
-Les développeurs de **Yooka-Laylee** teasent une suite directe au premier épisode  
-https://www.nintendolife.com/news/2021/11/playtonics-original-yooka-laylee-game-is-getting-a-follow-up-title  
-![picture 10](https://i.imgur.com/VMNHspQm.jpg)  
+Une rumeur pour **Assassin's Creed Ezio Collection** sur Switch  
+https://www.nintendolife.com/news/2021/12/rumour-assassins-creed-the-ezio-collection-is-coming-to-switch  
+![picture 12](https://i.imgur.com/ecSLfVxm.jpg)  
   
-Une rumeur traîne sur un remaster de **Chrono Cross**, un JRPG PS1  
-https://www.nintendolife.com/news/2021/11/rumour-chrono-trigger-sequel-chrono-cross-might-be-getting-a-remaster  
-![picture 9](https://i.imgur.com/K2eAkKqm.png)  
+**Danganronpa Ultra Despair Girls** n'est pas prévu sur Switch, mais il pourrait si les fans le réclament  
+https://www.nintendolife.com/news/2021/12/danganronpa-another-episode-ultra-despair-girls-isnt-coming-to-switch-but-it-could  
+![picture 13](https://i.imgur.com/uTeC7lMm.png)  
   
-## Patchs, DLC et démos  
+## Images, vidéos, infos  
   
-La **trilogie GTA** a été patchée mais c'est toujours pas ça  
-https://www.nintendolife.com/news/2021/11/grand-theft-auto-trilogys-nintendo-switch-update-is-now-available-here-are-the-full-patch-notes  
-![picture 12](https://i.imgur.com/GHQADdZm.jpg)  
+Un trailer pour **Triangle Strategy**, le futur TRPG de Square  
+https://www.nintendolife.com/news/2021/11/video-square-enix-shares-first-triangle-strategy-character-and-story-trailer  
+![picture 16](https://i.imgur.com/lsgfe95m.jpg)  
   
-Un patch pour **Sonic Colors**  
-https://www.nintendolife.com/news/2021/11/sonic-colors-ultimate-has-received-another-update-on-nintendo-switch  
-![picture 11](https://i.imgur.com/1c8OzSRm.jpg)  
+Un trailer pour **Monark**, un JRPG  
+https://www.destructoid.com/monark-rpg-combat-launching-february-2022-news-update/  
+![picture 15](https://i.imgur.com/CcyRlm0m.png)  
+  
+Un trailer pour **Severed Steel**, un fast-FPS  
+https://www.nintendolife.com/news/2021/12/intense-shooter-severed-steel-gets-more-updates-ahead-of-switch-launch  
+![picture 14](https://i.imgur.com/zUMWbzxm.jpg)  
+  
+Un trailer pour **Sunbreak**, l'extension de **Monster Hunter Rise**  
+https://www.siliconera.com/monster-hunter-rise-sunbreak-and-amiibo-out-summer-2022/  
+![picture 8](https://i.imgur.com/0ZcVLVbm.png)  
   
 ## Versions physiques et collector  
   
-**Disco Elysium** en version physique sortira "en 2022"  
-https://www.destructoid.com/disco-elysium-the-final-cut-physical-copy-collectors-edition/  
-![picture 13](https://i.imgur.com/FbcbOSrm.jpg)  
+**Procession to Cavalry**, un point & click Monty Python-esque  
+https://www.p-nintendo.com/news/le-point-and-click-the-procession-to-calvary-va-beneficier-d-une-edition-physique-257756  
   
-**Record of Lodoss War Deedlit In Wonder Labyrinth**, en janvier  
-https://www.p-nintendo.com/news/record-of-lodoss-war-deedlit-in-wonder-labyrinth-disponible-en-janvier-2022-en-version-physique-257734  
-![picture 14](https://i.imgur.com/hOIbCXvm.jpg)  
+**GTA Trilogy** est repoussé en version physique, je ne serais pas surpris qu'il soit annulé vu le tollé qu'il se prend  
+https://www.destructoid.com/rockstar-delayed-the-physical-editions-of-gta-trilogy-definitive-edition-ps4-xbox-nintendo-switch-dates/  
+  
+**Crysis 3**, un FPS  
+https://www.nintendolife.com/news/2021/12/limited-run-reveals-its-physical-version-of-crysis-3-remastered-for-switch  
+  
+## News diverses, chiffres, hardware  
+  
+Nintendo perd un procès sur leur **non-remboursement des précommandes** dématérialisées  
+https://www.nintendolife.com/news/2021/12/nintendo-loses-court-appeal-over-switch-eshop-pre-order-cancellations  
   
 ## Tests  
   
-**Hextech Mayhem**, un jeu de plateforme/rythme dans l'univers League of Legends  
-https://www.destructoid.com/reviews/review-hextech-mayhem/  
-http://www.nintendoworldreport.com/review/59019/hextech-mayhem-a-league-of-legends-story-switch-review  
-https://www.p-nintendo.com/tests/tests-complets/hextech-mayhem-un-jeu-de-rythme-explosif-257718  
-![picture 15](https://i.imgur.com/wwiBtmVm.png)  
+**Danganronpa**, une série de visual novels :  
+- **Trigger Happy Havoc** (1)  
+https://www.nintendolife.com/reviews/switch-eshop/danganronpa-trigger-happy-havoc-anniversary-edition  
+https://www.siliconera.com/danganronpa-switch-introduces-new-class-killing-game/  
+- **Goodbye Despair** (2)  
+https://www.nintendolife.com/reviews/switch-eshop/danganronpa-2-goodbye-despair-anniversary-edition  
+https://www.siliconera.com/danganronpa-2-is-still-a-chaotic-time-on-the-switch/  
+- **Killing Harmony** (3)  
+https://www.nintendolife.com/reviews/switch-eshop/danganronpa-v3-killing-harmony-anniversary-edition  
+https://www.siliconera.com/danganronpa-v3-on-the-switch-is-a-satisfying-end-to-series/  
+- **Ultimate Summer Camp** (S)  
+https://www.nintendolife.com/reviews/switch-eshop/danganronpa-s-ultimate-summer-camp  
+http://www.nintendoworldreport.com/review/59066/danganronpa-s-ultimate-summer-camp-switch-review  
+https://www.destructoid.com/danganronpa-s-ultimate-summer-camp-fan-service-cold-impressions/  
+https://www.siliconera.com/review-danganronpa-s-is-tedious/  
+![picture 17](https://i.imgur.com/FRDeI9om.png)  
+  
+**Cérébrale Académie Bataille de Méninges**, un jeu de puzzles en versus  
+https://www.nintendolife.com/reviews/nintendo-switch/big-brain-academy-brain-vs-brain  
+https://www.gamespot.com/reviews/big-brain-academy-brain-vs-brain-review/1900-6417796/?ftag=CAD-01-10abi2f  
+http://www.nintendoworldreport.com/review/59067/big-brain-academy-brain-vs-brain-switch-review  
+https://www.destructoid.com/reviews/review-big-brain-academy-brain-vs-brain-nintendo-switch/  
+https://www.p-nintendo.com/tests/tests-complets/test-de-cerebrale-academie-bataille-de-meninges-a-renommer-bataille-de-controleur-2577797  
+![picture 18](https://i.imgur.com/5rg3F4bm.png)  
   
 **Ruined King**, un RPG dans l'univers League of Legends  
-https://www.p-nintendo.com/tests/tests-complets/test-de-ruined-king-a-league-of-legend-story-quand-le-moba-devient-un-rpg-257725  
-https://www.nintendolife.com/reviews/switch-eshop/ruined-king-a-league-of-legends-story  
-![picture 16](https://i.imgur.com/M32hXxCm.png)  
+https://www.eurogamer.net/articles/2021-12-07-ruined-king-a-league-of-legends-story-review-a-warm-welcome-into-one-of-gamings-busiest-worlds  
+https://www.destructoid.com/ruined-king-a-league-of-legends-story-impressions-rpg-sticks-the-landing/  
+http://www.nintendoworldreport.com/review/59068/ruined-king-a-league-of-legends-story-switch-review  
+![picture 20](https://i.imgur.com/5h82jwIm.jpg)  
   
-**Death's Door**, un jeu d'aventure/action  
-https://www.nintendolife.com/reviews/switch-eshop/deaths-door  
-http://www.nintendoworldreport.com/review/59014/deaths-door-switch-review  
-![picture 17](https://i.imgur.com/E2mCVG4m.jpg)  
+**Clockwork Aquario**, un jeu d'arcade annulé dans les années 90 puis terminé récemment  
+https://www.nintendolife.com/reviews/switch-eshop/clockwork-aquario  
+https://ladiesgamers.com/clockwork-aquario-review/  
+![picture 21](https://i.imgur.com/Ufi5AcGm.png)  
   
-**Grow: Song of the Evertree**, un jeu de farming/glande  
-https://ladiesgamers.com/grow-song-of-the-evertree-review/  
-http://www.nintendoworldreport.com/review/59017/grow-song-of-the-evertree-switch-review  
-![picture 18](https://i.imgur.com/aTeIn8bm.png)  
+**Loop Hero**, un roguelike/RPG  
+https://www.nintendolife.com/reviews/switch-eshop/loop-hero  
+http://www.nintendoworldreport.com/review/59099/loop-hero-switch-review  
+![picture 22](https://i.imgur.com/TMNaj9rm.png)  
   
-**Date Night Bowling**, un mélange de bowling et de drague  
-https://www.destructoid.com/reviews/review-date-night-bowling-pc-nintendo-switch/  
-http://www.nintendoworldreport.com/review/59015/date-night-bowling-switch-review  
-![picture 19](https://i.imgur.com/nwolqUom.jpg)  
+**Beyond a Steel Sky**, un point & click  
+https://www.nintendolife.com/reviews/nintendo-switch/beyond-a-steel-sky  
+![picture 23](https://i.imgur.com/RkYvEV7m.jpg)  
   
-**Mario Golf Super Rush** en version finale  
-https://www.nintendolife.com/features/our-verdict-on-mario-golf-super-rushs-version-4-0-update-the-final-new-characters-courses-and-modes  
-![picture 20](https://i.imgur.com/nIdeI0Vm.jpg)  
+**Archvale**, un Zelda-like à la sauce twin stick shooter  
+https://www.nintendolife.com/reviews/switch-eshop/archvale  
+![picture 24](https://i.imgur.com/Wirpr2Fm.jpg)  
   
-**Klang 2**, un jeu de rythme  
-https://www.nintendolife.com/reviews/switch-eshop/klang-2  
-![picture 21](https://i.imgur.com/T7BTOWYm.png)  
+**Blue Reflection Second Light**, un JRPG  
+https://www.p-nintendo.com/tests/tests-complets/test-de-blue-reflection-second-light-la-renaissance-257766  
+![picture 25](https://i.imgur.com/uCG7zPMm.jpg)  
   
-**Unsighted**, un Zelda-like  
-https://www.nintendolife.com/reviews/switch-eshop/unsighted  
-![picture 22](https://i.imgur.com/dpJRRddm.jpg)  
+**DoDonPachi Resurrection**, un shmup bullet hell  
+https://www.nintendolife.com/reviews/switch-eshop/dodonpachi-resurrection  
+![picture 26](https://i.imgur.com/t328hXJm.jpg)  
   
-**The Wild At Heart**, un Pikmin-like  
-https://www.nintendolife.com/reviews/nintendo-switch/the-wild-at-heart  
-![picture 23](https://i.imgur.com/w9bMCwPm.jpg)  
+**Disney Magical World 2**, un life sim/RPG pour gamins  
+https://www.nintendolife.com/reviews/nintendo-switch/disney-magical-world-2-enchanted-edition  
+![picture 27](https://i.imgur.com/R6fSUH8m.jpg)  
   
-**Marsupilami Le Secret du Sarcophage**, un platformer orienté enfants  
-https://www.p-nintendo.com/tests/tests-complets/test-de-marsupilami-le-secret-du-jeu-de-plateforme-257730  
-![picture 24](https://i.imgur.com/mHWhiMXm.png)  
+**The Legend of Tianding**, un jeu de plateforme/action/aventure avec de très beaux graphismes  
+http://www.nintendoworldreport.com/review/59096/the-legend-of-tianding-switch-review  
+![picture 28](https://i.imgur.com/cUXfEjfm.jpg)  
+  
+**Life Is Strange True Colors**, un jeu d'aventure  
+https://www.nintendolife.com/reviews/switch-eshop/life-is-strange-true-colors  
+![picture 29](https://i.imgur.com/J6wSGZXm.png)  
+  
+**Wytchwood**, un RPG/jeu de crafting avec de très jolis graphismes  
+https://ladiesgamers.com/wytchwood-review/  
+![picture 30](https://i.imgur.com/GgLVPfKm.jpg)  
