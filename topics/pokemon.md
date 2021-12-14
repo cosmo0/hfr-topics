@@ -4,17 +4,41 @@ Bienvenue sur le topic de tous les jeux Pokémon [:zytra]
 
 ## Sommaire
 
-1. Pokémon Epee/Bouclier
-2. Les jeux de la série principale // Transférer ses pokémons entre jeux
-3. Les spin-off
-4. Les inspirations et imitateurs
-5. Lexique et vocabulaire // Liens utiles et bases de données
+1. Légendes Pokémon - Arceus
+2. Pokémon Epee/Bouclier
+3. Les jeux de la série principale // Transférer ses pokémons entre jeux
+4. Les spin-off
+5. Les inspirations et imitateurs
+6. Lexique et vocabulaire // Liens utiles et bases de données
+
+## ![Légendes Pokémon - Arceus](https://i.imgur.com/9QTOCu9h.jpg)  
+
+Sortie le 28 janvier 2022.
+
+Un spin-off qui secoue un peu la formule.
+
+### L'histoire
+
+Le jeu se déroule dans le passé, dans la région de Hisui, le précédent nom de la région de Sinnoh (celle de Perle/Diamant). L'objectif est, encore une fois, d'explorer la région et cataloguer tous les pokémons du coin.
+
+![picture 6](https://i.imgur.com/vjnMufCt.jpg) ![picture 7](https://i.imgur.com/76HQ8OBt.jpg)
+
+### Le monde
+
+La structure change radicalement : cet épisode est découpé en plusieurs grandes zones, équivalentes de la "zone sauvage" de Epée/Bouclier, mais avec plusieurs écosystèmes (plaine, montagne, neige, etc).
+
+![picture 8](https://i.imgur.com/0o4AAxbt.jpg) ![picture 9](https://i.imgur.com/IdRpXMTt.jpg)
+
+### Le gameplay
+
+Deux systèmes se complètent : lors de la rencontre avec un monstre, on lui court autour en temps réel pour le fatiguer et potentiellement le capturer ; et durant l'affrontement, le combat est au tour par tour avec un système de disruption d'ordre de tours (style rapide ou puissant).
+
+![picture 11](https://i.imgur.com/N3jwzzct.jpg) ![picture 10](https://i.imgur.com/TbazLNet.jpg)
 
 ## ![Pokémon Epee/Bouclier](https://i.imgur.com/cc6O00ch.jpg)
 
-Premier "nouvel épisode" de la série principale sur console de salon !
-Sorti le 15 novembre 2019.
-Le jeu pèse 9.5Go.
+Premier "nouvel épisode" de la série principale sur console de salon !  
+Sorti le 15 novembre 2019.  
 Les sauvegardes ne sont pas compatibles avec le cloud (Switch Online), prétendument pour éviter la triche, ce qui n'empêche évidemment pas les tricheurs.
 
 ### La carte / le monde

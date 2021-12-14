@@ -4,7 +4,7 @@ $file = $Args[0]
 $content = get-content $file -raw -Encoding UTF8
 
 # titles
-$content = $content -replace '### ([^\r\n]*)',"`n[b]`$1[/b]"
+$content = $content -replace '### ([^\r\n]*)',"`n[b][#FF0000]`$1[/#FF0000][/b]"
 $content = $content -replace '## ([^\r\n]*)',"`n[fixed]`$1[/fixed]"
 
 # bold
