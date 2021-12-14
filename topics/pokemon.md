@@ -24,7 +24,7 @@ Le jeu se déroule dans la région de **Galar**, plus que fortement inspirée pa
 La plus grande partie de la carte est de type "collines verdoyantes" ou neigeux/glacé, plus quelques autres environnements : désert, montagnes, mines, etc.  
 Il y a également un **cycle jour/nuit et une météo** : pluie, neige, tempête de sable, etc.
 
-[![http://i.imgur.com/4rGVSM1m.jpg](http://i.imgur.com/4rGVSM1m.jpg)](https://imgur.com/4rGVSM1)
+[![Carte](http://i.imgur.com/4rGVSM1m.jpg)](https://imgur.com/4rGVSM1)
 
 Cet épisode a **une zone plus ouverte que la plupart des épisodes**, avec une "zone sauvage", rencontrée très tôt, que l'on peut parcourir librement, et qui est traversée par des pokémons de niveaux divers. On peut donc rencontrer un mastodonte niveau 50 avec son starter level 6 (et bon courage).
 
@@ -167,7 +167,7 @@ Je ne note que les changements principaux et marquants.
 
 ![https://i.imgur.com/SyWHpT7t.jpg](https://i.imgur.com/SyWHpT7t.jpg) ![https://i.imgur.com/FoSc3t.png](https://i.imgur.com/FoSc3t.png)
 
-## Génération 5
+### Génération 5
 
 **Noir / Blanc** (DS) - 15.6M  
 <https://www.pokemon.com/us/pokemon-video-games/pokemon-black-version-and-pokemon-white-version/>
@@ -188,7 +188,7 @@ Je ne note que les changements principaux et marquants.
 
 ![https://i.imgur.com/INvqXZ5t.jpg](https://i.imgur.com/INvqXZ5t.jpg) ![https://i.imgur.com/ZBjOiyEt.jpg](https://i.imgur.com/ZBjOiyEt.jpg)
 
-## Génération 6
+### Génération 6
 
 **X / Y** (3DS) - 16.4M  
 <https://www.pokemon.com/us/pokemon-video-games/pokemon-x-and-pokemon-y/>
@@ -212,7 +212,7 @@ Je ne note que les changements principaux et marquants.
 
 ![https://i.imgur.com/of3b1yTt.png](https://i.imgur.com/of3b1yTt.png) ![https://i.imgur.com/GsMeFoHt.jpg](https://i.imgur.com/GsMeFoHt.jpg)
 
-## Génération 7
+### Génération 7
 
 **Soleil / Lune** (3DS) - 16.2M  
 <https://www.pokemon.com/us/pokemon-video-games/pokemon-sun-and-pokemon-moon/>
@@ -231,6 +231,8 @@ Je ne note que les changements principaux et marquants.
 
 ![https://i.imgur.com/ULKzKfft.jpg](https://i.imgur.com/ULKzKfft.jpg) ![https://i.imgur.com/G6yf1tSt.jpg](https://i.imgur.com/G6yf1tSt.jpg)
 
+### Génération 8
+
 **Let's Go Pikachu / Let's Go Evoli** (Switch) - 11.3M  
 <https://www.pokemon.com/us/pokemon-video-games/pokemon-lets-go-pikachu-and-pokemon-lets-go-eevee/>
 
@@ -241,6 +243,28 @@ Je ne note que les changements principaux et marquants.
 - Se limite aux 151 pokémons originels, en y ajoutant Meltan et Melmetal.
 
 ![https://i.imgur.com/KlhDxbtt.jpg](https://i.imgur.com/KlhDxbtt.jpg) ![https://i.imgur.com/EOWzFqzt.jpg](https://i.imgur.com/EOWzFqzt.jpg)
+
+**Epée / Bouclier** (Switch) - 22.7M  
+<https://www.pokemon.com/us/pokemon-video-games/pokemon-sword-and-pokemon-shield/>
+
+- Région : Galar, basée sur le Royaume-Uni
+- Premier épisode qui inclut une zone ouverte à explorer, la "zone sauvage" (le reste du jeu est sous forme de routes comme précédemment), avec un cycle jour/nuit et de la météo
+- Comme dans Let's Go, les pokémons se promènent et il faut les toucher : plus de combats aléatoires
+- Le pokédex ne contient plus la totalité des pokémons existants, gros scandale que tout le monde a déjà oublié
+- Les pokémons ont des formes géantes "dynamax" et "gigamax"
+- Il y a également divers mini-jeux (camping, cuisine, etc)
+- On peut modifier le personnage (vêtements, coiffure, couleur de peau, etc)
+
+![picture 1](https://i.imgur.com/XFTUzP4t.jpg) ![picture 2](https://i.imgur.com/MG7PYZkt.jpg)
+
+**Diamant Etincelant / Perle Scintillante** (Switch)  
+<https://www.pokemon.com/us/pokemon-video-games/pokemon-brilliant-diamond-and-pokemon-shining-pearl/>
+
+- Recrée la version Perle/Diamant
+- Très proche de la version originale, avec les souterrains, les concours, etc
+- Très peu de changements fondamentaux
+
+![picture 3](https://i.imgur.com/LoPc2ggt.jpg) ![picture 4](https://i.imgur.com/q9r85qyt.jpg)
 
 ## Transférer ses pokémons entre jeux et générations
 
@@ -296,6 +320,9 @@ Un jeu de combat qui se base sur Tekken et propose des combats typés "jeu de ba
 **Pokémon Rumble** (Wii, WiiU, 3DS, Android/iOS)  
 Une série de jeux généralement free to play, avec des séries de combats basiques contre des hordes d'adversaires.
 
+**Pokémon Unite** (Switch, Android/iOS)  
+Un MOBA avec des pokémons, dans le style League of Legends/DOTA2.
+
 ### Puzzle et réflexion
 
 **Pokémon Puzzle** (GBC, N64)  
@@ -307,6 +334,9 @@ Des match-3 à la Candy Crush. Shuffle est free to play.
 **Pokémon Picross** (SNES, GBC, 3DS)  
 Des picross dans l'univers Pokémon. La version 3DS est free to play.
 
+**Pokémon Café Mix** (Switch, iOS/Android)  
+Un mini-jeu de puzzle "light" avec une légère touche de gestion, pas très passionnant.
+
 ### Mini jeux
 
 **Hey You Pikachu, Pokémon Channel** (N64, GC)  
@@ -314,6 +344,9 @@ Des "animaux virtuels" qui permettent de jouer avec Pikachu.
 
 **Pokémon Snap** (N64)  
 Un "rail shooter" où on prend des photos de pokémons sauvages au lieu de tirer.
+
+**New Pokémon Snap** (Switch)  
+La suite du précédent, avec plus de variété, plus de possibilités, etc.
 
 ### Autre
 
