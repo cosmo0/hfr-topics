@@ -40,7 +40,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Jeux de cartes** : [Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/), Faeria
 - **Jeux de société** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/)
 - **Autre** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), New Pokémon Snap
-- **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection), Capcom Arcade Stadium, Castlevania Advance Collection
+- **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection), Capcom Arcade Stadium, [Castlevania Advance Collection](https://www.cosmo0.fr/critique/castlevania-advance-collection/)
 
 ## Pour les joueurs occasionnels
 
@@ -162,7 +162,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Lost In Random
 - **[Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)**
 - [Minit](https://www.cosmo0.fr/critique/minit/)
-- **No More Heroes 1, 2, 3**
+- No More Heroes 1, 2, 3
 - [Okami HD](https://www.cosmo0.fr/critique/okami-hd/)
 - [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
 - **Paper Mario The Origami King**
@@ -384,7 +384,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Tales of Vesperia
 - [The Outer Worlds](https://www.cosmo0.fr/critique/the-outer-worlds/)
 - **The Witcher 3**
-- The World Ends With You, **Neo The World Ends With You**
+- [The World Ends With You](https://www.cosmo0.fr/critique/the-world-ends-with-you-final-remix/), **NEO The World Ends With You**
 - [Transistor](https://www.cosmo0.fr/critique/transistor/)
 - **Xenoblade Chronicles Definitive Edition**
 - **Xenoblade Chronicles 2**
@@ -629,7 +629,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Brothers A Tale of Two Sons
 - **[Captain Toad Treasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/)**
 - Carto
-- **Catherine Full Body**
+- **[Catherine Full Body](https://www.cosmo0.fr/critique/catherine-full-body/)**
 - **I Am Dead**
 - L'aventure Layton
 - Part Time UFO
@@ -781,7 +781,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Shoot'em ups (shmups), twin stick shooters, rail shooters
 
-Beaucoup de classiques de l'arcade sont présents en portages ou compilations : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, In The Hunt, [Blazing Star](https://www.cosmo0.fr/critique/aca-neogeo-blazing-star/), EspRaDe Psy, Psikyo Shooting Stars, [Konami Arcade Classics](https://www.cosmo0.fr/critique/konami-anniversary-collection-arcade-classics/), [R-Type](https://www.cosmo0.fr/critique/r-type-dimensions-ex/), Darius Cozmic Collection, Space Invaders Invincible Collection, Mushihimesama, Espgaluda 2, DoDonPachi Resurrection, etc.
+Beaucoup de classiques de l'arcade sont présents en portages ou compilations : Gunbird, Zero Gunner 2, Twinkle Star Sprite, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Dragon Blaze, Alpha Mission 2, In The Hunt, [Blazing Star](https://www.cosmo0.fr/critique/aca-neogeo-blazing-star/), EspRaDe Psy, Psikyo Shooting Stars, [Konami Arcade Classics](https://www.cosmo0.fr/critique/konami-anniversary-collection-arcade-classics/), [R-Type](https://www.cosmo0.fr/critique/r-type-dimensions-ex/), Darius Cozmic Collection, Space Invaders Invincible Collection, etc.
 
 - Assault Android Cactus
 - **[Crimzon Clover](https://www.cosmo0.fr/critique/crimzon-clover-world-explosion/)**
@@ -791,12 +791,12 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/)
 - **EspGaluda 2**
 - EspRaDe Psy (JP)
-- Ghost Blade HD
+- [Ghost Blade HD](https://www.cosmo0.fr/critique/ghost-blade-hd/)
 - [Graceful Explosion Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/)
 - **[Ikaruga](https://www.cosmo0.fr/critique/ikaruga/)**
 - Jamestown+
 - [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/)
-- **Mushihimesama**
+- **[Mushihimesama](https://www.cosmo0.fr/critique/mushihimesama/)**
 - Psyvariar Delta
 - Rival Megagun
 - **Rolling Gunner**

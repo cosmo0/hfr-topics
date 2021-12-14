@@ -45,7 +45,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Crackdown 3** (Game Pass)
 - **Far Cry 3, 4, 5, 6, Primal, New Dawn**
 - **GTA V**
-- Immortals Fenyx Rising
+- [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/)
 - Just Cause 3, 4
 - **Mafia 1, 2, 3**
 - Middle-Earth: Shadow of Mordor, Shadow of War (Game Pass)
@@ -148,7 +148,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **New Super Lucky's Tale** (Game Pass)
 - PHOGS! (Game Pass)
 - **[Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/)**
-- **Sonic Mania**
+- **[Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/)**
 - Spiritfarer (Game Pass)
 - **Spyro Reignited Trilogy**
 - The Missing: JJ Macfield and the Island of Memories
@@ -186,11 +186,11 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - **Hollow Knight** (Game Pass)
 - Momodora: Reverie Under the Moonlight (Game Pass)
 - **Monster Boy & the Cursed Kingdom**
-- **Ori and the Blind Forest, Will of the Wisps** (tous sur le Game Pass)
+- **[Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)**, **[Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)** (tous sur le Game Pass)
 - Salt & Sanctuary
 - **Shadow Complex**
 - Shantae Pirate's Curse, Half Genie Hero
-- Sparklite
+- [Sparklite](https://www.cosmo0.fr/critique/sparklite/)
 - Strider
 - **The Messenger** (Game Pass)
 - Touhou Luna Nights (Game Pass)
@@ -455,7 +455,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 
 - Brawlhalla
 - **Dead or Alive 6**
-- **Dragon Ball FighterZ**, Xenoverse 2
+- **Dragon Ball FighterZ**, [Xenoverse 2](https://www.cosmo0.fr/critique/dragon-ball-xenoverse-2/)
 - EA Sports UFC 1 (Game Pass), 2 (Game Pass), 3 (Game Pass), 4
 - Injustice 2
 - **Killer Instinct** (Game Pass)
@@ -478,7 +478,7 @@ Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft.
 - Castle Crashers
 - **Devil May Cry** 4, 5, DmC Devil May Cry
 - River City Girls (Game Pass)
-- **Streets of Rage 4** (Game Pass)
+- **[Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/)** (Game Pass)
 - Wulverblade
 
 ## Shmup, Twin Stick Shooter

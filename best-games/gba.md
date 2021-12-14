@@ -6,23 +6,23 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 
 ## Plateforme
 
-- **Donkey Kong Country 1, 2, 3**
+- **Donkey Kong Country 1, 2, 3** (portages des jeux SNES)
 - **Kirby And The Amazing Mirror, Nightmare in Dreamland**
 - Rayman Advance
 - Sonic Advance 1, 2, 3
-- **Super Mario Advance 1, 2, 3, 4**
+- **Super Mario Advance 1, 2, 3, 4** (portages des jeux SNES)
 - Super Monkey Ball Jr
 - **Wario Land 4**
 
 ## Plateforme/action
 
 - **Astro Boy : Omega Factor**
-- **Castlevania Aria of Sorrow, Harmony of Dissonance, Circle of the Moon**
+- **[Castlevania Aria of Sorrow, Harmony of Dissonance, Circle of the Moon](https://www.cosmo0.fr/critique/castlevania-advance-collection/)** (aussi dispos sur plateformes modernes)
 - Contra Advance
 - CT Special Forces 1, 2, 3
 - Drill Dozer
 - **Gunstar Future Heroes**
-- **Megaman Zero 1, 2, 3, 4**
+- **Megaman Zero 1, 2, 3, 4** (aussi dispos sur plateformes modernes)
 - Metal Slug Advance
 - **Metroid Fusion, Zero**
 - Ninja Five-O
@@ -32,36 +32,37 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 
 ## Aventure/action, shooters
 
-- Doom 1, 2
-- Duke Nukem Advance
+- Doom 1, 2 (portages des jeux PC)
+- Duke Nukem Advance (portage du jeu PC)
 - Dragon Ball Advance Adventure, Z Buu's Fury
-- Grand Theft Auto
+- Grand Theft Auto Advance
 - Jurassic Park 3 Island Attack
 - **Zelda : A Link to the Past, Minish Cap**
 
 ## RPG
 
 - Beyblade: G-Revolution
-- **Final Fantasy I & II, IV, V, VI**
+- **Final Fantasy I & II, IV, V, VI** (ont des tas de versions sur des tas de plateformes)
 - **Golden Sun 1, 2**
-- Harvest Moon Friends of Mineral Town
+- Harvest Moon Friends of Mineral Town (a un remake sur plateforme moderne)
 - Kingdom Hearts Chain of Memories
 - Lufia Ruins of Lore
 - Lunar Legend
 - **Mario & Luigi Superstar Saga**
 - Mega Man Battle Network 1, 2
 - **Mother 3** (nécessite une fantrad)
-- Phantasy Star Collection
-- **Pokémon Rubis/Sapphire/Emeraude, Rouge Feu/Vert Feuille**
-- Shining Force, Shining Soul 1, 2
+- Phantasy Star Collection (portages des jeux Megadrive)
+- **Pokémon Rubis/Sapphire/Emeraude, Rouge Feu/Vert Feuille** (ont des remakes sur 3DS et Switch)
+- Shining Force (portage des jeux Megadrive)
+- Shining Soul 1, 2
 - Summon Night Swordcraft Story 1, 2
-- Sword of Mana
+- Sword of Mana (remake du premier épisode GB)
 - Tales of Phantasia
 - Yggdra Union
 
 ## Stratégie, tactique
 
-- **Advance Wars 1, 2**
+- **Advance Wars 1, 2** (ont des remakes sur Switch)
 - **Final Fantasy Tactics Advance**
 - **Fire Emblem 1, Sacred Stone**
 - Super Robot Taisen OG 1, 2
@@ -74,15 +75,15 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 - Invader
 - **Iridion 2**
 - Phalanx
-- R-Type 3
+- R-Type 3 (portage du jeu SNES)
 - Steel Empire
 
 ## Beat'em up
 
 - Advance Guardian Heroes
 - Double Dragon Advance
-- **Final Fight One**
-- River City Ransom EX
+- **Final Fight One** (portage du jeu arcade)
+- River City Ransom EX (remake du jeu NES)
 - **TMNT**
 - X-Men Reign of Apocalypse
 
@@ -91,8 +92,8 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 - Dragon Ball Z Supersonic Warriors
 - Guilty Gear X
 - Mortal Kombat Tournament Edition
-- **Super Street Fighter 2 Turbo Revival**
-- **Street Fighter Alpha 3**
+- **Super Street Fighter 2 Turbo Revival** (portage du jeu arcade)
+- **Street Fighter Alpha 3** (portage du jeu arcade)
 - Tekken Advance
 - The King of Fighters EX2
 
@@ -104,7 +105,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 - **Mario vs Donkey Kong**
 - Puyo Pop Fever
 - Super Puzzle Bobble Advance
-- Super Puzzle Fighter 2 Turbo
+- Super Puzzle Fighter 2 Turbo (portage du jeu arcade)
 - **Wario Ware Inc Minigame Mania, Twisted**
 
 ## Course
