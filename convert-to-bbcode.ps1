@@ -17,6 +17,9 @@ $content = $content -replace '!\[[^\]]*\]\(([^\)]*)\)', '[img]$1[/img]'
 $content = $content -replace '\[([^\]]*)\]\(([^\)]*)\)', '[url=$2]$1[/url]'
 $content = $content -replace '<([^>]+)>', '$1'
 
+# images inside links
+$content = $content -replace '\[(\[img\][^\[]+\[\/img\])\]\(([^\)]*)\)', '[url=$2]$1[/url]'
+
 # quotes
 $content = $content -replace '> ([^\r\n]*)', '[quote]$1[/quote]'
 
