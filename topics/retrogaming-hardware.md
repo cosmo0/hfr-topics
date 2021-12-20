@@ -60,10 +60,15 @@ Site : <http://www.retrostationarcade.com/>
 
 ### Commodore
 
-S'engouffrant dans la brèche des mini-machines, un **Commodore 64 Mini** est proposé avec une sélection un peu aléatoire de jeux qui ont généralement assez mal vieilli, et une qualité de fabrication encore une fois assez moyenne.  
+S'engouffrant dans la brèche des mini-machines, un **Commodore 64 Mini** est proposé en deux versions (avec ou sans clavier fonctionnel), ainsi qu'une version skinnée "VIC20", mais la qualité de fabrication est assez moyenne dans tous les cas. Les 64 jeux jeux inclus semblent sélectionnés un peu aléatoirement sans aucun indispensable, mais la version avec clavier fonctionnel offre la possibilité d'en charger d'autres à travers une clé USB.  
 Site : <http://thec64mini.com/>
 
 ![C64 Mini](https://i.imgur.com/ZIHDJgjt.jpg)
+
+Suite au C64 Mini, la société ayant racheté les droits de Commodore crée un **Amiga 500 Mini** sur le même principe, avec 25 jeux dont quelques indispensables (Alien Breed, Another World, The Chaos Engine, Kick Off 2...), ainsi que la possibité d'en charger d'autres à travers une clé USB. Le clavier n'est malheureusement pas fonctionnel, mais on peut espérer une nouvelle version, comme pour le C64.  
+Site : <https://retrogames.biz/thea500-mini>
+
+![A500 Mini](https://i.imgur.com/KUEiDTot.png)
 
 ### Intellivision
 
