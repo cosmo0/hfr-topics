@@ -70,13 +70,6 @@ Site : <https://retrogames.biz/thea500-mini>
 
 ![A500 Mini](https://i.imgur.com/KUEiDTot.png)
 
-### Intellivision
-
-Les propriétaires des droits de la marque (qui n'ont plus rien à voir avec les propriétaire de l'époque) créent l'**Intellivision Amico** : une console moderne, peu puissante, pas trop chère (entre 150 et 200$), destinée à la famille (avec capteurs de mouvement à la Wii) et aux enfants (que des jeux PEGI 10 ou moins, 10$ max, pas de DLC, pas de microtransactions). Que fait cette console "moderne" dans ce topic ? Le catalogue devrait être composé principalement de vieilles gloires et de jeux "néorétro" inspirés des hits d'antan. Et si j'en parle pas ici, qui le fera ?  
-Site : <https://www.intellivisionentertainment.com/>
-
-![Intellivision Amico](https://i.imgur.com/6mU08B3t.png)
-
 ### NEC
 
 Les droits de la PC Engine se sont baladés et appartiennent aujourd'hui à Konami, qui, un peu à la bourre, se lancent eux aussi dans le business des mini-consoles avec la **PC Engine Mini**. Trois versions sont disponibles (JP, US, EU), avec une bonne sélection de jeux qui sont, de manière très surprenante, tous disponibles sur toutes les versions (à l'exception de quelques-uns). Vous pourrez donc jouer à Snatcher et Dracula X sur la version EU... mais en Japonais.  
