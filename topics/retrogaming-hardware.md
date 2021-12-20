@@ -85,14 +85,12 @@ Site : <https://www.pcmini.jp/>
 ### Nintendo
 
 La **NES Mini** est la console qui a lancé la mode actuelle des consoles "mini" officielles. Avec une fabrication de bonne qualité, une émulation de bonne facture et une bonne sélection de jeux pour un prix honnête, tout était présent pour réussir.  
-Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html>  
-Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/nintendo-entertainment-edition-sujet_191061_1.htm>
+Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html>
 
 ![NES Mini](https://i.imgur.com/2Wrs7wrt.jpg)
 
 La **SNES Mini** était la suite logique, avec moins de jeux et plus chère, mais une 2e manette de base, et toujours la même qualité générale.  
-Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System-1238330.html>  
-Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/nintendo-entertainment-nintendo-sujet_194878_1.htm>
+Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System-1238330.html>
 
 ![SNES Mini](https://i.imgur.com/wHN6Hf2t.jpg)
 
@@ -104,7 +102,6 @@ Sega propose depuis longtemps des consoles créées par AT Games : Megadrive Cla
 
 Pour les 30 ans de la Megadrive aux US, Sega s'est décidé à (enfin) faire les choses bien, et crée une **Megadrive Mini**, avec une approche similaire à Nintendo : bonne qualité, bons jeux, bonne émulation (par M2, des spécialistes du genre).  
 Site : <http://megadrivemini.sega.com/>
-Topic : <https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=200383>
 
 ![Megadrive Mini](https://i.imgur.com/2Q4D6utt.jpg)
 
@@ -149,8 +146,7 @@ Site : <https://www.snk-corp.co.jp/us/neogeoarcadestickpro/>
 ### Sony
 
 Suite au succès des consoles mini de Nintendo, Sony sort une **Playstation Classic** d'une qualité hardware correcte, mais avec une sélection de jeux douteuse, une émulation pourrie, et un prix élevé, l'échec a été assez violent.  
-Site : <https://www.playstation.com/fr-fr/explore/playstation-classic/>  
-Topic : <https://forum.hardware.fr/hfr/JeuxVideo/Consoles/topikunik-playstation-classic-sujet_198463_1.htm>
+Site : <https://www.playstation.com/fr-fr/explore/playstation-classic/>
 
 ![Playstation Classic](https://i.imgur.com/iXvmJn5t.jpg)
 
@@ -332,12 +328,6 @@ Fabricant d'ordinateurs avant tout, ils font également des machines sous Androi
 Site : <https://www.gpd.hk/>
 
 ![GPD XD](https://i.imgur.com/ZWULkPJt.jpg)  
-
-**Moqi**  
-Moqi fabriquaient la i7s, machine Android avec un look de Vita. Elle est difficilement trouvable et assez chère (plus de 350€) mais la qualité est au rendez-vous, le suivi est excellent, et c'est un véritable téléphone avec lequel on peut appeler.  
-Site : <http://www.moqiphone.com/>
-
-![Moqi i7s](https://i.imgur.com/gGsm3pNt.jpg)
 
 **NVidia**  
 Le célèbre fabricant de cartes graphiques et autre matériel PC fabrique aussi une "box Android" avec du bon matériel (identique à la Switch), très réputé chez les amateurs de rétrogaming, mais évidemment impossible à transporter.  
