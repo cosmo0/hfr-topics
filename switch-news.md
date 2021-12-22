@@ -1,96 +1,126 @@
-#cosmonews spéciale récap Indie World du 15 décembre 2021
+#cosmonews  
+  
+## Calendrier  
+  
+**Dernières sorties :**  
+  
+- **Clockwork Aquario**, un jeu arcade de plateforme
+- **Yu-Gi-Oh Rush Duel**, un jeu de cartes en mode RPG
+- **Shovel Knight Pocket Dungeon**, un jeu de puzzle
+- **Record of Lodoss War**, un metroidvania
+- **Omno**, un jeu d'aventure/puzzle zen
+- **Deathsmiles 1 & 2**, des shmups
+  
+**Prochaines sorties :**  
+  
+- Rien d'intéressant avant mi-janvier !  
+  
+## Annonces, dates et sorties  
+  
+**Redout 2**, un jeu de course à la Wipeout/F-Zero, est annoncé pour 2022  
+https://www.nintendolife.com/news/2021/12/next-gen-anti-grav-racer-redout-2-speeds-onto-nintendo-switch-in-2022  
+![picture 3](https://i.imgur.com/ngclDwfm.png)  
+  
+**Chocobo GP**, un jeu de course de karts dans l'univers Final Fantasy, est daté au 10 mars  
+https://www.destructoid.com/chocobo-gp-release-date-trailer/  
+![picture 9](https://i.imgur.com/KWR1mzOm.jpg)  
+  
+**Windjammers 2**, un jeu de sport arcade, est daté au 20 janvier  
+https://www.destructoid.com/windjammers-2-launch-date-january-2022-news/  
+![picture 10](https://i.imgur.com/GHlza0rm.jpg)  
+  
+**Agent Intercept**, un jeu arcade typé mobile mais qui a l'air rigolo avec une voiture qui se transforme en mode James Bond, sort en 2022  
+https://www.nintendolife.com/news/2021/12/take-control-of-a-transforming-supercar-in-agent-intercept-coming-to-switch-next-year  
+![picture 11](https://i.imgur.com/n3lVmBJm.jpg)  
+  
+**Crystar**, un JRPG par NIS, sort sur Switch le 29 mars (il est déjà sorti sur PS4)  
+https://www.siliconera.com/crystar-switch-release-date-falls-in-march-2022/  
+![picture 12](https://i.imgur.com/7WJXDium.png)  
+  
+**Picross S7** sort le 27 décembre, avec (enfin !) le support du tactile  
+http://www.nintendoworldreport.com/news/59156/picross-s7-launching-soon-finally-adds-touchscreen-support  
+![picture 17](https://i.imgur.com/4GfwQMOm.png)  
+  
+## Rétrogaming  
+  
+**River City Girls Zero**, un portage/remaster de Shin Nekketsu Koha: Kunio-tachi no Banka (un beat'em up SNES), est repoussé à "début 2022"  
+https://www.nintendolife.com/news/2021/12/river-city-girls-zero-has-been-delayed-until-early-2022  
+![picture 8](https://i.imgur.com/aiQaE2pm.png)  
+  
+## Rumeurs, leaks, teasing et discussions  
+  
+Une rumeur d'arrivée de **Persona 3** en "multiplateforme"  
+https://www.nintendolife.com/news/2021/12/rumour-persona-3-portable-is-supposedly-getting-a-multiplatform-remaster  
+![picture 2](https://i.imgur.com/uc7tg0xm.png)  
 
-Cette fois-ci, beaucoup de dates pour des jeux qui avaient déjà été annoncés, et peu de dates précises pour les nouvelles annonces. Beaucoup aussi de jeux avec des styles graphiques très sympas, vraiment ça fait plaisir de voir autre chose que 90% de pixel art.
-
-La vidéo complète : 
-https://www.youtube.com/watch?v=hArRj2dN-os
-
-## Disponibilité immédiate
-
-**Dungeon Munchies**, un jeu de plateforme/action à base de crafting/cuisine, en pixel art honnêtement un peu moche
-
-https://www.youtube.com/watch?v=dEUiij_62Vc
-
-**Let's Play! Oink Games**, une compilation de jeux de plateau style 51 Worldwide Games, par Oink Games (créateur Japonais de jeux de société)
-
-https://www.youtube.com/watch?v=P4YT9_xVeN8
-
-**Chicory: A Colorful Tale**, un jeu d'aventure tout mignon qui a fait du bruit lors de sa sortie sur Playstation, avec des musiques par Lena Raine (Celeste)
-
-https://www.youtube.com/watch?v=XisVOrFQH7M
-
-**Timelie**, ça semble être un jeu d'aventure/puzzle dans la veine de Hitman Go/Lara Croft Go
-
-https://www.youtube.com/watch?v=33d6NS89ogg
-
-## Janvier
-
-**Baby Storm**, un Overcooked-like avec des bébés, ça ne va plaire qu'à ceux qui n'ont pas déjà des enfants, le 21 janvier
-
-https://www.youtube.com/watch?v=ZJu95KOj64A
-
-## Février
-
-**OlliOlli World**, un jeu de skate type auto-runner avec un créateur de parcours dans un style dessiné plutôt sympa, le 8 février
-
-https://www.youtube.com/watch?v=-OrHNwx6Yik
-
-**Figment 2: Creed Valley**, un jeu d'aventure/action à la Zelda, avec un très joli style dessiné
-
-https://www.youtube.com/watch?v=hWkF4C2T8Vc
-
-## Printemps
-
-**Aliisha: The Oblivion of Twin Goddesses**, un jeu d'aventure/puzzle coopératif en low-poly pastel
-
-https://www.youtube.com/watch?v=Xb3wMrFznbA
-
-**Endling: Extinction is Forever**, un jeu d'aventure/survie où l'on incarne une renarde qui doit faire survivre ses petits
-
-https://www.youtube.com/watch?v=BvfpKkDLJ1M
-
-**Parkasaurus**, un jeu de gestion de parc animalier avec des dinosaures, Jurassic Park en low-poly
-
-https://www.youtube.com/watch?v=1XhTG69PfE4
-
-**Don't Starve Together**, un jeu de survie multijoueur
-
-https://www.youtube.com/watch?v=bVbyn7c1X6E
-
-**Behind the Frame: The Finest Scenery**, qui semble être un point & click avec du dessin, très joli aussi
-
-https://www.youtube.com/watch?v=43E59MFCkBM
-
-**Omori**, un RPG de style Undertale mais avec un look "crayonné"
-
-https://www.youtube.com/watch?v=hVJXZR5ahYA
-
-## Eté
-
-**Loco Motive**, un point & click en pixel art entre Cluedo et The Last Express
-
-https://www.youtube.com/watch?v=UP3v0UWITtA
-
-**Afterlove EP**, un jeu d'aventure musical par le créateur de Coffee Talk
-
-https://www.youtube.com/watch?v=u0dSiS5Iay4
-
-**River City Girls 2**, un beat'em up à l'ancienne avec un pixel art plutôt chouette
-
-https://www.youtube.com/watch?v=9j_vsIiF4pc
-
-**Grime**, un jeu de plateforme/action/RPG très sombre
-
-https://www.youtube.com/watch?v=G1fGnd_UqBc
-
-## Hiver
-
-**Sea of Stars**, un RPG au tour par tour avec un pixel art absolument magnifique, par les développeurs de The Messenger
-
-https://www.youtube.com/watch?v=vqK-1WGqYmI
-
-## Pas de date
-
-**Gerda: A Flame in Winter**, un jeu d'aventure isométrique avec un style aquarelle plutôt sympa
-
-https://www.youtube.com/watch?v=BLqqysDBUHo
+## Patchs, DLC et démos  
+  
+Un patch pour **Cris Tales**, qui corrige plein de trucs et notamment les temps de chargements  
+https://www.siliconera.com/cris-tales-update-adds-new-character-dungeon-and-ending/  
+![picture 19](https://i.imgur.com/eAhPaQDm.png)  
+  
+## Versions physiques et collector  
+  
+**Loop Hero** chez Special Reserve  
+https://www.nintendolife.com/news/2021/12/addictive-rpg-loop-hero-treated-to-physical-switch-release-and-new-animated-trailer  
+![picture 26](https://i.imgur.com/84GXwqNm.png)  
+  
+**Disco Elysium** en version physique est enfin daté, au 15 mars  
+https://www.nintendolife.com/news/2021/12/disco-elysium-the-final-cut-gets-its-physical-release-date-for-switch  
+![picture 25](https://i.imgur.com/QbGBEv3m.jpg)  
+  
+## Previews  
+  
+**Dragon Ball The Breakers**, un jeu de survie multijoueur asymétrique  
+https://www.siliconera.com/preview-dragon-ball-the-breakers-makes-surviving-cell-a-team-effort/  
+![picture 4](https://i.imgur.com/RareleVm.png)  
+  
+## Tests  
+  
+**Shovel Knight Pocket Dungeon**, un puzzle game  
+https://www.destructoid.com/reviews/review-shovel-knight-pocket-dungeon/  
+https://www.siliconera.com/review-shovel-knight-pocket-dungeon-is-easy-to-dig-into/  
+http://www.nintendoworldreport.com/review/59141/shovel-knight-pocket-dungeon-switch-review  
+https://ladiesgamers.com/shovel-knight-pocket-dungeon-review/  
+https://www.nintendolife.com/reviews/switch-eshop/shovel-knight-pocket-dungeon  
+https://www.gamespot.com/reviews/shovel-knight-pocket-dungeon-review-dig-deep/1900-6417800/?ftag=CAD-01-10abi2f  
+![picture 5](https://i.imgur.com/9g1CDPDm.jpg)  
+  
+**Life Is Strange True Colors**, un jeu d'aventure  
+https://www.p-nintendo.com/tests/tests-complets/test-de-life-is-strange-true-colors-257795  
+http://www.nintendoworldreport.com/review/59250/life-is-strange-true-colors-switch-review  
+![picture 6](https://i.imgur.com/MQj3CiSm.png)  
+  
+**Ruined King A League of Legends Story**, un JRPG occidental  
+https://www.gamespot.com/reviews/ruined-king-a-league-of-legends-story-review-we-are-the-champions/1900-6417802/?ftag=CAD-01-10abi2f  
+https://www.gameinformer.com/review/ruined-king-a-league-of-legends-story/ruined-king-a-league-of-legends-story-review-royal  
+![picture 13](https://i.imgur.com/kuYIC9Qm.png)  
+  
+**Onmo**, un jeu d'aventure zen  
+https://www.nintendolife.com/reviews/switch-eshop/omno  
+https://www.p-nintendo.com/tests/tests-complets/test-de-omno-l-aventure-coloree-enchantee-et-maladroite-257806  
+![picture 15](https://i.imgur.com/HvNmaIom.png)  
+  
+**Love 3**, un platformer hardcore  
+http://www.nintendoworldreport.com/review/59143/love-3-switch-review  
+![picture 7](https://i.imgur.com/Oqtuzgvm.png)  
+  
+**Monopoly Madness**, une adaptation à la Overcooked du jeu de société  
+https://www.destructoid.com/reviews/review-monopoly-madness-ps4-version/  
+![picture 14](https://i.imgur.com/Nr4c3vym.jpg)  
+  
+**Yu-Gi-Oh Rush Duel**, un jeu de cartes en mode RPG  
+https://www.siliconera.com/yu-gi-oh-rush-duel-is-flawed-but-you-can-make-it-better/  
+![picture 18](https://i.imgur.com/EUAutUfm.jpg)  
+  
+**Deathsmiles 1+2**, des shmups réputés  
+https://www.nintendolife.com/reviews/nintendo-switch/deathsmiles-i-and-ii  
+![picture 21](https://i.imgur.com/AVYeeMSm.jpg)  
+  
+**Record of Lodoss War Deedlit In Wonder Labyrinth**, un metroidvania  
+https://www.nintendolife.com/reviews/nintendo-switch/record-of-lodoss-war-deedlit-in-wonder-labyrinth  
+![picture 22](https://i.imgur.com/Xa9eYIZm.jpg)  
+  
+**Let's Play Oink Games**, une compilation de jeux de société  
+https://www.siliconera.com/review-lets-play-oink-games-does-justice-to-japanese-tabletop-gems/  
+![picture 23](https://i.imgur.com/omcBdpKm.png)  

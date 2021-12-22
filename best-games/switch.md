@@ -332,6 +332,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Monster Boy and the Cursed Kingdom**
 - Momodora Reverie Under The Moonlight, Minoria
 - **[Ori & the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori & the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)**
+- Record of Lodoss War: Deedlit In Wonder Labyrinth
 - Salt & Sanctuary
 - Shantae & The Seven Sirens
 - Shinsenkai Into the Depth
@@ -632,6 +633,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **[Catherine Full Body](https://www.cosmo0.fr/critique/catherine-full-body/)**
 - **I Am Dead**
 - L'aventure Layton
+- Omno
 - Part Time UFO
 - [Piku Niku](https://www.cosmo0.fr/critique/pikuniku/)
 - **Return of the Obra Dinn**
@@ -677,6 +679,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Puyo Puyo Champions**
 - **Puyo Puyo Tetris** [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/), 2
 - QUBE 2
+- **Shovel Knight Pocket Dungeon**
 - Sushi Striker
 - **Tetris 99**
 - **Tetris Effect Connected**
@@ -786,10 +789,11 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - Assault Android Cactus
 - **[Crimzon Clover](https://www.cosmo0.fr/critique/crimzon-clover-world-explosion/)**
 - **[Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/)**
+- **Deathsmiles 1 & 2**
 - **Devil Engine**
-- **DoDonPachi Resurrection**
+- **[DoDonPachi Resurrection](https://www.cosmo0.fr/critique/dodonpachi-resurrection/)**
 - [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/)
-- **EspGaluda 2**
+- **[EspGaluda 2](https://www.cosmo0.fr/critique/espgaluda-ii-be-ascension-the-third-bright-stone-of-birth/)**
 - EspRaDe Psy (JP)
 - [Ghost Blade HD](https://www.cosmo0.fr/critique/ghost-blade-hd/)
 - [Graceful Explosion Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/)
@@ -801,8 +805,8 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - Rival Megagun
 - **Rolling Gunner**
 - [Sky Force Reloaded](https://www.cosmo0.fr/critique/sky-force-reloaded/)
-- Space Moth
-- Star Hunter DX
+- [Space Moth](https://www.cosmo0.fr/critique/space-moth-lunar-edition/)
+- [Star Hunter DX](https://www.cosmo0.fr/critique/star-hunter-dx/)
 - Steredenn Binary Stars
 - **[Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)**
 - [Thunder Force IV](https://www.cosmo0.fr/critique/sega-ages-thunder-force-4/), AC
@@ -927,7 +931,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Thronebreaker The Witcher Tales
 - Warhammer Age of Sigmar (free to play)
 - **Wingspan**
-- YuGiOh Legacy of the Duelist
+- YuGiOh Legacy of the Duelist, Rush Duel
 
 ## Jeu de société, jeu de plateau
 
@@ -968,12 +972,11 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Clockwork Aquario, Yu-Gi-Oh Rush Duel
+- Jeux sortis, en attente de tests : rien
 
-- Décembre : Shovel Knight Pocket Dungeon (13), Record of Lodoss War (16), Omno (16), Deathsmiles 1 & 2 (16)
-- Janvier 2022 : Astroneer (13), **Pokémon Legends Arceus** (28)
+- Janvier 2022 : Astroneer (13), Windjammers 2 (20), **Pokémon Legends Arceus** (28)
 - Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25)
-- Mars 2022 : **Triangle Strategy** (4), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25)
+- Mars 2022 : **Triangle Strategy** (4), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), Crystar (29)
 - Avril 2022 : **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
 - Mai 2022 : Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
 - Juin 2022 : Yurukill: The Calumnation Game (7)
@@ -982,9 +985,9 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 - Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+, Aztech Forgotten Gods
 
-- 2021 : Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Windjammers 2, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
+- 2021 : Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
-- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Chocobo GP, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, Sonic Frontiers
+- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, Sonic Frontiers, Redout 2
 
 - Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World
 
