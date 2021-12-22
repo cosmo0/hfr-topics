@@ -84,12 +84,12 @@ Site : <https://www.pcmini.jp/>
 
 ### Nintendo
 
-La **NES Mini** est la console qui a lancé la mode actuelle des consoles "mini" officielles. Avec une fabrication de bonne qualité, une émulation de bonne facture et une bonne sélection de jeux pour un prix honnête, tout était présent pour réussir.  
+La **[NES Mini](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/mini-machines-retro/nes-mini/)** est la console qui a lancé la mode actuelle des consoles "mini" officielles. Avec une fabrication de bonne qualité, une émulation de bonne facture et une bonne sélection de jeux pour un prix honnête, tout était présent pour réussir.  
 Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Nintendo-Entertainment-System-1124287.html>
 
 ![NES Mini](https://i.imgur.com/2Wrs7wrt.jpg)
 
-La **SNES Mini** était la suite logique, avec moins de jeux et plus chère, mais une 2e manette de base, et toujours la même qualité générale.  
+La **[SNES Mini](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/mini-machines-retro/snes-mini/)** était la suite logique, avec moins de jeux et plus chère, mais une 2e manette de base, et toujours la même qualité générale.  
 Site : <https://www.nintendo.fr/Divers/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System/Nintendo-Classic-Mini-Super-Nintendo-Entertainment-System-1238330.html>
 
 ![SNES Mini](https://i.imgur.com/wHN6Hf2t.jpg)
@@ -100,7 +100,7 @@ Sega propose depuis longtemps des consoles créées par AT Games : Megadrive Cla
 
 ![Megadrive Flashback](https://i.imgur.com/YlElLxTt.jpg)
 
-Pour les 30 ans de la Megadrive aux US, Sega s'est décidé à (enfin) faire les choses bien, et crée une **Megadrive Mini**, avec une approche similaire à Nintendo : bonne qualité, bons jeux, bonne émulation (par M2, des spécialistes du genre).  
+Pour les 30 ans de la Megadrive aux US, Sega s'est décidé à (enfin) faire les choses bien, et crée une **[Megadrive Mini](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/mini-machines-retro/mega-drive-mini/)**, avec une approche similaire à Nintendo : bonne qualité, bons jeux, bonne émulation (par M2, des spécialistes du genre).  
 Site : <http://megadrivemini.sega.com/>
 
 ![Megadrive Mini](https://i.imgur.com/2Q4D6utt.jpg)
@@ -109,7 +109,7 @@ Sega a également créé une **Game Gear Mini**, un produit absurde, disponible 
 
 ![Game Gear Mini](https://i.imgur.com/hviAw6yt.png)
 
-Sega étant également très présents dans l'arcade, ils sortent une **Astro City Mini** similaire à la NeoGeo Mini.  
+Sega étant également très présents dans l'arcade, ils sortent une **[Astro City Mini](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/odyssee/astro-city-mini/)** similaire à la NeoGeo Mini.  
 Site : <https://sega.jp/astrocitymini/>
 
 ![Astro City Mini](https://i.imgur.com/1BqBEAkt.png)
@@ -133,7 +133,7 @@ Une autre société commercialise le **Recreated ZX Spectrum**, cette fois une r
 
 ### SNK
 
-Toujours dans la veine ouverte par Nintendo, SNK a créé une **NeoGeo Mini**. Plutôt que de proposer une réplique de la console, c'est une mini borne d'arcade (modèle Japonais), avec un petit écran intégré, mais qu'on peut quand-même brancher sur la télé. Sans atteindre l'attention aux détails de Nintendo, le produit est très correct, bien qu'un peu cher, mais la ludothèque très ciblée baston restreint fortement son public potentiel. La machine s'est néanmoins suffisamment vendue pour que SNK souhaite en faire de nouveaux modèles.  
+Toujours dans la veine ouverte par Nintendo, SNK a créé une **[NeoGeo Mini](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/odyssee/neo-geo-mini/)**. Plutôt que de proposer une réplique de la console, c'est une mini borne d'arcade (modèle Japonais), avec un petit écran intégré, mais qu'on peut quand-même brancher sur la télé. Sans atteindre l'attention aux détails de Nintendo, le produit est très correct, bien qu'un peu cher, mais la ludothèque très ciblée baston restreint fortement son public potentiel. La machine s'est néanmoins suffisamment vendue pour que SNK souhaite en faire de nouveaux modèles.  
 Site : <https://www.snk-corp.co.jp/us/neogeomini/>
 
 ![NeoGeo Mini](https://i.imgur.com/z2TbTFqt.jpg)
