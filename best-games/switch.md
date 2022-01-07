@@ -931,7 +931,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Thronebreaker The Witcher Tales
 - Warhammer Age of Sigmar (free to play)
 - **Wingspan**
-- YuGiOh Legacy of the Duelist, Rush Duel
+- Yu-Gi-Oh Legacy of the Duelist
 
 ## Jeu de société, jeu de plateau
 
@@ -981,14 +981,13 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Mai 2022 : Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
 - Juin 2022 : Yurukill: The Calumnation Game (7)
 
-- Q3 2021/automne : Pocky & Rocky, Wreckfest, Kukoos Lost Pets
-- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Loop Hero, Hundred Days: Wine Making Simulator, **The Outer Wilds**
+- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**, Yu-Gi-Oh Master Duel
 - Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+, Aztech Forgotten Gods
 
-- 2021 : Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
+- 2021 : 
 
 - 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, Sonic Frontiers, Redout 2
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Pocky & Rocky, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
