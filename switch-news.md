@@ -1,57 +1,76 @@
-#cosmonews  
-  
-## Annonces, dates et sorties  
-  
-**.hack//GU Last Recode**, une compilation de 4 JRPG, sort le 11 mars  
-https://www.nintendolife.com/news/2021/12/bandai-namco-announces-hackg-u-last-recode-physical-switch-release  
-![picture 2](https://i.imgur.com/qTDlG9Bm.png)  
-  
-**Dragon Quest X Offline**, un JRPG portage du MMO mais en solo, est repoussé à cet été, mais toujours pas d'annonce hors Japon  
-https://www.siliconera.com/dragon-quest-x-offline-mode-delayed-to-summer-2022/  
-![picture 6](https://i.imgur.com/mFePFJtm.png)  
-  
-## Rumeurs, leaks, teasing et discussions  
-  
-Un leak des succès de **GoldenEye 007** sur Xbox, tout le monde suppose son arrivée sur Switch aussi  
-https://www.p-nintendo.com/news/rumeur-goldeneye-007-de-retour-sur-switch-et-xbox-257865  
-![picture 8](https://i.imgur.com/cxGoWNcm.jpg)  
-  
-Un teasing de **Sherlock Holmes Crimes & Punishment**, un jeu d'aventure/enquête très bien reçu  
-https://www.nintendolife.com/news/2021/12/frogwares-teases-a-switch-port-of-sherlock-holmes-crimes-and-punishments  
-![picture 3](https://i.imgur.com/75MOWJQm.jpg)  
-  
-**NIS America** promet "plusieurs suites et portages" en 2022  
-https://www.destructoid.com/nis-promises-new-games-sequels-and-ports-for-2022/  
-![picture 7](https://i.imgur.com/hlDjXLWm.png)  
-  
-**Atlus** tease de nouveaux jeux pour 2022  
-https://www.destructoid.com/atlus-teases-surprise-titles-in-its-new-years-day-greeting-2022/  
-![picture 9](https://i.imgur.com/ukqOSDhm.png)  
-  
-**Spike Chunsoft** tease de nouveaux jeux non annoncés  
-https://www.siliconera.com/spike-chunsoft-teases-unannounced-game-projects/  
-![picture 10](https://i.imgur.com/fdWCtQVm.png)  
-  
-**Koei Tecmo** tease des trucs pour les 25 ans de la série Atelier  
-https://www.siliconera.com/koei-tecmo-teases-plans-for-atelier-series-25th-anniversary/  
-![picture 11](https://i.imgur.com/L7kY0Trm.png)  
-  
-L'équipe qui a fait **Bravely Default 2** et **Triangle Strategy** tease "plusieurs nouveaux jeux" pour cette année  
-https://www.nintendolife.com/news/2022/01/the-team-behind-bravely-default-and-triangle-strategy-will-announce-multiple-games-this-year  
-![picture 14](https://i.imgur.com/5htcCArm.jpg)  
-  
-## Images, vidéos, infos  
-  
-Un nouveau trailer pour **Bomb Rush Cyberfunk**, un "hommage" à Jet Set Radio  
-https://www.destructoid.com/bomb-rush-cyberfunk-trailer-skateboard-bmx-style/  
-![picture 13](https://i.imgur.com/cHrCZU5m.jpg)  
-  
-## Tests  
-  
-**Wytchwood**, un jeu de survie très joli  
-https://www.nintendolife.com/reviews/switch-eshop/wytchwood  
-![picture 1](https://i.imgur.com/TDGpvHmm.jpg)  
-  
-**Okinawa Rush**, un beat'em up typé Amiga  
-http://www.nintendoworldreport.com/review/59284/okinawa-rush-switch-review  
-![picture 5](https://i.imgur.com/N61t7fYm.png)  
+#cosmonews
+
+## Calendrier
+
+## Annonces, dates et sorties
+
+**Kirby et le Monde Oublié** est daté au 25 mars
+https://www.siliconera.com/kirby-and-the-forgotten-land-release-date-set-local-multiplayer-confirmed/
+![picture 5](https://i.imgur.com/bozGVfC.png)  
+
+**Assassin's Creed The Ezio Collection** est daté au 17 février, mais avec plein de trucs à télécharger, grrr
+https://www.nintendolife.com/news/2022/01/assassins-creed-the-ezio-collection-announced-for-switch-this-february
+![picture 4](https://i.imgur.com/lNQJP0V.png)  
+
+**Vagante**, un roguelike/platformer/action plutôt joli, sort le 27 janvier
+https://www.nintendolife.com/news/2022/01/vagante-is-a-roguelite-combat-platformer-coming-to-switch-soon
+![picture 1](https://i.imgur.com/qjv7agW.png)  
+
+**Eastasiasoft**, branche édition de Play-Asia, 
+https://www.nintendolife.com/news/2022/01/round-up-eastasiasoft-announces-eight-switch-games-releasing-in-early-2022
+![picture 7](https://i.imgur.com/pbBHd2S.jpg)  
+
+**FAR Changing Tides**, un "walking simulator", sort le 1er mars
+https://www.nintendolife.com/news/2022/01/far-changing-tides-will-begin-its-journey-on-1st-march
+![picture 8](https://i.imgur.com/wAcya2q.jpg)  
+
+**KungFu Kickball**, un jeu de foot/baston, sort le 10 février
+https://www.nintendolife.com/news/2022/01/kungfu-kickball-kicks-off-on-switch-next-month-with-crossplay-supported
+![picture 9](https://i.imgur.com/5xLpbgw.png)  
+
+**Demoniaca Everlasting Night**, un metroidvania/beat'em up, est sorti
+https://www.nintendolife.com/news/2022/01/out-now-demoniaca-everlasting-night-high-kicks-its-way-onto-switch
+![picture 3](https://i.imgur.com/gLAK9zW.png)  
+
+## Rétrogaming
+
+**SNK vs Capcom Card Fighters Clash**, un jeu de cartes NeoGeo Pocket Color, est sorti
+https://www.destructoid.com/snk-vs-capcom-card-fighters-clash-nintendo-switch-port-ngpc/
+![picture 6](https://i.imgur.com/9p4ed5Z.jpg)  
+
+## Rumeurs, leaks, teasing et discussions
+
+## Images, vidéos, infos
+
+Plein d'infos et d'images pour **Pokémon Legends Arceus**
+https://www.siliconera.com/pokemon-legends-arceus-overview-trailer-takes-a-look-at-new-systems/
+https://www.siliconera.com/pokemon-legends-arceus-trailer-shows-off-the-hisui-region/
+![picture 10](https://i.imgur.com/Ks2RKqQ.png)  
+
+Des infos sur **Atelier Sophie 2**, un JRPG
+https://www.siliconera.com/atelier-sophie-2-gameplay-and-combat-details-revealed/
+![picture 2](https://i.imgur.com/bLQQ9Z7.png)  
+
+## Patchs, DLC et démos
+
+## Versions physiques et collector
+
+**Blacksmith of the Sand Kingdom**, un TRPG, chez Limited Run
+https://www.nintendolife.com/news/2022/01/blacksmith-of-the-sand-kingdom-gets-physical-switch-release
+![picture 11](https://i.imgur.com/TRwp2Qh.png)  
+
+## News diverses, chiffres, hardware
+
+Le grip **Satisfye Zengrip Pro** arrive, compatible avec à la fois la Switch normale et la OLED
+https://www.nintendolife.com/news/2022/01/the-new-zengrip-pro-for-nintendo-switch-oled-might-be-worth-a-look
+![picture 12](https://i.imgur.com/xqNVTO0.jpg)  
+
+## Previews
+
+**Infernax**, un platformer/action rétro typé Castlevania NES
+https://www.nintendolife.com/features/hands-on-infernax-blends-the-best-of-zelda-ii-and-castlevania-ii-while-skipping-the-flaws
+http://www.nintendoworldreport.com/preview/59282/infernax-preview
+https://www.destructoid.com/infernax-preview-scratching-that-castlevania-ii-simons-quest-itch/
+![picture 13](https://i.imgur.com/HAbuumf.png)  
+
+## Tests
