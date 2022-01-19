@@ -124,7 +124,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Arcade, high score** : **Zen Pinball**, **Pinball FX3**, **Pac-Man 99**, [Akane](https://www.cosmo0.fr/critique/akane/), Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, [Pix the Cat](https://www.cosmo0.fr/critique/pix-the-cat/), Ding Dong XL, Demon's Tilt, Pure Pool, Death's Hangover, Strikey Sisters
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Party game, multijoueur** : Overcooked, The Stretchers, Tools Up!, Aeolis Tournament, Among Us, Ponpu
-- **Jeu de cartes** : **[Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/)**, **Lightseekers**, **Warhammer Age of Sigmar**, Thronebreaker: The Witcher Tales, Frost, Faeria, Mystic Vale, Wingspan
+- **Jeu de cartes** : **[Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/)**, **Lightseekers**, **Warhammer Age of Sigmar**, **Yu-Gi-Oh Master Duel**, Thronebreaker: The Witcher Tales, Frost, Faeria, Mystic Vale, Wingspan
 - **Jeu de société, jeu de plateau** : [Armello](https://www.cosmo0.fr/critique/armello/), Carcassonne
 - **Autre, inclassables** : [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), Death and Taxes, Art Sqool, Cozy Groove
 - **Rétrogaming** : Nintendo Switch Online, Mega Man [Legacy Collection](https://www.cosmo0.fr/critique/mega-man-legacy-collection/)/[X Legacy Collection](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/), série [SEGA AGES](https://www.cosmo0.fr/?s=sega+ages), série [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), série Arcade Archives, série [Johnny Turbo's Arcade](https://www.cosmo0.fr/?s=johnny+turbo), série [Konami Collection](https://www.cosmo0.fr/?s=konami+collection)
@@ -544,6 +544,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Construction, crafting, survie
 
+- **Astroneer**
 - Don't Starve
 - **Dragon Quest Builders** 1, 2
 - [Forager](https://www.cosmo0.fr/critique/forager/)
@@ -928,10 +929,11 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Lord of the Rings Adventure Card Game
 - Mystic Vale
 - **Shadowverse Champion's Battle**
+- SNK vs Capcom Card Fighters Clash
 - Thronebreaker The Witcher Tales
 - Warhammer Age of Sigmar (free to play)
 - **Wingspan**
-- Yu-Gi-Oh Legacy of the Duelist
+- Yu-Gi-Oh Legacy of the Duelist, Master Duel (free to play)
 
 ## Jeu de société, jeu de plateau
 
@@ -974,19 +976,17 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : rien
 
-- Janvier 2022 : Astroneer (13), Windjammers 2 (20), **Pokémon Legends Arceus** (28)
-- Février 2022 : Dying Light 2 (4 cloud), Maglam Lord (4), Dynasty Warriors 9 Empires (15), Monark (22), Atelier Sophie 2 (25)
-- Mars 2022 : **Triangle Strategy** (4), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), Crystar (29)
+- Janvier 2022 : Windjammers 2 (20), **Pokémon Legends Arceus** (28)
+- Février 2022 : Dying Light 2 (cloud) (4), Maglam Lord (4), **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Monark (22), Atelier Sophie 2 (25)
+- Mars 2022 : **Triangle Strategy** (4), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29)
 - Avril 2022 : **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
 - Mai 2022 : Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
 - Juin 2022 : Yurukill: The Calumnation Game (7)
 
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**, Yu-Gi-Oh Master Duel
-- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, **Kirby et le Monde Oublié**, Pac-Man Museum+, Aztech Forgotten Gods
+- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, Pac-Man Museum+, Aztech Forgotten Gods, Matchpoint Tennis Championship
 
-- 2021 : 
-
-- 2022 : **Splatoon 3**, GetsuFumaDen: Undying Moon, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, FAR Changing Tides, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, Sonic Frontiers, Redout 2
+- 2022 : **Splatoon 3**, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, AI The Somnium Files NirvanA, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, **Sonic Frontiers**, Redout 2
 
 - Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Pocky & Rocky, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
 
