@@ -1,134 +1,119 @@
-#cosmonews du jour bonjour
-  
-## Calendrier  
+#cosmonews
 
-**Sorties récentes :**
+## Calendrier
 
-- **Astroneer**, un jeu de survie/crafting/construction
-- **Windjammers 2**, un jeu de sport
-- **Yu-Gi-Oh Master Duel**, un jeu de cartes free to play
-- **SNK vs Capcom Card Fighters Clash**, un jeu de cartes/RPG NeoGeo Pocket
+## Annonces, dates et sorties
 
-**Prochaines sorties :**
+https://www.p-nintendo.com/news/lego-star-wars-the-skywalker-saga-arrive-enfin-en-avril-257943
 
-- **Pokémon Legends Arceus**, un RPG
-- **Maglam Lord**, un RPG/action
+https://www.siliconera.com/pokemon-like-coromon-switch-and-pc-release-date-set-for-march/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-like-coromon-switch-and-pc-release-date-set-for-march
+![picture 2](https://i.imgur.com/ZfHwQfV.png)  
 
-Et c'est tout !
-  
-## Annonces, dates et sorties  
-  
-**Kirby et le Monde Oublié** est daté au 25 mars  
-https://www.siliconera.com/kirby-and-the-forgotten-land-release-date-set-local-multiplayer-confirmed/  
-![picture 5](https://i.imgur.com/bozGVfCm.png)  
-  
-Les jeux **Kingdom Hearts** arrivent le 10 février, en version cloud comme annoncé précédemment  
-https://www.siliconera.com/kingdom-hearts-switch-cloud-versions-release-in-february/  
-![picture 14](https://i.imgur.com/MD3Q0Z0m.png)  
-  
-**Yu-Gi-Oh Master Duel**, un jeu de cartes free to play, est sorti  
-https://www.nintendolife.com/news/2022/01/surprise-yu-gi-oh-master-duel-is-now-available-on-the-switch-eshop  
-![picture 17](https://i.imgur.com/FXiFELFm.jpg)  
-  
-**Assassin's Creed The Ezio Collection** est daté au 17 février, mais avec plein de trucs à télécharger, grrr  
-https://www.nintendolife.com/news/2022/01/assassins-creed-the-ezio-collection-announced-for-switch-this-february  
-![picture 4](https://i.imgur.com/lNQJP0Vm.png)  
-  
-**KungFu Kickball**, un jeu de foot/baston, sort le 10 février  
-https://www.nintendolife.com/news/2022/01/kungfu-kickball-kicks-off-on-switch-next-month-with-crossplay-supported  
-![picture 9](https://i.imgur.com/5xLpbgwm.png)  
-  
-**Ocean Heart**, un Zelda-like tout mignon, sort le 10 février  
-https://www.p-nintendo.com/news/ocean-s-heart-cette-lettre-d-amour-a-the-legend-of-zelda-arrive-bientot-sur-switch-257909  
-![picture 3](https://i.imgur.com/YD0p7BPm.png)  
-  
-**Matchpoint Tennis Championship**, un jeu de tennis, sort ce printemps  
-https://www.nintendolife.com/news/2022/01/matchpoint-tennis-championships-swings-onto-switch-this-spring  
-![picture 15](https://i.imgur.com/yd5HJYOm.png)  
-  
-**Dying Light 2**, un FPS/jeu de survie avec des zombies, ne sortira pas le 4 février mais "dans les 6 mois" (toujours en version cloud)  
-https://www.p-nintendo.com/news/dying-light-2-stay-human-cloud-version-repousse-d-au-moins-6-mois-sur-switch-257934  
-![picture 2](https://i.imgur.com/U4bknwvm.jpg)  
-  
-## Rétrogaming  
-  
-**SNK vs Capcom Card Fighters Clash**, un jeu de cartes NeoGeo Pocket Color, est sorti  
-https://www.destructoid.com/snk-vs-capcom-card-fighters-clash-nintendo-switch-port-ngpc/  
-![picture 6](https://i.imgur.com/9p4ed5Zm.jpg)  
-  
-**Pocky And Rocky Reshrined**, un run & gun vu de dessus originaire de la SNES, sort le 21 avril au Japon, et un peu plus tard en occident  
-https://www.nintendolife.com/news/2022/01/pocky-and-rocky-reshrined-finally-gets-a-release-date-on-nintendo-switch  
-![picture 5](https://i.imgur.com/rB1gjPlm.jpg)  
+https://www.destructoid.com/life-is-strange-remastered-collection-switch-delay-2022/?utm_source=rss&utm_medium=rss&utm_campaign=life-is-strange-remastered-collection-switch-delay-2022
+![picture 3](https://i.imgur.com/Am3F4Vf.jpg)  
 
-## Images, vidéos, infos  
-  
-Plein d'infos et d'images pour **Pokémon Legends Arceus**  
-https://www.siliconera.com/pokemon-legends-arceus-overview-trailer-takes-a-look-at-new-systems/  
-https://www.siliconera.com/pokemon-legends-arceus-trailer-shows-off-the-hisui-region/  
-http://www.nintendoworldreport.com/news/59365/13-minutes-of-pokemon-legends-arceus-gameplay-posted  
-![picture 10](https://i.imgur.com/Ks2RKqQm.png)  
-  
-Des infos sur **Atelier Sophie 2**, un JRPG  
-https://www.siliconera.com/atelier-sophie-2-gameplay-and-combat-details-revealed/  
-![picture 2](https://i.imgur.com/bLQQ9Z7m.png)  
-  
-## Versions physiques et collector  
-  
-**Blacksmith of the Sand Kingdom**, un TRPG, chez Limited Run  
-https://www.nintendolife.com/news/2022/01/blacksmith-of-the-sand-kingdom-gets-physical-switch-release  
-![picture 11](https://i.imgur.com/TRwp2Qhm.png)  
-  
-Une version collector pour **Trails From Zero**  
-https://www.siliconera.com/trails-from-zero-limited-edition-includes-acrylic-stand/  
-![picture 9](https://i.imgur.com/9KlVxj8m.png)  
-  
-**Hoa** et **Ever Forward**, deux platformers, chez Numskull Games  
-https://www.nintendolife.com/news/2022/01/hoa-and-ever-forward-are-getting-physical-releases-on-switch-this-year-europe  
-![picture 3](https://i.imgur.com/lI7JECIm.jpg)  
-  
-**Croixleur Sigma**, un hack & slash, chez Red Art Games  
-https://www.p-nintendo.com/news/croixleur-sigma-beneficie-d-une-edition-physique-sur-switch-257933  
-![picture 4](https://i.imgur.com/BrsIdk7m.png)  
-  
-**River City Girls Zero**, un beat'em up SNES, chez Limited Run  
-https://www.nintendolife.com/news/2022/01/lrg-reveals-river-city-girls-zero-physical-switch-release-pre-orders-begin-january-28th  
-![picture 5](https://i.imgur.com/Z41Kygnm.png)  
-  
-## News diverses, chiffres, hardware  
-  
-Le grip **Satisfye Zengrip Pro** arrive, compatible avec à la fois la Switch normale et la OLED  
-https://www.nintendolife.com/news/2022/01/the-new-zengrip-pro-for-nintendo-switch-oled-might-be-worth-a-look  
-![picture 12](https://i.imgur.com/xqNVTO0t.jpg)  
-  
-**Hori** prend la température pour créer un **stick arcade modulaire** pour aller avec les jeux Arcade Archives  
-https://www.nintendolife.com/news/2022/01/hori-wants-to-release-a-retro-game-controller-that-can-be-used-to-play-hamsters-arcade-archives-series  
-![picture 10](https://i.imgur.com/zKvsAWIm.png)  
-  
-## Previews  
-  
-**Infernax**, un platformer/action rétro typé Castlevania NES  
-https://www.nintendolife.com/features/hands-on-infernax-blends-the-best-of-zelda-ii-and-castlevania-ii-while-skipping-the-flaws  
-http://www.nintendoworldreport.com/preview/59282/infernax-preview  
-https://www.destructoid.com/infernax-preview-scratching-that-castlevania-ii-simons-quest-itch/  
-![picture 13](https://i.imgur.com/HAbuumfm.png)  
-  
-## Tests  
-  
-**Windjammers 2**, un jeu de sport  
-https://www.siliconera.com/review-in-windjammers-2-power-discs-fly-once-again/  
-https://www.nintendolife.com/reviews/switch-eshop/windjammers-2  
-https://www.gamespot.com/reviews/windjammers-2-review-spin-to-win/1900-6417815/?ftag=CAD-01-10abi2f  
-https://www.destructoid.com/reviews/review-windjammers-2-pc-switch-xbox-ps4/  
-![picture 1](https://i.imgur.com/2uwNT2Um.jpg)  
-  
-**Astroneer**, un jeu de survie, crafting et construction  
-https://www.nintendolife.com/reviews/switch-eshop/astroneer  
-http://www.nintendoworldreport.com/review/59367/astroneer-switch-review  
-https://nindienexus.net/astroneer-review/  
-https://ladiesgamers.com/astroneer-review/  
-![picture 11](https://i.imgur.com/xEN4mhVm.png)  
-  
-**SNK vs Capcom Card Fighters Clash**, un RPG/jeu de cartes NeoGeo Pocket  
-https://www.nintendolife.com/reviews/switch-eshop/snk-vs-capcom-card-fighters-clash  
-https://www.siliconera.com/snk-vs-capcom-card-fighters-clash-switch-release-revives-one-of-the-best-card-rpgs/  
-![picture 1](https://i.imgur.com/QeOsBG0m.png)  
+https://www.nintendolife.com/news/2022/01/breakout-recharged-a-revamp-of-ataris-arcade-classic-launches-on-switch-next-month
+![picture 7](https://i.imgur.com/LRmwrOP.png)  
+
+https://www.siliconera.com/nis-classics-volume-2-release-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=nis-classics-volume-2-release-date-set
+![picture 10](https://i.imgur.com/J3c8hni.png)  
+
+https://www.nintendolife.com/news/2022/01/mythical-action-game-aztech-forgotten-gods-gets-its-switch-release-date
+![picture 11](https://i.imgur.com/EoJf35R.jpg)  
+
+https://www.nintendolife.com/news/2022/01/about-an-elf-brings-punching-clowns-talking-cats-and-marble-collections-to-switch-soon
+![picture 12](https://i.imgur.com/nAHEd8U.png)  
+
+https://www.destructoid.com/kao-the-kangaroo-summer-2022-sequel-announce-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=kao-the-kangaroo-summer-2022-sequel-announce-trailer
+![picture 20](https://i.imgur.com/nIlAGvQ.jpg)  
+
+https://www.destructoid.com/two-point-campus-release-date-may-2022-news/?utm_source=rss&utm_medium=rss&utm_campaign=two-point-campus-release-date-may-2022-news
+![picture 22](https://i.imgur.com/9WxCaFZ.jpg)  
+
+https://www.destructoid.com/ai-the-somnium-files-nirvana-initiative-arrives-this-june-2022-news/?utm_source=rss&utm_medium=rss&utm_campaign=ai-the-somnium-files-nirvana-initiative-arrives-this-june-2022-news
+![picture 23](https://i.imgur.com/0nFSNGq.png)  
+
+https://www.destructoid.com/evil-dead-the-game-delayed-may-2022-news/?utm_source=rss&utm_medium=rss&utm_campaign=evil-dead-the-game-delayed-may-2022-news
+![picture 26](https://i.imgur.com/7aWFCPL.jpg)  
+
+## Rétrogaming
+
+https://www.nintendolife.com/news/2022/01/nightdive-brings-90s-fps-powerslave-exhumed-to-switch-this-february
+![picture 27](https://i.imgur.com/TDYk3bf.jpg)  
+
+## Rumeurs, leaks, teasing et discussions
+
+## Images, vidéos, infos
+
+https://www.destructoid.com/triangle-strategy-trailer-showcases-story-characters-tough-choices-news/?utm_source=rss&utm_medium=rss&utm_campaign=triangle-strategy-trailer-showcases-story-characters-tough-choices-news
+![picture 15](https://i.imgur.com/ZgLvmFc.jpg)  
+
+## Patchs, DLC et démos
+
+https://www.nintendolife.com/news/2022/01/you-can-now-cheat-in-star-wars-knights-of-the-old-republic
+![picture 8](https://i.imgur.com/CBkVcyl.png)  
+
+https://www.destructoid.com/monark-demo-rpg-save-progress-carries-over-news/?utm_source=rss&utm_medium=rss&utm_campaign=monark-demo-rpg-save-progress-carries-over-news
+![picture 13](https://i.imgur.com/ZxUKUrf.jpg)  
+
+https://www.siliconera.com/dynasty-warriors-9-empires-demo-appears-on-consoles/?utm_source=rss&utm_medium=rss&utm_campaign=dynasty-warriors-9-empires-demo-appears-on-consoles
+![picture 18](https://i.imgur.com/lQFdsa9.png)  
+
+## Versions physiques et collector
+
+https://www.p-nintendo.com/news/la-trilogie-gta-arrive-physiquement-sur-nintendo-switch-le-11-fevrier-257949
+![picture 5](https://i.imgur.com/xUv0hxW.png)  
+
+https://www.nintendolife.com/news/2022/01/indie-masterpiece-platformer-horace-gets-physical-release
+
+https://www.nintendolife.com/news/2022/01/deaths-gambit-afterlife-physical-edition-launches-dlc-is-on-the-way
+
+## News diverses, chiffres, hardware
+
+## Previews
+
+https://www.siliconera.com/preview-atelier-sophie-2-focuses-on-its-characters-and-world/?utm_source=rss&utm_medium=rss&utm_campaign=preview-atelier-sophie-2-focuses-on-its-characters-and-world
+![picture 21](https://i.imgur.com/XZdtS6O.png)  
+
+## Tests
+
+https://ladiesgamers.com/rpgolf-legends-review/?utm_source=rss&utm_medium=rss&utm_campaign=rpgolf-legends-review
+http://www.nintendoworldreport.com/review/59418/rpgolf-legends-switch-review
+![picture 1](https://i.imgur.com/uxnr3ds.png)  
+
+https://www.gameinformer.com/review/windjammers-2/windjammers-2-review-a-fading-adrenaline-rush
+![picture 4](https://i.imgur.com/ONFfK43.png)  
+
+https://www.nintendolife.com/reviews/switch-eshop/eschatos
+![picture 6](https://i.imgur.com/pGOwif0.jpg)  
+
+https://www.nintendolife.com/reviews/switch-eshop/yu-gi-oh-master-duel
+![picture 9](https://i.imgur.com/8VUl7bj.jpg)  
+
+https://www.p-nintendo.com/tests/tests-complets/test-de-popslinger-de-la-musique-et-des-monstres-257950
+![picture 14](https://i.imgur.com/O8isW91.jpg)  
+
+https://www.nintendolife.com/reviews/switch-eshop/vagante
+https://www.eurogamer.net/articles/2022-01-26-vagante-review-a-quietly-excellent-roguelike-platformer
+https://www.p-nintendo.com/tests/tests-complets/test-de-vagante-rogue-like-plateformer-impitoyable-257926
+![picture 16](https://i.imgur.com/OKFRrri.png)  
+
+https://www.nintendolife.com/reviews/nintendo-switch/pokemon-legends-arceus
+http://www.nintendoworldreport.com/review/59498/pokemon-legends-arceus-switch-review
+https://www.gamespot.com/reviews/pokemon-legends-arceus-review-what-pokemon-is-evolving/1900-6417818/?ftag=CAD-01-10abi2f
+https://www.eurogamer.net/articles/2022-01-26-pokemon-legends-arceus-review-budget-bare-minimum-or-the-series-purest-form
+https://www.gameinformer.com/review/pokemon-legends-arceus/pokemon-legends-arceus-review-learning-some-new-moves
+https://ladiesgamers.com/pokemon-legends-arceus-review/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-legends-arceus-review
+https://www.destructoid.com/review-in-progress-pokemon-legends-arceus/?utm_source=rss&utm_medium=rss&utm_campaign=review-in-progress-pokemon-legends-arceus
+![picture 17](https://i.imgur.com/3OSHZZM.jpg)  
+
+https://www.nintendolife.com/reviews/switch-eshop/gunvolt-chronicles-luminous-avenger-ix-2
+http://www.nintendoworldreport.com/review/59499/gunvolt-chronicles-luminous-avenger-ix-2-switch-review
+https://www.destructoid.com/reviews/review-gunvolt-chronicles-luminous-avenger-ix-2/?utm_source=rss&utm_medium=rss&utm_campaign=review-gunvolt-chronicles-luminous-avenger-ix-2
+![picture 19](https://i.imgur.com/cl8A8l3.jpg)  
+
+https://www.p-nintendo.com/tests/tests-complets/test-de-reverie-knights-tactics-enfin-un-tactical-inde-poids-lourd-257966
+![picture 24](https://i.imgur.com/clI5iRe.jpg)  
+
+http://www.nintendoworldreport.com/review/59502/record-of-lodoss-war-deedlit-in-wonder-labyrinth-
+![picture 25](https://i.imgur.com/9idss29.png)  
