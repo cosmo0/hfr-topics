@@ -18,7 +18,7 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 - **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous, Metroid Dread
 - **Roguelikes** : Dead Cells, The Binding of Isaac, Hades, Enter the Gungeon, Slay the Spire, Spelunky 1/2
 - **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Persona 5 Strikers, Diablo 2 Resurrected
-- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/) / Diamant Brillant/Perle Scintillante, Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
+- **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/) / Diamant Brillant/Perle Scintillante / Legends Arceus, Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
 - **Hack & Slash, musou** : Diablo 3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Dynasty Warriors 8, Minecraft Dungeon
 - **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
@@ -50,7 +50,7 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 - **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Control, Crysis 1/2/3, Metro Redux, Saints Row 3/4, Wolfenstein 2, Starlink Battle for Atlas, Assault Android Cactus
 - **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Rayman Legends, Super Mario Odyssey, [Ori Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Metroid Dread
 - **Je veux avoir peur :** Alien Isolation, Resident Evil, Outlast 1/2
-- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells, Spelunky
+- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells, Spelunky, Shin Megami Tensei V
 - **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy, The Great Ace Attorney
 - **Je veux de la stratégie :** Fire Emblem Three Houses, Valkyria Chronicles 4, Into The Breach, Mario + Lapins Crétins, Pikmin 3, XCOM 2, Wargroove, Tropico 6, Two Point Hospital, Spacebase Startopia
 - **Je veux un jeu de sport :** FIFA, Captain Tsubasa, Lonely Mountains Downhill, Mario Tennis Aces, Rocket League, Windjammers
@@ -412,7 +412,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Octopath Traveler**
 - Operencia: The Stolen Sun
 - **Pillars of Eternity**
-- **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante
+- **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus
 - Pokémon Mystery Dungeon Rescue Team DX
 - Ruined King: A League of Legends Story
 - **Shin Megami Tensei III Nocturne**, **Shin Megami Tensei V**
@@ -976,18 +976,17 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : rien
 
-- Janvier 2022 : **Pokémon Legends Arceus** (28)
 - Février 2022 : Maglam Lord (4), **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Monark (22), Atelier Sophie 2 (25)
-- Mars 2022 : **Triangle Strategy** (4), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29)
-- Avril 2022 : **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
-- Mai 2022 : Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
-- Juin 2022 : Yurukill: The Calumnation Game (7)
+- Mars 2022 : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31)
+- Avril 2022 : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
+- Mai 2022 : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
+- Juin 2022 : Yurukill: The Calumnation Game (7), AI The Somnium Files NirvanA Initiative (24)
 
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
-- Q1 2022/printemps : Lego Star Wars The Skywalker Saga, Pac-Man Museum+, Aztech Forgotten Gods, Matchpoint Tennis Championship, AI The Somnium Files NirvanA Initiative, Pocky & Rocky
+- Q1 2022/printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
 
 - 2022 : **Splatoon 3**, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud)
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, Evil Dead, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Coromon, Finding Paradise
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Finding Paradise
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
