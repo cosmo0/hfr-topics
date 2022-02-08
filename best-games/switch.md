@@ -974,19 +974,20 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : rien
+- Jeux sortis, en attente de tests : Maglam Lord
 
-- Février 2022 : Maglam Lord (4), **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Monark (22), Atelier Sophie 2 (25)
-- Mars 2022 : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31)
-- Avril 2022 : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
-- Mai 2022 : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
-- Juin 2022 : Yurukill: The Calumnation Game (7), AI The Somnium Files NirvanA Initiative (24)
+- Février : **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Voice of Cards The Forsaken Maiden (17), Monark (22), Atelier Sophie 2 (25)
+- Mars : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), The Cruel King and the Great Hero (11), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), Dawn of the Monsters (?)
+- Avril : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
+- Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
+- Juin : Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24)
+- Juillet : Yurukill: The Calumnation Game (5)
 
 - Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 - Q1 2022/printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
 
 - 2022 : **Splatoon 3**, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud)
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Finding Paradise
+- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Finding Paradise, Mina the Hollower
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
