@@ -974,19 +974,22 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Maglam Lord
+- Jeux sortis, en attente de tests : Maglam Lord, GetsuFumaDen
 
 - Février : **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Voice of Cards The Forsaken Maiden (17), Monark (22), Atelier Sophie 2 (25)
 - Mars : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), The Cruel King and the Great Hero (11), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), Dawn of the Monsters (?)
-- Avril : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17)
+- Avril : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), Chrono Cross Remastered (7), **Advance Wars 1+2 Re-boot-camp** (8), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17), Star Wars The Force Unleashed (20), Zombie Army 4 (26), **Switch Sports** (29)
 - Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
-- Juin : Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24)
-- Juillet : Yurukill: The Calumnation Game (5)
+- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Lego Brawls (?)
+- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), **Live A Live** (22)
+- Août : -
+- Septembre : **Xenoblade Chronicles 3** (?)
 
-- Q4 2021/hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
-- Q1 2022/printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
+- hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
+- printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
+- été : **Splatoon 3**, **No Man's Sky**, Disney Speedstorm
 
-- 2022 : **Splatoon 3**, **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Advance Wars 1+2 Re-boot-camp**, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud)
+- 2022 : **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud), Front Mission First, Front Mission Second, Portal Companion Collection
 
 - Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, House of the Dead Remake, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Finding Paradise, Mina the Hollower
 
