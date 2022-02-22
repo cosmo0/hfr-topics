@@ -1,116 +1,134 @@
-#cosmonews spéciale Nintendo Direct du 09/02  
-  
-Un Direct très chargé en grosses annonces, il y a du lourd !  
-  
-La vidéo complète : https://www.youtube.com/watch?v=5rwere2MPBI  
-  
-## Présentations de jeux déjà connus  
-  
-- **Kingdom Hearts Collection Cloud**, des JRPG qui sortent aujourd'hui  
-- **Assassin's Creed Ezio Collection**, une compilation de 3 AC, le 17 février  
-- **Triangle Strategy**, qui arrive le 4 mars, et une démo disponible immédiatement : <https://www.youtube.com/watch?v=_C_LWwvcEGI>  
-- **Kirby et le Monde Oublié**, qui arrive le 25 mars : <https://www.youtube.com/watch?v=_B-qk4_V2jY>  
-- **MLB The Show 22**, un jeu de baseball qui arrive le 5 avril  
-- **Two Point Campus**, un jeu de gestion, le 17 mai  
-- **Demon Slayer The Hinokami Chronicles**, un jeu de baston tiré d'un manga, le 10 juin  
-- **Cuphead the Delicious Last Course**, un DLC, le 20 juin  
-  
-## Disponible immédiatement  
-  
-**Mother** et **Earthbound**, des RPG NES et SNES, sur le Switch Online  
+#cosmonews
 
-https://www.youtube.com/watch?v=cw_frA7aFF8  
-  
-Un patch pour **Metroid Dread** qui rajoute un mode très difficile, un mode très facile, et un mode boss rush  
-  
-**GetsuFumaDen: Undying Moon**, un jeu de plateforme/action  
+## Calendrier
 
-https://www.youtube.com/watch?v=7c0hZ4w7T2o  
-  
-## Mars  
-  
-Un season pass pour **Mario Kart 8** pour un total de 48 circuits tirés des anciens épisodes, à partir du 18 mars  
+## Annonces, dates et sorties
 
-https://www.youtube.com/watch?v=2GT978XJeyw  
-  
-## Avril  
-  
-**Chrono Chross Remastered**, un JRPG PS1, le 7 avril  
+**Puzzle & Dragons**, un mélange de match-3 et de RPG, est sorti discrétos
+https://www.siliconera.com/puzzle-dragons-nintendo-switch-edition-arrives-this-week/
+![picture 3](https://i.imgur.com/ZBvnGLw.png)  
 
-https://www.youtube.com/watch?v=HxekztcXS8s  
-  
-**Advance Wars 1+2 Re-Boot Camp**, le remake des jeux de stratégie GBA, le 8 avril  
+**Final Vendetta**, un beat'em up rétro (c'est à la mode), est annoncé pour mai
+https://www.destructoid.com/final-vendetta-is-the-newest-competitor-in-the-brawler-renaissance/
+![picture 4](https://i.imgur.com/dQ9ADHQ.jpg)  
 
-https://www.youtube.com/watch?v=bIXU76SfYns  
-  
-**Star Wars The Force Unleashed**, un beat'em up/hack & slash, le 20 avril  
+**Crunchyroll** est disponible sur Switch, et non c'est pas un jeu mais une appli de streaming d'animes
+https://www.siliconera.com/crunchyroll-nintendo-switch-app-released/
+![picture 5](https://i.imgur.com/PCGDZXj.png)  
 
-https://www.youtube.com/watch?v=v7fUzL_QtL0  
-  
-**Zombie Army 4**, un TPS, le 26 avril  
+**Blazing Strike**, un jeu de baston inspiré par les classiques SNK, est confirmé pour la Switch cet automne
+https://www.p-nintendo.com/news/blazing-strike-confirme-pour-l-automne-2022-et-nous-presente-son-edition-limitee-258079
+![picture 6](https://i.imgur.com/EDo3JT5.png)  
 
-https://www.youtube.com/watch?v=Vmd8CoU6qqI  
-  
-**Switch Sports**, un Wii Sports moderne, le 29 avril (avec des mises à jour régulières prévues)  
+**Fall Guys**, un Intervilles en ligne, sortira bien sur Switch malgré les nombreux retards
+https://www.nintendolife.com/news/2022/02/fall-guys-is-still-coming-to-switch-mediatonic-promises
+![picture 7](https://i.imgur.com/rBUNWjG.png)  
 
-https://www.youtube.com/watch?v=9awwFpO9Rns  
-  
-## Juin  
-  
-**Mario Strikers Battle League**, jeu de football Mario, le 10 juin  
+## Rétrogaming
 
-https://www.youtube.com/watch?v=5yLop9D81bo  
-  
-**Fire Emblem Warriors Three Hopes**, un FE musou dans l'univers de Three Houses, le 24 juin  
+**Capcom Fighting Collection**, une compile de jeux de baston arcade, sort le 24 juin
+https://www.p-nintendo.com/news/capcom-fighting-collection-montre-les-poings-258092
+![picture 1](https://i.imgur.com/Pg7JQkJ.png)  
 
-https://www.youtube.com/watch?v=AED3iexUt_s  
-  
-**LEGO Brawls**, un Smash-like Lego qui vient du mobile  
+**Wonder Boy Collection**, une compile de 4 titres Wonder Boy (le premier, Monster Land, Monster World et MW4), sort en juin, et non y'a pas tous les épisodes, dommage
+https://www.destructoid.com/wonder-boy-collection-inin-games-ps4-switch-retro-compendium-amazon/
+![picture 2](https://i.imgur.com/sxOk9kS.png)  
 
-https://www.youtube.com/watch?v=lmli7NH4RFY  
-  
-## Juillet  
-  
-**Klonoa Phantasy Reverie Series**, des remakes des deux premiers Klonoa, le 8 juillet  
+## Rumeurs, leaks, teasing et discussions
 
-https://www.youtube.com/watch?v=qIauBEE34gw  
-  
-**Live A Live**, le remake "2D HD" d'un RPG SNES sorti uniquement au Japon, le 22 juillet  
+Le président de Square Enix veut que ses équipes fassent plus de **remakes "HD-2D"** (à la Octopath Traveler)
+https://www.siliconera.com/square-enix-expresses-interest-in-more-hd-2d-remakes/
 
-https://www.youtube.com/watch?v=SGWF4JR_h5E  
-  
-## Septembre  
-  
-**Xenoblade Chronicles 3**, un JRPG  
+SNK "se renseigne" sur une possible localisation de **Card Fighters 2**
+https://www.siliconera.com/interview-snk-looking-into-card-fighters-2-english-release/
 
-https://www.youtube.com/watch?v=T3ooVrMG15w  
-  
-## Eté 2022  
-  
-**Splatoon 3**, un TPS multi avec des poulpes  
+**Detective Pikachu 2** serait toujours en développement, a priori pour la Switch vu que la 3DS s'arrête
+https://www.p-nintendo.com/news/detective-pikachu-2-serait-toujours-en-cours-de-developpement-258094
 
-https://www.youtube.com/watch?v=qAUcXWJ9MFQ  
-  
-**No Man's Sky**, un jeu d'exploration spatiale à la Elite  
+## Images, vidéos, infos
 
-https://www.youtube.com/watch?v=PH3pXMmXhdI  
-  
-**Disney Speedstorm**, un jeu de kart avec les persos Disney  
+Splinter sera jouable dans le prochain **TMNT**
+https://www.siliconera.com/splinter-is-a-playable-character-in-tmnt-shredders-revenge/
 
-https://www.youtube.com/watch?v=v57Ut3NJkqI  
-  
-## 2022  
-  
-**Front Mission First**, le remake du TRPG SNES, avec le remake du second qui arrive par la suite  
+Un trailer pour le remake de **Live A Live**
+https://www.nintendolife.com/news/2022/02/switch-remake-of-super-famicom-rpg-live-a-live-gets-a-new-character-trailer
 
-https://www.youtube.com/watch?v=gY_DZ-dKDbc  
-  
-**Portal Companion Collection**, une compil des deux célèbres jeux  
+Des infos sur **Fire Emblem Three Hopes**
+https://www.nintendolife.com/news/2022/02/gallery-another-look-at-the-new-musou-fire-emblem-warriors-three-hopes
+https://www.destructoid.com/fire-emblem-warriors-three-hopes-story-details/
 
-https://www.youtube.com/watch?v=wMQASUA_1Do  
-  
-**SD Gundam Battle Alliance**, un beat'em up dans l'univers Gundam  
-  
-**Taiko No Tatsujin Rhythm Festival**, un jeu de rythme multijoueur  
+Des infos sur **Xenoblade Chronicles 3**
+https://www.nintendolife.com/news/2022/02/nintendo-introduces-the-protagonists-of-xenoblade-chronicles-3
 
-https://www.youtube.com/watch?v=nYMCWgoAiWs  
+Le prochain **SD Gundam** couvrira 25 séries différentes
+https://www.nintendolife.com/news/2022/02/sd-gundam-battle-alliance-will-cover-25-different-gundam-series
+
+## Patchs, DLC et démos
+
+Une démo pour **13 Sentinels Aegis Rim**
+https://www.siliconera.com/13-sentinels-aegis-rim-nintendo-switch-demo-now-available/
+
+## Versions physiques et collector
+
+**Grim Fandango** chez iam8bit
+https://www.nintendolife.com/news/2022/02/double-fines-grim-fandango-remaster-is-getting-a-physical-release-on-switch
+
+**Absolute Drift** chez Serenity Forge
+https://www.nintendolife.com/news/2022/02/art-of-rally-dev-releasing-its-og-title-absolute-drift-in-physical-form-on-switch
+
+## News diverses, chiffres, hardware
+
+## Previews
+
+**MLB The Show 22**, un jeu de baseball
+https://www.nintendolife.com/features/hands-on-mlb-the-show-22-tech-test-impressions-sony-takes-a-swing-at-switch
+
+## Tests
+
+https://www.siliconera.com/review-egglia-rebirth-switch/
+https://ladiesgamers.com/egglia-rebirth-review/
+https://www.nintendolife.com/reviews/switch-eshop/egglia-rebirth
+http://www.nintendoworldreport.com/review/59650/egglia-rebirth-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-d-egglia-rebirth-joli-mais-creux-258047
+
+https://ladiesgamers.com/oceans-heart-review/
+http://www.nintendoworldreport.com/review/59690/oceans-heart-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-ocean-s-heart-l-hommage-a-the-legend-of-zelda-258065
+https://www.nintendolife.com/reviews/switch-eshop/oceans-heart
+
+https://www.destructoid.com/reviews/infernax-review-ps4-xbox-pc-switch-berzerk-studio-retro-metroidvania/
+http://www.nintendoworldreport.com/review/59603/infernax-switch-review
+https://www.gameinformer.com/review/infernax/8-bit-blood-on-my-hands
+
+https://www.destructoid.com/reviews/review-powerslave-exhumed-nightdive-pc-switch-xbox-ps4-version/
+https://www.nintendolife.com/reviews/switch-eshop/powerslave-exhumed
+https://www.eurogamer.net/articles/digitalfoundry-2022-powerslave-exhumed-is-one-of-the-best-retro-remasters-ever-made
+
+https://www.nintendolife.com/reviews/nintendo-switch/dynasty-warriors-9-empires
+http://www.nintendoworldreport.com/review/59689/dynasty-warriors-9-empires-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-dynasty-warriors-9-empires-dans-les-meandres-du-deja-vu-258048
+
+https://www.nintendolife.com/reviews/switch-eshop/sol-cresta
+https://www.destructoid.com/reviews/review-sol-cresta/
+http://www.nintendoworldreport.com/review/59696/sol-cresta-switch-review
+https://www.eurogamer.net/articles/2022-02-22-sol-cresta-review-distinctive-but-slightly-untidy-bullet-hell-thrills
+
+https://www.nintendolife.com/reviews/switch-eshop/grapple-dog
+https://www.gamespot.com/reviews/grapple-dog-review-bionic-commandog/1900-6417829/?ftag=CAD-01-10abi2f
+http://www.nintendoworldreport.com/review/59697/grapple-dog-switch-review
+https://www.siliconera.com/review-grapple-dogs-selling-point-is-its-style/
+
+https://www.siliconera.com/review-monark-ps5-switch-pc/
+http://www.nintendoworldreport.com/review/59285/monark-switch-review
+https://www.destructoid.com/review-in-progress-monark/
+https://www.nintendolife.com/reviews/nintendo-switch/monark
+
+https://www.siliconera.com/review-the-forsaken-maiden-shuffles-voice-of-cards-deck/
+http://www.nintendoworldreport.com/review/59695/voice-of-cards-the-forsaken-maiden-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/voice-of-cards-the-forsaken-maiden
+
+https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-hd-1-5-plus-2-5-remix-cloud-version
+https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version
+https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-iii-plus-re-mind-cloud-version
+
+https://www.p-nintendo.com/tests/tests-complets/test-d-about-an-elf-l-ovni-de-la-switch-258012
