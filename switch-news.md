@@ -1,4 +1,4 @@
-#cosmonews
+#cosmonews du jour bonjour
 
 ## Calendrier
 
@@ -23,6 +23,9 @@ https://www.p-nintendo.com/news/blazing-strike-confirme-pour-l-automne-2022-et-n
 **Fall Guys**, un Intervilles en ligne, sortira bien sur Switch malgré les nombreux retards
 https://www.nintendolife.com/news/2022/02/fall-guys-is-still-coming-to-switch-mediatonic-promises
 ![picture 7](https://i.imgur.com/rBUNWjG.png)  
+
+**Baldur's Gate Dark Alliance 2** arrive sur Switch "plus tôt que ce que vous pensez"
+https://www.nintendolife.com/news/2022/02/black-isle-studios-is-bringing-baldurs-gate-dark-alliance-ii-to-switch-in-2022
 
 ## Rétrogaming
 
@@ -85,50 +88,62 @@ https://www.nintendolife.com/features/hands-on-mlb-the-show-22-tech-test-impress
 
 ## Tests
 
+**Egglia Rebirth**, un RPG tactique venu du mobile
 https://www.siliconera.com/review-egglia-rebirth-switch/
 https://ladiesgamers.com/egglia-rebirth-review/
 https://www.nintendolife.com/reviews/switch-eshop/egglia-rebirth
 http://www.nintendoworldreport.com/review/59650/egglia-rebirth-switch-review
 https://www.p-nintendo.com/tests/tests-complets/test-d-egglia-rebirth-joli-mais-creux-258047
 
+**Monark**, un JRPG
+https://www.siliconera.com/review-monark-ps5-switch-pc/
+http://www.nintendoworldreport.com/review/59285/monark-switch-review
+https://www.destructoid.com/reviews/review-monark-furyu-rpg/
+https://www.nintendolife.com/reviews/nintendo-switch/monark
+https://ladiesgamers.com/monark-review/
+
+**Ocean's Heart**, un Zelda-like
 https://ladiesgamers.com/oceans-heart-review/
 http://www.nintendoworldreport.com/review/59690/oceans-heart-switch-review
 https://www.p-nintendo.com/tests/tests-complets/test-de-ocean-s-heart-l-hommage-a-the-legend-of-zelda-258065
 https://www.nintendolife.com/reviews/switch-eshop/oceans-heart
 
-https://www.destructoid.com/reviews/infernax-review-ps4-xbox-pc-switch-berzerk-studio-retro-metroidvania/
-http://www.nintendoworldreport.com/review/59603/infernax-switch-review
-https://www.gameinformer.com/review/infernax/8-bit-blood-on-my-hands
-
-https://www.destructoid.com/reviews/review-powerslave-exhumed-nightdive-pc-switch-xbox-ps4-version/
-https://www.nintendolife.com/reviews/switch-eshop/powerslave-exhumed
-https://www.eurogamer.net/articles/digitalfoundry-2022-powerslave-exhumed-is-one-of-the-best-retro-remasters-ever-made
-
-https://www.nintendolife.com/reviews/nintendo-switch/dynasty-warriors-9-empires
-http://www.nintendoworldreport.com/review/59689/dynasty-warriors-9-empires-switch-review
-https://www.p-nintendo.com/tests/tests-complets/test-de-dynasty-warriors-9-empires-dans-les-meandres-du-deja-vu-258048
-
-https://www.nintendolife.com/reviews/switch-eshop/sol-cresta
-https://www.destructoid.com/reviews/review-sol-cresta/
-http://www.nintendoworldreport.com/review/59696/sol-cresta-switch-review
-https://www.eurogamer.net/articles/2022-02-22-sol-cresta-review-distinctive-but-slightly-untidy-bullet-hell-thrills
-
+**Grapple Dog**, un jeu de plateforme
 https://www.nintendolife.com/reviews/switch-eshop/grapple-dog
 https://www.gamespot.com/reviews/grapple-dog-review-bionic-commandog/1900-6417829/?ftag=CAD-01-10abi2f
 http://www.nintendoworldreport.com/review/59697/grapple-dog-switch-review
 https://www.siliconera.com/review-grapple-dogs-selling-point-is-its-style/
 
-https://www.siliconera.com/review-monark-ps5-switch-pc/
-http://www.nintendoworldreport.com/review/59285/monark-switch-review
-https://www.destructoid.com/review-in-progress-monark/
-https://www.nintendolife.com/reviews/nintendo-switch/monark
+**Sol Cresta**, un shmup par Platinum Games
+https://www.nintendolife.com/reviews/switch-eshop/sol-cresta
+https://www.destructoid.com/reviews/review-sol-cresta/
+http://www.nintendoworldreport.com/review/59696/sol-cresta-switch-review
+https://www.eurogamer.net/articles/2022-02-22-sol-cresta-review-distinctive-but-slightly-untidy-bullet-hell-thrills
 
-https://www.siliconera.com/review-the-forsaken-maiden-shuffles-voice-of-cards-deck/
-http://www.nintendoworldreport.com/review/59695/voice-of-cards-the-forsaken-maiden-switch-review
-https://www.nintendolife.com/reviews/switch-eshop/voice-of-cards-the-forsaken-maiden
+**Infernax**, un Zelda 2/Castlevania-like
+https://www.destructoid.com/reviews/infernax-review-ps4-xbox-pc-switch-berzerk-studio-retro-metroidvania/
+http://www.nintendoworldreport.com/review/59603/infernax-switch-review
+https://www.gameinformer.com/review/infernax/8-bit-blood-on-my-hands
 
+**Kingdom Hearts 1/2/3**, des RPG en version cloud
 https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-hd-1-5-plus-2-5-remix-cloud-version
 https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version
 https://www.nintendolife.com/reviews/switch-eshop/kingdom-hearts-iii-plus-re-mind-cloud-version
 
+**Powerslave Exhumed**, un FPS/metroidvania venu de la PS1/Saturn
+https://www.destructoid.com/reviews/review-powerslave-exhumed-nightdive-pc-switch-xbox-ps4-version/
+https://www.nintendolife.com/reviews/switch-eshop/powerslave-exhumed
+https://www.eurogamer.net/articles/digitalfoundry-2022-powerslave-exhumed-is-one-of-the-best-retro-remasters-ever-made
+
+**Dynasty Warriors 9 Empires**, un musou stratégique
+https://www.nintendolife.com/reviews/nintendo-switch/dynasty-warriors-9-empires
+http://www.nintendoworldreport.com/review/59689/dynasty-warriors-9-empires-switch-review
+https://www.p-nintendo.com/tests/tests-complets/test-de-dynasty-warriors-9-empires-dans-les-meandres-du-deja-vu-258048
+
+**Voice of Cards The Forsaken Maiden**, un RPG à base de cartes
+https://www.siliconera.com/review-the-forsaken-maiden-shuffles-voice-of-cards-deck/
+http://www.nintendoworldreport.com/review/59695/voice-of-cards-the-forsaken-maiden-switch-review
+https://www.nintendolife.com/reviews/switch-eshop/voice-of-cards-the-forsaken-maiden
+
+**About An Elf**, un jeu improbable
 https://www.p-nintendo.com/tests/tests-complets/test-d-about-an-elf-l-ovni-de-la-switch-258012
