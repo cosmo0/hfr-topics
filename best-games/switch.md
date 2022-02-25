@@ -92,7 +92,7 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 
 Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
-- **Aventure/action** : [Crossing Souls](https://www.cosmo0.fr/critique/crossing-souls/), Hyper Light Drifter, [Minit](https://www.cosmo0.fr/critique/minit/), [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/), Hob, [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/), Songbringer, [Blossom Tales](https://www.cosmo0.fr/critique/blossom-tales/), [Anodyne](https://www.cosmo0.fr/critique/anodyne/), Jotun, Devil May Cry 1/2, Incredible Mandy, Creature in the Well, Moon Hunters, Immortal Planet, Ruiner, Falcon Age, No More Heroes 1/2, Disc Room, The Savior's Gang, Cattails, 198X, Unsighted
+- **Aventure/action** : [Crossing Souls](https://www.cosmo0.fr/critique/crossing-souls/), Hyper Light Drifter, [Minit](https://www.cosmo0.fr/critique/minit/), [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/), Hob, [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/), Songbringer, [Blossom Tales](https://www.cosmo0.fr/critique/blossom-tales/), [Anodyne](https://www.cosmo0.fr/critique/anodyne/), Jotun, Devil May Cry 1/2, Incredible Mandy, Creature in the Well, Moon Hunters, Immortal Planet, Ruiner, Falcon Age, No More Heroes 1/2, Disc Room, The Savior's Gang, Cattails, 198X, Unsighted, Ocean Heart
 - **Shooters, FPS, TPS** : **Island Saver**, Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64, RICO, Immortal Redneck,  Demon Pit, Duke Nukem 3D, Call of Juarez Gunslinger, Project Warlock, Star Wars Jedi Knight 2/Academy, This Strange Realm of Mine, Sublevel Zero
 - **Shooters multijoueur** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Vigor**, **Rogue Company**, **Spellbreak**, Hypercharge Unboxed
 - **Horreur, suspense, survival** : Darkwood, Detention, Layers of Fear 1/2, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4, Sunless Sea/Skies, Yuppie Psycho
@@ -141,7 +141,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Aventure/action
 
-- **Assassin's Creed** 3, Rebel Collection
+- **Assassin's Creed** Ezio Collection, 3, Rebel Collection
 - **Astral Chain**
 - **Bayonetta** [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/)
 - **Dark Souls Remastered**
@@ -168,7 +168,6 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Paper Mario The Origami King**
 - Retro City Rampage, Shakedown Hawaii
 - [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/)
-- Ruiner
 - Slime Rancher
 - Unsighted
 - Weaving Tides
@@ -393,7 +392,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## RPG tour par tour
 
-- **Atelier Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), [2](https://www.cosmo0.fr/critique/atelier-ryza-2/)**, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy
+- **Atelier Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), [2](https://www.cosmo0.fr/critique/atelier-ryza-2/)**, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2
 - Bravely Default 2
 - Bug Fables
 - CrisTales
@@ -433,13 +432,13 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - [Bastion](https://www.cosmo0.fr/critique/bastion/)
 - [Darksiders Genesis](https://www.cosmo0.fr/critique/darksiders-genesis/)
 - **Diablo 3**, **2 Resurrected**
-- **Dynasty Warriors 8**
+- **Dynasty Warriors 8**, 9 Empires
 - Fire Emblem Warriors
 - **[Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/)**, **Hyrule Warriors Age of Calamity**
 - [Marvel Ultimate Alliance 3](https://www.cosmo0.fr/critique/marvel-ultimate-alliance-3/)
 - **Minecraft Dungeon**
 - One Piece Pirate Warriors 3, 4
-- Samurai Warriors 5
+- **Samurai Warriors 5**
 - Titan Quest
 - Torchlight 2, 3
 - Warriors Orochi 4 Ultimate
@@ -664,6 +663,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Murder by Numbers
 - **Picross S, S2, S3, S4, S5, S6**
 - Picto Quest
+- **Puzzle & Dragons**
 - **Puzzle Quest The Legend Returns**
 - **realMyst**
 - Superliminal
@@ -974,20 +974,20 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Maglam Lord, GetsuFumaDen
+- Jeux sortis, en attente de tests : -
 
-- Février : **Kingdom Hearts 1/2/3 (cloud)** (10), KungFu Kickball (10), Ocean Heart (10), Dynasty Warriors 9 Empires (15), Assassin's Creed The Ezio Collection (17), Voice of Cards The Forsaken Maiden (17), Monark (22), Atelier Sophie 2 (25)
-- Mars : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), The Cruel King and the Great Hero (11), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), Dawn of the Monsters (?)
-- Avril : Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), Chrono Cross Remastered (7), **Advance Wars 1+2 Re-boot-camp** (8), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17), Star Wars The Force Unleashed (20), Zombie Army 4 (26), **Switch Sports** (29)
-- Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24)
-- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Lego Brawls (?)
-- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), **Live A Live** (22)
+- Mars : **Triangle Strategy** (4), Aztech Forgotten Gods (10), Chocobo GP (10), The Cruel King and the Great Hero (11), .hack//GU Last Recode (11), Persona 4 Arena Ultimax (17), Tempest 4000 (22), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), Dawn of the Monsters (?)
+- Avril : MotoGP22 (1), Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), Chrono Cross Remastered (7), **Advance Wars 1+2 Re-boot-camp** (8), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17), Star Wars The Force Unleashed (20), Zombie Army 4 (26), **Switch Sports** (29)
+- Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24), Final Vendetta (?)
+- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Capcom Fighting Collection (24), Lego Brawls (?)
+- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), **Live A Live** (22), Wonder Boy Collection (?)
 - Août : -
 - Septembre : **Xenoblade Chronicles 3** (?)
 
 - hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 - printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
 - été : **Splatoon 3**, **No Man's Sky**, Disney Speedstorm
+- automne : Blazing Strike
 
 - 2022 : **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud), Front Mission First, Front Mission Second, Portal Companion Collection
 
