@@ -13,19 +13,19 @@ Bienvenue sur le topic de tous les jeux Pokémon [:zytra]
 
 ## ![Légendes Pokémon - Arceus](https://i.imgur.com/9QTOCu9h.jpg)  
 
-Sortie le 28 janvier 2022.
+Sorti le 28 janvier 2022.
 
 Un spin-off qui secoue un peu la formule.
 
 ### L'histoire
 
-Le jeu se déroule dans le passé, dans la région de Hisui, le précédent nom de la région de Sinnoh (celle de Perle/Diamant). L'objectif est, encore une fois, d'explorer la région et cataloguer tous les pokémons du coin.
+Le jeu se déroule dans le passé, inspiré environ du XIXe siècle japonais, avant que les pokémons soient une partie intégrante de la vie de tous les jours : les pokéballs sont une nouvelle technologie, et il n'y a pas d'ordinateur. L'objectif est, encore une fois, d'explorer la région et cataloguer tous les pokémons du coin.
 
 ![picture 6](https://i.imgur.com/vjnMufCt.jpg) ![picture 7](https://i.imgur.com/76HQ8OBt.jpg)
 
 ### Le monde
 
-La structure change radicalement : cet épisode est découpé en plusieurs grandes zones, équivalentes de la "zone sauvage" de Epée/Bouclier, mais avec plusieurs écosystèmes (plaine, montagne, neige, etc).
+Le jeu se déroule dans la région de Hisui, le précédent nom de la région de Sinnoh (celle de Perle/Diamant), inspirée de Hokkaido (l'île la plus au nord du Japon). La structure change radicalement des épisodes principaux : celui-ci est découpé en plusieurs grandes zones, équivalentes de la "zone sauvage" de Epée/Bouclier, mais avec plusieurs écosystèmes (plaine, montagne, neige, etc), plus un hub central, un peu comme Monster Hunter.
 
 ![picture 8](https://i.imgur.com/0o4AAxbt.jpg) ![picture 9](https://i.imgur.com/IdRpXMTt.jpg)
 
@@ -298,7 +298,7 @@ Les transferts d'une génération à la suivante sont tous à sens unique. La Ba
 
 > [Pokémon Home](https://home.pokemon.com/fr-fr/) est la nouvelle application Switch et smartphone qui permet de gérer ses transferts et stocker ses pokémons en ligne, depuis Épée/Bouclier.
 
-[![https://i.imgur.com/rW8SiG1l.png](https://i.imgur.com/rW8SiG1l.png)](https://i.imgur.com/rW8SiG1.png)
+[![Schéma de transfert](https://i.imgur.com/rW8SiG1l.png)](https://i.imgur.com/rW8SiG1.png)
 
 ## Les spin-off
 
