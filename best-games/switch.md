@@ -705,7 +705,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Mario Golf Super Rush**
 - **Mario Tennis Aces**
 - Mutant Football League
-- OlliOlli Switch Stance
+- OlliOlli Switch Stance, OlliOlli World
 - Olympic Games Tokyo 2020
 - PGA Tour 2K
 - **Rocket League** (free to play)
@@ -976,7 +976,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Potato Flowers in Full Bloom
+- Jeux sortis, en attente de tests : Potato Flowers in Full Bloom, Hundred Days: Wine Making Simulator
 
 - Mars : Persona 4 Arena Ultimax (17), Tempest 4000 (22), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), WRC 10 (?)
 - Avril : MotoGP22 (1), Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), Chrono Cross Remastered (7), House of the Dead Remake (7), Astrodogs (8), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17), Star Wars The Force Unleashed (20), Zombie Army 4 (26), **Switch Sports** (29)
@@ -984,16 +984,19 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Capcom Fighting Collection (24), Lego Brawls (?)
 - Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), **Live A Live** (22), Wonder Boy Collection (?)
 - Août : -
-- Septembre : **Xenoblade Chronicles 3** (?)
+- Septembre : Test Drive Unlimited Solar Crown (22), The Legend of Heroes Trails from Zero (30), **Xenoblade Chronicles 3** (?)
 
-- hiver : Neon White, Jurassic World Evolution 2, Hundred Days: Wine Making Simulator, **The Outer Wilds**
 - printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
-- été : **Splatoon 3**, **No Man's Sky**, Disney Speedstorm
-- automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle
+- été : **Splatoon 3**, **No Man's Sky**, Disney Speedstorm, River City Girls 2, Front Mission 1st Remake, Arcade Paradise
+- automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook
 - hiver : **Pokémon Ecarlate/Violet**
 
-- 2022 : **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, River City Girls 2, Test Drive Unlimited Solar Crown, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Digimon Survive, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud), Front Mission First, Front Mission Second, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**
+- 2022 : **Zelda Breath of the Wild 2**, **Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails
 
-- Pas de date : **Metroid Prime 4**, Shovel Knight Dig, **Hollow Knight Silksong**, Rogue Legacy 2, Superhot Mind Control Delete, **Sports Story**, Picontier, Quantum League, Circuit Superstars, Skater XL, Fae Tactics, Lord of The Rings Gollum, Sonic Origins, Braid Anniversary, Dorfromantik, Chernobylite, Roguebook, Life Is Strange Remastered, Enigma Archives Rain Code, Olli Olli World, Wreckfest, Kukoos Lost Pets, Card Shark, Gamedec, Graven, Hatch Tales, Moncage, The Legend of Heroes Kuro No Kiseki, Nadir, Star Wars Hunters, Hindsight, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Oxenfree 2, She Dreams Elsewhere, Ruby The Wayward Mira, Arcade Paradise, Finding Paradise, Mina the Hollower
+- 2023 : The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure
+
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Oxenfree 2, Mina the Hollower
+
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Neon White, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
