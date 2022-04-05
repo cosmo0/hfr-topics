@@ -978,7 +978,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : Potato Flowers in Full Bloom, Hundred Days: Wine Making Simulator
 
-- Mars : Persona 4 Arena Ultimax (17), Tempest 4000 (22), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), Coromon (31), WRC 10 (?)
+- Mars : Persona 4 Arena Ultimax (17), Tempest 4000 (22), **Rune Factory 5** (25), **Kirby et le Monde Oublié** (25), Crystar (29), WRC 10 (?)
 - Avril : MotoGP22 (1), Lego Star Wars The Skywalker Saga (5), MLB The Show 22 (5), Chrono Cross Remastered (7), House of the Dead Remake (7), Astrodogs (8), **13 Sentinels Aegis Rim** (12), Sociable Soccer (17), Star Wars The Force Unleashed (20), Zombie Army 4 (26), **Switch Sports** (29)
 - Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24), Final Vendetta (?)
 - Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Capcom Fighting Collection (24), Lego Brawls (?)
@@ -995,7 +995,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - 2023 : The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Oxenfree 2, Mina the Hollower
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Oxenfree 2, Mina the Hollower, Coromon
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Neon White, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
