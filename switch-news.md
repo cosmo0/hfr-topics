@@ -4,6 +4,10 @@
 
 ## Annonces, dates et sorties
 
+**Xenoblade Chronicles 3** est finalement daté au 29 juillet
+http://www.nintendoworldreport.com/news/60226/xenoblade-chronicles-3-release-date-tagged-for-july-29
+![picture 1](https://i.imgur.com/p0gAQH9.jpg)  
+
 **Unsouled**, un action/RPG Souls-like, sort le 28 avril
 https://www.nintendolife.com/news/2022/04/unsouled-is-a-brutally-intense-action-rpg-thats-all-about-precision-combat
 ![picture 1](https://i.imgur.com/47GGm2U.png)  
