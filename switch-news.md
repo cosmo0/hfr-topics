@@ -50,8 +50,6 @@ https://www.nintendolife.com/news/2022/04/sonic-origins-arrives-23rd-june-new-tr
 **NIS Classics Volume 3** est daté au 2 septembre
 https://www.siliconera.com/nis-classics-vol-3-switch-and-pc-release-date-shared/
 
-## Rumeurs, leaks, teasing et discussions
-
 ## Images, vidéos, infos
 
 Un trailer pour **Fire Emblem Three Hopes**, un musou
@@ -101,6 +99,7 @@ https://www.destructoid.com/reviews/review-nintendo-switch-sports/
 https://www.eurogamer.net/nintendo-switch-sports-review-online-or-local-its-a-treat
 https://www.siliconera.com/review-nintendo-switch-sports-mostly-takes-familiar-swings/
 https://www.gameinformer.com/review/nintendo-switch-sports/par-for-the-course
+![picture 1](https://i.imgur.com/TPyGt1k.png)  
 
 **Bugsnax**, un jeu d'aventure/plateforme/action
 https://www.destructoid.com/reviews/bugsnax-the-isle-of-bigsnax-review/
@@ -110,6 +109,7 @@ http://www.nintendoworldreport.com/review/60323/bugsnax-switch-review
 https://www.siliconera.com/bugsnax-is-surprisingly-satisfying-on-the-switch/
 https://www.p-nintendo.com/tests/tests-complets/test-de-bugsnax-258495
 https://ladiesgamers.com/bugsnax-review/
+![picture 2](https://i.imgur.com/dkC2kf6.jpg)  
 
 **Gotta Protectors**, un tower defense stylé NES
 https://www.nintendolife.com/reviews/switch-eshop/gotta-protectors-cart-of-darkness
@@ -117,24 +117,35 @@ https://www.siliconera.com/review-gotta-protectors-cart-of-darkness-gameplay-is-
 https://www.destructoid.com/reviews/review-gotta-protectors-cart-of-darkness/
 http://www.nintendoworldreport.com/review/60168/gotta-protectors-cart-of-darkness-switch-review
 https://www.gamespot.com/reviews/gotta-protectors-cart-of-darkness-lets-protectorize-guys/1900-6417873/?ftag=CAD-01-10abi2f
+![picture 3](https://i.imgur.com/qJgvwSc.png)  
 
 **Cat Cafe Manager**, un jeu de gestion de bar à chats
 https://ladiesgamers.com/cat-cafe-manager-review/
 https://www.p-nintendo.com/tests/tests-complets/test-de-cat-cafe-manager-des-chats-et-des-lattes-258392
 https://www.destructoid.com/reviews/review-cat-cafe-manager-switch-pc-management/
 https://www.gamespot.com/reviews/cat-cafe-manager-review-meow-were-in-business/1900-6417863/?ftag=CAD-01-10abi2f
+![picture 4](https://i.imgur.com/mXE6ekh.jpg)  
 
 **Neptunia X Senran Kagura**, un jeu d'aventure/action
 http://www.nintendoworldreport.com/review/60224/neptunia-x-senran-kagura-ninja-wars-switch-review-faq
 https://www.siliconera.com/neptunia-x-senran-kagura-ninja-wars-switch-port-works-well/
 https://www.nintendolife.com/reviews/nintendo-switch/neptunia-x-senran-kagura-ninja-wars
 https://www.destructoid.com/reviews/review-neptunia-x-senran-kagura-ninja-wars/
+![picture 5](https://i.imgur.com/a3Dph1e.jpg)  
 
 **Star Wars The Force Unleashed**, un beat'em up/hack & slash
 https://www.nintendolife.com/reviews/switch-eshop/star-wars-the-force-unleashed
 https://www.destructoid.com/reviews/review-star-wars-the-force-unleashed-switch/
 http://www.nintendoworldreport.com/review/60241/star-wars-the-force-unleashed-switch-review
 https://ladiesgamers.com/star-wars-the-force-unleashed-review/
+![picture 6](https://i.imgur.com/QKBPfIA.jpg)  
+
+**The Stanley Parable Ultra Deluxe**, un walking simulator "meta"
+https://www.nintendolife.com/reviews/switch-eshop/the-stanley-parable-ultra-deluxe
+https://www.gamespot.com/reviews/the-stanley-parable-ultra-deluxe-review-a-sequel-in-all-but-name/1900-6417868/?ftag=CAD-01-10abi2f
+http://www.nintendoworldreport.com/review/60359/the-stanley-parable-ultra-deluxe-switch-review
+https://www.destructoid.com/reviews/review-the-stanley-parable-ultra-deluxe/
+![picture 7](https://i.imgur.com/SLyMBOr.png)  
 
 **Nobody Saves the World**, un RPG/jeu d'aventure/action
 https://www.nintendolife.com/reviews/switch-eshop/nobody-saves-the-world
@@ -150,11 +161,6 @@ https://www.p-nintendo.com/tests/tests-complets/test-de-chinatown-detective-agen
 https://ladiesgamers.com/arise-a-simple-story-definitive-edition-review/
 https://www.p-nintendo.com/tests/tests-complets/test-de-arise-a-simple-story-definitive-edition-au-fil-d-une-vie-a-travers-le-temps-258491
 https://www.nintendolife.com/reviews/switch-eshop/arise-a-simple-story-definitive-edition
-
-**The Stanley Parable Ultra Deluxe**, un walking simulator "meta"
-https://www.nintendolife.com/reviews/switch-eshop/the-stanley-parable-ultra-deluxe
-https://www.gamespot.com/reviews/the-stanley-parable-ultra-deluxe-review-a-sequel-in-all-but-name/1900-6417868/?ftag=CAD-01-10abi2f
-http://www.nintendoworldreport.com/review/60359/the-stanley-parable-ultra-deluxe-switch-review
 
 **Blast Brigade vs The Evil Legion of Dr Cread**, un metroidvania
 https://www.p-nintendo.com/tests/tests-complets/test-de-blast-brigade-vs-the-evil-legion-of-dr-cread-plus-metroid-que-vania-258470
