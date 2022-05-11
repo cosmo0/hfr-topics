@@ -112,7 +112,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, [Forager](https://www.cosmo0.fr/critique/forager/), Littlewood
 - **Walking simulator** : [Abzu](https://www.cosmo0.fr/critique/abzu/), Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/), Old Man's Journey, [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), Embracelet, Sagebrush, FAR Lone Sails
 - **Visual novel** : [80 Days](https://www.cosmo0.fr/critique/80-days/), Batman Telltale Series/Enemy Within, Cinders, [Bury Me My Love](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/), Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine, Later Daters, Chicken Police, If Found, Arcade Spirits, Telling Lies, Aviary Attorney, [Over the Alps](https://www.cosmo0.fr/critique/over-the-alps/)
-- **Aventure, point & click** : **Sky Children of The Light**, Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, Wide Ocean Big Jacket, Memoranda, Ord, To The Moon, Hypnospace Outlaw, Heaven's Vault, The Longing
+- **Aventure, point & click** : **Sky Children of The Light**, Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, Wide Ocean Big Jacket, Memoranda, Ord, To The Moon, Hypnospace Outlaw, Heaven's Vault, The Longing, Citizen Sleeper
 - **Aventure/puzzles** : [Pikuniku](https://www.cosmo0.fr/critique/pikuniku/), [The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/), Boxboy+Boxgirl, Death Coming, Etherborn, [Aer Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/), Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), [Pan-Pan](https://www.cosmo0.fr/critique/pan-pan-a-tiny-big-adventure/), I Am Dead, Fracter, Carto, Pixel Puzzle Makeout League, Evan's Remains, World For Two, Part Time UFO, There Is No Game
 - **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4/S5, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament, Mini Metro, Dude Stop, Tens!, Locomotion
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
@@ -144,6 +144,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Assassin's Creed** Ezio Collection, 3, Rebel Collection
 - **Astral Chain**
 - **Bayonetta** [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/)
+- Bugsnax
 - **Dark Souls Remastered**
 - **Darksiders** 1, 2
 - Deadly Premonition 1, 2
@@ -163,6 +164,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **[Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)**
 - [Minit](https://www.cosmo0.fr/critique/minit/)
 - No More Heroes 1, 2, 3
+- Nobody Saves The World
 - [Okami HD](https://www.cosmo0.fr/critique/okami-hd/)
 - [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/)
 - **Paper Mario The Origami King**
@@ -195,7 +197,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Superhot**
 - **Wolfenstein II**, Youngblood
 - World War Z
-- Zombie Army Trilogy
+- Zombie Army Trilogy, 4
 
 ## Shooters multijoueur
 
@@ -604,6 +606,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 
 ## Aventure, point & click, enquête
 
+- **13 Sentinels Aegis Rim**
 - **AI The Somnium Files**
 - [Broken Age](https://www.cosmo0.fr/critique/broken-age/)
 - Creaks
@@ -884,6 +887,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - **Programme d'Entraînement Cérébral du Dr Kawashima**
 - **Ring Fit Adventure**
 - Sports Party
+- **Switch Sports**
 
 ## Jeux relaxants, reposants, non-violents
 
@@ -984,25 +988,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : 
+- Jeux sortis, en attente de tests : Astrodogs
 
-- Avril : Astrodogs (8), **13 Sentinels Aegis Rim** (12), Nobody Saves The World (14), Sociable Soccer (17), Star Wars The Force Unleashed (20), MotoGP22 (21), Zombie Army 4 (26), **Switch Sports** (29)
-- Mai : Citizen Sleeper (5), Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Vampire The Masquerade Swansong (19), Touken Ranbu Warriors (24), Final Vendetta (?)
-- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), AI The Somnium Files NirvanA Initiative (24), **Fire Emblem Warriors Three Hopes** (24), Capcom Fighting Collection (24), Lego Brawls (?)
-- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), **Live A Live** (22), Wonder Boy Collection (?)
+- Mai : Evil Dead (13), NIS Classics Vol 2 (13), Two Point Campus (17), Touken Ranbu Warriors (24), Redout 2 (26)
+- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), Shadowrun Trilogy (21), **Fire Emblem Warriors Three Hopes** (24), Capcom Fighting Collection (24), Lego Brawls (?)
+- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), AI The Somnium Files NirvanA Initiative (8), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : -
-- Septembre : Test Drive Unlimited Solar Crown (22), The Legend of Heroes Trails from Zero (30), **Xenoblade Chronicles 3** (?)
+- Septembre : **Splatoon 3** (9), Test Drive Unlimited Solar Crown (22), The Legend of Heroes Trails from Zero (30)
 
 - printemps : Pac-Man Museum+, Matchpoint Tennis Championship, Pocky & Rocky
-- été : **Splatoon 3**, **No Man's Sky**, Disney Speedstorm, River City Girls 2, Front Mission 1st Remake, Arcade Paradise
+- été : **No Man's Sky**, River City Girls 2, Front Mission 1st Remake, Arcade Paradise, **Teenage Mutant Ninja Turtles Shredder’s Revenge**
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, Made In Abyss Binary Star Falling Into Darkness
 - hiver : **Pokémon Ecarlate/Violet**, **Hogwarts Legacy**
 
-- 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, Shadowrun Trilogy, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Redout 2, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails
+- 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Fall Guys**, **Sonic Frontiers**, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails
 
 - 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Oxenfree 2, Mina the Hollower, Coromon, TemTem
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, Oxenfree 2, Mina the Hollower, Coromon, TemTem
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Neon White, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
