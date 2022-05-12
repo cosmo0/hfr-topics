@@ -1,8 +1,10 @@
 # Les meilleurs jeux Game Boy Advance
 
+La Game Boy Advance a eu une vie écourtée par la sortie de la DS, et a une ludothèque composée en bonne partie de portages SNES : elle n'a par exemple aucun Super Mario développé spécialement pour elle.
+
 Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
 
-Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy et Game Boy Color (à l'exception de la Game Boy Micro).
+Ne pas oublier que la GBA est rétro-compatible avec tout le catalogue Game Boy et Game Boy Color (à l'exception de la Game Boy Micro).
 
 ## Plateforme
 
@@ -32,7 +34,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy e
 
 ## Aventure/action, shooters
 
-- Doom 1, 2 (portages des jeux PC)
+- Doom 1, 2 (portages des jeux SNES)
 - Duke Nukem Advance (portage du jeu PC)
 - Dragon Ball Advance Adventure, Z Buu's Fury
 - Grand Theft Auto Advance

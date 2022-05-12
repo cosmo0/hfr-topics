@@ -1,5 +1,7 @@
 # Les meilleurs jeux sur Nintendo DS
 
+J'ai beaucoup aimé la DS pour ses jeux qui étaient, à l'époque, très originaux : le tactile était une nouveauté pour la plupart des gens (il sera popularisé par l'iPhone en 2007), et le double écran permettait des choses assez uniques. La ludothèque est variée, mais elle comprend particulièrement beaucoup d'excellents RPG.
+
 Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
 
 Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy Advance.
@@ -141,7 +143,7 @@ Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy A
 - Les Chevaliers de Baphomet Director's Cut
 - Life Signs : Hospital Affairs
 - **Phoenix Wright 1, 2, 3, Appolo Justice, Miles Edgeworth** (ont des remasters sur Switch)
-- **Professeurr Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
+- **Professeur Layton Etrange Village, Boite de Pandore, Destin Perdu, Appel Du Spectre**
 - Runaway The Dream of the Turtle, A Twist of Fate
 - Time Hollow
 - Touch Detective 1, 2
