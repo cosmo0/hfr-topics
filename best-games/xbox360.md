@@ -6,6 +6,31 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 
 Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft, parfois en rétrocompatibilité, parfois en version remasterisée Xbox One.
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Alan Wake
+- Assassin's Creed 2
+- Batman Arkham Asylum
+- Bioshock
+- Call of Duty Modern Warfare
+- Dead Rising
+- Dead Space
+- Dragon Age Origins
+- Fable 2
+- Fallout 3
+- Far Cry 3
+- Forza Horizon
+- Forza Motorsport 4
+- GTA IV
+- Gears of War
+- Halo 3
+- Mass Effect (1, 2, 3)
+- Red Dead Redemption
+- Shadow Complex
+- Super Street Fighter IV Arcade
+
 ## Aventure/action
 
 - Alice Madness Returns (Game Pass)

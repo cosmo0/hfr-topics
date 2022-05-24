@@ -6,6 +6,31 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la GBA est rétro-compatible avec tout le catalogue Game Boy et Game Boy Color (à l'exception de la Game Boy Micro).
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Advance Wars
+- Castlevania Aria of Sorrow
+- Donkey Kong Country
+- F-Zero GP Legend
+- Final Fantasy VI
+- Final Fantasy Tactics Advance
+- Fire Emblem
+- Golden Sun
+- Kirby Nightmare in Dreamland
+- Mario & Luigi Superstar Saga
+- Mario Golf Advance Tour
+- Mario Tennis Power Tour
+- Megaman Zero
+- Metroid (Fusion, Zero)
+- Pokémon Emeraude
+- Rhythm Tengoku
+- Super Mario Advance (2, 3)
+- The Legend of Zelda Minish Cap
+- Wario Land 4
+- Wario Ware Inc Minigame Mania
+
 ## Plateforme
 
 - **Donkey Kong Country 1, 2, 3** (portages des jeux SNES)

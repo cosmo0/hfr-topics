@@ -4,6 +4,31 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la Vita propose des émulateurs PSP et PS1 très performants, mais pour cela [il faut la hacker](https://vita.hacks.guide).
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Danganronpa (1, 2, 3)
+- Dragon's Crown
+- Gravity Rush
+- Guacamelee!
+- Hotline Miami
+- LittleBigPlanet PS Vita
+- Minecraft
+- Mortal Kombat
+- Muramasa Rebirth
+- Odin Sphere Leifthrasir
+- Persona 4 Golden
+- Rayman Legends
+- Rogue Legacy
+- Shovel Knight
+- Spelunky
+- Tearaway
+- Tokyo Xanadu
+- Uncharted Golden Abyss
+- Wipeout 2048
+- World of Final Fantasy
+
 ## Aventure/action
 
 - Earth Defense Force 2

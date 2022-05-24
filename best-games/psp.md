@@ -8,6 +8,31 @@ Ne pas oublier que la PSP propose un émulateur PS1 très performant, et de nomb
 
 [La PSP se hacke très facilement](https://pspunk.com/psp-cfw/), vous pouvez acheter une console d'occasion pour une bouchée de pain et n'êtes pas obligé de payer certains jeux des centaines d'euros.
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Castlevania The Dracula X Chronicles
+- Crisis Core Final Fantasy VII
+- God of War Chain of Olympus
+- Gran Turismo
+- Grand Theft Auto Chinatown Wars
+- Hot Shots Golf
+- Jeanne D'Arc
+- LittleBigPlanet
+- LocoRoco
+- Lumines
+- Metal Gear Solid Peace Walker
+- Monster Hunter Freedom Unite
+- OutRun 2006 Coast 2 Coast
+- Persona 3 Portable
+- Ridge Racer
+- Space Invaders Extreme
+- Tactics Ogre Let Us Cling Together
+- Tekken 6
+- Valkyrie Profile Lenneth
+- Wipeout Pure
+
 ## Aventure/action
 
 - Daxter

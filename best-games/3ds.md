@@ -4,6 +4,31 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu'elle possède la virtual console de la Game Boy à la SNES.
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Animal Crossing New Leaf
+- Captain Toad Treasure Tracker
+- Etrian Odyssey (Untold, V)
+- Fire Emblem (Awakening, Fates)
+- Kid Icarus Uprising
+- Luigi's Mansion 2
+- Mario & Luigi Dream Team Bros
+- Mario Kart 7
+- Metroid Samus Returns
+- Monster Hunter Generations
+- Picross 3D
+- Pokémon (Ultra Soleil/Ultra Lune, X/Y)
+- Rune Factory 4
+- Shin Megami Tensei (IV Apocalypse, Strange Journey)
+- Super Mario 3D Land
+- Super Mario Maker
+- Super Smash Bros
+- The Legend of Zelda (A Link Between Worlds, Ocarina of Time)
+- Theathrythm Final Fantasy Curtain Call
+- Ultimate NES Remix
+
 ## Aventure/action
 
 - Attack of the Friday Night Monsters

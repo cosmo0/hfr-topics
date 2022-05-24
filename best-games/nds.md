@@ -6,6 +6,31 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy Advance.
 
+## Top 20 / jeux représentatifs
+
+Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
+
+- Animal Crossing : Wild World
+- Castlevania Dawn of Sorrow
+- Cérébrale Académie
+- Etrian Odyssey
+- Final Fantasy Tactics A2
+- Hotel Dusk Room 215
+- Kirby Le Pinceau de Pouvoir
+- Mario & Luigi Voyage Au Centre De Bowser
+- Mario Kart DS
+- Meteos
+- Metroid Prime Hunters
+- New Super Mario Bros
+- Nintendogs
+- Osu! Tatakae! Oendan! + Oendan 2 + Elite Beat Agent
+- Phoenix Wright (1, 2, 3)
+- Pokémon Diamant
+- Professeur Layton et l'Etrange Village
+- The Legend of Zelda Phantom Hourglass
+- The World Ends With You
+- Trauma Center
+
 ## Aventure/action, survival
 
 - Bomberman Land Touch! 1, 2
