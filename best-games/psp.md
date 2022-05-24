@@ -6,7 +6,7 @@ La PSP a eu de nombreux jeux de sport "numérotés" (FIFA, MLB, PES, etc) et aut
 
 Ne pas oublier que la PSP propose un émulateur PS1 très performant, et de nombreux jeux PS1 sont disponibles ; le seul problème étant le manque de 2 gâchettes, remplacées par des actions sur le stick analogique.
 
-[La PSP se hacke très facilement](https://pspunk.com/psp-cfw/), vous pouvez acheter une console d'occasion pour une bouchée de pain et n'êtes pas obligé de payer certains jeux des centaines d'euros.
+L'émulateur [PPSSPP](https://www.ppsspp.org/) est plutôt performant et fonctionne bien sur un téléphone Android. Sinon, [la PSP se hacke très facilement](https://pspunk.com/psp-cfw/), vous pouvez acheter une console d'occasion pour une bouchée de pain (attention au modèle, tous ne sont pas hackables). Direction ensuite [CDRomance](https://cdromance.com/psp/) pour télécharger des ISO (et des "eboot" pour la PS1). Il est également possible de faire tourner ces jeux [en hackant une Vita](https://vita.hacks.guide/) et de profiter du bien meilleur écran (et des jeux Vita).
 
 ## Top 20 / jeux représentatifs
 

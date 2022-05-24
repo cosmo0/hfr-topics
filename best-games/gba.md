@@ -6,6 +6,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la GBA est rétro-compatible avec tout le catalogue Game Boy et Game Boy Color (à l'exception de la Game Boy Micro).
 
+Pour jouer à la GBA de nos jours rien de plus simple, des émulateurs existent pour [à peu près toutes les plateformes](http://emulation.gametechwiki.com/index.php/Game_Boy_Advance_emulators), en particulier mGBA. Pour les romsets, No-Intro a [un romset plutôt complet](https://ia802503.us.archive.org/view_archive.php?archive=/25/items/no-intro_romsets/no-intro%20romsets/Nintendo%20-%20Game%20Boy%20Advance%20%2820220318-080015%29.zip).
+
 ## Top 20 / jeux représentatifs
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.

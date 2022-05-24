@@ -4,6 +4,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la 3DS est rétro-compatible avec tout le catalogue DS, et qu'elle possède la virtual console de la Game Boy à la SNES.
 
+Pour y jouer, le plus simple est de [hacker une console](https://3ds.hacks.guide/), sinon l'émulateur [Citra](https://citra-emu.org/) fonctionne plutôt bien. Et [les jeux se téléchargent facilement](https://hshop.erista.me/) (puisque Nintendo ne veut plus qu'on les achète légalement).
+
 ## Top 20 / jeux représentatifs
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.

@@ -6,6 +6,8 @@ Ne pas oublier que la Xbox 360 est rétro-compatible avec certains titres de la 
 
 Les jeux notés "Game Pass" sont disponible dans l'abonnement de Microsoft, parfois en rétrocompatibilité, parfois en version remasterisée Xbox One.
 
+Pour jouer à ces jeux, vous pouvez en acheter certains légalement sur Xbox One/Series, ou bien utiliser l'émulateur [Xenia](https://github.com/xenia-project/xenia).
+
 ## Top 20 / jeux représentatifs
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.

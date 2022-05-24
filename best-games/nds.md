@@ -6,6 +6,8 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 Ne pas oublier que la DS est rétro-compatible avec tout le catalogue Game Boy Advance.
 
+A noter que [les émulateurs DS](http://emulation.gametechwiki.com/index.php/Nintendo_DS_emulators) ne sont (à l'heure où j'écris) pas très au point ; vous pouvez jouer à ces jeux sur DS avec un linker (trouvable pour quelques euros sur Aliexpress) ou [sur une 3DS hackée](https://3ds.hacks.guide/) (recherchez "Twilight Menu"). Pour les roms, comme souvent, direction [Archive.org](https://archive.org/download/noIntroNintendoDsDecrypted2019Jun30).
+
 ## Top 20 / jeux représentatifs
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.

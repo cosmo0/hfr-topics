@@ -2,7 +2,7 @@
 
 Ces listes sont basées sur les tests, les avis et retours sur les forums et réseaux sociaux, ainsi que mes préférences personnelles.
 
-Ne pas oublier que la Vita propose des émulateurs PSP et PS1 très performants, mais pour cela [il faut la hacker](https://vita.hacks.guide).
+Pour y jouer, vous pouvez utiliser [Vita3K](https://github.com/Vita3K/Vita3K) (pas encore très au point), ou plus simplement [en hacker une](https://vita.hacks.guide) ; installez ensuite "PKGj" pour télécharger n'importe quel jeu. Profitez-en pour installer "Adrenaline" et jouer [aux jeux PSP](https://www.cosmo0.fr/les-meilleurs-jeux/les-meilleurs-jeux-psp/) et PS1 à travers l'excellent émulateur intégré.
 
 ## Top 20 / jeux représentatifs
 
