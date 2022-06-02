@@ -1,101 +1,62 @@
-#cosmonews spéciale récap Indie World du 11/05/2022
+Sinon j'en ai marre de passer 2h à faire des grosses #cosmonews alors je vais arrêter, et poster moins de news, mais plus souvent.
 
-La vidéo complète est visible ici : https://www.youtube.com/watch?v=mQ1PL-Kzays
+## Annonces, dates et sorties
 
-## Disponibilité immédiate
+**Alan Wake Remastered**, un jeu d'horreur/thriller, sortira sur Switch cet automne
+https://www.nintendolife.com/news/2022/05/alan-wake-remastered-is-heading-to-switch-this-fall
 
-**Soundfall**, qui semble mélanger aventure, twin stick shooter, dungeon crawling, et rythme
+**Fall Guys**, un Intervilles multi, sort (enfin !) sur Switch le 21 juin en version free to play
+https://www.nintendolife.com/news/2022/05/fall-guys-is-going-free-to-play-comes-to-switch-this-summer-with-cross-play-and-a-huge-update
 
-https://www.youtube.com/watch?v=9VkxeRpiY1w
+**Redout 2**, un Wipeout-like, est retardé au 16 juin
+https://www.nintendolife.com/news/2022/05/redout-2-slows-down-and-delays-release-now-coming-in-june
 
-**Mini Motorways**, un jeu minimaliste de gestion de trafic de ville
+**Eiyuden Chronicles Hundred Heroes**, le successeur spirituel de Suikoden, est officiellement confirmé pour la Switch (mais sans précision).
+https://www.nintendolife.com/news/2022/05/eiyuden-chronicle-hundred-heroes-the-successor-to-suikoden-confirmed-for-switch
 
-https://www.youtube.com/watch?v=3qkgLabCByo
+**FIST Forged In Shadow Torch**, un metroidvania 3D, sort sur Switch en fin d'année
+https://www.nintendolife.com/news/2022/05/its-official-fist-forged-in-shadow-torch-hops-onto-switch-later-this-year
 
-**Gibbon: Beyond the Trees**, un jeu de plateformes où l'on utilise la physique pour avancer
+**TemTem**, le Pokémon-like qui avait fait grand bruit à son annonce, sortira sur Switch le 6 septembre
+https://www.nintendolife.com/news/2022/05/temtem-brings-pokemon-inspired-online-adventure-to-switch-this-september
 
-https://www.youtube.com/watch?v=qP7wnvyGxZs
+**Pokémon Ecarlate/Violet** est daté au 18 novembre, et sera "le premier open world de la série"
+https://www.nintendolife.com/news/2022/06/pokemon-scarlet-and-violet-described-as-the-first-open-world-rpgs-in-the-series
 
-**OPUS: Echoes of Starsong**, un jeu d'aventure, dernier épisode d'une série qui a de très bonnes critiques
+## Rétrogaming
 
-https://www.youtube.com/watch?v=OPCUnUZ39Ms
+**Star Wars Knights of the Old Republic 2**, un RPG, sort sur Switch le 8 juin
+https://www.p-nintendo.com/news/star-wars-knights-of-the-old-republic-ii-the-sith-lords-arrive-en-juin-sur-switch-258623
 
-## Juin
+## Rumeurs, leaks, teasing et discussions
 
-**Silt**, un jeu d'aventure et d'exploration monochrome
+**Falcom** est intéressé pour porter des titres rétro sur Switch (Ys, Legend of Heroes, etc)
+https://www.siliconera.com/nihon-falcom-to-potentially-release-retro-titles-on-nintendo-switch/
 
-https://www.youtube.com/watch?v=I86lcMIl7rQ
+## Previews
 
-**Card Shark**, un jeu d'aventure/cartes où l'on doit tricher pour s'en sortir (démo disponible aujourd'hui)
+**Monster Hunter Rise Sunbreak**
+https://www.eurogamer.net/monster-hunter-rise-sunbreak-is-brutal-but-balanced
+https://www.nintendolife.com/news/2022/06/hands-on-monster-hunter-rise-sunbreak-is-looking-like-a-mighty-meaty-hunk-of-dlc
 
-https://www.youtube.com/watch?v=4-DxwvR11fc
+## Tests
 
-## Juillet
+**Eyiuden Chronicles Rising**, un mélange de RPG, beat'em up et city building
+https://www.gamespot.com/reviews/eiyuden-chronicle-rising-review-humble-beginnings/1900-6417878/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/eiyuden-chronicle-rising/lots-of-chores-little-reward
+https://ladiesgamers.com/eiyuden-chronicle-rising-review/
+https://www.p-nintendo.com/tests/tests-complets/test-d-eiyuden-chronicles-rising-l-avant-gout-d-une-nouvelle-franchise-258582
 
-**Wayward Strand**, un jeu d'aventure/point & click "émotionnel"
+**Touken Ranbu Warriors**, un musou
+https://ladiesgamers.com/touken-ranbu-warriors-review/
+https://www.destructoid.com/reviews/touken-ranbu-warriors-review-nintendo-switch/
+https://www.siliconera.com/review-touken-ranbu-warriors-is-a-more-limited-musou/
 
-https://www.youtube.com/watch?v=bDTtNn19ww8
+**Card Shark**, un jeu d'aventure à cartes
+https://www.nintendolife.com/reviews/switch-eshop/card-shark
+https://www.gameinformer.com/review/card-shark/bad-luck-at-the-tables
+http://www.nintendoworldreport.com/review/60584/card-shark-switch-review
 
-## Août
-
-**Idol Manager**, un jeu de gestion
-
-https://www.youtube.com/watch?v=bIEHpxoyrwo
-
-## Cet été, sans précision
-
-**Ooblets**, qui semble mélanger farming, gestion, et collection de bonshommes, avec un look low poly tout mignon
-
-https://www.youtube.com/watch?v=mcDhOnC4WNE
-
-**Elec Head**, un puzzle-platformer monochrome qui a eu une bonne réception sur PC
-
-https://www.youtube.com/watch?v=nkPml74Gukk
-
-**Totally Accurate Battle Simulator**, un jeu de stratégie/simulation de physique
-
-https://www.youtube.com/watch?v=kWXpVxq2SJU
-
-**We Are OFK**, un jeu d'aventure qui sert de making-of d'un album du groupe
-
-https://www.youtube.com/watch?v=L-uqp2JNNG0
-
-**OneShot: One Machine Edition**, un jeu d'aventure
-
-https://www.youtube.com/watch?v=8PaAA0GkSv4
-
-**Cursed to Golf**, un jeu de sport décalé
-
-https://www.youtube.com/watch?v=1JQ9D17s0FY
-
-## Cet automne
-
-**Batora: Lost Haven**, un jeu d'aventure/action de style hack & slash
-
-https://www.youtube.com/watch?v=dnznwRZEPGE
-
-**A Guidebook of Babel**, un jeu d'aventure/puzzle
-
-https://www.youtube.com/watch?v=LNWijeur0Cs
-
-## Cet hiver
-
-**Wildfrost**, un roguelike/deck builder
-
-https://www.youtube.com/watch?v=y3MankqDP4E
-
-## 2022, sans précision
-
-**Cult of the Lamb**, un jeu d'aventure/action avec du farming, ou l'inverse, je ne sais pas trop
-
-https://www.youtube.com/watch?v=uCz2ggqLXbs
-
-## 2023
-
-**Gunbrella**, un jeu de plateforme/action avec un fusil/parapluie multifonction
-
-https://www.youtube.com/watch?v=HJR-ZC4WzZA
-
-**Another Crab's Treasure**, un Souls-like où l'on incarne un Bernard l'hermite qui cherche sa coquille
-
-https://www.youtube.com/watch?v=lAqV2XtVCUc
+**Citizen Sleeper**, un RPG narratif
+https://www.gameinformer.com/review/citizen-sleeper/a-sleeper-hit
+http://www.nintendoworldreport.com/review/60533/citizen-sleeper-switch-review
