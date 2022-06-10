@@ -35,7 +35,7 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 
 ## Les classiques/indispensables
 
-Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promos : <https://www.dekudeals.com/lists/yf33dt>
+Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promos : [DekuDeals](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
 
 - **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga, Death's Door
 - **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016/Eternal, Wolfenstein II, Metro Redux, Bioshock, Borderlands
