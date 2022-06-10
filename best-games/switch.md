@@ -10,6 +10,8 @@ N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchsc
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
 
+Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus.
+
 - Animal Crossing New Horizons
 - Dead Cells
 - Fire Emblem Three Houses
@@ -33,6 +35,8 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 
 ## Les classiques/indispensables
 
+Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promos : <https://www.dekudeals.com/lists/yf33dt>
+
 - **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga
 - **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016/Eternal, Wolfenstein II, Metro Redux, Bioshock, Borderlands
 - **Shooters multijoueur** : Fortnite, Splatoon 2, Overwatch, Warframe
@@ -45,18 +49,18 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 - **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Dragon's Dogma Dark Arisen
 - **RPG tour par tour** : Pokémon [Let's Go](https://www.cosmo0.fr/critique/pokemon-lets-go/) / [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/) / Diamant Brillant/Perle Scintillante / Legends Arceus, Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V
 - **Hack & Slash, musou** : Diablo 2/3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Persona 5 Strikers, Samurai Warriors 5
-- **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5, Triangle Strategy
+- **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5/6, Triangle Strategy
 - **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
 - **Gestion** : Civilization 6, Two Point Hospital, Football Manager, RollerCoaster Tycoon 3, Tropico 6
-- **Construction, crafting, farming, survie** : Stardew Valley, Dragon Quest Builders 1/2, Minecraft, Terraria, Rune Factory 4 Special, Subnautica + Below Zero
+- **Construction, crafting, farming, survie** : Stardew Valley, Dragon Quest Builders 2, Minecraft, Terraria, Rune Factory 5, Subnautica + Below Zero
 - **Visual novel, walking simulator** : Firewatch, Steins;Gate Elite, Kentucky Route Zero, [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/)
 - **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, Night in the Wood, Paradise Killer
 - **Aventure/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), The Talos Principle, Return of the Obra Dinn, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S, realMyst
 - **Puzzle/action** : Puyo Puyo Tetris [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)/2, Lumines Remastered, Tetris 99, Mr Driller Drill Land, Tetris Effect Connected
 - **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
-- **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP 20
-- **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11
+- **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP
+- **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11, Garou Mark of the Wolves, King of Fighters 98
 - **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101
 - **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)
 - **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector, Fuser
