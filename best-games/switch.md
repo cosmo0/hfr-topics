@@ -37,7 +37,7 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 
 Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promos : <https://www.dekudeals.com/lists/yf33dt>
 
-- **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga
+- **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga, Death's Door
 - **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016/Eternal, Wolfenstein II, Metro Redux, Bioshock, Borderlands
 - **Shooters multijoueur** : Fortnite, Splatoon 2, Overwatch, Warframe
 - **Survival horror** : Resident Evil 0/1/4/5/6/Revelations 1/2, Alien Isolation, Outlast 1/2, Little Nightmares 1/2
@@ -62,7 +62,7 @@ Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promo
 - **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP
 - **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11, Garou Mark of the Wolves, King of Fighters 98
 - **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101
-- **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/)
+- **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/), EspGaluda 2, DoDonPachi Resurrection, Mushihimesama, Crimzon Clover
 - **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector, Fuser
 - **Multijoueur, party game** : Overcooked 2, TowerFall, Mario Party Superstars, Heave Ho, Among Us
 - **Casual, fitness** : Dr Kawashima, Ring Fit Adventure, Go Vacation, Let's Dance, Just Sing
