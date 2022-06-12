@@ -58,7 +58,7 @@ Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promo
 - **Aventure/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), The Talos Principle, Return of the Obra Dinn, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
 - **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S, realMyst
 - **Puzzle/action** : Puyo Puyo Tetris [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)/2, Lumines Remastered, Tetris 99, Mr Driller Drill Land, Tetris Effect Connected
-- **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers
+- **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers, Mario Strikers Battle League
 - **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP, Horizon Chase Turbo
 - **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11, Garou Mark of the Wolves, King of Fighters 98
 - **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101
@@ -731,6 +731,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - NBA 2K Playgrounds 2
 - Mario & Sonic aux JO
 - **Mario Golf Super Rush**
+- **Mario Strikers Battle League**
 - **Mario Tennis Aces**
 - MLB The Show 22
 - Mutant Football League
@@ -775,6 +776,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Arms
 - Blazblue Central Fiction, Cross Tag Battle
 - Brawlhalla (free to play)
+- Demon Slayer
 - **Dragon Ball FighterZ**
 - [Dragon Ball Xenoverse 2](https://www.cosmo0.fr/critique/dragon-ball-xenoverse-2/), Kakarot
 - **Fantasy Strike**
@@ -1012,23 +1014,23 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Juin : **Mario Strikers Battle League** (10), Demon Slayer (10), Redout 2 (16), Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
-- Juillet : Yurukill: The Calumnation Game (5), Klonoa Phantom Reverie Series (8), AI The Somnium Files NirvanA Initiative (8), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
+- Juin : Redout 2 (16), **Teenage Mutant Ninja Turtles Shredder’s Revenge** (16), Neon White (16), Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
+- Juillet : Yurukill: The Calumnation Game (5), AI The Somnium Files NirvanA Initiative (8), Severed Steel (21), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : -
 - Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), The Legend of Heroes Trails from Zero (30)
 - Octobre : -
 - Novembre : **Pokémon Ecarlate/Violet** (18)
 
-- été : **No Man's Sky**, River City Girls 2, Front Mission 1st Remake, Arcade Paradise, **Teenage Mutant Ninja Turtles Shredder’s Revenge**, Les Lapins Crétins
+- été : **No Man's Sky**, River City Girls 2, Front Mission 1st Remake, Arcade Paradise, Les Lapins Crétins
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, FIST Forged in Shadow Torch, **Alan Wake Remastered**
 - hiver : **Hogwarts Legacy**
 
 - 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Sonic Frontiers**, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails
 
-- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure
+- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire
 
 - Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, Oxenfree 2, Mina the Hollower, Coromon, TemTem
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Neon White, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
