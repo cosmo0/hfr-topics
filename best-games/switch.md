@@ -1014,10 +1014,10 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Juin : Redout 2 (16), **Teenage Mutant Ninja Turtles Shredder’s Revenge** (16), Neon White (16), Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
+- Juin : **Teenage Mutant Ninja Turtles Shredder’s Revenge** (16), Neon White (16), Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
 - Juillet : Yurukill: The Calumnation Game (5), AI The Somnium Files NirvanA Initiative (8), Severed Steel (21), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
-- Août : -
-- Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), The Legend of Heroes Trails from Zero (30)
+- Août : Tinykin (30)
+- Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), No Place for Bravery (22), The Legend of Heroes Trails from Zero (30)
 - Octobre : -
 - Novembre : **Pokémon Ecarlate/Violet** (18)
 
@@ -1025,11 +1025,11 @@ En gras les jeux exclusifs et les "grosses sorties".
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, FIST Forged in Shadow Torch, **Alan Wake Remastered**
 - hiver : **Hogwarts Legacy**
 
-- 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Sonic Frontiers**, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails
+- 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Sonic Frontiers**, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected
 
-- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire
+- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, Oxenfree 2, Mina the Hollower, Coromon, TemTem
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, Oxenfree 2, Mina the Hollower, Coromon, TemTem, Redout 2
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
