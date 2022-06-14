@@ -1,62 +1,83 @@
-Sinon j'en ai marre de passer 2h à faire des grosses #cosmonews alors je vais arrêter, et poster moins de news, mais plus souvent.
-
-## Annonces, dates et sorties
-
-**Alan Wake Remastered**, un jeu d'horreur/thriller, sortira sur Switch cet automne
-https://www.nintendolife.com/news/2022/05/alan-wake-remastered-is-heading-to-switch-this-fall
-
-**Fall Guys**, un Intervilles multi, sort (enfin !) sur Switch le 21 juin en version free to play
-https://www.nintendolife.com/news/2022/05/fall-guys-is-going-free-to-play-comes-to-switch-this-summer-with-cross-play-and-a-huge-update
-
-**Redout 2**, un Wipeout-like, est retardé au 16 juin
-https://www.nintendolife.com/news/2022/05/redout-2-slows-down-and-delays-release-now-coming-in-june
-
-**Eiyuden Chronicles Hundred Heroes**, le successeur spirituel de Suikoden, est officiellement confirmé pour la Switch (mais sans précision).
-https://www.nintendolife.com/news/2022/05/eiyuden-chronicle-hundred-heroes-the-successor-to-suikoden-confirmed-for-switch
-
-**FIST Forged In Shadow Torch**, un metroidvania 3D, sort sur Switch en fin d'année
-https://www.nintendolife.com/news/2022/05/its-official-fist-forged-in-shadow-torch-hops-onto-switch-later-this-year
-
-**TemTem**, le Pokémon-like qui avait fait grand bruit à son annonce, sortira sur Switch le 6 septembre
-https://www.nintendolife.com/news/2022/05/temtem-brings-pokemon-inspired-online-adventure-to-switch-this-september
-
-**Pokémon Ecarlate/Violet** est daté au 18 novembre, et sera "le premier open world de la série"
-https://www.nintendolife.com/news/2022/06/pokemon-scarlet-and-violet-described-as-the-first-open-world-rpgs-in-the-series
-
-## Rétrogaming
-
-**Star Wars Knights of the Old Republic 2**, un RPG, sort sur Switch le 8 juin
-https://www.p-nintendo.com/news/star-wars-knights-of-the-old-republic-ii-the-sith-lords-arrive-en-juin-sur-switch-258623
-
-## Rumeurs, leaks, teasing et discussions
-
-**Falcom** est intéressé pour porter des titres rétro sur Switch (Ys, Legend of Heroes, etc)
-https://www.siliconera.com/nihon-falcom-to-potentially-release-retro-titles-on-nintendo-switch/
-
-## Previews
-
-**Monster Hunter Rise Sunbreak**
-https://www.eurogamer.net/monster-hunter-rise-sunbreak-is-brutal-but-balanced
-https://www.nintendolife.com/news/2022/06/hands-on-monster-hunter-rise-sunbreak-is-looking-like-a-mighty-meaty-hunk-of-dlc
-
-## Tests
-
-**Eyiuden Chronicles Rising**, un mélange de RPG, beat'em up et city building
-https://www.gamespot.com/reviews/eiyuden-chronicle-rising-review-humble-beginnings/1900-6417878/?ftag=CAD-01-10abi2f
-https://www.gameinformer.com/review/eiyuden-chronicle-rising/lots-of-chores-little-reward
-https://ladiesgamers.com/eiyuden-chronicle-rising-review/
-https://www.p-nintendo.com/tests/tests-complets/test-d-eiyuden-chronicles-rising-l-avant-gout-d-une-nouvelle-franchise-258582
-
-**Touken Ranbu Warriors**, un musou
-https://ladiesgamers.com/touken-ranbu-warriors-review/
-https://www.destructoid.com/reviews/touken-ranbu-warriors-review-nintendo-switch/
-https://www.siliconera.com/review-touken-ranbu-warriors-is-a-more-limited-musou/
-
-**Card Shark**, un jeu d'aventure à cartes
-https://www.nintendolife.com/reviews/switch-eshop/card-shark
-https://www.gameinformer.com/review/card-shark/bad-luck-at-the-tables
-http://www.nintendoworldreport.com/review/60584/card-shark-switch-review
-
-**Citizen Sleeper**, un RPG narratif
-https://www.gameinformer.com/review/citizen-sleeper/a-sleeper-hit
-http://www.nintendoworldreport.com/review/60533/citizen-sleeper-switch-review
+#cosmonews  
+  
+Il y a eu beaucoup, beaucoup d'annonces, littéralement des centaines, je vais pas creuser pour vérifier ce qui sort sur quelle plateforme. Si quelque chose d'intéressant sort sur Switch, soit on en entendra de nouveau parler, soit j'en parlerai dans mes cosmo-picks.  
+  
+---  
+  
+Un nouveau trailer pour **Hollow Knight Silksong**, qui sortira "dans les 12 prochains mois", ça vous fait une belle jambe  
+http://www.nintendoworldreport.com/news/60690/hollow-knight-silksong-release-window-narrowed  
+![picture 9](https://i.imgur.com/z4SVdYVm.jpg)  
+  
+**Persona 3, 4 et 5** sont annoncés partout mais pas sur Switch, on peut raisonnablement imaginer qu'ils seront annoncés lors du prochain Direct  
+https://www.nintendolife.com/news/2022/06/persona-3-4-and-5-seemingly-confirmed-for-everything-but-switch  
+![picture 10](https://i.imgur.com/2mqR2msm.png)  
+  
+**Tactics Ogre Reborn**, un TRPG, a leaké sur le store Playstation, plus qu'à espérer qu'il sorte sur Switch aussi.  
+https://www.siliconera.com/tactics-ogre-reborn-psn-store-page-leaked/  
+  
+Une démo pour **Monster Hunter Rise Sunbreak**  
+https://www.siliconera.com/monster-hunter-rise-sunbreak-demo-to-appear-on-pc-switch/  
+![picture 14](https://i.imgur.com/QkzNdsOm.png)  
+  
+**Redout 2** est repoussé à une date indéterminée pour prendre le temps d'en faire une bonne version  
+https://www.nintendolife.com/news/2022/06/next-gen-anti-grav-racer-redout-2-delayed-for-nintendo-switch-again  
+![picture 15](https://i.imgur.com/K7VHsYCm.jpg)  
+  
+---  
+  
+**No Place for Bravery**, un roguelike qui semble fortement inspiré par Hyper Light Drifter, sort le 22 septembre  
+https://www.nintendolife.com/news/2022/06/no-place-for-bravery-brings-gory-roguelikery-to-nintendo-switch-this-september  
+![picture 2](https://i.imgur.com/knW06Znm.jpg)  
+  
+**Bright Memory Infinite**, un FPS nerveux, sortira aussi sur Switch, et vu qu'il était calibré pour la next-gen j'ai un peu peur du résultat  
+https://www.destructoid.com/bright-memory-infinite-console-ports-playstation-xbox-switch/  
+![picture 5](https://i.imgur.com/CcYADqlm.png)  
+  
+**9 Years of Shadow**, un metroidvania avec un superbe pixel art, sort cette année  
+https://www.nintendolife.com/news/2022/06/9-years-of-shadows-slices-onto-switch-later-this-year  
+![picture 6](https://i.imgur.com/Bhn4kWsm.jpg)  
+  
+**The Last Faith**, encore un superbe metroidvania, sort aussi cette année  
+https://www.nintendolife.com/news/2022/06/brutal-metroidvania-the-last-faith-is-the-spawn-of-castlevania-and-blasphemous  
+![picture 7](https://i.imgur.com/qzAZlR3m.png)  
+  
+**Tinykin**, un Pikmin-like, sort le 30 août  
+https://www.eurogamer.net/tinykin-coming-to-pc-and-consoles-in-august  
+![picture 8](https://i.imgur.com/tog67eXm.png)  
+  
+**Demonschool**, un TRPG qui semble inspiré par les Shin Megami Tensei tactiques (Devil Survivor), est annoncé pour 2023  
+https://www.destructoid.com/demonschool-school-life-tactics-rpg-horror-reveal/  
+![picture 11](https://i.imgur.com/5yOOMzwm.jpg)  
+  
+Un trailer pour **Victory Heat Rally**, un jeu de course inspiré par Power Drift qui sort cette année  
+https://www.nintendolife.com/news/2022/06/here-are-the-tracks-youll-be-racing-around-in-victory-heat-rally  
+![picture 12](https://i.imgur.com/Ht0YAMOm.jpg)  
+  
+**Undetected**, un clone de Metal Gear Solid qui a l'air plutôt sympa, sort cette année  
+https://www.nintendolife.com/news/2022/06/stealth-game-undetected-gives-off-serious-metal-gear-solid-vibes  
+![picture 13](https://i.imgur.com/nfgih5zm.png)  
+  
+---  
+  
+Des previews pour le **DLC de Cuphead**  
+https://www.siliconera.com/preview-cuphead-the-delicious-last-course-dlc-could-be-filling/  
+https://www.destructoid.com/cuphead-dlc-preview-last-course-interview-mdhr/  
+https://www.eurogamer.net/cupheads-delicious-last-course-offers-depth-over-breadth  
+http://www.nintendoworldreport.com/preview/60626/previewing-cupheads-delicious-last-course  
+![picture 1](https://i.imgur.com/aoC6Rt7m.png)  
+  
+Des tests pour **Demon Slayer**, un jeu de baston d'anime  
+http://www.nintendoworldreport.com/review/60664/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-switch-review  
+https://www.nintendolife.com/reviews/nintendo-switch/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles  
+![picture 4](https://i.imgur.com/kNB0ubzm.jpg)  
+  
+---  
+  
+Un récap de toutes les annonces Switch du **Wholesome Direct**, et il y en a beaucoup trop  
+https://www.nintendolife.com/news/2022/06/every-game-from-the-wholesome-direct-2022-coming-to-switch  
+  
+Un récap des annonces Switch de **Guerrilla Collective**  
+http://www.nintendoworldreport.com/news/60671/first-day-of-2022-guerrilla-collective-gives-new-information-on-switch-releases  
+  
+Un récap des annonces Switch du **Future Games Show**  
+http://www.nintendoworldreport.com/news/60672/several-more-game-announcements-for-switch-at-june-2022-future-games-show  
