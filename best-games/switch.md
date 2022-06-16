@@ -33,9 +33,16 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 - Triangle Strategy
 - Xenoblade Chronicles 1/2
 
-## Les classiques/indispensables
+## Suivre les promos des jeux Switch
 
-Je vous ai préparé une liste avec tous ces titres, pour surveiller leurs promos : [DekuDeals](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
+Le meilleur moyen de suivre les promos sur les jeux Switch, c'est DekuDeals : vous pouvez vous créer une wishlist, mettre des alertes personnalisés, masquer les jeux qui polluent, etc.
+
+Je vous ai préparé des listes pour vous faciliter la vie :
+
+- [Les indispensables (100 titres)](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
+- [Tous les bons jeux](https://www.dekudeals.com/lists/d8px7c?filter[platform]=switch)
+
+## Les classiques/indispensables
 
 - **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga, Death's Door
 - **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016/Eternal, Wolfenstein II, Metro Redux, Bioshock, Borderlands
