@@ -42,6 +42,7 @@ Je vous ai préparé des listes pour vous faciliter la vie :
 - [Les indispensables (100 titres)](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
 - [Tous les bons jeux](https://www.dekudeals.com/lists/d8px7c?filter[platform]=switch)
 - [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
+- [Les pépites indé](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
 
 ## Les classiques/indispensables
 
