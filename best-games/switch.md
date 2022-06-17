@@ -69,7 +69,7 @@ Je vous ai préparé des listes pour vous faciliter la vie :
 - **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers, Mario Strikers Battle League
 - **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP, Horizon Chase Turbo
 - **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11, Garou Mark of the Wolves, King of Fighters 98
-- **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101
+- **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101, Teenage Mutant Ninja Turtles Shredder’s Revenge
 - **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/), EspGaluda 2, DoDonPachi Resurrection, Mushihimesama, Crimzon Clover
 - **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector, Fuser
 - **Multijoueur, party game** : Overcooked 2, TowerFall, Mario Party Superstars, Heave Ho, Among Us
@@ -115,7 +115,7 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 - **Sport** : Mario Tennis Aces, FIFA, NBA 2K, Rocket League, NBA Playgrounds 2, Alpaca Ball All Stars, Windjammers, AO Tennis 2, Captain Tsubasa, Mario & Sonic aux JO
 - **Course, Time Attack** : Mario Kart 8, Fast RMX, Horizon Chase Turbo, Virtua Racing, Runbow, Hotshot Racing, Inertial Drift, Crash Team Racing, GRID Autosport, GRIP, Moto GP 20, Team Sonic Racing
 - **Combat, brawlers** : un peu tous, mais notamment : Arms, Street Fighter 30th Anniversary, Dragon Ball FighterZ, TowerFall, Super Smash Bros Ultimate, Fantasy Strike, Mortal Kombat 11, Samurai Shodown, Nidhogg 2, Guilty Gear, Lethal League Blaze, Roof Rage...
-- **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4, Ninja Saviors, 9 Monkeys of Shaolin, Full Metal Furies, Double Dragon 1/2/3/4, Double Dragon & Kunio Kun, The Wonderful 101
+- **Beat'em up** : Capcom Beat'em Up Bundle, River City Girls, Castle Crashers, Streets of Rage 4, Ninja Saviors, 9 Monkeys of Shaolin, Full Metal Furies, Double Dragon 1/2/3/4, Double Dragon & Kunio Kun, The Wonderful 101, Teenage Mutant Ninja Turtles Shredder’s Revenge
 - **Shmups, twin stick shooters** : Ikaruga, Gunbird, Zero Gunner 2, Assault Android Cactus, Grand Brix Shooter, Aqua Kitty UDX, Twinkle Star Sprite, Blazing Star, Dragon Blaze, Rival Megagun
 - **Arcade, high score** : Killer Queen Black, Burger Time Party, Bubble Bobble 4 Friends, Pang Adventures
 - **Musique, rythme** : Let's Sing, Just Dance, Floor Kids, Super Beat Sports, Avicii Invector, Crypt of the Necrodancer, Cadence of Hyrule
@@ -225,6 +225,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - Ion Fury
 - **[Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/)**
 - **Metro 2033, Last Light Redux**
+- **Neon White**
 - Rebel Galaxy Outlaw
 - Red Faction Guerilla
 - Saints Row The Third, IV Re-Elected
@@ -823,6 +824,7 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **River City Girls**
 - Scott Pilgrim vs The World
 - **[Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/)**
+- **Teenage Mutant Ninja Turtles Shredder’s Revenge**
 - [The Friends of Ringo Ishikawa](https://www.cosmo0.fr/critique/the-friends-of-ringo-ishikawa/)
 - **The Wonderful 101**
 - Wulverblade
@@ -1022,8 +1024,8 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Juin : **Teenage Mutant Ninja Turtles Shredder’s Revenge** (16), Neon White (16), Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
-- Juillet : Yurukill: The Calumnation Game (5), AI The Somnium Files NirvanA Initiative (8), Severed Steel (21), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
+- Juin : Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
+- Juillet : Yurukill: The Calumnation Game (5), AI The Somnium Files NirvanA Initiative (8), FIST Forged In Shadow Torch (12), Severed Steel (21), **Live A Live** (22), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : Tinykin (30)
 - Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), No Place for Bravery (22), The Legend of Heroes Trails from Zero (30)
 - Octobre : -
@@ -1031,11 +1033,11 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - été : **No Man's Sky**, River City Girls 2, Front Mission 1st Remake, Arcade Paradise, Les Lapins Crétins
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, FIST Forged in Shadow Torch, **Alan Wake Remastered**
-- hiver : **Hogwarts Legacy**
+- hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**
 
 - 2022 :**Mario + Lapins Crétins 2**, Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, **Bayonetta 3**, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Marvel Midnight Suns, Dragon Ball The Breakers, Sail Forth, **Sonic Frontiers**, Dying Light 2 (cloud), Front Mission 2 Remake, Portal Companion Collection, **Advance Wars 1+2 Re-boot-camp**, **The Diofield Chronicles**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected
 
-- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool
+- 2023 :  **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria
 
 - Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Sonic Origins, Life Is Strange Remastered, Star Wars Hunters, Oxenfree 2, Mina the Hollower, Coromon, TemTem, Redout 2
 
