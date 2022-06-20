@@ -6,7 +6,17 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchscores.com/), le Metacritic spécialisé Switch avec beaucoup d'informations pour vous aider à trouver la perle rare.
 
-## Top 20 / jeux représentatifs
+## Suivre les promos des jeux Switch
+
+Le meilleur moyen de suivre les promos sur les jeux Switch, c'est DekuDeals : vous pouvez vous créer une wishlist, mettre des alertes personnalisés, masquer les jeux qui polluent, etc.
+
+Je vous ai préparé des listes pour vous faciliter la vie :
+
+- [Les 100 indispensables](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
+- [Les 200 meilleures pépites indé](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
+- [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
+
+## Top 20 Nintendo Switch / jeux représentatifs
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
 
@@ -33,51 +43,32 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 - Triangle Strategy
 - Xenoblade Chronicles 1/2
 
-## Suivre les promos des jeux Switch
+## Top 100 Nintendo Switch / les classiques
 
-Le meilleur moyen de suivre les promos sur les jeux Switch, c'est DekuDeals : vous pouvez vous créer une wishlist, mettre des alertes personnalisés, masquer les jeux qui polluent, etc.
+Une sélection (forcément limitée) des meilleurs jeux de la machine, classée par genre pour faciliter votre navigation.
 
-Je vous ai préparé des listes pour vous faciliter la vie :
+Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir quelques représentants de chaque genre : vous y trouverez forcément des jeux que vous n'aimez pas, et vous n'y trouverez pas certains jeux que vous adorez, et c'est bien normal, c'est une liste de compromis.
 
-- [Les indispensables (100 titres)](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
-- [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
-- [Les pépites indé](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
-
-## Les classiques/indispensables
-
-- **Aventure/action** : [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Zelda Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), Dark Souls, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Lego Star Wars The Skywalker Saga, Death's Door
-- **Shooters, FPS, TPS** : Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64/2016/Eternal, Wolfenstein II, Metro Redux, Bioshock, Borderlands
-- **Shooters multijoueur** : Fortnite, Splatoon 2, Overwatch, Warframe
-- **Survival horror** : Resident Evil 0/1/4/5/6/Revelations 1/2, Alien Isolation, Outlast 1/2, Little Nightmares 1/2
-- **Plate-forme** : [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/), Super Mario 3D All Stars ([64](https://www.cosmo0.fr/critique/super-mario-64/)/Sunshine/Galaxy), [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Super Mario Maker 2, [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), Super Mario 3D World, Kirby et le Monde Oublié
-- **Plate-forme/puzzle** : [Gris](https://www.cosmo0.fr/critique/gris/), Inmost, Limbo, Inside, Trine, Boxboy+Boxgirl
-- **Plate-forme/action** : Shovel Knight, Cuphead, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), The Messenger
-- **Plate-forme/exploration** : Hollow Knight, Monster Boy The Cursed Kingdom, Guacamelee 1/2, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/), [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Blasphemous, Metroid Dread
-- **Roguelikes** : Dead Cells, The Binding of Isaac, Hades, Enter the Gungeon, Slay the Spire, Spelunky 1/2
-- **RPG/Action** : Xenoblade Chronicles 1/2, The Witcher 3, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Dragon's Dogma Dark Arisen
-- **RPG tour par tour** : Pokémon [Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/) / Legends Arceus, Final Fantasy 7/8/9/[10](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/)/12, Divinity Original Sin 2, Dragon Quest XI S, Octopath Traveler, [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/) 1/2, Bravely Default 2, Shin Megami Tensei V, Disco Elysium
-- **Hack & Slash, musou** : Diablo 2/3, Torchlight 2, [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity, Persona 5 Strikers, Samurai Warriors 5
-- **TRPG** : Valkyria Chronicles 4, Fire Emblem Three Houses, Disgaea 1/4/5/6, Triangle Strategy
-- **Stratégie, tactique** : Mario + Lapins Crétins, Into The Breach, Wargroove, XCOM 2, Pikmin 3
-- **Gestion** : Civilization 6, Two Point Hospital, Football Manager, RollerCoaster Tycoon 3, Tropico 6
-- **Construction, crafting, farming, survie** : Stardew Valley, Dragon Quest Builders 2, Minecraft, Terraria, Rune Factory 5, Subnautica + Below Zero
-- **Visual novel, walking simulator** : Firewatch, Steins;Gate Elite, Kentucky Route Zero, [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), Danganronpa Decadence
-- **Aventure, point & click** : AI The Somnium Files, Phoenix Wright Ace Attorney Trilogy, The Great Ace Attorney Chronicles, Night in the Wood, Paradise Killer
-- **Aventure/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), The Talos Principle, Return of the Obra Dinn, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
-- **Puzzle, réflexion** : Baba Is You, Gems of War, Picross S, realMyst
-- **Puzzle/action** : Puyo Puyo Tetris [1](https://www.cosmo0.fr/critique/puyo-puyo-tetris/)/2, Lumines Remastered, Tetris 99, Mr Driller Drill Land, Tetris Effect Connected
-- **Sport** : Rocket League, FIFA, NBA 2K, Mario Tennis Aces, Captain Tsubasa, Lonely Mountains Downhill, Windjammers, Mario Strikers Battle League
-- **Course, Time Attack** : Mario Kart 8, [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), Trials Rising, Burnout Paradise, Need For Speed Hot Pursuit, Moto GP, Horizon Chase Turbo
-- **Baston, brawler** : Super Smash Bros Ultimate, Samurai Shodown, Arms, Dragon Ball FighterZ, Mortal Kombat 11, Garou Mark of the Wolves, King of Fighters 98
-- **Beat'em Up** : Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), The Wonderful 101, Teenage Mutant Ninja Turtles Shredder’s Revenge
-- **Shmups, twin stick shooters** : [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Blazing Star, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), [Super Hydorah](https://www.cosmo0.fr/critique/super-hydorah/), EspGaluda 2, DoDonPachi Resurrection, Mushihimesama, Crimzon Clover
-- **Musique, rythme** : Cadence of Hyrule, Thumper, Taiko No Tatsujin, Hexagroove, Hatsune Miku Project Diva, Avicii Invector, Fuser
-- **Multijoueur, party game** : Overcooked 2, TowerFall, Mario Party Superstars, Heave Ho, Among Us
-- **Casual, fitness** : Dr Kawashima, Ring Fit Adventure, Go Vacation, Let's Dance, Just Sing
-- **Jeux de cartes** : [Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/), Faeria
-- **Jeux de société** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/)
-- **Autre** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), New Pokémon Snap
-- **Rétrogaming** : Switch Online, [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), [Sega Ages](https://www.cosmo0.fr/?s=sega+ages), [Mega Man Collection](https://www.cosmo0.fr/?s=mega+man), [Street Fighter 30th Anniversary](https://www.cosmo0.fr/critique/street-fighter-30th-anniversary-collection/), [Konami Anniversary](https://www.cosmo0.fr/?s=anniversary+collection), Capcom Arcade Stadium, [Castlevania Advance Collection](https://www.cosmo0.fr/critique/castlevania-advance-collection/)
+- **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
+- **Shooters, FPS, TPS** : BioShock: The Collection, Borderlands Legendary Collection, DOOM (2016), [DOOM (1993)](https://www.cosmo0.fr/critique/doom-1993/), Splatoon 2
+- **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
+- **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), Metroid Dread, Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori and The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
+- **Plate-forme/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [Gris](https://www.cosmo0.fr/critique/gris/)
+- **Roguelike** : The Binding of Isaac: Afterbirth+, Dead Cells, Hades, Slay The Spire
+- **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), The Witcher 3: Wild Hunt, Xenoblade Chronicles, Xenoblade Chronicles 2
+- **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Octopath Traveler, [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V
+- **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
+- **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Three Houses, Triangle Strategy
+- **Stratégie, tactique** : 13 Sentinels Aegis Rim, Civilization VI, Into The Breach, Mario + Lapins Crétins Kingdom Battle, Pikmin 3 Deluxe
+- **Farming, construction, survie** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), Dragon Quest Builders 2, Minecraft, Stardew Valley
+- **Point & click, enquête, visual novel** : AI: The Somnium Files, Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn
+- **Puzzle, énigmes, réflexion** : Baba Is You, Picross S Genesis & Master System Edition, Puyo Puyo Tetris 2, Tetris Effect Connected, [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
+- **Sport** : FIFA, [Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/), Mario Strikers Battle League, Mario Tennis Aces
+- **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe
+- **Combat, baston, beat'em up** : Arms, Dragon Ball FighterZ, [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/aca-neogeo-garou-mark-of-the-wolves/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), Super Smash Bros Ultimate, [The King of Fighters 98](https://www.cosmo0.fr/critique/aca-neogeo-the-king-of-fighters-98/)
+- **Shoot'em up** : [Espgaluda II](https://www.cosmo0.fr/critique/espgaluda-ii-be-ascension-the-third-bright-stone-of-birth/), [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), [Mushihimesama](https://www.cosmo0.fr/critique/mushihimesama/)
+- **Party game, jeu en ligne** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/), Among Us, Mario Party Superstars, Overcooked! 2
+- **Casual** : [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), New Pokémon Snap
 
 ## Pour les joueurs occasionnels
 
@@ -127,18 +118,18 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 
 ## Jeux pas cher
 
-Tous les bons jeux à 20€ ou moins ; en gras les free to play.
+Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en gras les free to play.
 
-- **Aventure/action** : [Crossing Souls](https://www.cosmo0.fr/critique/crossing-souls/), Hyper Light Drifter, [Minit](https://www.cosmo0.fr/critique/minit/), [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/), Hob, [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/), Songbringer, [Blossom Tales](https://www.cosmo0.fr/critique/blossom-tales/), [Anodyne](https://www.cosmo0.fr/critique/anodyne/), Jotun, Devil May Cry 1/2, Incredible Mandy, Creature in the Well, Moon Hunters, Immortal Planet, Ruiner, Falcon Age, No More Heroes 1/2, Disc Room, The Savior's Gang, Cattails, 198X, Unsighted, Ocean Heart
+- **Aventure/action** : [Crossing Souls](https://www.cosmo0.fr/critique/crossing-souls/), Hyper Light Drifter, [Minit](https://www.cosmo0.fr/critique/minit/), [Omensight](https://www.cosmo0.fr/critique/omensight-definitive-edition/), Hob, [Reverie](https://www.cosmo0.fr/critique/reverie-sweet-as-edition/), Songbringer, [Blossom Tales](https://www.cosmo0.fr/critique/blossom-tales/), [Anodyne](https://www.cosmo0.fr/critique/anodyne/), Jotun, Devil May Cry 1/2, Creature in the Well, Moon Hunters, Ruiner, Falcon Age, No More Heroes 1/2, Disc Room, The Savior's Gang, Cattails, 198X, Unsighted, Ocean Heart
 - **Shooters, FPS, TPS** : **Island Saver**, Doom [1](https://www.cosmo0.fr/critique/doom-1993/)/2/3/64, RICO, Immortal Redneck,  Demon Pit, Duke Nukem 3D, Call of Juarez Gunslinger, Project Warlock, Star Wars Jedi Knight 2/Academy, This Strange Realm of Mine, Sublevel Zero
 - **Shooters multijoueur** : **Warframe**, **Paladins**, **Fortnite**, **Realm Royale**, **Warface**, **Vigor**, **Rogue Company**, **Spellbreak**, Hypercharge Unboxed
 - **Horreur, suspense, survival** : Darkwood, Detention, Layers of Fear 1/2, Perception, Resident Evil Revelations, The Coma, Five Nights At Freddy's 1/2/3/4, Sunless Sea/Skies, Yuppie Psycho
-- **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher, MO:Astray, Deleveled, Kid Tripp, The Alto Collection, Marble It Up, Spinch, Thomas Was Alone
+- **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), The End is Nigh, Heave Ho, Jet Kave Adventure, Velocity 2X, Shio, Kuso, Earthnight, Splasher, MO:Astray, Deleveled, The Alto Collection, Marble It Up, Spinch, Thomas Was Alone
 - **Plate-forme/puzzle** : [Gris](https://www.cosmo0.fr/critique/gris/), Inside, Toki Tori 1/2, Trine 1/2/3, Framed Collection, Semblance, [The Adventures of Elena Temple](https://www.cosmo0.fr/critique/the-adventures-of-elena-temple/), Planet Alpha, [Bomb Chicken](https://www.cosmo0.fr/critique/bomb-chicken/), Forgotton Anne, Evergate, Lair of the Clockwork God, Horace
 - **Plate-forme/action** : Blaster Master Zero [1](https://www.cosmo0.fr/critique/blaster-master-zero/)/[2](https://www.cosmo0.fr/critique/blaster-master-zero-2/)/3, Bloodstained Curse of the Moon [1](https://www.cosmo0.fr/nintendo/nintendo-switch/bloodstained-curse-of-the-moon/)/2, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), Shovel Knight, [Mechstermination Force](https://www.cosmo0.fr/critique/mechstermination-force/), Cuphead, Broforce, Katana Zero, Blazing Chrome, Gunlord X, Door Kickers Action Squad, Ultimate Chicken Horse, Huntdown, Panzer Paladin, Gunman Clive, Shantae [Pirate's Curse](https://www.cosmo0.fr/critique/shantae-and-the-pirates-curse/)/Risky's Revenge/Half-Genie Hero, Hardcore Mecha, Wallachia Reign of Dracula, Skelattack, Angry Video Game Nerd 1+2, They Bleed Pixels, Cyber Shadow, Olija, Steel Assault, Aeon Drive
 - **Plate-forme/exploration, metroidvania** : Hollow Knight, Guacamelee 1/2, Steamworld Dig [1](https://www.cosmo0.fr/critique/critique-express/steamworld-dig/)/[2](https://www.cosmo0.fr/critique/steamworld-dig-2/), The Messenger, [Aggelos](https://www.cosmo0.fr/critique/aggelos/), Timespinner, [Gato Roboto](https://www.cosmo0.fr/critique/gato-roboto/), Kunai, 3000th Duel, Carrion, [Ori & The Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Mindseize, Wuppo, Touhou Luna Nights, Save Me Mr Tako Definitive Edition
-- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, [Blazing Beaks](https://www.cosmo0.fr/critique/blazing-beaks/), The Swords of Ditto, Monster Slayers, City of Brass, [Sky Rogue](https://www.cosmo0.fr/critique/sky-rogue/), Atomicrops, Neon Abyss, Hades, Curious Expedition, Going Under, [Mana Spark](https://www.cosmo0.fr/critique/mana-spark/), Scourgebringer, The Red Lantern, Crown Trick, Space Grunts, One Step From Eden, Out There Omega, Ring of Pain, Demon's Tier+, Airheart Tales of broken Wings, Dungreed, Hammerwatch/Heroes of Hammerwatch
-- **RPG/Action** : **Dauntless**, [Transistor](https://www.cosmo0.fr/critique/transistor/), Cat Quest [1](https://www.cosmo0.fr/critique/cat-quest/)/2, Citizens of Space, Pong Quest, Dex, [Fairune Collection](https://www.cosmo0.fr/critique/fairune-collection/), Masquerada Songs And Shadows, [Ys Origin](https://www.cosmo0.fr/critique/ys-origin/), Skellboy
+- **Roguelikes** : Enter the Gungeon, Crypt of the Necrodancer, Rogue Legacy, Crawl, Nuclear Throne, Overwhelm, Ape Out, [Blazing Beaks](https://www.cosmo0.fr/critique/blazing-beaks/), The Swords of Ditto, Monster Slayers, City of Brass, [Sky Rogue](https://www.cosmo0.fr/critique/sky-rogue/), Atomicrops, Neon Abyss, Hades, Curious Expedition 1/2, Going Under, [Mana Spark](https://www.cosmo0.fr/critique/mana-spark/), Scourgebringer, The Red Lantern, Crown Trick, Space Grunts, One Step From Eden, Out There Omega, Ring of Pain, Demon's Tier+, Airheart Tales of broken Wings, Dungreed, Hammerwatch/Heroes of Hammerwatch
+- **RPG/Action** : **Dauntless**, [Transistor](https://www.cosmo0.fr/critique/transistor/), Cat Quest [1](https://www.cosmo0.fr/critique/cat-quest/)/2, Citizens of Space, Dex, [Fairune Collection](https://www.cosmo0.fr/critique/fairune-collection/), Masquerada Songs And Shadows, [Ys Origin](https://www.cosmo0.fr/critique/ys-origin/), Skellboy
 - **RPG tour par tour** : Darkest Dungeon, Severed, Final Fantasy VII/VIII, Doom & Destiny, Shadows of Adam, The Last Remnant, [Silk](https://www.cosmo0.fr/critique/silk/), YIIK A Post Modern RPG, Child of Light, Star Ocean First Departure R, Deathtrap Dungeon Trilogy, Legends of Amberland, Legrand Legacy, [Thea The Awakening](https://www.cosmo0.fr/critique/thea-the-awakening/), Joe Dever's Lone Wolf, Atom RPG, Ikenfell, Warsaw, Dragon Quest [1](https://www.cosmo0.fr/critique/dragon-quest/)/2/3, Siralim 3, Monster Sanctuary, UnderHero, Werewolf The Apocalypse
 - **Hack & slash, musou** : [Bastion](https://www.cosmo0.fr/critique/bastion/), Torchlight 2, [Kamiko](https://www.cosmo0.fr/critique/kamiko/), Barbearian
 - **MOBA, MMORPG, multijoueur** : **Arena of Valor**, **Smite**, **Onigiri**, **DC Universe Online**, **Super Kirby Clash**, **World of Tank Blitz**, **Pokémon Unite**, Boreal Blade
@@ -147,22 +138,22 @@ Tous les bons jeux à 20€ ou moins ; en gras les free to play.
 - **Tower defense** : Kingdom Two Crowns/New Lands, Kingdom Rush, OTTTD Over The Top Tower Defense, Aegis Defenders, Dungeon Warfare, X-Morph Defense
 - **Gestion** : Motorsport Manager, Constructor Plus, New Star Manager, Townsmen, Merchant of the Skies, Game Dev Tycoon, 911 Operator, Good Pizza Great Pizza
 - **Construction, crafting, farming** : Stardew Valley, Graveyard Keeper, [Forager](https://www.cosmo0.fr/critique/forager/), Littlewood
-- **Walking simulator** : [Abzu](https://www.cosmo0.fr/critique/abzu/), Feather, Firewatch, Gone Home, The Vanishing of Ethan Carter, [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/), Old Man's Journey, [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), Embracelet, Sagebrush, FAR Lone Sails
-- **Visual novel** : [80 Days](https://www.cosmo0.fr/critique/80-days/), Batman Telltale Series/Enemy Within, Cinders, [Bury Me My Love](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/), Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Where the Water Tastes Like Wine, Later Daters, Chicken Police, If Found, Arcade Spirits, Telling Lies, Aviary Attorney, [Over the Alps](https://www.cosmo0.fr/critique/over-the-alps/)
-- **Aventure, point & click** : **Sky Children of The Light**, Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, Wide Ocean Big Jacket, Memoranda, Ord, To The Moon, Hypnospace Outlaw, Heaven's Vault, The Longing, Citizen Sleeper
-- **Aventure/puzzles** : [Pikuniku](https://www.cosmo0.fr/critique/pikuniku/), [The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/), Boxboy+Boxgirl, Death Coming, Etherborn, [Aer Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/), Return of the Obra Dinn, Agent A, Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), [Pan-Pan](https://www.cosmo0.fr/critique/pan-pan-a-tiny-big-adventure/), I Am Dead, Fracter, Carto, Pixel Puzzle Makeout League, Evan's Remains, World For Two, Part Time UFO, There Is No Game
-- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S/S2/S3/S4/S5, Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament, Mini Metro, Dude Stop, Tens!, Locomotion
+- **Walking simulator** : [Abzu](https://www.cosmo0.fr/critique/abzu/), Firewatch, Gone Home, The Vanishing of Ethan Carter, [What Remains of Edith Finch](https://www.cosmo0.fr/critique/what-remains-of-edith-finch/), Old Man's Journey, [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), Embracelet, Sagebrush, FAR Lone Sails
+- **Visual novel** : [80 Days](https://www.cosmo0.fr/critique/80-days/), Batman Telltale Series/Enemy Within, Cinders, [Bury Me My Love](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/), Neo Cab, We.The Revolution, The Red Strings Club, Late Shift, Later Daters, Chicken Police, If Found, Arcade Spirits, Telling Lies, Aviary Attorney, [Over the Alps](https://www.cosmo0.fr/critique/over-the-alps/)
+- **Aventure, point & click** : **Sky Children of The Light**, Tangle Tower, Oxenfree, [Broken Age](https://www.cosmo0.fr/critique/broken-age/), [Grim Fandango](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/), Night in the Woods, Secret Files, Shadowgate, The Inner World, Thimbleweed Park, Last Day of June, My Memory of Us, Soldats Inconnus, In Other Waters, Creaks, Paradise Killer, The Lion's Song, Horace, Roki, [Wide Ocean Big Jacket](https://www.cosmo0.fr/critique/wide-ocean-big-jacket/), Memoranda, [Ord](https://www.cosmo0.fr/critique/ord/), To The Moon, Hypnospace Outlaw, Heaven's Vault, The Longing, Citizen Sleeper
+- **Aventure/puzzles** : [Pikuniku](https://www.cosmo0.fr/critique/pikuniku/), [The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/), Boxboy+Boxgirl, Death Coming, [Aer Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/), Return of the Obra Dinn, [Agent A](https://www.cosmo0.fr/critique/agent-a/), Figment, The World Next Door, Brothers A Tale of Two Sons, Stories Untold, [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), [Pan-Pan](https://www.cosmo0.fr/critique/pan-pan-a-tiny-big-adventure/), I Am Dead, Fracter, Carto, Pixel Puzzle Makeout League, Evan's Remains, World For Two, Part Time UFO, There Is No Game
+- **Puzzle, réflexion** : **Gems of War**, **Pokémon Café Mix**, Picross S (tous), Baba Is You, [Box Align](https://www.cosmo0.fr/critique/box-align/), [Hook](https://www.cosmo0.fr/critique/hook/), Wilmot's Warehouse, Puzzle Quest, Piczle Lines DX, The Turing Test, Good Job, Etherborn, Superliminal, Manifold Garden, Golf Peaks, Toki Tori, Snipperclips, Filament, Mini Metro, Dude Stop, Tens!, Locomotion
 - **Puzzle/action** : Lumines Remastered, Tricky Towers, [Cyber Protocol](https://www.cosmo0.fr/critique/cyber-protocol/), Mr Driller Drill Land, Unrailed!, Flipon, Petal Crash
 - **Sport** : **Rocket League**, **Knockout City**, Windjammers, Super Kickers League, Super Tennis Blast, Super Blood Hockey, Golazo, Ganbare Soccer Strikers, Lonely Mountains Downhill, Behold the Kickmen, Alpaca Ball All Stars, Hyperbrawl Tournament
-- **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/), Super Arcade Racing, Mantis Burn Racing, The Next Penelope, Super Pixel Racers, Absolute Drift, [Rush Rally Origin](https://www.cosmo0.fr/critique/rush-rally-origins/)
-- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash, Roof Rage
-- **Beat'em up** : My Friend Pedro, [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots, The Takeover, Double Dragon Neon, Scott Pilgrim vs The World
+- **Course, Time Attack** : **Asphalt 9**, [Fast RMX](https://www.cosmo0.fr/critique/fast-rmx/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), [Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), Road Redemption, [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/), 80's Overdrive, [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/), [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/), Star Wars Racer, [Gear.Club Unlimited](https://www.cosmo0.fr/critique/gear-club-unlimited/), Super Arcade Racing, Mantis Burn Racing, The Next Penelope, Super Pixel Racers, Absolute Drift, Rush Rally 3/[Origins](https://www.cosmo0.fr/critique/rush-rally-origins/)
+- **Combat, baston, brawlers** : **Brawlhalla**, **Fantasy Strike**, série ACA NEOGEO, Nidhogg 2, TowerFall, Power Rangers Battle for the Grid, Guilty Gear, Guilty Gear XX, Lethal League Blaze, [One Strike](https://www.cosmo0.fr/critique/one-strike/), River City Melee Mach, Roof Rage, Wand Wars, Fight Crab, Kirby Fighters 2, Cake Bash
+- **Beat'em up** : [Ninja Saviors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/), Castle Crashers, Streets of Red, Full Metal Furies, Super Crush KO, Bloodroots, The Takeover, Double Dragon Neon, Scott Pilgrim vs The World
 - **Shmup, twin stick shooters** : **Galak-Z**, [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), I Hate Running Backwards, R-Type Dimensions, Assault Android Cactus, [Danmaku Unlimited 3](https://www.cosmo0.fr/critique/danmaku-unlimited-3/), Devil Engine, [Graceful Explosions Machine](https://www.cosmo0.fr/critique/graceful-explosion-machine/), Steredenn, [Super Star Path](https://www.cosmo0.fr/critique/super-star-path/), Grand Brix Shooter, [Horizon Shift 81](https://www.cosmo0.fr/critique/horizon-shift-81/), Space Pioneer, [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/), [Downwell](https://www.cosmo0.fr/critique/critique-express/downwell/), Inferno 2, Space Avenger Empire of Nexx, Black Bird, Bot Vice, Project Starship X
 - **Arcade, high score** : **Zen Pinball**, **Pinball FX3**, **Pac-Man 99**, [Akane](https://www.cosmo0.fr/critique/akane/), Hell is Other Demons, Iron Crypticle, Super Crate Box, The Bug Butcher, Burger Time Party, Killer Queen Black, [Pix the Cat](https://www.cosmo0.fr/critique/pix-the-cat/), Ding Dong XL, Demon's Tilt, Pure Pool, Death's Hangover, Strikey Sisters
 - **Musique, rythme** : Old School Musical, Thumper, Wandersong, Neon Drive, Floor Kids, Just Shapes & Beats
 - **Party game, multijoueur** : Overcooked, The Stretchers, Tools Up!, Aeolis Tournament, Among Us, Ponpu
-- **Jeu de cartes** : **[Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/)**, **Lightseekers**, **Warhammer Age of Sigmar**, **Yu-Gi-Oh Master Duel**, Thronebreaker: The Witcher Tales, Frost, Faeria, Mystic Vale, Wingspan
-- **Jeu de société, jeu de plateau** : [Armello](https://www.cosmo0.fr/critique/armello/), Carcassonne
+- **Jeu de cartes** : **[Eternal](https://www.cosmo0.fr/critique/jeu-de-cartes-eternal/)**, **Lightseekers**, **Warhammer Age of Sigmar**, **Yu-Gi-Oh Master Duel**, Thronebreaker: The Witcher Tales, Frost, Faeria, Mystic Vale
+- **Jeu de société, jeu de plateau** : [Armello](https://www.cosmo0.fr/critique/armello/), Carcassonne, Wingspan
 - **Autre, inclassables** : [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/), Death and Taxes, Art Sqool, Cozy Groove
 - **Rétrogaming** : Nintendo Switch Online, Mega Man [Legacy Collection](https://www.cosmo0.fr/critique/mega-man-legacy-collection/)/[X Legacy Collection](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/), série [SEGA AGES](https://www.cosmo0.fr/?s=sega+ages), série [ACA NEOGEO](https://www.cosmo0.fr/?s=aca+neogeo), série Arcade Archives, série [Johnny Turbo's Arcade](https://www.cosmo0.fr/?s=johnny+turbo), série [Konami Collection](https://www.cosmo0.fr/?s=konami+collection)
 
@@ -980,7 +971,6 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - SNK vs Capcom Card Fighters Clash
 - Thronebreaker The Witcher Tales
 - Warhammer Age of Sigmar (free to play)
-- **Wingspan**
 - Yu-Gi-Oh Legacy of the Duelist, Master Duel (free to play)
 
 ## Jeu de société, jeu de plateau
@@ -996,6 +986,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Talisman
 - Trivial Pursuit
 - UNO
+- **Wingspan**
 
 ## Autres/inclassables
 
