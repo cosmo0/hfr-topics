@@ -25,8 +25,8 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 - Metroid Prime Hunters
 - New Super Mario Bros
 - Nintendogs
-- Osu! Tatakae! Oendan! + Oendan 2 + Elite Beat Agent
-- Phoenix Wright (1, 2, 3)
+- Osu! Tatakae! Oendan!
+- Phoenix Wright : Ace Attorney
 - Pokémon Diamant
 - Professeur Layton et l'Etrange Village
 - The Legend of Zelda Phantom Hourglass
