@@ -22,26 +22,26 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 
 Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus.
 
-- Animal Crossing New Horizons
+- [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)
 - Dead Cells
 - Fire Emblem Three Houses
 - Hollow Knight
 - Hyrule Warriors Age of Calamity
 - Kirby et le Monde Oublié
-- Luigi's Mansion 3
+- [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
 - Mario Kart 8 DX
 - Mario Party Superstars
 - Metroid Dread
-- Monster Hunter Rise
-- Pokémon Epée/Bouclier
+- [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/)
+- [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/)
 - Ring Fit Adventure
 - Shin Megami Tensei V
 - Stardew Valley
-- Super Mario Odyssey
+- [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - Super Smash Bros Ultimate
-- The Legend of Zelda: Breath of the Wild
+- [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)
 - Triangle Strategy
-- Xenoblade Chronicles 1/2
+- Xenoblade Chronicles 2
 
 ## Top 100 Nintendo Switch / les classiques
 
@@ -79,13 +79,13 @@ Vous jouez assez peu, vous n'êtes pas un "pro gamer", vous voulez des jeux qui 
 - **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Rayman Legends, Super Mario Odyssey, [Ori Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Metroid Dread
 - **Je veux avoir peur :** Alien Isolation, Resident Evil, Outlast 1/2
 - **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Celeste, Blasphemous, Hotline Miami, Doom 2016/Eternal, Cuphead, Hades, Dead Cells, Spelunky, Shin Megami Tensei V
-- **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy, The Great Ace Attorney
+- **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Phoenix Wright Trilogy, The Great Ace Attorney, Danganronpa Decadence
 - **Je veux de la stratégie :** Fire Emblem Three Houses, Valkyria Chronicles 4, Into The Breach, Mario + Lapins Crétins, Pikmin 3, XCOM 2, Wargroove, Tropico 6, Two Point Hospital, Spacebase Startopia, Triangle Strategy
 - **Je veux un jeu de sport :** FIFA, Captain Tsubasa, Lonely Mountains Downhill, Mario Tennis Aces, Rocket League, Windjammers
 - **Je veux un jeu de course :** Burnout Paradise, Need For Speed Hot Pursuit, GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX
 - **Je veux un jeu de combat :** Dragon Ball FighterZ, Mortal Kombat 11, Samurai Shodown, Super Smash Bros Ultimate, Streets of Rage 4
 - **Je veux des casse tête :** Captain Toad Treasure Tracker, Catherine Full Body, Return of the Obra Dinn, Baba Is You, Grindstone, Puyo Puyo Tetris 2, Tetris Effect Connected
-- **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us, Pac-Man 99
+- **Je veux jouer en ligne :** Fortnite, Overwatch, Warframe, Arena of Valor, Smite, Paladins, World of Tanks Blitz, Tetris 99, Among Us, Fall Guys
 - **Je veux me détendre :** Yoku's Island Express, Spiritfarer, Stardew Valley, Untitled Goose Game, Animal Crossing New Horizons
 - **Je veux jouer en famille :** Just Dance, Let's Sing, Overcooked, Super Mario Party, Go Vacation, 51 Worldwide Games
 
@@ -459,7 +459,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - [Darksiders Genesis](https://www.cosmo0.fr/critique/darksiders-genesis/)
 - **Diablo 3**, **2 Resurrected**
 - **Dynasty Warriors 8**, 9 Empires
-- Fire Emblem Warriors
+- Fire Emblem Warriors, **Fire Emblem Warriors Three Hopes**
 - **[Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/)**, **Hyrule Warriors Age of Calamity**
 - [Marvel Ultimate Alliance 3](https://www.cosmo0.fr/critique/marvel-ultimate-alliance-3/)
 - **Minecraft Dungeon**
@@ -665,6 +665,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Omno
 - Part Time UFO
 - [Piku Niku](https://www.cosmo0.fr/critique/pikuniku/)
+- Portal Collection
 - **Return of the Obra Dinn**
 - Rime
 - **Soldats Inconnus (Valiant Hearts)**
@@ -776,6 +777,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Arms
 - Blazblue Central Fiction, Cross Tag Battle
 - Brawlhalla (free to play)
+- Capcom Fighting Collection
 - Demon Slayer
 - **Dragon Ball FighterZ**
 - [Dragon Ball Xenoverse 2](https://www.cosmo0.fr/critique/dragon-ball-xenoverse-2/), Kakarot
@@ -839,6 +841,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - Jamestown+
 - [Jet Lancer](https://www.cosmo0.fr/critique/jet-lancer/)
 - **[Mushihimesama](https://www.cosmo0.fr/critique/mushihimesama/)**
+- Pocky & Rocky Reshrined
 - Psyvariar Delta
 - Rival Megagun
 - **Rolling Gunner**
@@ -890,6 +893,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 ## Party game, couch co-op
 
 - **Among Us**
+- **Fall Guys** (free to play)
 - **Heave Ho**
 - Human Fall Flat
 - Keep Talking And Nobody Explodes
@@ -1013,9 +1017,8 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Portal Collection, Little Noah Scion of Paradise
+- Jeux sortis, en attente de tests : Little Noah Scion of Paradise, Shadowrun Trilogy
 
-- Juin : Shadowrun Trilogy (21), **Fall Guys** (21), **Fire Emblem Warriors Three Hopes** (24), Pocky & Rocky Reshrined (24), Capcom Fighting Collection (24)
 - Juillet : Yurukill: The Calumnation Game (5), AI The Somnium Files NirvanA Initiative (8), FIST Forged In Shadow Torch (12), Severed Steel (21), **Live A Live** (22), Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : Tinykin (30)
 - Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), No Place for Bravery (22), The Legend of Heroes Trails from Zero (30)
