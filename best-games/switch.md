@@ -632,7 +632,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 ## Aventure, point & click, enquête
 
 - **13 Sentinels Aegis Rim**
-- **AI The Somnium Files**
+- **AI The Somnium Files**, **AI The Somnium Files NirvanA Initiative**
 - [Broken Age](https://www.cosmo0.fr/critique/broken-age/)
 - Creaks
 - Deponia
@@ -696,6 +696,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Murder by Numbers
 - **Picross S, S2, S3, S4, S5, S6**
 - Picto Quest
+- **Portal Companion Collection**
 - **Puzzle & Dragons**
 - **Puzzle Quest The Legend Returns**
 - **realMyst**
@@ -773,6 +774,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - V-Rally 4
 - **[Virtua Racing (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/)**
 - WRC 8, 10
+- **Wreckfest**
 
 ## Combat, baston, versus, brawler
 
@@ -900,6 +902,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - **Heave Ho**
 - Human Fall Flat
 - Keep Talking And Nobody Explodes
+- Les Lapins Crétins Party of Legends
 - Moving Out
 - **Overcooked 1, 2**
 - Snipperclips
@@ -1020,9 +1023,9 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Les Lapins Crétins, Portal Companion Collection
+- Jeux sortis, en attente de tests : FIST Forged In Shadow Torch
 
-- Juillet : AI The Somnium Files NirvanA Initiative (8), FIST Forged In Shadow Torch (12), Severed Steel (21), **Live A Live** (22), Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
+- Juillet : Severed Steel (21), **Live A Live** (22), Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : Tinykin (30), Crayon Shin-Chan (?)
 - Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), The Legend of Heroes Trails from Zero (30)
 - Octobre : **Nier Automata** (6), **No Man's Sky** (7), RPG Time The Legend of Wright (18), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28)
