@@ -430,6 +430,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - **Atelier Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), [2](https://www.cosmo0.fr/critique/atelier-ryza-2/)**, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2
 - **Bravely Default 2**
 - Bug Fables
+- Coromon
 - CrisTales
 - **Darkest Dungeon**
 - **Disco Elysium**
@@ -439,6 +440,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Ikenfell
 - Indivisible
 - Labyrinth of Refrain: Coven of Dusk
+- **Live A Live**
 - Legend of Heroes Trails of Cold Steel 3, 4
 - Mary Skelter Finale
 - Miitopia
@@ -862,6 +864,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - Toutes les gammes **Arcade Archives**, **ACA NEOGEO**, Namco Museum, Johnny Turbo's Arcade, **Sega Ages**...
 - **[Akane](https://www.cosmo0.fr/critique/akane/)**
 - Bubble Bobble 4 Friends
+- **Capcom Arcade Stadium, 2nd Stadium**
 - Creature in the Well
 - **[Demon's Tilt](https://www.cosmo0.fr/critique/demons-tilt/)**
 - House of the Dead Remake
@@ -1023,16 +1026,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : FIST Forged In Shadow Torch
+- Jeux sortis, en attente de tests : Redout 2, Severed Steel
 
-- Juillet : Severed Steel (21), **Live A Live** (22), Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
-- Août : Tinykin (30), Crayon Shin-Chan (?)
-- Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), The Legend of Heroes Trails from Zero (30)
+- Juillet : Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
+- Août : Tinykin (30), TMNT Cowabunga Collection (30), Crayon Shin-Chan (?)
+- Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
 - Octobre : **Nier Automata** (6), **No Man's Sky** (7), RPG Time The Legend of Wright (18), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28)
 - Novembre : Harvestella (4), **Pokémon Ecarlate/Violet** (18)
 - Décembre : **Dragon Quest Treasures** (9)
 
-- été : River City Girls 2, Front Mission 1st Remake, Arcade Paradise
+- été : River City Girls 2, Front Mission 1st Remake, Arcade Paradise, **Kirby's Dream Buffet**
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade
 - hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**, **Sonic Frontiers**, Atari 50
 
@@ -1040,8 +1043,8 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Life Is Strange Remastered, Oxenfree 2, Mina the Hollower, Coromon, Redout 2
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Life Is Strange Remastered, Oxenfree 2, Mina the Hollower
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales, Marvel Midnight Suns, Star Wars Hunters
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)

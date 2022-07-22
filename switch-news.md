@@ -1,83 +1,74 @@
-#cosmonews  
+#cosmonews du jour bonjour  
   
-Il y a eu beaucoup, beaucoup d'annonces, littéralement des centaines, je vais pas creuser pour vérifier ce qui sort sur quelle plateforme. Si quelque chose d'intéressant sort sur Switch, soit on en entendra de nouveau parler, soit j'en parlerai dans mes cosmo-picks.  
+## Annonces  
   
----  
+**Bayonetta 3** est (enfin) daté au 28 octobre (et le premier sera édité en physique)  
+https://www.siliconera.com/bayonetta-3-limited-edition-bayonetta-1-physical-release-detailed/  
+![picture 1](https://i.imgur.com/lGiSIHFm.png)  
   
-Un nouveau trailer pour **Hollow Knight Silksong**, qui sortira "dans les 12 prochains mois", ça vous fait une belle jambe  
-http://www.nintendoworldreport.com/news/60690/hollow-knight-silksong-release-window-narrowed  
-![picture 9](https://i.imgur.com/z4SVdYVm.jpg)  
+**Kirby's Dream Buffet**, un party game, est annoncé pour "cet été"  
+https://www.siliconera.com/kirbys-dream-buffet-is-coming-to-switch-in-summer-2022/  
+![picture 5](https://i.imgur.com/Lfffb7Em.png)  
   
-**Persona 3, 4 et 5** sont annoncés partout mais pas sur Switch, on peut raisonnablement imaginer qu'ils seront annoncés lors du prochain Direct  
-https://www.nintendolife.com/news/2022/06/persona-3-4-and-5-seemingly-confirmed-for-everything-but-switch  
-![picture 10](https://i.imgur.com/2mqR2msm.png)  
+**TMNT The Cowabunga Collection**, une compile de 13 titres arcade/NES/SNES/GB/MD, est datée au 30 août  
+https://www.destructoid.com/teenage-mutant-ninja-turtles-cowabunga-collection-tmnt-release-date-august/  
+![picture 2](https://i.imgur.com/lWIEFw0m.jpg)  
   
-**Tactics Ogre Reborn**, un TRPG, a leaké sur le store Playstation, plus qu'à espérer qu'il sorte sur Switch aussi.  
-https://www.siliconera.com/tactics-ogre-reborn-psn-store-page-leaked/  
+**The Diofield Chronicles**, un RPG tactique par Square, sortira le 22 septembre  
+https://www.siliconera.com/the-diofield-chronicle-launch-date-trailer-shows-off-battles/  
+![picture 4](https://i.imgur.com/OqaKwuom.png)  
   
-Une démo pour **Monster Hunter Rise Sunbreak**  
-https://www.siliconera.com/monster-hunter-rise-sunbreak-demo-to-appear-on-pc-switch/  
-![picture 14](https://i.imgur.com/QkzNdsOm.png)  
+**Let's Build a Zoo**, un jeu de gestion qui fait penser à Theme Park (mais en zoo), sort en septembre  
+https://www.nintendolife.com/news/2022/07/lets-build-a-zoo-is-a-cute-and-calming-management-sim-where-you-build-a-zoo  
+![picture 6](https://i.imgur.com/PpOop4Am.jpg)  
   
-**Redout 2** est repoussé à une date indéterminée pour prendre le temps d'en faire une bonne version  
-https://www.nintendolife.com/news/2022/06/next-gen-anti-grav-racer-redout-2-delayed-for-nintendo-switch-again  
-![picture 15](https://i.imgur.com/K7VHsYCm.jpg)  
+**Redout 2**, un Wipeout/F-Zero-like, est enfin sorti  
+https://www.p-nintendo.com/news/sortie-imminente-de-redout-2-sur-switch-258794  
+![picture 7](https://i.imgur.com/9nJM8Fjm.png)  
   
----  
+Les devs de Warframe annoncent **Soulframe**, la même chose mais en mode heroic-fantasy, sans date ni plateforme  
+https://www.nintendolife.com/news/2022/07/warframe-developer-reveals-new-free-to-play-action-mmo-soulframe  
+![picture 8](https://i.imgur.com/KXMbaSdm.png)  
   
-**No Place for Bravery**, un roguelike qui semble fortement inspiré par Hyper Light Drifter, sort le 22 septembre  
-https://www.nintendolife.com/news/2022/06/no-place-for-bravery-brings-gory-roguelikery-to-nintendo-switch-this-september  
-![picture 2](https://i.imgur.com/knW06Znm.jpg)  
+Je n'y croyais plus, mais **Inazuma Eleven** est encore vivant et maintenant prévu pour 2023  
+https://www.p-nintendo.com/news/inazuma-eleven-great-road-of-heroes-devient-inazuma-eleven-victory-road-of-heroes-et-level-5-nous-en-donne-de-nouvelles-infos-et-images-258812  
+![picture 3](https://i.imgur.com/HTiywpFm.jpg)  
   
-**Bright Memory Infinite**, un FPS nerveux, sortira aussi sur Switch, et vu qu'il était calibré pour la next-gen j'ai un peu peur du résultat  
-https://www.destructoid.com/bright-memory-infinite-console-ports-playstation-xbox-switch/  
-![picture 5](https://i.imgur.com/CcYADqlm.png)  
+## Mises à jour  
   
-**9 Years of Shadow**, un metroidvania avec un superbe pixel art, sort cette année  
-https://www.nintendolife.com/news/2022/06/9-years-of-shadows-slices-onto-switch-later-this-year  
-![picture 6](https://i.imgur.com/Bhn4kWsm.jpg)  
+La dernière MAJ de **No Man's Sky** sera présente sur Switch au lancement  
+https://www.nintendolife.com/news/2022/07/no-mans-skys-new-endurance-update-confirmed-for-the-ever-expanding-switch-port  
+![picture 9](https://i.imgur.com/BmRWgAMm.png)  
   
-**The Last Faith**, encore un superbe metroidvania, sort aussi cette année  
-https://www.nintendolife.com/news/2022/06/brutal-metroidvania-the-last-faith-is-the-spawn-of-castlevania-and-blasphemous  
-![picture 7](https://i.imgur.com/qzAZlR3m.png)  
+## Tests  
   
-**Tinykin**, un Pikmin-like, sort le 30 août  
-https://www.eurogamer.net/tinykin-coming-to-pc-and-consoles-in-august  
-![picture 8](https://i.imgur.com/tog67eXm.png)  
+**Live A Live**, le remake d'un JRPG SNES  
+https://www.gameinformer.com/review/live-a-live/sizzling-short-stories  
+https://www.gamespot.com/reviews/live-a-live-review-live-laugh-love-live-a-live/1900-6417919/?ftag=CAD-01-10abi2f  
+https://www.nintendolife.com/reviews/nintendo-switch/live-a-live  
+https://www.destructoid.com/reviews/review-live-a-live-square-rpg-nintendo-switch/  
+http://www.nintendoworldreport.com/review/61018/live-a-live-switch-review  
+https://www.siliconera.com/review-live-a-live-remasters-the-jrpg-for-its-global-debut/  
+https://www.eurogamer.net/live-a-live-review-a-games-worth-of-occasionally-excellent-always-intriguing-jrpg-side-stories  
+![picture 10](https://i.imgur.com/B6IMEcEm.png)  
   
-**Demonschool**, un TRPG qui semble inspiré par les Shin Megami Tensei tactiques (Devil Survivor), est annoncé pour 2023  
-https://www.destructoid.com/demonschool-school-life-tactics-rpg-horror-reveal/  
-![picture 11](https://i.imgur.com/5yOOMzwm.jpg)  
+**Capcom Arcade 2nd Stadium**, une compile de jeux arcade  
+https://www.destructoid.com/reviews/review-capcom-arcade-2nd-stadium-retro-compilation/  
+https://www.nintendolife.com/reviews/switch-eshop/capcom-arcade-2nd-stadium  
+http://www.nintendoworldreport.com/review/60953/capcom-arcade-2nd-stadium-switch-review  
+![picture 11](https://i.imgur.com/8qtrEolm.png)  
   
-Un trailer pour **Victory Heat Rally**, un jeu de course inspiré par Power Drift qui sort cette année  
-https://www.nintendolife.com/news/2022/06/here-are-the-tracks-youll-be-racing-around-in-victory-heat-rally  
-![picture 12](https://i.imgur.com/Ht0YAMOm.jpg)  
+**Bright Memory Infinite**, un FPS/jeu d'action  
+https://www.nintendolife.com/reviews/switch-eshop/bright-memory-infinite  
+http://www.nintendoworldreport.com/review/61025/bright-memory-infinite-switch-review  
+https://www.p-nintendo.com/tests/tests-complets/test-de-bright-memory-infinite-258811  
+![picture 12](https://i.imgur.com/Loeac49m.png)  
   
-**Undetected**, un clone de Metal Gear Solid qui a l'air plutôt sympa, sort cette année  
-https://www.nintendolife.com/news/2022/06/stealth-game-undetected-gives-off-serious-metal-gear-solid-vibes  
-![picture 13](https://i.imgur.com/nfgih5zm.png)  
+**FIST Forged in Shadow Torch**, un metroidvania  
+https://www.nintendolife.com/reviews/switch-eshop/f-i-s-t-forged-in-shadow-torch  
+http://www.nintendoworldreport.com/review/60948/fist-forged-in-shadow-torch-switch-review  
+![picture 13](https://i.imgur.com/QFa9nkvm.png)  
   
----  
-  
-Des previews pour le **DLC de Cuphead**  
-https://www.siliconera.com/preview-cuphead-the-delicious-last-course-dlc-could-be-filling/  
-https://www.destructoid.com/cuphead-dlc-preview-last-course-interview-mdhr/  
-https://www.eurogamer.net/cupheads-delicious-last-course-offers-depth-over-breadth  
-http://www.nintendoworldreport.com/preview/60626/previewing-cupheads-delicious-last-course  
-![picture 1](https://i.imgur.com/aoC6Rt7m.png)  
-  
-Des tests pour **Demon Slayer**, un jeu de baston d'anime  
-http://www.nintendoworldreport.com/review/60664/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-switch-review  
-https://www.nintendolife.com/reviews/nintendo-switch/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles  
-![picture 4](https://i.imgur.com/kNB0ubzm.jpg)  
-  
----  
-  
-Un récap de toutes les annonces Switch du **Wholesome Direct**, et il y en a beaucoup trop  
-https://www.nintendolife.com/news/2022/06/every-game-from-the-wholesome-direct-2022-coming-to-switch  
-  
-Un récap des annonces Switch de **Guerrilla Collective**  
-http://www.nintendoworldreport.com/news/60671/first-day-of-2022-guerrilla-collective-gives-new-information-on-switch-releases  
-  
-Un récap des annonces Switch du **Future Games Show**  
-http://www.nintendoworldreport.com/news/60672/several-more-game-announcements-for-switch-at-june-2022-future-games-show  
+**Coromon**, un Pokémon-like  
+http://www.nintendoworldreport.com/review/61024/coromon-switch-review-in-progress  
+![picture 14](https://i.imgur.com/AHqQ3Nlm.jpg)  
