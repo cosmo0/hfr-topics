@@ -905,6 +905,7 @@ Beaucoup de classiques de l'arcade sont présents en portages ou compilations : 
 - **Fall Guys** (free to play)
 - **Heave Ho**
 - Human Fall Flat
+- Kirby's Dream Buffet
 - Keep Talking And Nobody Explodes
 - Les Lapins Crétins Party of Legends
 - Moving Out
@@ -1005,6 +1006,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 ## Autres/inclassables
 
 - **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
+- Arcade Paradise
 - Cozy Groove
 - [Everything](https://www.cosmo0.fr/critique/everything/)
 - FUZE4
@@ -1036,11 +1038,11 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Décembre : **Dragon Quest Treasures** (9)
 - Janvier : Disgaea 7 (26)
 
-- été : River City Girls 2, Front Mission 1st Remake, Arcade Paradise, **Kirby's Dream Buffet**
+- été : River City Girls 2, Front Mission 1st Remake
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider
 - hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**, **Sonic Frontiers**, Atari 50, The Pathless, Lego Bricktales
 
-- 2022 : Bomb Rush Cyberfunk, Earth Defense Force 4.1, Broken Roads, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Return to Monkey Island
+- 2022 : Bomb Rush Cyberfunk, Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Return to Monkey Island
 
 - 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics
 
