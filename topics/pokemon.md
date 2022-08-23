@@ -4,12 +4,40 @@ Bienvenue sur le topic de tous les jeux Pokémon [:zytra]
 
 ## Sommaire
 
-1. Légendes Pokémon - Arceus
-2. Pokémon Epee/Bouclier
-3. Les jeux de la série principale // Transférer ses pokémons entre jeux
-4. Les spin-off
-5. Les inspirations et imitateurs
-6. Lexique et vocabulaire // Liens utiles et bases de données
+1. Pokémon Violet/Ecarlate (Violet/Scarlet)
+2. Légendes Pokémon - Arceus
+3. Pokémon Epee/Bouclier (Sword/Shield)
+4. Les jeux de la série principale // Transférer ses pokémons entre jeux
+5. Les spin-off
+6. Les inspirations et imitateurs
+7. Lexique et vocabulaire // Liens utiles et bases de données
+
+## ![Pokémon Violet/Ecarlate](https://i.imgur.com/Glipj5Th.png)
+
+Sortie le 18 novembre 2022.
+Nouvel épisode "normal", qui sera cette fois-ci un "véritable open world".
+
+### L'univers
+
+Le jeu suit une structure avec une université dans laquelle étudier, une "chasse au trésor", et "trois grandes histoires" à suivre, dont (évidemment) les affrontements contre les champions d'arènes. On ne connaît pas encore les autres histoires, ni ce qu'est la chasse au trésor.
+
+Ce sont les légendaires qui serviront de montures, et permettront aussi bien d'aller vite sur terre, que de nager, et même de voler.
+
+### Nouveautés de gameplay
+
+La nouvelle mécanique est la "cristallisation", qui rend les pokémons plus forts, et peut même changer leur type.
+
+La structure ouverte permettra pour la première fois d'affronter les champions d'arènes dans l'ordre de son choix.
+
+### Le monde
+
+La région est celle de Paldea, qui (semblerait-il) est inspirée de la péninsule Ibérique.
+
+[Carte du monde](https://i.imgur.com/rOezz4hm.png)
+
+### Le multijoueur
+
+Il sera possible de jouer en équipe de 4, de se balader en coop sur la carte, et de faire des raids ensemble contre des gros pokémons (comme dans Epée/Bouclier).
 
 ## ![Légendes Pokémon - Arceus](https://i.imgur.com/9QTOCu9h.jpg)  
 
