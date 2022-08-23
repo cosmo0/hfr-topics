@@ -58,7 +58,7 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), Metroid Dread, Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori and The Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
 - **Plate-forme/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [Gris](https://www.cosmo0.fr/critique/gris/)
 - **Roguelike** : The Binding of Isaac: Afterbirth+, Dead Cells, Hades, Slay The Spire
-- **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), The Witcher 3: Wild Hunt, Xenoblade Chronicles, Xenoblade Chronicles 2
+- **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), The Witcher 3: Wild Hunt, Xenoblade Chronicles 2, Xenoblade Chronicles 3
 - **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V, [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
 - **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Three Houses, Triangle Strategy
@@ -224,6 +224,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Red Faction Guerilla
 - Saints Row The Third, IV Re-Elected
 - Serious Sam Collection
+- Severed Steel
 - Sniper Elite [2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), [3](https://www.cosmo0.fr/critique/sniper-elite-3/), 4
 - Starlink: Battle for Atlas
 - **Superhot**
@@ -769,7 +770,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - **MotoGP**
 - **Need For Speed Hot Pursuit**
 - [Out Run (Sega Ages)](https://www.cosmo0.fr/critique/sega-ages-out-run/)
-- Redout
+- Redout 1, 2
 - Rush Rally 3, [Origins](https://www.cosmo0.fr/critique/rush-rally-origins/)
 - Team Sonic Racing
 - **Trials Rising**
@@ -1026,24 +1027,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Redout 2, Severed Steel, Azure Striker Gunvolt 3
+- Jeux sortis, en attente de tests : -
 
-- Juillet : Captain Velvet Meteor (28), **Xenoblade Chronicles 3** (29), Wonder Boy Collection (?)
 - Août : Tinykin (30), TMNT Cowabunga Collection (30), Crayon Shin-Chan (?)
-- Septembre : Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
+- Septembre : Ooblets (1), Anno Mutationem (1), Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), Moonscars (27), Life Is Strange Arcadia Bay Collection (27), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
 - Octobre : **Nier Automata** (6), **No Man's Sky** (7), RPG Time The Legend of Wright (18), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28)
-- Novembre : Harvestella (4), **Pokémon Ecarlate/Violet** (18)
+- Novembre : Harvestella (4), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18)
 - Décembre : **Dragon Quest Treasures** (9)
+- Janvier : Disgaea 7 (26)
 
 - été : River City Girls 2, Front Mission 1st Remake, Arcade Paradise, **Kirby's Dream Buffet**
-- automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade
-- hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**, **Sonic Frontiers**, Atari 50, The Pathless
+- automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider
+- hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**, **Sonic Frontiers**, Atari 50, The Pathless, Lego Bricktales
 
-- 2022 : Bomb Rush Cyberfunk, Metal Slug Tactics, Earth Defense Force 4.1, Broken Roads, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Return to Monkey Island
+- 2022 : Bomb Rush Cyberfunk, Earth Defense Force 4.1, Broken Roads, Blossom Tales 2, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Return to Monkey Island
 
-- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars
+- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Life Is Strange Remastered, Oxenfree 2, Mina the Hollower
+- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
 
