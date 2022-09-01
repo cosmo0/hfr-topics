@@ -521,6 +521,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - **Pikmin 3**
 - **Romance of the Three Kingdoms XIV**
 - Tiny Metal, Tiny Metal Full Metal Rumble
+- Tinykin
 - Transformers Battlegrounds
 - **Wargroove**
 - Warhammer 40K Mechanicus
@@ -606,6 +607,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - If Found...
 - **Kentucky Route Zero**
 - Oxenfree
+- Shin chan: Me and the Professor on Summer Vacation
 - **Sky Children of The Light**
 - Telltale's The Walking Dead
 - The Vanishing of Ethan Carter
@@ -826,8 +828,8 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Scott Pilgrim vs The World
 - **[Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/)**
 - **Teenage Mutant Ninja Turtles Shredder’s Revenge**
-- [The Friends of Ringo Ishikawa](https://www.cosmo0.fr/critique/the-friends-of-ringo-ishikawa/)
 - **The Wonderful 101**
+- TMNT Cowabunga Collection
 - Wulverblade
 
 ## Shoot'em ups (shmups), twin stick shooters, rail shooters
@@ -1031,8 +1033,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Août : Tinykin (30), TMNT Cowabunga Collection (30), Crayon Shin-Chan (?)
-- Septembre : Ooblets (1), Anno Mutationem (1), Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), No Place for Bravery (22), The Diofield Chronicles (22), Moonscars (27), Life Is Strange Arcadia Bay Collection (27), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
+- Septembre : Ooblets (1), Anno Mutationem (1), Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), Return to Monkey Island (19), No Place for Bravery (22), The Diofield Chronicles (22), Shovel Knight Dig (23), Moonscars (27), Life Is Strange Arcadia Bay Collection (27), Dorfromantik (29), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
 - Octobre : **Nier Automata** (6), **No Man's Sky** (7), RPG Time The Legend of Wright (18), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28)
 - Novembre : Harvestella (4), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18)
 - Décembre : **Dragon Quest Treasures** (9)
@@ -1042,12 +1043,12 @@ En gras les jeux exclusifs et les "grosses sorties".
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider
 - hiver : **Hogwarts Legacy**, **Crisis Core Final Fantasy VII Reunion**, **Sonic Frontiers**, Atari 50, The Pathless, Lego Bricktales
 
-- 2022 : Bomb Rush Cyberfunk, Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Return to Monkey Island
+- 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected
 
-- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics
+- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk
 
-- Pas de date : Shovel Knight Dig, Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower
+- Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Dorfromantik, Hatch Tales
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
