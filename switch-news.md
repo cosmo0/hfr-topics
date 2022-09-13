@@ -1,53 +1,122 @@
-#cosmonews du jour avant le ND du jour
+#cosmonews spéciale Nintendo Direct
 
-## Annonces
+La vidéo complète : https://www.youtube.com/watch?v=UJ9Iz7HhU-I&t=1s
 
-Un nouveau platformer **Disney "Illusion"** est annoncé pour 2023, avec un style... particulier
-https://www.p-nintendo.com/news/disney-illusion-island-le-retour-de-la-famille-mickey-sur-switch-259083
-![picture 9](https://i.imgur.com/SbHCx9Om.png)  
+Je ne mets pas ce qui était déjà connu : Bayonetta 3, Just Dance 2023, Mario + Lapins Crétins 2, Harvestella, FF7 Crisis Core Reunion, Life Is Strange, Romancing SaGa Minstrel Song, Disney Speedstorm, Bob L'Eponge
 
-Un nouveau **Voice of Cards**, la série de RPG à base de cartes par Square, sort aujourd'hui
-https://www.destructoid.com/voice-of-cards-the-beasts-of-burden-launch-september-square-enix-yoko-taro/
-![picture 1](https://i.imgur.com/40G1wSHm.jpg)  
+## DLC
 
-L'édition Anniversary de **Skyrim** pourrait sortir sur Switch prochainement
-https://www.nintendolife.com/news/2022/09/skyrim-anniversary-edition-has-been-rated-for-nintendo-switch-again
-![picture 3](https://i.imgur.com/GAIZSUDm.jpg)  
+[Mario Strikers ce mois-ci](https://www.youtube.com/watch?v=JkBZN0DV_dQ)
+[Xenoblade 3 volume 2 le 13 octobre](https://www.youtube.com/watch?v=iTAkQajwzHE)
+[Mario Kart 8 3e vague cet hiver](https://www.youtube.com/watch?v=1ZSkBQvYaqk)
+[Switch Sports Golf cet hiver](https://www.youtube.com/watch?v=Zu3tBfQCrlc)
+[Les prochains jeux N64, avec Goldeneye](https://www.youtube.com/watch?v=4ukzUEn8suA)
 
-**GrimGrimoire OnceMore**, un RPG stratégique (si j'ai bien compris), sera localisé au printemps 2023
-https://www.destructoid.com/grimgrimoire-oncemore-nis-america-vanillaware-ps4-ps5-switch-2023/
-![picture 6](https://i.imgur.com/B02pN8Sm.jpg)  
+## Dispo immédiate
 
-## Infos
+Various Daylife, un RPG qui me fait penser à Miitopia avec une skin Square Enix
+https://www.youtube.com/watch?v=CW2M0hBnv2s
 
-Des infos, images et vidéos sur **Mario + Lapins Crétins 2**
-https://www.destructoid.com/seven-full-minutes-of-mario-rabbids-sparks-of-hope-gameplay-boss-battle/
-![picture 10](https://i.imgur.com/e3FRRAQm.jpg)  
+Radiant Silvergun, un célèbre shmup arcade/Saturn (la vidéo c'est un playthrough)
+https://www.youtube.com/watch?v=wmbtRW0noRw
 
-## Hardware
+## Septembre
 
-Un **pad typé N64** compatible Switch en kickstarter
-https://www.destructoid.com/new-brawler64-wireless-controller-play-n64-games-nintendo-switch-online-support/?utm_source=rss&utm_medium=rss&utm_campaign=new-brawler64-wireless-controller-play-n64-games-nintendo-switch-online-support
-![picture 11](https://i.imgur.com/oN1d1t1m.jpg)  
+Tunic, un Zelda-like, le 27 septembre
+https://www.youtube.com/watch?v=1hbncr_3c3c
 
-## Tests
+## Octobre
 
-**City Wars Tokyo Reign**, un roguelike/deck-builder cyberpunk
-https://www.nintendolife.com/reviews/switch-eshop/city-wars-tokyo-reign
-![picture 4](https://i.imgur.com/WUe5Llgm.jpg)  
+Factorio, un jeu d'optimisation de construction, le 28 octobre (trailer PC)
+https://www.youtube.com/watch?v=J8SBp4SyvLc
 
-**I Was A Teenage Exocolonist**, un RPG/jeu d'aventure/visual novel/jeu de cartes
-https://www.p-nintendo.com/tests/tests-complets/test-de-i-was-a-teenage-exocolonialist-vertumna-nous-voila-259004
-![picture 5](https://i.imgur.com/JFLo8pSm.jpg)  
+Resident Evil Village (version cloud) le 28 octobre
+https://www.youtube.com/watch?v=pzCbO4FKiH4
 
-**Anno Mutationem**, un RPG/jeu d'aventure/beat'em up
-https://www.siliconera.com/review-anno-mutationem-is-a-moody-cyberpunk-sendup-on-switch/
-![picture 7](https://i.imgur.com/8Adu5XQm.jpg)  
+## Novembre
 
-**Haiku The Robot**, un metroidvania en pixel art
-http://www.nintendoworldreport.com/review/61438/haiku-the-robot-switch-review-mini
-![picture 2](https://i.imgur.com/fm5kHr4m.png)  
+It Takes Two, un platformer coop, le 4 novembre
+https://www.youtube.com/watch?v=mo6Ynbt90yM
 
-**Ooblets**, un Animal Crossing croisé avec Pokémon
-https://www.gameinformer.com/review/ooblets/a-cheerful-grind
-![picture 8](https://i.imgur.com/bUUxbgBm.jpg)  
+Sifu, un beat'em up technique difficile, le 8 novembre
+https://www.youtube.com/watch?v=J9x8ppBpQ6Y
+
+Front Mission 1st Remake, un TRPG avec des mechas, en novembre
+https://www.youtube.com/watch?v=uT5m8ZYHW20
+
+## 2022 sans date
+
+Resident Evil 2 Remake, 3 Remake et 7 en version cloud, "cette année"
+https://www.youtube.com/watch?v=pzCbO4FKiH4
+
+Lego Bricktales, un jeu de puzzle, automne 2022
+https://www.youtube.com/watch?v=K_ZWIByFdBU
+
+## Janvier
+
+Fire Emblem Engage, un nouvel épisode de la série de TRPG, le 20 janvier
+https://www.youtube.com/watch?v=3iX8YywLGO8
+
+## Février
+
+Theatrhythm Final Fantasy Final Bar Line (ouf), un jeu de rythme, le 16 février
+https://www.youtube.com/watch?v=1ODX-GwpBHU
+
+Kirby Return to Dreamland, un jeu de plateforme, le 24 février
+https://www.youtube.com/watch?v=r7EUhyQjNdg
+
+Octopath Traveler 2, un RPG, le 24 février
+https://www.youtube.com/watch?v=Djs_sl2-P2k
+
+Atelier Ryza 3, un RPG, le 24 février (lien vers un livestream dédié demain)
+https://www.youtube.com/watch?v=J0AzPBd20q0
+
+## Mars
+
+Fist of the North Star Fitness Boxing, un jeu de fitness
+https://www.youtube.com/watch?v=5QItK9IfL0o
+
+## Mai
+
+Zelda Tears of the Kingdom, un petit jeu pas très attendu, le 12 mai
+https://www.youtube.com/watch?v=hhhlIHZz-kg
+
+## 2023 sans date
+
+Pikmin 4
+https://www.youtube.com/watch?v=wY3bC0j4Ce0
+
+Fatal Frame/Project Zero Mask of the Lunar Eclipse, un jeu d'horreur, début 2023
+https://www.youtube.com/watch?v=zDHeaKGOnWg
+
+Oddballers, un party game/brawler (vidéo de gameplay)
+https://www.youtube.com/watch?v=XqWyXtEZmZk
+
+Front Mission 2 Remake, un TRPG avec des mechas
+https://www.youtube.com/watch?v=zubjrH3gBiI
+
+Rune Factory 3, un RPG de farming
+https://www.youtube.com/watch?v=8q7QbN7HCS4
+
+Story of Seasons A Wonderful Life, un jeu de farming, été 2023
+https://www.youtube.com/watch?v=cOAcwtLHTW0
+
+Ib, un jeu d'aventure indé moche, printemps 2023
+https://www.youtube.com/watch?v=FIW6B0qpCfQ
+
+Master Detective Archives Rain Code, un jeu d'aventure avec des gens de Danganronpa dedans, printemps 2023
+https://www.youtube.com/watch?v=TJVW-Um_ap4
+
+Endless Dungeon, un roguelike/twin stick shooter
+https://www.youtube.com/watch?v=m1Jbh8HreL8
+
+Tales of Symphonia, début 2023
+https://www.youtube.com/watch?v=7wjzIidTkVI
+
+## Pas de date précise
+
+Fae Farm, "bientôt"
+https://www.youtube.com/watch?v=rrRbeEErcLQ
+
+Front Mission 3 Remake, "après"
+(juste un logo, pas de vidéo)
