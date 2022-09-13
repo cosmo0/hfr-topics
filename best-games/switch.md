@@ -53,7 +53,7 @@ Une sélection (forcément limitée) des meilleurs jeux de la machine, classée 
 Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir quelques représentants de chaque genre : vous y trouverez forcément des jeux que vous n'aimez pas, et vous n'y trouverez pas certains jeux que vous adorez, et c'est bien normal, c'est une liste de compromis.
 
 - **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
-- **Shooters, FPS, TPS** : BioShock: The Collection, Borderlands Legendary Collection, DOOM (2016), [DOOM (1993)](https://www.cosmo0.fr/critique/doom-1993/), Splatoon 2
+- **Shooters, FPS, TPS** : BioShock: The Collection, Borderlands Legendary Collection, DOOM (2016), [DOOM (1993)](https://www.cosmo0.fr/critique/doom-1993/), Splatoon 3
 - **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), Metroid Dread, Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
 - **Plate-forme/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [Gris](https://www.cosmo0.fr/critique/gris/)
@@ -67,8 +67,8 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **Point & click, enquête, visual novel** : AI: The Somnium Files, Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
 - **Puzzle, énigmes, réflexion** : Baba Is You, Picross S Genesis & Master System Edition, Puyo Puyo Tetris 2, Tetris Effect Connected, [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), Portal Companion Collection
 - **Sport** : [Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/), Mario Strikers Battle League, Mario Tennis Aces
-- **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe
-- **Combat, baston, beat'em up** : Arms, Dragon Ball FighterZ, [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/aca-neogeo-garou-mark-of-the-wolves/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), Super Smash Bros Ultimate, [The King of Fighters 98](https://www.cosmo0.fr/critique/aca-neogeo-the-king-of-fighters-98/)
+- **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe, Wreckfest
+- **Combat, baston, beat'em up** : Dragon Ball FighterZ, [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/aca-neogeo-garou-mark-of-the-wolves/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), Super Smash Bros Ultimate, [The King of Fighters 98](https://www.cosmo0.fr/critique/aca-neogeo-the-king-of-fighters-98/)
 - **Shoot'em up** : [Espgaluda II](https://www.cosmo0.fr/critique/espgaluda-ii-be-ascension-the-third-bright-stone-of-birth/), [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/), Deathsmiles 1+2
 - **Party game, jeu en ligne** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/), Among Us, Mario Party Superstars, Overcooked! 2
 - **Casual** : [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), New Pokémon Snap
@@ -243,7 +243,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Realm Royale (free to play)
 - Rogue Company (free to play)
 - Spellbreak (free to play)
-- **Splatoon 2**
+- **Splatoon 2, 3**
 - Vigor (free to play)
 - Warface (free to play)
 - **Warframe** (free to play)
@@ -381,6 +381,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 
 - Ape Out
 - Children of Morta
+- City Wars Tokyo Reign
 - **Dead Cells**
 - Dicey Dungeons
 - Dreamscaper
@@ -406,10 +407,12 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 
 ## RPG/action
 
+- Anno Mutationem
 - CrossCode
 - Crystar
 - **Dragon's Dogma: Dark Arisen**
 - **Final Fantasy XII, XV Pocket**
+- Made In Abyss Binary Star Falling Into Darkness
 - **[Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/)**, Generations Ultimate
 - Ni No Kuni Wrath of the White Witch, 2
 - **Persona 5 Strikers**
@@ -451,8 +454,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - **Pillars of Eternity**
 - **Pokémon** [Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus
 - **Shin Megami Tensei III Nocturne**, **Shin Megami Tensei V**
-- Shiren The Wanderer
-- Star Wars Knights of the Old Republic
+- TemTem
 - The Alliance Alive HD
 - Thronebreaker: The Witcher Tales
 - **Tokyo Mirage Sessions #FE Encore**
@@ -572,6 +574,7 @@ Tous les bons jeux à 20€ ou moins (et souvent beaucoup moins en promo) ; en g
 - Kitaria Fables
 - **Littlewood**
 - My Time At Portia
+- Ooblets
 - **Rune Factory 4 Special**, 5
 - **Stardew Valley**
 - Story of Seasons Pioneer of Olive Town
@@ -937,10 +940,9 @@ Les jeux qui détendent, sans stress, pour décompresser, souvent sans difficult
 Certains jeux apparaissant ici sont aussi dans d'autres catégories.  
 Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzle game, casual games, jeux de farming, jeux de société...
 
-- **A Little Golf Journey**
 - **[A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/)**
 - [AER Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/)
-- **Alba A Wildlife Adventure**
+- Alba A Wildlife Adventure
 - **[Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)**
 - Art of Balance
 - Calico
@@ -948,16 +950,12 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - **Doraemon Story of Seasons**
 - Everything
 - **Farm Together**
-- **I Am Dead**
 - [Islanders](https://www.cosmo0.fr/critique/islanders-console-edition/)
-- Kirby Star Allies
 - Lego Builder's Journey
 - Little Dragons Café
-- Momonga Pinball Adventures
 - **New Pokémon Snap**
+- Ooblets
 - Pikuniku
-- PixelJunk Eden 2
-- Quench
 - **Spiritfarer**
 - **Stardew Valley**
 - Story of Seasons Friends of Mineral Town
@@ -1033,7 +1031,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Septembre : Ooblets (1), Anno Mutationem (1), Made In Abyss Binary Star Falling Into Darkness (2), **TemTem** (6), **Splatoon 3** (9), XIII Remake (13), Return to Monkey Island (19), No Place for Bravery (22), The Diofield Chronicles (22), Shovel Knight Dig (23), Moonscars (27), Life Is Strange Arcadia Bay Collection (27), Dorfromantik (29), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
+- Septembre : XIII Remake (13), Return to Monkey Island (19), No Place for Bravery (22), The Diofield Chronicles (22), Shovel Knight Dig (23), Moonscars (27), Life Is Strange Arcadia Bay Collection (27), Dorfromantik (29), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
 - Octobre : **Nier Automata** (6), **No Man's Sky** (7), RPG Time The Legend of Wright (18), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28)
 - Novembre : Harvestella (4), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18)
 - Décembre : **Dragon Quest Treasures** (9)
@@ -1045,7 +1043,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), Front Mission 2 Remake, **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected
 
-- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk
+- 2023 : **Zelda Breath of the Wild 2**, The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower
 
