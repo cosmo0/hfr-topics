@@ -1029,23 +1029,23 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Various Daylife, Radiant Silvergun
+- Jeux sortis, en attente de tests : Various Daylife, Radiant Silvergun, Easy Come Easy Golf
 
-- Septembre : XIII Remake (13), Return to Monkey Island (19), No Place for Bravery (22), The Diofield Chronicles (22), Shovel Knight Dig (23), Moonscars (27), Tunic (27), Life Is Strange Arcadia Bay Collection (27), Dorfromantik (29), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
-- Octobre : **Nier Automata** (6), **No Man's Sky** (7), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28), Factorio (28), Resident Evil Village Cloud (28)
+- Septembre : XIII Remake (13), Return to Monkey Island (19), No Place for Bravery (22), The Diofield Chronicles (22), Shovel Knight Dig (23), Moonscars (27), Tunic (27), Life Is Strange Arcadia Bay Collection (27), Dorfromantik (29), Picross S8 (29), Moon Dancer (29), The Legend of Heroes Trails from Zero (30), Let's Build a Zoo (?)
+- Octobre : **Nier Automata** (6), Wizorb (6), **No Man's Sky** (7), Lego Bricktales (12), A Plague Tale Requiem Cloud Version (18), **Mario + Lapins Crétins Sparks of Hope** (20), **Persona 5 Royal** (21), **Bayonetta 3** (28), Factorio (28), Resident Evil Village Cloud (28)
 - Novembre : Harvestella (4), It Takes Two (4), Sifu (8), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18), Front Mission 1st (?)
-- Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Crisis Core Final Fantasy VII Reunion (13)
+- Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Crisis Core Final Fantasy VII Reunion (13), Formula Retro Racing (14)
 - Janvier : **Fire Emblem Engage** (20), Disgaea 7 (26)
 - Février : Theatrhythm Final Fantasy Final Bar Line (16), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
 - Mars : Spongebob Squarepants Cosmic Shake (?)
 - Mai : **Zelda Tears of the Kingdom** (12)
 
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider, Lego Bricktales
-- hiver : **Hogwarts Legacy**, **Sonic Frontiers**, Atari 50, The Pathless
+- hiver : **Hogwarts Legacy**, **Sonic Frontiers**, Atari 50, The Pathless, Drainus
 
-- 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected
+- 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Powerwash Simulator, Prodeus
 
-- 2023 : The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse
+- 2023 : The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake
 

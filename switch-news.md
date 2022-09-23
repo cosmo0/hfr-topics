@@ -1,122 +1,115 @@
-#cosmonews spéciale Nintendo Direct
+#cosmonews du jour bonjour
 
-La vidéo complète : https://www.youtube.com/watch?v=UJ9Iz7HhU-I&t=1s
+## Annonces et sorties
 
-Je ne mets pas ce qui était déjà connu : Bayonetta 3, Just Dance 2023, Mario + Lapins Crétins 2, Harvestella, FF7 Crisis Core Reunion, Life Is Strange, Romancing SaGa Minstrel Song, Disney Speedstorm, Bob L'Eponge
+**Suikoden 1 & 2**, des RPG, seront remasterisés en 2023
+https://www.siliconera.com/suikoden-i-and-ii-hd-remaster-announced-for-current-consoles/
+![picture 2](https://i.imgur.com/PeJEvJym.png)  
 
-## DLC
+**Easy Come Easy Golf**, par les créateurs des très appréciés Everybody's Golf, est sorti par surprise
+https://www.nintendolife.com/news/2022/09/dev-behind-playstation-series-everybodys-golf-releases-new-game-on-switch
+![picture 3](https://i.imgur.com/FoAD9Xvm.jpg)  
 
-[Mario Strikers ce mois-ci](https://www.youtube.com/watch?v=JkBZN0DV_dQ)
-[Xenoblade 3 volume 2 le 13 octobre](https://www.youtube.com/watch?v=iTAkQajwzHE)
-[Mario Kart 8 3e vague cet hiver](https://www.youtube.com/watch?v=1ZSkBQvYaqk)
-[Switch Sports Golf cet hiver](https://www.youtube.com/watch?v=Zu3tBfQCrlc)
-[Les prochains jeux N64, avec Goldeneye](https://www.youtube.com/watch?v=4ukzUEn8suA)
+**Lego Bricktales**, un jeu d'aventure/puzzle, sort le 12 octobre
+https://www.nintendolife.com/news/2022/09/lego-bricktales-is-building-to-an-october-launch-on-switch
+![picture 4](https://i.imgur.com/a8qCbbXm.png)  
 
-## Dispo immédiate
+**PowerWash Simulator**, un simulateur de Karcher, est annoncé sur Switch pour "bientôt"
+https://www.p-nintendo.com/news/powerwash-simulator-viendra-sortir-son-karcher-sur-nintendo-switch-259122
+![picture 5](https://i.imgur.com/5aFdoscm.jpg)  
 
-Various Daylife, un RPG qui me fait penser à Miitopia avec une skin Square Enix
-https://www.youtube.com/watch?v=CW2M0hBnv2s
+**Formula Retro Racing World Tour**, un jeu de course low-poly, sort le 14 décembre
+https://www.nintendolife.com/news/2022/09/virtua-racing-inspired-formula-retro-racing-world-tour-speeds-onto-switch
+![picture 6](https://i.imgur.com/jCHiAEPm.jpg)  
 
-Radiant Silvergun, un célèbre shmup arcade/Saturn (la vidéo c'est un playthrough)
-https://www.youtube.com/watch?v=wmbtRW0noRw
+**Prodeus**, un FPS old school, sort le 23 septembre partout sauf sur Switch, victime d'un bug
+https://www.nintendolife.com/news/2022/09/old-school-doom-like-fps-prodeus-delayed-for-nintendo-switch
+![picture 7](https://i.imgur.com/9k0RJDvm.jpg)  
 
-## Septembre
+**Phantom Fury**, un FPS par les créateurs de Duke 3D, suite de Ion Fury mais en 3D (ça perd son charme), sort en 2023
+https://www.nintendolife.com/news/2022/09/ion-fury-follow-up-phantom-fury-announced-for-nintendo-switch
+![picture 8](https://i.imgur.com/PuIBeXZm.jpg)  
 
-Tunic, un Zelda-like, le 27 septembre
-https://www.youtube.com/watch?v=1hbncr_3c3c
+**Wrath Aeon of Ruin**, un FPS tellement old school qu'il utilise le moteur de Quake (oui oui le premier) sort en 2023
+https://www.nintendolife.com/news/2022/09/quake-powered-fps-wrath-aeon-of-ruin-launches-on-nintendo-switch-in-2023
+![picture 9](https://i.imgur.com/DlwuqXEm.jpg)  
 
-## Octobre
+**Drainus**, un shmup qui a l'air très chouette, sort "cet hiver"
+https://www.p-nintendo.com/news/le-shoot-em-up-drainus-arrive-sur-switch-cet-hiver-259168
+![picture 1](https://i.imgur.com/wn847QGm.png)  
 
-Factorio, un jeu d'optimisation de construction, le 28 octobre (trailer PC)
-https://www.youtube.com/watch?v=J8SBp4SyvLc
+**Wizorb**, un casse-brique originaire du Xbox Live Arcade dont j'ai entendu du bien, sort le 6 octobre
+https://www.destructoid.com/wizorb-nintendo-switch-version-arkanoid-like-brick-breaker-game/
+![picture 10](https://i.imgur.com/2ZrkMx3m.png)  
 
-Resident Evil Village (version cloud) le 28 octobre
-https://www.youtube.com/watch?v=pzCbO4FKiH4
+**Picross S8** sort le 29 septembre, et tous les autres vont avoir le support du tactile
+https://www.destructoid.com/picross-s8-release-date-nintendo-switch-puzzle-co-op/
+![picture 11](https://i.imgur.com/DACPZlnm.jpg)  
 
-## Novembre
+**Moon Dancer**, un shmup par le développeur de l'excellent Raging Blasters, sort le 29 septembre
+https://www.nintendolife.com/news/2022/09/moon-dancer-brings-nes-style-beats-and-sci-fi-shmup-action-to-switch-next-week
+![picture 12](https://i.imgur.com/aCbUXClm.png)  
 
-It Takes Two, un platformer coop, le 4 novembre
-https://www.youtube.com/watch?v=mo6Ynbt90yM
+## Infos et vidéos
 
-Sifu, un beat'em up technique difficile, le 8 novembre
-https://www.youtube.com/watch?v=J9x8ppBpQ6Y
+**Nier Automata**
+https://www.p-nintendo.com/news/quelques-videos-pour-nier-automata-sur-nintendo-switch-259147
+https://www.p-nintendo.com/news/un-nouveau-trailer-pour-nier-automata-sur-nintendo-switch-259194
 
-Front Mission 1st Remake, un TRPG avec des mechas, en novembre
-https://www.youtube.com/watch?v=uT5m8ZYHW20
+**Atelier Ryza 3**
+https://www.p-nintendo.com/news/nouvelle-video-de-gameplay-pour-atelier-ryza-3-259151
 
-## 2022 sans date
+**Fire Emblem Engage**
+https://www.nintendolife.com/news/2022/09/fire-emblem-engage-continues-to-look-stunning-in-new-gameplay-clips
 
-Resident Evil 2 Remake, 3 Remake et 7 en version cloud, "cette année"
-https://www.youtube.com/watch?v=pzCbO4FKiH4
+## Tests
 
-Lego Bricktales, un jeu de puzzle, automne 2022
-https://www.youtube.com/watch?v=K_ZWIByFdBU
+**Shovel Knight Dig**, un jeu mélange de Shovel Knight et de Mr Driller en mode roguelike
+https://www.destructoid.com/reviews/review-shovel-knight-dig-pc/
+https://www.eurogamer.net/shovel-knight-dig-a-great-series-safe-in-the-hands-of-the-very-best
+https://www.nintendolife.com/reviews/switch-eshop/shovel-knight-dig
+https://www.gamespot.com/reviews/shovel-knight-dig-review-ace-of-spades/1900-6417965/?ftag=CAD-01-10abi2f
+http://www.nintendoworldreport.com/review/61624/shovel-knight-dig-switch-review
+![picture 13](https://i.imgur.com/EPbw5h9m.jpg)  
 
-## Janvier
+**Return to Monkey Island**, un point & click par le créateur de la série
+https://www.eurogamer.net/return-to-monkey-island-review-buried-treasure
+https://www.gamespot.com/reviews/return-to-monkey-island-review-happiness-is-a-warm-manatee/1900-6417961/?ftag=CAD-01-10abi2f
+https://www.destructoid.com/reviews/review-return-to-monkey-island-pc-switch-adventure/
+https://www.nintendolife.com/reviews/switch-eshop/return-to-monkey-island
+![picture 14](https://i.imgur.com/Ya7nbD9m.jpg)  
 
-Fire Emblem Engage, un nouvel épisode de la série de TRPG, le 20 janvier
-https://www.youtube.com/watch?v=3iX8YywLGO8
+**TemTem**, un Pokémon-like
+https://www.nintendolife.com/reviews/nintendo-switch/temtem
+https://www.gameinformer.com/review/temtem/competitive-evolution
+https://www.p-nintendo.com/tests/tests-complets/test-de-temtem-sur-le-territoire-de-pokemon-259144
+![picture 15](https://i.imgur.com/9iCGO0Dm.png)  
 
-## Février
+**The Legend of Heroes Trails from Zero**, un RPG PSP
+https://www.nintendolife.com/reviews/nintendo-switch/the-legend-of-heroes-trails-from-zero
+http://www.nintendoworldreport.com/review/61617/the-legend-of-heroes-trails-from-zero-switch-review
+https://www.eurogamer.net/the-legend-of-heroes-trails-from-zero-review-crossbell-was-worth-the-wait
+![picture 16](https://i.imgur.com/IDMLSvWm.jpg)  
 
-Theatrhythm Final Fantasy Final Bar Line (ouf), un jeu de rythme, le 16 février
-https://www.youtube.com/watch?v=1ODX-GwpBHU
+**Foretales**, un jeu d'aventure à base de cartes
+http://www.nintendoworldreport.com/reviewmini/61564/foretales-switch-review-mini
+https://www.p-nintendo.com/tests/tests-complets/test-de-foretales-cartes-a-cartes-vers-l-aventure-259132
+![picture 17](https://i.imgur.com/DCaG42xm.jpg)  
 
-Kirby Return to Dreamland, un jeu de plateforme, le 24 février
-https://www.youtube.com/watch?v=r7EUhyQjNdg
+**Jack Move**, encore un RPG qui se tape des 9/10 et dont personne ne parle
+https://www.nintendolife.com/reviews/switch-eshop/jack-move
+http://www.nintendoworldreport.com/review/61615/jack-move-switch-review
+![picture 18](https://i.imgur.com/d49XVlWm.png)  
 
-Octopath Traveler 2, un RPG, le 24 février
-https://www.youtube.com/watch?v=Djs_sl2-P2k
+**The Diofield Chronicles**, un TRPG
+https://www.nintendolife.com/reviews/nintendo-switch/the-diofield-chronicle
+https://www.gamespot.com/reviews/the-diofield-chronicle-review-forever-war/1900-6417963/?ftag=CAD-01-10abi2f
+![picture 19](https://i.imgur.com/dGADRZhm.jpg)  
 
-Atelier Ryza 3, un RPG, le 24 février (lien vers un livestream dédié demain)
-https://www.youtube.com/watch?v=J0AzPBd20q0
+**Radiant Silvergun**, un célèbre shmup Saturn
+https://www.nintendolife.com/reviews/switch-eshop/radiant-silvergun
+![picture 20](https://i.imgur.com/xPf2wvLm.jpg)  
 
-## Mars
-
-Fist of the North Star Fitness Boxing, un jeu de fitness
-https://www.youtube.com/watch?v=5QItK9IfL0o
-
-## Mai
-
-Zelda Tears of the Kingdom, un petit jeu pas très attendu, le 12 mai
-https://www.youtube.com/watch?v=hhhlIHZz-kg
-
-## 2023 sans date
-
-Pikmin 4
-https://www.youtube.com/watch?v=wY3bC0j4Ce0
-
-Fatal Frame/Project Zero Mask of the Lunar Eclipse, un jeu d'horreur, début 2023
-https://www.youtube.com/watch?v=zDHeaKGOnWg
-
-Oddballers, un party game/brawler (vidéo de gameplay)
-https://www.youtube.com/watch?v=XqWyXtEZmZk
-
-Front Mission 2 Remake, un TRPG avec des mechas
-https://www.youtube.com/watch?v=zubjrH3gBiI
-
-Rune Factory 3, un RPG de farming
-https://www.youtube.com/watch?v=8q7QbN7HCS4
-
-Story of Seasons A Wonderful Life, un jeu de farming, été 2023
-https://www.youtube.com/watch?v=cOAcwtLHTW0
-
-Ib, un jeu d'aventure indé moche, printemps 2023
-https://www.youtube.com/watch?v=FIW6B0qpCfQ
-
-Master Detective Archives Rain Code, un jeu d'aventure avec des gens de Danganronpa dedans, printemps 2023
-https://www.youtube.com/watch?v=TJVW-Um_ap4
-
-Endless Dungeon, un roguelike/twin stick shooter
-https://www.youtube.com/watch?v=m1Jbh8HreL8
-
-Tales of Symphonia, début 2023
-https://www.youtube.com/watch?v=7wjzIidTkVI
-
-## Pas de date précise
-
-Fae Farm, "bientôt"
-https://www.youtube.com/watch?v=rrRbeEErcLQ
-
-Front Mission 3 Remake, "après"
-(juste un logo, pas de vidéo)
+**Easy Come Easy Golf**, un jeu de foot
+https://www.nintendolife.com/reviews/switch-eshop/easy-come-easy-golf
+![picture 21](https://i.imgur.com/GfOwsCHm.jpg)  
