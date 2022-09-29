@@ -15,9 +15,11 @@ Je vous ai préparé des listes pour vous faciliter la vie :
 - [Les 100 indispensables](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
 - [Les 200 meilleures pépites indé](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
 - [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
-- [L'arcade sur Switch](https://www.dekudeals.com/lists/874q4j?filter[platform]=switch) (100 jeux arcade, nouveaux ou anciens)
+- [L'arcade moderne sur Switch](https://www.dekudeals.com/lists/874q4j?filter[platform]=switch) (50 jeux arcade modernes)
 - [Le rétrogaming sur Switch](https://www.dekudeals.com/lists/tjwxf9?filter[platform]=switch) (100 jeux rétro, de Space Invaders à la PS2)
 - [Jeux courts (< 5h)](https://www.dekudeals.com/lists/pnv395?filter[platform]=switch) (50 jeux qui se terminent en moins de 5 heures)
+
+Si le rétrogaming vous intéresse, je maintiens aussi [une liste complète de tous les jeux rétro sur Switch](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/).
 
 ## Top 20 Nintendo Switch / jeux représentatifs
 
