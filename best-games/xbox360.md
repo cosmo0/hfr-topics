@@ -28,7 +28,7 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 - GTA IV
 - Gears of War
 - Halo 3
-- Mass Effect (1, 2, 3)
+- Mass Effect 2
 - Red Dead Redemption
 - Shadow Complex
 - Super Street Fighter IV Arcade

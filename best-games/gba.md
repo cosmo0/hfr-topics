@@ -24,11 +24,11 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 - Mario & Luigi Superstar Saga
 - Mario Golf Advance Tour
 - Mario Tennis Power Tour
-- Megaman Zero
-- Metroid (Fusion, Zero)
+- Mega Man Zero
+- Metroid Fusion
 - Pokémon Emeraude
 - Rhythm Tengoku
-- Super Mario Advance (2, 3)
+- Super Mario Advance 2
 - The Legend of Zelda Minish Cap
 - Wario Land 4
 - Wario Ware Inc Minigame Mania

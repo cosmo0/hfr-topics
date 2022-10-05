@@ -16,7 +16,7 @@ Je vous ai préparé des listes pour vous faciliter la vie :
 - [Les 200 meilleures pépites indé](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
 - [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
 - [L'arcade moderne sur Switch](https://www.dekudeals.com/lists/874q4j?filter[platform]=switch) (50 jeux arcade modernes)
-- [Le rétrogaming sur Switch](https://www.dekudeals.com/lists/tjwxf9?filter[platform]=switch) (100 jeux rétro, de Space Invaders à la PS2)
+- [Le rétrogaming sur Switch](https://www.dekudeals.com/lists/tjwxf9?filter[platform]=switch) (50 jeux rétro, de Space Invaders à la PS2)
 - [Jeux courts (< 5h)](https://www.dekudeals.com/lists/pnv395?filter[platform]=switch) (50 jeux qui se terminent en moins de 5 heures)
 
 Si le rétrogaming vous intéresse, je maintiens aussi [une liste complète de tous les jeux rétro sur Switch](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/).
@@ -41,12 +41,12 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 - [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/)
 - Ring Fit Adventure
 - Shin Megami Tensei V
+- Splatoon 3
 - Stardew Valley
 - [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - Super Smash Bros Ultimate
 - [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)
-- Triangle Strategy
-- Xenoblade Chronicles 2
+- Xenoblade Chronicles 3
 
 ## Top 100 Nintendo Switch / les classiques
 

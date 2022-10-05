@@ -12,8 +12,8 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 
 - Animal Crossing New Leaf
 - Captain Toad Treasure Tracker
-- Etrian Odyssey (Untold, V)
-- Fire Emblem (Awakening, Fates)
+- Etrian Odyssey Untold
+- Fire Emblem Awakening
 - Kid Icarus Uprising
 - Luigi's Mansion 2
 - Mario & Luigi Dream Team Bros
@@ -21,13 +21,13 @@ Une sélection de jeux représentatifs de la machine, si vous voulez un panorama
 - Metroid Samus Returns
 - Monster Hunter Generations
 - Picross 3D
-- Pokémon (Ultra Soleil/Ultra Lune, X/Y)
+- Pokémon Ultra Soleil/Ultra Lune
 - Rune Factory 4
-- Shin Megami Tensei (IV Apocalypse, Strange Journey)
+- Shin Megami Tensei IV
 - Super Mario 3D Land
 - Super Mario Maker
 - Super Smash Bros
-- The Legend of Zelda (A Link Between Worlds, Ocarina of Time)
+- The Legend of Zelda A Link Between Worlds
 - Theathrythm Final Fantasy Curtain Call
 - Ultimate NES Remix
 

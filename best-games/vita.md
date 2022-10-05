@@ -8,7 +8,7 @@ Pour y jouer, vous pouvez utiliser [Vita3K](https://github.com/Vita3K/Vita3K) (p
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
 
-- Danganronpa (1, 2, 3)
+- Danganronpa
 - Dragon's Crown
 - Gravity Rush
 - Guacamelee!
