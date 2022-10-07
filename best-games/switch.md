@@ -13,6 +13,7 @@ Le meilleur moyen de suivre les promos sur les jeux Switch, c'est DekuDeals : vo
 Je vous ai préparé des listes pour vous faciliter la vie :
 
 - [Les 100 indispensables](https://www.dekudeals.com/lists/yf33dt?filter[platform]=switch)
+- [Les 100 meilleurs jeux indé](https://www.dekudeals.com/lists/k3qm8j?filter[platform]=switch)
 - [Les 100 pépites indé méconnues](https://www.dekudeals.com/lists/hgkdb4?filter[platform]=switch)
 - [Mes coups de coeur](https://www.dekudeals.com/lists/57qy3j?filter[platform]=switch)
 - [L'arcade moderne sur Switch](https://www.dekudeals.com/lists/874q4j?filter[platform]=switch) (50 jeux arcade modernes)
