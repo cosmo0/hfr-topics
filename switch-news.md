@@ -2,114 +2,90 @@
 
 ## Annonces et sorties
 
-**Suikoden 1 & 2**, des RPG, seront remasterisés en 2023
-https://www.siliconera.com/suikoden-i-and-ii-hd-remaster-announced-for-current-consoles/
-![picture 2](https://i.imgur.com/PeJEvJym.png)  
+**Magical Drop VI**, un puzzle game, sort cet hiver
+https://www.destructoid.com/magical-drop-vi-puzzle-switch-retro-forever-entertainment/
+![picture 1](https://i.imgur.com/NmeMDYSm.jpg)  
 
-**Easy Come Easy Golf**, par les créateurs des très appréciés Everybody's Golf, est sorti par surprise
-https://www.nintendolife.com/news/2022/09/dev-behind-playstation-series-everybodys-golf-releases-new-game-on-switch
-![picture 3](https://i.imgur.com/FoAD9Xvm.jpg)  
+**Skyrim** est re-sorti par surprise en version "anniversary"
+https://www.destructoid.com/the-elder-scrolls-v-skyrim-anniversary-edition-just-dropped-on-switch-with-no-warning/
+![picture 2](https://i.imgur.com/qXXvuDYm.jpg)  
 
-**Lego Bricktales**, un jeu d'aventure/puzzle, sort le 12 octobre
-https://www.nintendolife.com/news/2022/09/lego-bricktales-is-building-to-an-october-launch-on-switch
-![picture 4](https://i.imgur.com/a8qCbbXm.png)  
+**The Knight Witch**, un "bullet hell metroidvania", sort le 29 novembre
+https://www.nintendolife.com/news/2022/09/bullet-hell-metroidvania-the-knight-witch-finally-gets-a-release-date-on-switch
+![picture 3](https://i.imgur.com/vkzBtKKm.jpg)  
 
-**PowerWash Simulator**, un simulateur de Karcher, est annoncé sur Switch pour "bientôt"
-https://www.p-nintendo.com/news/powerwash-simulator-viendra-sortir-son-karcher-sur-nintendo-switch-259122
-![picture 5](https://i.imgur.com/5aFdoscm.jpg)  
+**Lonesome Village**, un croisement entre Zelda et Animal Crossing, sort le 1er novembre
+https://www.nintendolife.com/news/2022/10/lonesome-village-is-a-zelda-like-puzzle-adventure-fused-with-an-animal-crossing-like-life-sim
+![picture 4](https://i.imgur.com/9U7J1NPm.png)  
 
-**Formula Retro Racing World Tour**, un jeu de course low-poly, sort le 14 décembre
-https://www.nintendolife.com/news/2022/09/virtua-racing-inspired-formula-retro-racing-world-tour-speeds-onto-switch
-![picture 6](https://i.imgur.com/jCHiAEPm.jpg)  
+**Paradise Marsh**, un jeu d'exploration chill, sort le 13 octobre
+https://www.nintendolife.com/news/2022/10/this-game-about-frogs-stars-and-birds-reading-poetry-looks-perfect-for-fans-of-a-short-hike
+![picture 6](https://i.imgur.com/uFbI9XTm.png)  
 
-**Prodeus**, un FPS old school, sort le 23 septembre partout sauf sur Switch, victime d'un bug
-https://www.nintendolife.com/news/2022/09/old-school-doom-like-fps-prodeus-delayed-for-nintendo-switch
-![picture 7](https://i.imgur.com/9k0RJDvm.jpg)  
+## Infos
 
-**Phantom Fury**, un FPS par les créateurs de Duke 3D, suite de Ion Fury mais en 3D (ça perd son charme), sort en 2023
-https://www.nintendolife.com/news/2022/09/ion-fury-follow-up-phantom-fury-announced-for-nintendo-switch
-![picture 8](https://i.imgur.com/PuIBeXZm.jpg)  
+Toutes les nouveautés du remaster de **Tactics Ogre Reborn**
+https://www.nintendolife.com/news/2022/10/square-enix-details-new-customisation-and-precision-options-for-tactics-ogre-reborn
+![picture 10](https://i.imgur.com/QyJujJVm.jpg)  
 
-**Wrath Aeon of Ruin**, un FPS tellement old school qu'il utilise le moteur de Quake (oui oui le premier) sort en 2023
-https://www.nintendolife.com/news/2022/09/quake-powered-fps-wrath-aeon-of-ruin-launches-on-nintendo-switch-in-2023
-![picture 9](https://i.imgur.com/DlwuqXEm.jpg)  
+Un trailer pour **Persona 5 Royal**
+https://www.nintendolife.com/news/2022/10/new-persona-5-royal-trailer-highlights-slick-switch-gameplay
+![picture 8](https://i.imgur.com/H0peYWwm.jpg)  
 
-**Drainus**, un shmup qui a l'air très chouette, sort "cet hiver"
-https://www.p-nintendo.com/news/le-shoot-em-up-drainus-arrive-sur-switch-cet-hiver-259168
-![picture 1](https://i.imgur.com/wn847QGm.png)  
+## Versions physiques
 
-**Wizorb**, un casse-brique originaire du Xbox Live Arcade dont j'ai entendu du bien, sort le 6 octobre
-https://www.destructoid.com/wizorb-nintendo-switch-version-arkanoid-like-brick-breaker-game/
-![picture 10](https://i.imgur.com/2ZrkMx3m.png)  
+**Cuphead** ! ... un jour.
+https://www.nintendolife.com/news/2022/09/cuphead-is-finally-getting-a-physical-release-on-switch
+![picture 7](https://i.imgur.com/WaMIytbm.png)  
 
-**Picross S8** sort le 29 septembre, et tous les autres vont avoir le support du tactile
-https://www.destructoid.com/picross-s8-release-date-nintendo-switch-puzzle-co-op/
-![picture 11](https://i.imgur.com/DACPZlnm.jpg)  
-
-**Moon Dancer**, un shmup par le développeur de l'excellent Raging Blasters, sort le 29 septembre
-https://www.nintendolife.com/news/2022/09/moon-dancer-brings-nes-style-beats-and-sci-fi-shmup-action-to-switch-next-week
-![picture 12](https://i.imgur.com/aCbUXClm.png)  
-
-## Infos et vidéos
-
-**Nier Automata**
-https://www.p-nintendo.com/news/quelques-videos-pour-nier-automata-sur-nintendo-switch-259147
-https://www.p-nintendo.com/news/un-nouveau-trailer-pour-nier-automata-sur-nintendo-switch-259194
-
-**Atelier Ryza 3**
-https://www.p-nintendo.com/news/nouvelle-video-de-gameplay-pour-atelier-ryza-3-259151
-
-**Fire Emblem Engage**
-https://www.nintendolife.com/news/2022/09/fire-emblem-engage-continues-to-look-stunning-in-new-gameplay-clips
+La version physique du premier **Bayonetta** sortira durant la première moitié d'octobre, uniquement sur My Nintendo Store
+https://www.destructoid.com/bayonetta-switch-physical-edition-europe-delay/
+![picture 11](https://i.imgur.com/bwPNoq4m.jpg)  
 
 ## Tests
 
-**Shovel Knight Dig**, un jeu mélange de Shovel Knight et de Mr Driller en mode roguelike
-https://www.destructoid.com/reviews/review-shovel-knight-dig-pc/
-https://www.eurogamer.net/shovel-knight-dig-a-great-series-safe-in-the-hands-of-the-very-best
-https://www.nintendolife.com/reviews/switch-eshop/shovel-knight-dig
-https://www.gamespot.com/reviews/shovel-knight-dig-review-ace-of-spades/1900-6417965/?ftag=CAD-01-10abi2f
-http://www.nintendoworldreport.com/review/61624/shovel-knight-dig-switch-review
-![picture 13](https://i.imgur.com/EPbw5h9m.jpg)  
+**Dorfromantik**, un puzzle game
+https://ladiesgamers.com/dorfromantik-review/
+http://www.nintendoworldreport.com/review/61688/dorfromantik-switch-review
+https://www.gameinformer.com/review/dorfromantik/falling-into-place
+![picture 12](https://i.imgur.com/Nchm9rkm.png)  
 
-**Return to Monkey Island**, un point & click par le créateur de la série
-https://www.eurogamer.net/return-to-monkey-island-review-buried-treasure
-https://www.gamespot.com/reviews/return-to-monkey-island-review-happiness-is-a-warm-manatee/1900-6417961/?ftag=CAD-01-10abi2f
-https://www.destructoid.com/reviews/review-return-to-monkey-island-pc-switch-adventure/
-https://www.nintendolife.com/reviews/switch-eshop/return-to-monkey-island
-![picture 14](https://i.imgur.com/Ya7nbD9m.jpg)  
+**Nier Automata**, un action-RPG
+http://www.nintendoworldreport.com/review/61704/nier-automata-the-end-of-yorha-edition-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/nierautomata-the-end-of-yorha-edition
+![picture 13](https://i.imgur.com/JrmKojXm.png)  
 
-**TemTem**, un Pokémon-like
-https://www.nintendolife.com/reviews/nintendo-switch/temtem
-https://www.gameinformer.com/review/temtem/competitive-evolution
-https://www.p-nintendo.com/tests/tests-complets/test-de-temtem-sur-le-territoire-de-pokemon-259144
-![picture 15](https://i.imgur.com/9iCGO0Dm.png)  
+**Tunic**, un Zelda-like hardcore
+https://www.nintendolife.com/reviews/switch-eshop/tunic
+http://www.nintendoworldreport.com/review/61563/tunic-switch-review
+![picture 14](https://i.imgur.com/h0GIlEcm.png)  
 
-**The Legend of Heroes Trails from Zero**, un RPG PSP
-https://www.nintendolife.com/reviews/nintendo-switch/the-legend-of-heroes-trails-from-zero
-http://www.nintendoworldreport.com/review/61617/the-legend-of-heroes-trails-from-zero-switch-review
-https://www.eurogamer.net/the-legend-of-heroes-trails-from-zero-review-crossbell-was-worth-the-wait
-![picture 16](https://i.imgur.com/IDMLSvWm.jpg)  
+**The Legend of Heroes Trails from Zero**, un JRPG PSP
+https://www.p-nintendo.com/tests/tests-complets/test-de-legend-of-the-heroes-trails-from-zero-bref-un-portage-de-plus-259204
+https://www.destructoid.com/reviews/trails-from-zero-review-destructoid-legend-of-heroes/
+![picture 15](https://i.imgur.com/08eXheYm.png)  
 
-**Foretales**, un jeu d'aventure à base de cartes
-http://www.nintendoworldreport.com/reviewmini/61564/foretales-switch-review-mini
-https://www.p-nintendo.com/tests/tests-complets/test-de-foretales-cartes-a-cartes-vers-l-aventure-259132
-![picture 17](https://i.imgur.com/DCaG42xm.jpg)  
+**Potion Permit**, un RPG de crafting
+https://www.gamespot.com/reviews/potion-permit-review-an-engaging-elixir/1900-6417970/?ftag=CAD-01-10abi2f
+https://www.nintendolife.com/reviews/nintendo-switch/potion-permit
+![picture 16](https://i.imgur.com/4WcwGLrm.jpg)  
 
-**Jack Move**, encore un RPG qui se tape des 9/10 et dont personne ne parle
-https://www.nintendolife.com/reviews/switch-eshop/jack-move
-http://www.nintendoworldreport.com/review/61615/jack-move-switch-review
-![picture 18](https://i.imgur.com/d49XVlWm.png)  
+**Penko Park**, un jeu de photographie
+https://www.nintendolife.com/reviews/switch-eshop/penko-park
+![picture 17](https://i.imgur.com/5qHRddIm.png)  
 
-**The Diofield Chronicles**, un TRPG
-https://www.nintendolife.com/reviews/nintendo-switch/the-diofield-chronicle
-https://www.gamespot.com/reviews/the-diofield-chronicle-review-forever-war/1900-6417963/?ftag=CAD-01-10abi2f
-![picture 19](https://i.imgur.com/dGADRZhm.jpg)  
+**Voodoo Detective**, un point & click
+https://www.nintendolife.com/reviews/switch-eshop/voodoo-detective
+![picture 18](https://i.imgur.com/Jpt5irIm.jpg)  
 
-**Radiant Silvergun**, un célèbre shmup Saturn
-https://www.nintendolife.com/reviews/switch-eshop/radiant-silvergun
-![picture 20](https://i.imgur.com/xPf2wvLm.jpg)  
+**Let's Build a Zoo**, un jeu de gestion avec des grosses vibes de Theme Park
+https://www.nintendolife.com/reviews/nintendo-switch/lets-build-a-zoo
+![picture 19](https://i.imgur.com/zB1JNt6m.jpg)  
 
-**Easy Come Easy Golf**, un jeu de foot
-https://www.nintendolife.com/reviews/switch-eshop/easy-come-easy-golf
-![picture 21](https://i.imgur.com/GfOwsCHm.jpg)  
+**I Was A Teenage Exocolonist**, un RPG/jeu d'aventure
+https://www.siliconera.com/i-was-a-teenage-exocolonist-provides-hours-of-moral-fun/
+![picture 20](https://i.imgur.com/vBg1FJEm.jpg)  
+
+**Prodeus**, un FPS rétro
+https://www.eurogamer.net/prodeus-review-a-fearsome-hybrid-of-old-and-new-fps-ideas
+![picture 21](https://i.imgur.com/jB8Pl9bm.jpg)  
