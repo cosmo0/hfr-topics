@@ -792,9 +792,9 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Octobre : **Bayonetta 3** (28), Factorio (28), Resident Evil Village Cloud (28)
 - Novembre : Harvestella (4), It Takes Two (4), Sifu (8), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18), Front Mission 1st (?)
 - Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Crisis Core Final Fantasy VII Reunion (13), Formula Retro Racing (14)
-- Janvier : **Fire Emblem Engage** (20), Disgaea 7 (26)
+- Janvier : Persona 3 Portable (19), Persona 4 Golden (19), **Fire Emblem Engage** (20), Disgaea 7 (26)
 - Février : Theatrhythm Final Fantasy Final Bar Line (16), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
-- Mars : Spongebob Squarepants Cosmic Shake (?)
+- Mars : The Legend of Heroes Trails to Azure (14), Spongebob Squarepants Cosmic Shake (?)
 - Mai : **Zelda Tears of the Kingdom** (12)
 
 - automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider, Lego Bricktales
