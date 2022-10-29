@@ -26,7 +26,7 @@ Si le rétrogaming vous intéresse, je maintiens aussi [une liste complète de t
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
 
-Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus.
+Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus. Avec une légère préférence pour les jeux exclusifs, sans que ce soit un critère.
 
 - [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)
 - Dead Cells
@@ -55,7 +55,7 @@ Une sélection (forcément limitée) des meilleurs jeux de la machine, classée 
 
 Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir quelques représentants de chaque genre : vous y trouverez forcément des jeux que vous n'aimez pas, et vous n'y trouverez pas certains jeux que vous adorez, et c'est bien normal, c'est une liste de compromis.
 
-- **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), Bayonetta [1](https://www.cosmo0.fr/critique/critique-express/bayonetta/)+[2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
+- **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), Bayonetta 3, Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
 - **Shooters, FPS, TPS** : BioShock: The Collection, Borderlands Legendary Collection, DOOM (2016), Splatoon 3
 - **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/), Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
@@ -136,7 +136,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 - Assassin's Creed (Ezio Collection, 3, Rebel Collection)
 - Astral Chain
-- Bayonetta ([1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/))
+- Bayonetta ([1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), 3)
 - Darksiders (1, 2)
 - Death's Door
 - Hellblade Senua's Sacrifice
@@ -159,7 +159,6 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 - Bioshock Collection
 - Borderlands Collection
-- Control (cloud)
 - Crysis (1, 2, 3)
 - [Daemon X Machina](https://www.cosmo0.fr/critique/daemon-x-machina/)
 - Doom ([1993](https://www.cosmo0.fr/critique/doom-1993/), 2, 64, 3, 2016, Eternal)
@@ -168,6 +167,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - [Journey to the Savage Planet](https://www.cosmo0.fr/critique/journey-to-the-savage-planet/)
 - Metro 2033, Last Light
 - Neon White
+- Prodeus
 - Saints Row (The Third, IV Re-Elected)
 - Serious Sam Collection
 - Sniper Elite ([2](https://www.cosmo0.fr/critique/sniper-elite-v2-remastered/), [3](https://www.cosmo0.fr/critique/sniper-elite-3/), [4](https://www.cosmo0.fr/critique/sniper-elite-4/))
@@ -202,7 +202,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Outlast (1, 2)
 - Perception
 - Project Zero (Fatal Frame) Maiden of Black Water
-- Resident Evil (0, 1, 4, 5, 6, Revelations)
+- Resident Evil (0, 1, 4, 5, 6, Revelations, Village Cloud)
 - Sunless Sea / Skies
 - The Amnesia Collection
 - The Coma
@@ -787,25 +787,24 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Wizorb
+- Jeux sortis, en attente de tests : Factorio
 
-- Octobre : **Bayonetta 3** (28), Factorio (28), Resident Evil Village Cloud (28)
-- Novembre : Harvestella (4), It Takes Two (4), Sifu (8), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18), Front Mission 1st (?)
-- Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Crisis Core Final Fantasy VII Reunion (13), Formula Retro Racing (14)
-- Janvier : Persona 3 Portable (19), Persona 4 Golden (19), **Fire Emblem Engage** (20), Disgaea 7 (26)
-- Février : Theatrhythm Final Fantasy Final Bar Line (16), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
+- Novembre : Ark Survival Evolved (1), Totally Accurate Battle Simulator (3), Harvestella (4), It Takes Two (4), Sifu (8), **Sonic Frontiers** (8), Jurassic World Aftermath (10), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18), Front Mission 1st (30)
+- Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Wavetale (12), Crisis Core Final Fantasy VII Reunion (13), Formula Retro Racing (14)
+- Janvier : Breakers Collection (12), Persona 3 Portable (19), Persona 4 Golden (19), **Fire Emblem Engage** (20), Disgaea 7 (26)
+- Février : Theatrhythm Final Fantasy Final Bar Line (16), Raiden 3 x Mikado Remix (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
 - Mars : The Legend of Heroes Trails to Azure (14), Spongebob Squarepants Cosmic Shake (?)
 - Mai : **Zelda Tears of the Kingdom** (12)
 
-- automne : Blazing Strike, JoJo's Bizarre Adventure All Star Battle, Roguebook, **Alan Wake Remastered**, Railgrade, Moonrider, Lego Bricktales
-- hiver : **Hogwarts Legacy**, **Sonic Frontiers**, Atari 50, The Pathless, Drainus
+- automne : Blazing Strike, Moonrider
+- hiver : **Hogwarts Legacy**, Atari 50, The Pathless, Drainus
 
-- 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Dragon Ball The Breakers, Sail Forth, Dying Light 2 (cloud), **Advance Wars 1+2 Re-boot-camp**, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Powerwash Simulator, Prodeus
+- 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Sail Forth, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Powerwash Simulator
 
-- 2023 : The Legend of Heroes Trails into Reverie, The Legend of Heroes Trails to Azure, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin
+- 2023 : The Legend of Heroes Trails into Reverie, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin
 
-- Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake
+- Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, River City Girls 2
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, **Advance Wars 1+2 Re-boot-camp**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, River City Girls 2
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)

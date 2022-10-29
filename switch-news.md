@@ -1,75 +1,82 @@
-#cosmonews du jour bonjour
+#cosmonews du samedi soir, histoire que personne ne les lise :o
 
 ## Annonces et sorties
 
-**Persona 3 Portable et 4 Golden**, les remasters de JRPG PSP et Vita, sortiront le 19 janvier
-https://www.destructoid.com/persona-4-switch-release-date-persona-3-release-date/
-![picture 2](https://i.imgur.com/cmrteie.png)  
+**Jurassic World Aftermath Collection**, une paire de jeux d'horreur avec des dinos, sort le 10 novembre, pile pour rater Halloween
+https://www.nintendolife.com/news/2022/10/jurassic-world-aftermath-collection-unearths-november-release-date-on-switch
+![picture 1](https://i.imgur.com/gIggoDbm.jpg)  
 
-**The Legend of Heroes Trails to Azure**, un JRPG PSP, sort le 14 mars
-https://www.nintendolife.com/news/2022/10/the-legend-of-heroes-trails-to-azure-releases-next-march-on-switch
-![picture 8](https://i.imgur.com/GA0EUyV.png)  
+**Totally Accurate Battle Simulator**, un jeu de stratégie un peu perché, sort le 3 novembre
+https://www.nintendolife.com/news/2022/10/totally-accurate-battle-simulator-charges-its-way-to-a-november-switch-release
+![picture 5](https://i.imgur.com/DlsnvFpm.png)  
 
-## Infos
+Des dates pour les versions cloud de **Resident Evil 2, 3, et 7**
+https://www.nintendolife.com/news/2022/10/resident-evil-2-3-and-7-cloud-lock-in-nintendo-switch-release-dates
+![picture 7](https://i.imgur.com/mKFUlO7m.jpg)  
 
-Un trailer pour **Bayonetta 3**
-https://www.siliconera.com/new-bayonetta-3-trailer-focuses-on-a-coven-of-bayonettas/
-![picture 6](https://i.imgur.com/GioB1dB.png)  
+**Raiden 3 x Mikado Remix**, un shmup, sort le 23 février
+https://www.siliconera.com/raiden-iii-x-mikado-maniax-will-come-out-in-2023/?utm_source=rss&utm_medium=rss&utm_campaign=raiden-iii-x-mikado-maniax-will-come-out-in-2023
 
-Des screens pour **Front Mission 2 Remake**, alors que remake du premier n'est pas encore sorti
-https://www.destructoid.com/heres-a-better-look-at-front-mission-2-remake-thanks-to-new-screens/
-![picture 7](https://i.imgur.com/xfYrhhh.png)  
+**The Legend of Heroes Trails Into Reverie**, un JRPG suite des récents remasters PSP, sort l'été 2023
+https://www.nintendolife.com/news/2022/10/the-legend-of-heroes-trails-into-reverie-confirmed-for-next-summer-limited-edition-revealed
+![picture 11](https://i.imgur.com/04sqK6sm.png)  
 
-## Versions physiques
+La nouvelle version de **Ark** sort le 1er novembre
+https://www.nintendolife.com/news/2022/10/arks-ultimate-survivor-edition-for-nintendo-switch-has-been-delayed-again
+![picture 10](https://i.imgur.com/K8kVtpSm.jpg)  
 
-**Radiant Silvergun** chez LRG
-https://www.nintendolife.com/news/2022/10/superb-shmup-radiant-silvergun-is-getting-a-physical-release-on-switch
+**Wavetale**, un joli jeu d'aventure/action, sort le 12 décembre
+https://www.nintendolife.com/news/2022/10/wavetale-is-a-visually-stunning-mix-of-zelda-and-journey-out-december
+![picture 17](https://i.imgur.com/Jo0UYJbm.png)  
+
+**Breakers Collection**, une compile de jeux de baston "culte" NeoGeo avec plein d'améliorations, sort le 12 janvier
+https://www.destructoid.com/breakers-collection-release-date-january-12-fgc-qubyte-retro/?utm_source=rss&utm_medium=rss&utm_campaign=breakers-collection-release-date-january-12-fgc-qubyte-retro
+![picture 18](https://i.imgur.com/wM3kezkm.jpg)  
+
+**Visco Collection**, une autre compile de 7 jeux Visco, est annoncée sans précision
+https://www.destructoid.com/visco-collection-arcade-retro-compendium-rerelease-pixelheart/?utm_source=rss&utm_medium=rss&utm_campaign=visco-collection-arcade-retro-compendium-rerelease-pixelheart
 
 ## Tests
 
-**Persona 5 Royal**, un JRPG
-http://www.nintendoworldreport.com/review/61826/persona-5-royal-switch-review
-https://www.nintendolife.com/reviews/nintendo-switch/persona-5-royal
-Une comparaison graphique avec la PS4 : https://www.youtube.com/watch?v=_-gtxR_wjRQ
-D'autres tests : https://www.nintendolife.com/news/2022/10/round-up-the-reviews-are-in-for-persona-5-royal
-![picture 9](https://i.imgur.com/MmleMdQ.jpg)  
+**Bayonetta 3**, un simulateur de jambon (je suppose)
+http://www.nintendoworldreport.com/review/61945/bayonetta-3-switch-review
+https://www.nintendolife.com/reviews/nintendo-switch/bayonetta-3
+https://www.gamespot.com/reviews/bayonetta-3-review-real-hot-girls-hit/1900-6417989/?ftag=CAD-01-10abi2f
+https://www.destructoid.com/reviews/review-bayonetta-3-switch/?utm_source=rss&utm_medium=rss&utm_campaign=review-bayonetta-3-switch
+https://www.siliconera.com/review-bayonetta-3-is-a-lovely-moonlight-serenade/?utm_source=rss&utm_medium=rss&utm_campaign=review-bayonetta-3-is-a-lovely-moonlight-serenade
+https://www.gameinformer.com/review/bayonetta-3/for-extravagances-sake
+https://www.eurogamer.net/bayonetta-3-review-a-messy-melange-that-just-about-retains-platinumgames-magic
+![picture 13](https://i.imgur.com/x9YyyPFm.jpg)  
 
-**Mario + Lapins Crétins 2**, un jeu de stratégie avec Mario qui tient des flingues, où va le monde
-https://www.eurogamer.net/mario-rabbids-sparks-of-hope-review-snooker-in-space
-https://www.destructoid.com/review-in-progress-mario-rabbids-sparks-of-hope/
-https://www.nintendolife.com/reviews/nintendo-switch/mario-plus-rabbids-sparks-of-hope
-http://www.nintendoworldreport.com/review/61836/mario--rabbids-sparks-of-hope-switch-review
-![picture 10](https://i.imgur.com/vRl8FuS.jpg)  
+**Mario + Lapins Crétins 2**, un jeu de stratégie
+https://www.gamespot.com/reviews/mario-rabbids-sparks-of-hope-review-this-sparks-joy/1900-6417985/?ftag=CAD-01-10abi2f
+https://www.gameinformer.com/review/mario-rabbids-sparks-of-hope/refining-the-formula
+https://www.destructoid.com/reviews/review-mario-rabbids-sparks-of-hope-nintendo-switch-ubisoft/?utm_source=rss&utm_medium=rss&utm_campaign=review-mario-rabbids-sparks-of-hope-nintendo-switch-ubisoft
+![picture 6](https://i.imgur.com/Ns1Owqdm.png)  
 
-**A Plague Tale Requiem**, un RPG/action/aventure ? De toute façon c'est du cloud, pouah
-https://www.eurogamer.net/a-plague-tale-requiem-review-a-brutal-spectacular-adventure-of-love-and-sacrifice
-https://www.gamespot.com/reviews/a-plague-tale-requiem-review-picturesque-terror/1900-6417981/?ftag=CAD-01-10abi2f
-https://www.destructoid.com/reviews/a-plague-tale-requiem-review-destructoid-ps5-pc-xbox-asobo-focus-adventure/
-https://www.gameinformer.com/review/a-plague-tale-requiem/a-bold-epic
-![picture 12](https://i.imgur.com/omG4dFJ.jpg)  
+**New Tales From The Borderlands**, un jeu d'aventure
+https://www.destructoid.com/reviews/review-new-tales-from-the-borderlands/?utm_source=rss&utm_medium=rss&utm_campaign=review-new-tales-from-the-borderlands
+https://www.gamespot.com/reviews/new-tales-from-the-borderlands-review-good-stories/1900-6417984/?ftag=CAD-01-10abi2f
+![picture 4](https://i.imgur.com/LY2fHL4m.png)  
 
-**No Man's Sky**, un jeu de survie dans l'espace hyper complet
-https://www.nintendolife.com/reviews/nintendo-switch/no-mans-sky
-http://www.nintendoworldreport.com/review/61812/no-mans-sky-switch-review
-![picture 1](https://i.imgur.com/rjPGgG9.jpg)  
+**Sophstar**, un shmup bullet hell
+https://www.nintendolife.com/reviews/switch-eshop/sophstar
+http://www.nintendoworldreport.com/review/61951/sophstar-switch-review
+![picture 15](https://i.imgur.com/x15mtBom.jpg)  
 
-**Lego Bricktales**, un jeu d'aventure/puzzle (rien à voir avec les Lego Marvel/Star Wars/etc)
-https://www.nintendolife.com/reviews/nintendo-switch/lego-bricktales
-https://ladiesgamers.com/lego-bricktales-review/
-http://www.nintendoworldreport.com/review/60977/lego-bricktales-switch-review
-https://www.eurogamer.net/lego-bricktales-review-a-welcome-deconstruction-of-the-toys-typical-game-formula
-https://www.gamespot.com/reviews/lego-bricktales-review-build-brick-better/1900-6417978/?ftag=CAD-01-10abi2f
-![picture 3](https://i.imgur.com/aK1X1GK.jpg)  
+**Factorio**, un simulateur d'optimisation
+https://ladiesgamers.com/factorio-review/?utm_source=rss&utm_medium=rss&utm_campaign=factorio-review
+https://www.nintendolife.com/reviews/switch-eshop/factorio
+![picture 16](https://i.imgur.com/nRRFZ3Wm.png)  
 
-**Atari Mania**, un jeu d'aventure/action qui reprend les vieux jeux Atari
-http://www.nintendoworldreport.com/review/61815/atari-mania-switch-review
-![picture 4](https://i.imgur.com/NlxBsnw.png)  
+**Alan Wake Remastered**, un survival horror
+https://www.nintendolife.com/reviews/switch-eshop/alan-wake-remastered
+![picture 9](https://i.imgur.com/iMixhpWm.png)  
 
-**Moonscars**, un metroidvania brutal
-https://www.nintendolife.com/reviews/switch-eshop/moonscars
-http://www.nintendoworldreport.com/review/61816/moonscars-switch-eshop-review
-![picture 5](https://i.imgur.com/Ni0NYMd.png)  
+**Oddworld Soulstorm**, un puzzle/platformer
+https://www.nintendolife.com/reviews/nintendo-switch/oddworld-soulstorm
+![picture 14](https://i.imgur.com/fXhE5W0m.jpg)  
 
-**Them Fightin' Herds**, un jeu de baston avec des poneys et des licornes
-https://www.nintendolife.com/reviews/nintendo-switch/thems-fightin-herds
-![picture 11](https://i.imgur.com/IiVAxOk.jpg)  
+**Signalis**, un survival horror à l'ancienne
+https://www.nintendolife.com/reviews/switch-eshop/signalis
+![picture 19](https://i.imgur.com/pZ4OuBdm.png)  
