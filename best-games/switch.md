@@ -214,7 +214,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - [Celeste](https://www.cosmo0.fr/critique/celeste/)
 - Crash Bandicoot (Trilogy, 4)
 - Donkey Kong Country Tropical Freeze
-- Freedom Planet
+- It Takes Two
 - Kaze & The Wild Masks
 - Kirby et le Monde Oublié
 - [New Super Lucky's Tale](https://www.cosmo0.fr/critique/new-super-luckys-tale/)
@@ -304,7 +304,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - [Moonlighter](https://www.cosmo0.fr/critique/moonlighter/)
 - Nuclear Throne
 - Risk of Rain 2
-- Rogue Legacy
+- Rogue Legacy 1, 2
 - Scourgebringer
 - Slay The Spire
 - Spelunky 1, 2
@@ -348,7 +348,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Monster Hunter Stories 2
 - Octopath Traveler
 - Persona 5 Royal
-- Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus)
+- Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
 - Shin Megami Tensei (III Nocturne, V)
 - TemTem
 - The Legend of Heroes (Trails of Cold Steel 3/4, Trails from Zero)
@@ -366,7 +366,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Mercenaries (Saga, [Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Blaze)
 - Prinny Presents NIS Classics (1, 2, 3)
 - Super Robot Wars (T, V, X (Japon))
-- The Diofield Chronicles
+- Tactics Ogre Reborn
 - Triangle Strategy
 - Valkyria Chronicles (1, 4)
 
@@ -397,8 +397,8 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 ## Gestion
 
 - A-Train All Aboard
-- [Cities Skyline](https://www.cosmo0.fr/critique/cities-skylines/)
 - Civilization 6
+- Factorio
 - Football Manager
 - Hundred Days: Wine Making Simulator
 - Jurassic World Evolution
@@ -416,15 +416,16 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 - Doraemon Story of Seasons
 - Farming Simulator
+- Harvestella
 - Ooblets
 - Rune Factory (4 Special, 5)
 - Stardew Valley
 
 ## Construction, crafting, survie
 
+- Ark Survival Evolved
 - Don't Starve
 - Dragon Quest Builders 2
-- Green Hell
 - Minecraft
 - No Man's Sky
 - Subnautica
@@ -600,12 +601,12 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 ## Beat'em Up
 
 - [Capcom Beat'em Up Bundle](https://www.cosmo0.fr/critique/capcom-beatem-up-bundle/)
-- Castle Crashers
 - Double Dragon (1, 2, 3, 4, Neon)
 - [Ninja Saviors Return of the Warriors](https://www.cosmo0.fr/critique/the-ninja-saviors-return-of-the-warriors/)
 - Okinawa Rush
 - River City Girls
 - Scott Pilgrim vs The World
+- Sifu
 - [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/)
 - Teenage Mutant Ninja Turtles (Shredder’s Revenge, Cowabunga Collection)
 - The Wonderful 101
@@ -717,6 +718,7 @@ Les jeux qui détendent, sans stress, pour décompresser, souvent sans difficult
 Certains jeux apparaissant ici sont aussi dans d'autres catégories.  
 Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzle game, casual games, jeux de farming, jeux de société...
 
+- A Little To The Left
 - [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/)
 - [AER Memories of Old](https://www.cosmo0.fr/critique/aer-memories-of-old/)
 - Alba A Wildlife Adventure
@@ -729,7 +731,6 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Ooblets
 - Pikuniku
 - Spiritfarer
-- Story of Seasons Friends of Mineral Town
 - The Last Campfire
 - Toem
 - [Townscaper](https://www.cosmo0.fr/critique/townscaper/)
@@ -737,6 +738,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - Unpacking
 - [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/)
 - Wandersong
+- Windosill
 
 ## Jeux de cartes
 
@@ -779,7 +781,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES et SNES avec un mode multijoueur en ligne (20€/an)
 - Plusieurs labels proposent des émulations fidèles ou améliorées de jeux à l'unité : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", "Johnny Turbo's Arcade", "SEGA AGES"...
 - De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2/3, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, etc.
-- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, [NeoGeo Pocket Color Selection](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/), Castlevania Advance Collection, etc.
+- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection [Volume 1](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/)/Volume 2, Castlevania Advance Collection, Atari 50 Anniversary Celebration, etc.
 
 [Une liste très complète :](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/)
 
@@ -787,24 +789,25 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Factorio
+- Jeux sortis, en attente de tests : Super Woden GP
 
-- Novembre : Ark Survival Evolved (1), Totally Accurate Battle Simulator (3), Harvestella (4), It Takes Two (4), Sifu (8), **Sonic Frontiers** (8), Jurassic World Aftermath (10), Tactics Ogre Reborn (11), **Pokémon Ecarlate/Violet** (18), Front Mission 1st (30)
-- Décembre : Romancing SaGa The Minstrel Song (1), **Dragon Quest Treasures** (9), Wavetale (12), Crisis Core Final Fantasy VII Reunion (13), Formula Retro Racing (14)
-- Janvier : Breakers Collection (12), Persona 3 Portable (19), Persona 4 Golden (19), **Fire Emblem Engage** (20), Disgaea 7 (26)
-- Février : Theatrhythm Final Fantasy Final Bar Line (16), Raiden 3 x Mikado Remix (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
-- Mars : The Legend of Heroes Trails to Azure (14), Spongebob Squarepants Cosmic Shake (?)
-- Mai : **Zelda Tears of the Kingdom** (12)
+- Novembre : Front Mission 1st (30)
+- Décembre : Inscryption (1), Romancing SaGa The Minstrel Song (1), Chained Echoes (8), **Dragon Quest Treasures** (9), Wavetale (12), **Crisis Core Final Fantasy VII Reunion** (13), Formula Retro Racing (14), Aka (15), Sports Story (?)
+- Janvier : Breakers Collection (12), A Space of the Unbound (19), Persona 3 Portable (19), **Persona 4 Golden** (19), **Fire Emblem Engage** (20), **Disgaea 7** (26)
+- Février : Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
+- Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), Spongebob Squarepants Cosmic Shake (?)
+- Mai : **Zelda Tears of the Kingdom** (12), Wrestlequest (?)
 
 - automne : Blazing Strike, Moonrider
-- hiver : **Hogwarts Legacy**, Atari 50, The Pathless, Drainus
+- hiver : **Hogwarts Legacy**, The Pathless, Drainus
+- printemps : Venba, Dordogne
 
 - 2022 : Earth Defense Force 4.1, Broken Roads, Victory Heat Rally, Lara Croft Guardian of Light, Lara Croft Temple of Osiris, Sail Forth, The Legend of Nayuta Boundless Trails, 9 Years of Shadow, The Last Faith, Undetected, Powerwash Simulator
 
-- 2023 : The Legend of Heroes Trails into Reverie, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin
+- 2023 : The Legend of Heroes Trails into Reverie, The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Sports Story**, **Advance Wars 1+2 Re-boot-camp**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, River City Girls 2
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Advance Wars 1+2 Re-boot-camp**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, River City Girls 2
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
