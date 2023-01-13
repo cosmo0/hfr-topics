@@ -255,7 +255,6 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Ghost & Goblins Resurrection
 - Huntdown
 - Katana Zero
-- Kunai
 - [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/)
 - [Mechstermination Force](https://www.cosmo0.fr/critique/mechstermination-force/)
 - Mega Man Legacy Collection ([1](https://www.cosmo0.fr/critique/mega-man-legacy-collection/), 2, [X1](https://www.cosmo0.fr/critique/mega-man-x-legacy-collection/), X2)
@@ -265,6 +264,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Shovel Knight
 - Steel Assault
 - Valfaris
+- Vengeful Guardian Moonrider
 
 ## Plate-forme/exploration, metroidvanias
 
@@ -789,16 +789,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Moonrider
+- Jeux sortis, en attente de tests : -
 
-- Janvier : Breakers Collection (12), A Space of the Unbound (19), Colossal Cave (19), Persona 3 Portable (19), **Persona 4 Golden** (19), **Fire Emblem Engage** (20), **Disgaea 7** (26), Wonder Boy Anniversary Collection (26)
+- Janvier : A Space of the Unbound (19), Colossal Cave (19), Persona 3 Portable (19), **Persona 4 Golden** (19), **Fire Emblem Engage** (20), **Disgaea 7** (26), Wonder Boy Anniversary Collection (26), Powerwash Simulator (30)
 - Février : Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
 - Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7)
 - Mai : **Zelda Tears of the Kingdom** (12), **Bayonetta Origins** (17), Wrestlequest (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Powerwash Simulator, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, **Hogwarts Legacy**, Hades 2
 
