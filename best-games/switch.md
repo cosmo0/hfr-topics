@@ -30,7 +30,7 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 
 - [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)
 - Dead Cells
-- [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/)
+- Fire Emblem Engage
 - Hollow Knight
 - Hyrule Warriors Age of Calamity
 - Kirby et le Monde Oublié
@@ -64,7 +64,7 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Nier Automata, The Witcher 3: Wild Hunt, Xenoblade Chronicles 2, Xenoblade Chronicles 3
 - **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Persona 5 Royal, [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V, [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
-- **T-RPG, S-RPG** : Disgaea 5 Complete, [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Triangle Strategy
+- **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Engage, Triangle Strategy
 - **Stratégie, tactique** : 13 Sentinels Aegis Rim, Civilization VI, Into The Breach, Mario + Lapins Crétins Sparks of Hope, Pikmin 3 Deluxe
 - **Farming, construction, survie** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), Dragon Quest Builders 2, Minecraft, No Man's Sky, Stardew Valley
 - **Point & click, enquête, visual novel** : [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
@@ -347,7 +347,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Miitopia
 - Monster Hunter Stories 2
 - Octopath Traveler
-- Persona 5 Royal
+- Persona 3 Portable, 4 Golder, 5 Royal
 - Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
 - Shin Megami Tensei (III Nocturne, V)
 - TemTem
@@ -361,7 +361,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 - Banner Saga Trilogy
 - Disgaea (1, 4, 5, 6)
-- [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/)
+- [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Engage
 - King's Bounty II
 - Mercenaries (Saga, [Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Blaze)
 - Prinny Presents NIS Classics (1, 2, 3)
@@ -791,14 +791,14 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Janvier : A Space of the Unbound (19), Colossal Cave (19), Persona 3 Portable (19), **Persona 4 Golden** (19), **Fire Emblem Engage** (20), **Disgaea 7** (26), Wonder Boy Anniversary Collection (26), Powerwash Simulator (30)
-- Février : Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
+- Janvier : **Disgaea 7** (26), Wonder Boy Anniversary Collection (26), Powerwash Simulator (30), Trek To Yomi (30)
+- Février : Life Is Strange 2 (2), Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
 - Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7)
 - Mai : **Zelda Tears of the Kingdom** (12), **Bayonetta Origins** (17), Wrestlequest (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, **Hogwarts Legacy**, Hades 2
 
