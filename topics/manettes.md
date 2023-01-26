@@ -41,6 +41,8 @@ Il existe également quelques boutiques connues spécialisées dans le retrogami
 - <https://castlemaniagames.com/>
 - <http://retro-bit.com/>
 
+---
+
 ## Les manettes officielles / constructeurs
 
 Les fabricants de console ont généralement des produits avec un bon rapport qualité/prix : parfois un peu chers, mais avec une certaine solidité.
@@ -85,6 +87,8 @@ Ce contrôleur a été abandonné en 2020, et n'est plus trouvable que d'occasio
 
 ![Steam](https://i.imgur.com/gFcLYopb.jpg)
 
+---
+
 ## Les manettes haut de gamme
 
 Les fabricants dans cette gamme de manettes proposent des produits de qualité relativement bonne, souvent personnalisables, mais avec un prix très élevé, et pas toujours proportionnel à la qualité.
@@ -112,6 +116,8 @@ Scuf crée des manettes très personnalisables, mais à des prix délirants.
 Tout comme Razer, Nacon propose des manettes orientées "pro", avec moult réglages, boutons configurables, poids changeable, etc. Ils ont cependant moins de pedigree que Razer, et échouent souvent à atteindre la même qualité, malgré le prix similaire.
 
 ![Nacon](https://i.imgur.com/4YTIqoob.png) ![Nacon](https://i.imgur.com/vEHoh7Bb.png) ![Nacon](https://i.imgur.com/gft7xdGb.png)
+
+---
 
 ## Les manettes moyen de gamme
 
@@ -159,12 +165,6 @@ Constructeur plutôt récent, ils se sont fait connaître grâce à leur partena
 
 ![Steelseries](https://i.imgur.com/6nonPxzb.png)
 
-### [Thrustmaster](http://www.thrustmaster.com)
-
-Un autre ancien constructeur de périphériques, qui vendent des manettes en général assez cheap.
-
-![img](https://i.imgur.com/Fw4HcWdb.png) ![img](https://i.imgur.com/Zo8QfDQb.png)
-
 ### [Retrobit](http://retro-bit.com/)
 
 Ce fabricant spécialisé dans tout le retrogaming fabrique des consoles compatibles avec les cartouches originales, mais aussi des manettes compatibles avec les consoles originales et pour PC.
@@ -187,9 +187,17 @@ Retroflag est connu pour ses boîtiers de Raspberry en forme de mini-consoles, m
 
 ![img](https://i.imgur.com/4kG9rYIb.jpg) ![img](https://i.imgur.com/ysHjDjub.jpg)
 
+---
+
 ## Les manettes bas de gamme
 
 Des tas de constructeurs proposent des manettes "rétro" à 5€ qui sont absolument atroces ; mais certains constructeurs vendent des produits certes pas terribles, mais pas catastrophiques non plus.
+
+### [Thrustmaster](http://www.thrustmaster.com)
+
+Un ancien constructeur de périphériques, qui vendent des manettes en général assez cheap.
+
+![img](https://i.imgur.com/Fw4HcWdb.png) ![img](https://i.imgur.com/Zo8QfDQb.png)
 
 ### [Ipega](http://www.ipega.hk/)
 
