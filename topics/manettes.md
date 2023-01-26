@@ -234,6 +234,26 @@ Vous pouvez également trouver divers sticks "noname" sur Amazon ou autre, mais 
 
 ---
 
+## Les reproductions de manettes rétro
+
+Si vous souhaitez changer de pad à chaque jeu lancé, des reproductions de pads originaux existent :
+
+- Atari 2600 : Retro-Bit Atari
+- NES : 8bitdo N30, Retro-Bit Dual Link, Hyperkin Cadet/Dogbone, les manettes de la NES Mini, les manettes NES sans fil pour la Switch
+- Master System : aucune à ma connaissance
+- PC Engine : 8bitdo fait une manette mais uniquement compatible PCE Mini, aucune reproduction compatible PC n'existe.
+- Mega Drive, Saturn : les manettes de la Mega Drive Mini, 8bitdo M30, PowerA FightPad, Hori Fighting Commander, Retro-Bit Genesis/Saturn, Retro-Flag Classic M, Hyperkin CirKa
+- Neo Geo : les manettes de la NeoGeo Mini, un stick arcade
+- SNES : 8bitdo SN30/Pro/+, Retro-Bit Dual Link, Retro-Flag Classic J/U, Hyperkin Scout/CirKa, iBuffalo, les manettes de la SNES Mini, les manettes SNES sans fil pour la Switch
+- Playstation 1 & 2 : les manettes de la PS Classic, les manettes PS3/PS4
+- Nintendo 64 : Retro-Bit Tribute 64, Hyperkin Admiral Premium BT/Moonlight
+- Dreamcast : divers projets crowdfundé existent dans des états plus ou moins avancés
+- Gamecube : Hori Battle Pad, Hyperkin ProCube/CirKa, PowerA GameCube Style Controller
+- Xbox : manettes Xbox 360 et Xbox One, Hyperkin Duke
+- Wii : les Wiimotes sont compatible PC/Pi avec quelques bidouilles, sinon Hyperkin NuWave et WaveChuck
+
+---
+
 ## Adaptateurs pour anciennes manettes
 
 Vous pourrez trouver un peu partout des adaptateurs qui vous permettent de brancher des manettes de la NES à la PS2 sur un port USB.
