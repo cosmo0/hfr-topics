@@ -5,9 +5,10 @@ Bienvenue sur le topic des manettes !
 Au sommaire :
 
 - Informations générales
-- les manettes sans fil pour android et ios
-- Les manettes sans fil pour PC et Raspberry Pi (2e post)
-- Les manettes filiaires (3e post)
+- les manettes officielles/constructeurs
+- les manettes haut de gamme
+- Les manettes moyen de gamme
+- Les manettes bas de gamme
 
 ## Informations générales
 
@@ -40,192 +41,180 @@ Il existe également quelques boutiques connues spécialisées dans le retrogami
 - <https://castlemaniagames.com/>
 - <http://retro-bit.com/>
 
-## Les manettes sans fil pour Android et iOS
+## Les manettes officielles / constructeurs
 
-Les manettes compatibles Android sont presque toujours compatibles PC/Raspberry, mais vérifiez quand-même sur le site des constructeurs...
+Les fabricants de console ont généralement des produits avec un bon rapport qualité/prix : parfois un peu chers, mais avec une certaine solidité.
 
-Il existe un site qui liste tous les jeux Android compatibles nativement avec les manettes : http://androidgamepadgames.com/
+### Microsoft
 
-### [SteelSeries](https://steelseries.com/)
+**Compatible :** consoles Microsoft, PC, Raspberry Pi, Android, iOS
 
-Constructeur plutôt récent, ils se sont fait connaître grâce à leur partenariat avec Apple pour le pad "officiel" Apple TV.
+Les manettes officielles Xbox sont supportées nativement par Windows 10, et sont totalement compatibles avec un nombre énorme de jeux, et à peu près tous les systèmes possibles, en-dehors des consoles concurrentes. C'est un très bon choix pour la compatibilité et la facilité de configuration.
 
-[img]https://i.imgur.com/E4j9kiOb.jpg[/img]
+Les manettes Xbox One "dernière version" (avec la prise jack) et Series sont bluetooth ; les anciennes versions nécessitent un adaptateur.
 
-[url=http://www.lesnumeriques.com/manette-pour-smartphone/steelseries-stratus-p19288/test.html]Test iOS[/url] ; [url=http://www.lesnumeriques.com/manette-pour-smartphone/steelseries-stratus-xl-p27393/test.html]test Android[/url]
+Microsoft propose également une manette Elite, qui est régulièrement encensée comme étant une des meilleures (si ce n'est la meilleure). Complètement personnalisable : sticks, d-pad, palettes à l'arrière, gâchettes... En revanche, les premières versions ne sont pas bluetooth.
 
-### [8bitdo](http://www.8bitdo.com/)
+![MS](https://i.imgur.com/2l1yNfXb.jpg) ![MS](https://i.imgur.com/hjv96cCb.jpg)
 
-8bitdo ont tout un tas de manettes au look rétro (NES, SNES, N64, ainsi que des fightpads) compatibles Android, iOS, Windows et MacOS, ainsi que des adaptateurs sans fil pour NES et SNES. Certaines ont un support pour téléphone, d'autres non. Il existe également des supports pour manettes 8bitdo, recherchez "XTander" sur divers sites. Leurs manettes sont également compatibles Nintendo Switch, avec le bon firmware.
+### Sony
 
-Attention, utiliser ces manettes sur un Raspberry Pi peut nécessiter d'acheter un dongle, certaines personnes ont noté un lag très important en utilisant le dongle intégré des Pi3.
+**Compatible :** consoles Sony, PC, Raspberry Pi, certains téléphones
 
-[img]https://i.imgur.com/46UCJd4b.jpg[/img] [img]https://i.imgur.com/SVquB3sb.jpg[/img] [img]https://i.imgur.com/PZjr4xPb.jpg[/img] [img]https://i.imgur.com/YGeyva0b.jpg[/img]
+Les manettes Sony à partir de la Dualshock 3 sont bluetooth, et sont parfois compatibles avec des téléphones. Il y a souvent des manipulations à effectuer, des logiciels à installer, etc.
 
-A l'inverse, ils proposent également une sorte d'adaptateur universel USB, qui permet d'utiliser des manettes Playstation 3/4, des Wiimote, de pads WiiU Pro, des Joycons, et des pads Switch Pro, sur PC, Mac, Switch, et Raspberry Pi.
-http://www.8bitdo.com/wireless-usb-adapter/
+![Sony](https://i.imgur.com/5o01oPfb.jpg) ![Sony](https://i.imgur.com/FVfVMy4b.jpg)
 
-Reviews sur le forum : [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=569&post=189385&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t12183402]foul (Zero)[/url] ; [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=569&post=189385&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t12330929]grouchotth (Zero)[/url] ; [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=569&post=189385&page=2&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t12993010]droleptan (Zero)[/url] ; [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=249&post=189385&page=4&p=1&sondage=0&owntopic=1&trash=&trash_post=&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t13124665]cosmoschtroumpf (NES30Pro)[/url]
+### Nintendo
 
-### [Ipega](http://www.ipega.hk/)
+**Compatible :** consoles Nintendo, PC, Raspberry Pi
 
-Une marque Chinoise qui propose tout un tas de manettes dédiées aux portables, plus ou moins "modulaires".
+Tous les pads Nintendo sans fil depuis la Wii sont bluetooth, et sont donc compatibles, avec plus ou moins de bidouilles (drivers, config...), avec les PC et les Raspberry Pi.
 
-[img]https://i.imgur.com/eWWl7UHb.jpg[/img] [img]https://i.imgur.com/CoPrxhLb.jpg[/img]
+La qualité de construction et le feeling sont évidemment très bons (tout comme les manettes Sony et Microsoft), et accessoirement, c'est le seul moyen de jouer "correctement" avec des émulateurs Wii (penser à prendre une sensor bar aussi). Attention cependant au drift des joycons.
 
-### [Gamesir](https://gamesir.hk/)
-
-Une autre marque Chinoise qui propose une large gamme de manettes, avec divers designs. La qualité de fabrication est très correcte mais la connexion est parfois hasardeuse.
-
-[img]https://i.imgur.com/AhopFvRb.jpg[/img] [img]https://i.imgur.com/dTF4vfIb.jpg[/img]
-
-### [Gamevice](https://gamevice.com/)
-
-Proposent une série de manettes "clipsables" sur le contour des iPhone/iPads, à la Nintendo Switch. Uniquement compatible avec certains appareils.
-
-[img]https://i.imgur.com/PkVNeN9b.jpg[/img]
-
-### [NVidia](https://www.nvidia.fr/shield/)
-
-NVidia a développé une manette avec sa Shield, qui peut être achetée séparément. Elle est compatible sans fil avec la Shield uniquement a priori, mais aussi PC en USB.
-
-Il en existe plusieurs versions, plus ou moins récentes, avec un aspect général similaire (disposition Xbox) mais une forme qui évolue un peu à chaque fois.
-
-[img]https://i.imgur.com/WQBRsqLb.jpg[/img]
-
-## Les manettes sans fil pour consoles, PC et Raspberry Pi
-
-Ci-dessous uniquement les manettes qui ne sont pas aussi compatibles Android/iOS.
-
-### Sony - Playstation 3 / Playstation 4
-
-Les manettes Dualshock 3 et 4 sont bluetooth, mais ne sont pas compatibles avec tous les téléphones. Il y a souvent des manipulations à effectuer, des logiciels à installer, etc, surtout avec la Dualshock 3.
-Plusieurs personnes sur ce topic ont réussi à les faire fonctionner, demandez donc conseil si vous n'y arrivez pas.
-
-[img]https://i.imgur.com/5o01oPfb.jpg[/img] [img]https://i.imgur.com/FVfVMy4b.jpg[/img]
-
-### Microsoft - Xbox 360 / Xbox One
-
-La manette officielle Xbox 360 est totalement compatible avec un nombre énorme de jeux et de systèmes. C'est un très bon choix pour la compatibilité et la facilité de configuration, mais la croix de direction n'est pas terrible.
-La version sans fil nécessite un adaptateur.
-La manette Xbox One "dernière version" (avec la prise jack) est bluetooth, compatible PC ; les anciennes versions nécessitent aussi un adaptateur.
-Microsoft propose également une manette Elite, qui est régulièrement encensée comme étant une des meilleures (si ce n'est la meilleure). Complètement personnalisable : sticks, d-pad, palettes à l'arrière, gâchettes... En revanche, ce n'est pas une manette bluetooth, vous devrez donc acheter un récepteur pour manette Xbox One.
-J'ai fait [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=250&post=189385&page=3&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t13091678]une review de mes pads X360 ici[/url].
-
-[img]https://i.imgur.com/2l1yNfXb.jpg[/img] [img]https://i.imgur.com/hjv96cCb.jpg[/img]
-
-### Nintendo - Wii / Wii U / Switch
-
-Tous les pads Nintendo sans fil sont bluetooth, et sont donc compatibles, avec plus ou moins de bidouilles (drivers, config...), avec les PC et les Raspberry Pi.
-La qualité de construction et le feeling sont évidemment très bons (tout comme les manettes Sony et Microsoft), et accessoirement, c'est le seul moyen de jouer avec des émulateurs Wii (penser à prendre une sensor bar aussi).
-
-[img]https://i.imgur.com/3rmTy8mb.jpg[/img] [img]https://i.imgur.com/Nd7Cwc0b.jpg[/img] [img]https://i.imgur.com/uL5zf1qb.jpg[/img]
+![Nintendo](https://i.imgur.com/3rmTy8mb.jpg) ![Nintendo](https://i.imgur.com/Nd7Cwc0b.jpg) ![Nintendo](https://i.imgur.com/uL5zf1qb.jpg)
 
 ### Steam Controller
 
-Ce contrôleur atypique avec des "touchpads" à retour haptiques en guise de sticks a de très bons retours, et est plutôt personnalisable. En revanche la prise en main est particulière, et pas très facile à configurer en-dehors de Steam.  
-Ce contrôleur a été abandonné en 2020.
+**Compatible :** PC
 
-[img]https://i.imgur.com/gFcLYopb.jpg[/img]
+Ce contrôleur atypique avec des "touchpads" à retour haptiques en guise de sticks a eu de très bons retours, et est plutôt personnalisable. En revanche la prise en main est particulière, et pas très facile à configurer en-dehors de Steam.
 
+Ce contrôleur a été abandonné en 2020, et n'est plus trouvable que d'occasion.
 
-### [Logitech](https://www.logitech.com)
+![Steam](https://i.imgur.com/gFcLYopb.jpg)
 
-Logitech fabrique des mêmes pads très similaires depuis ce qui semble être des millénaires.
-La qualité est correcte sans plus, la compatibilité est très bonne.
-Vous pouvez en trouver d'occasion un peu partout.
-Leur pad sans fil actuel (F710) n'est pas bluetooth, il utilise leur "récepteur universel" usb qui est aussi compatible avec toutes leurs souris et claviers. Ca peut être pratique si vous êtes déjà équipé.
+## Les manettes haut de gamme
 
-[img]https://i.imgur.com/5PmEDXab.jpg[/img] [img]https://i.imgur.com/UPypY8Nb.jpg[/img]
+Les fabricants dans cette gamme de manettes proposent des produits de qualité relativement bonne, souvent personnalisables, mais avec un prix très élevé, et pas toujours proportionnel à la qualité.
 
+### [Razer](https://www.razer.com/)
+
+**Compatible :** consoles Microsoft/Sony, PC, Raspberry Pi, Android, iOS
+
+Fabricant connu de souris et claviers, ils fabriquent des manettes "pro" avec boutons programmables, pour Xbox et Playstation. Ils fabriquent également des manettes spéciales pour smartphone.
+
+![Razer](https://i.imgur.com/h7SCBgdb.jpg) ![Razer](https://i.imgur.com/UJcZ5xWb.png) ![Razer](https://i.imgur.com/NlNeGmRb.png)
 
 ### [Scuf](https://scufgaming.com/)
 
-De la même manière que Razer, Scuf crée des manettes "pro", personnalisables et dotées de nombreuses fonctions supplémentaires, mais avec des prix élevés.
-Ils ont des manettes pour Xbox 360, Xbox One, PS3 et PS4, avec divers niveaux de finition/personnalisation/réglages. Ils permettent aussi de commander des manettes personnalisées au niveau des couleurs.
+**Compatible :** consoles Microsoft/Sony, PC, Raspberry Pi
 
-[img]https://i.imgur.com/1MGWbN4b.jpg[/img] [img]https://i.imgur.com/vAJjDXRb.jpg[/img]
+Scuf crée des manettes très personnalisables, mais à des prix délirants.
 
-### [PowerA](https://www.powera.com/)
-
-Une marque relativement récente mais qui s'est fait une place rapidement en faisant des partenariat avec les constructeurs officiels, en proposant des manettes avec ou sans fil, avec ou sans skin.
-
-[img]https://i.imgur.com/RrSIIRnb.jpg[/img] [img]https://i.imgur.com/8tbphBUb.jpg[/img]
-
-## Les manettes filiaires pour consoles, PC & Raspberry Pi
-
-Evidemment vous ne pourrez pas utiliser ces manettes sur un smartphone ou une tablette, qui n'ont pas de port USB en entrée (sauf à utiliser un adaptateur, mais ça ne marche pas toujours). Cette liste est donc dédiée aux manettes pour PC, box d'émulation et box Android. Et aux consoles, pour certains modèles.
-
-### [Hori](http://stores.horiusa.com/)
-
-HORI fabrique un grand nombre de pads et sticks pour les jeux de combats, aussi bien Playstation que Xbox et PC.
-Les pads et sticks fabriqués pour certaines consoles devraient être compatibles sous les mêmes conditions que les pads standards, mais à confirmer. Beaucoup ont des switchs pour basculer d'une compatibilité PS à PC.
-Le stick version Xbox 360 devrait être tout aussi largement compatible que la manette Xbox 360 d'origine (qui est très largement supportée par un peu tout).
-
-[img]https://i.imgur.com/BQUc2w3b.jpg[/img] [img]https://i.imgur.com/wngcccRb.jpg[/img] [img]https://i.imgur.com/MktdJmhb.jpg[/img]
-
-### [Razer](https://www.razerzone.com/)
-
-Un autre fabricant connu de manettes, souris et claviers, Razer se positionne un petit plus "premium" que Hori et Mad Catz.
-Ils fabriquent des manettes "pro" modifiables comme le pad Xbox Elite, avec boutons programmables et grips, pour Xbox One et PS4. Ils fabriquent également un pad arcade, prévu pour être facilement modifiable.
-Les prix sont cependant très élevés...
-
-[img]https://i.imgur.com/MktdJmhb.jpg[/img] [img]https://i.imgur.com/TZ8QXJrb.jpg[/img] [img]https://i.imgur.com/Px0rdL3b.png[/img]
-
-[url=http://www.eurogamer.net/articles/digitalfoundry-2017-razer-raiju-vs-nacon-revolution-pro]Test Raiju[/url]
-[url=https://forum.hardware.fr/forum2.php?config=hfr.inc&cat=5&subcat=249&post=189385&page=13#t14198928]CR Raiju par elefanc[/url]
+![Scuf](https://i.imgur.com/7IfbRcyb.png) ![Scuf](https://i.imgur.com/6VSeDB9b.png)  
 
 ### [Nacon](https://nacongaming.com/)
 
-Tout comme Razer, Nacon propose des manettes orientées "pro", avec moult réglages, boutons configurables, poids changeable, etc.
-Ils ont moins de pedigree que Razer, et échouent souvent à atteindre la même qualité.
+**Compatible :** consoles Microsoft/Sony, PC, Raspberry Pi, Android, iOS
 
-[img]https://i.imgur.com/8CQtwmUb.jpg[/img]
+Tout comme Razer, Nacon propose des manettes orientées "pro", avec moult réglages, boutons configurables, poids changeable, etc. Ils ont cependant moins de pedigree que Razer, et échouent souvent à atteindre la même qualité, malgré le prix similaire.
 
-[url=http://www.eurogamer.net/articles/digitalfoundry-2017-razer-raiju-vs-nacon-revolution-pro]Test Nacon Revolution Pro[/url]
+![Nacon](https://i.imgur.com/4YTIqoob.png) ![Nacon](https://i.imgur.com/vEHoh7Bb.png) ![Nacon](https://i.imgur.com/gft7xdGb.png)
+
+## Les manettes moyen de gamme
+
+### [8bitdo](http://www.8bitdo.com/)
+
+**Compatible :** consoles Microsoft/Nintendo, PC, Raspberry Pi, iOS, Android
+
+8bitdo ont tout un tas de manettes au look rétro (NES, SNES, etc) compatibles avec un peu tout, ainsi que des adaptateurs sans fil pour vieilles consoles. La qualité est cependant très variable, et certaines manettes sont vraiment médiocres.
+
+Ils vendent également une sorte d'adaptateur universel USB, qui permet d'utiliser des manettes Playstation, des Wiimote, des pads WiiU Pro, des Joycons, et des pads Switch Pro, sur PC, Mac, Switch, et Raspberry Pi.
+
+![8bitdo](https://i.imgur.com/SVquB3sb.jpg) ![8bitdo](https://i.imgur.com/PZjr4xPb.jpg) ![8bitdo](https://i.imgur.com/KWgo4QNb.png) ![8bitdo](https://i.imgur.com/g9FKL59b.png) ![8bitdo](https://i.imgur.com/I4vCufCb.png)
+
+### [Hori](http://stores.horiusa.com/)
+
+**Compatible :** consoles Microsoft/Sony/Nintendo, PC, Raspberry Pi
+
+Très ancien fabricant de périphériques, HORI vend un grand nombre de pads et sticks, souvent pensés pour les jeux de combats, aussi bien Playstation que Xbox et PC.
+
+![Hori](https://i.imgur.com/2L4jeqzb.png) ![Hori](https://i.imgur.com/xicbPX4b.png) ![Hori](https://i.imgur.com/nTjwaSgb.png) ![Hori](https://i.imgur.com/JAIvdzdb.png)
+
+### [Logitech](https://www.logitech.com)
+
+**Compatible :** PC, Raspberry Pi
+
+Logitech fabrique des mêmes pads très similaires depuis ce qui semble être des millénaires. La qualité est correcte sans plus, mais la compatibilité est très bonne. Vous pouvez en trouver d'occasion un peu partout.
+
+Leur pad sans fil actuel (F710) n'est pas bluetooth, il utilise leur "récepteur universel" usb qui est aussi compatible avec toutes leurs souris et claviers. Ca peut être pratique si vous êtes déjà équipé.
+
+![Logitech](https://i.imgur.com/5PmEDXab.jpg) ![Logitech](https://i.imgur.com/UPypY8Nb.jpg)
+
+### [PowerA](https://www.powera.com/)
+
+**Compatible :** consoles Microsoft/Sony/Nintendo, PC, Raspberry Pi, Android, iOS
+
+Une marque relativement récente, mais qui s'est fait une place rapidement en faisant des partenariat avec les constructeurs officiels, en proposant des manettes avec ou sans fil, avec ou sans skin.
+
+![Powera](https://i.imgur.com/RrSIIRnb.jpg) ![Powera](https://i.imgur.com/8tbphBUb.jpg) ![Powera](https://i.imgur.com/Xriode7b.png)
+
+### [SteelSeries](https://steelseries.com/)
+
+**Compatible :** Android, iOS
+
+Constructeur plutôt récent, ils se sont fait connaître grâce à leur partenariat avec Apple pour le pad "officiel" Apple TV. Ils font un unique pad, décliné en plusieurs versions, uniquement pour mobile.
+
+![Steelseries](https://i.imgur.com/6nonPxzb.png)
 
 ### [Thrustmaster](http://www.thrustmaster.com)
 
-Un autre ancien constructeur de périphériques. Ils construisent des manettes en général assez cheap.
+Un autre ancien constructeur de périphériques, qui vendent des manettes en général assez cheap.
 
-[img]https://i.imgur.com/Fw4HcWdb.png[/img] [img]https://i.imgur.com/Zo8QfDQb.png[/img]
+![img](https://i.imgur.com/Fw4HcWdb.png) ![img](https://i.imgur.com/Zo8QfDQb.png)
 
 ### [Retrobit](http://retro-bit.com/)
 
 Ce fabricant spécialisé dans tout le retrogaming fabrique des consoles compatibles avec les cartouches originales, mais aussi des manettes compatibles avec les consoles originales et pour PC.
 
-[img]https://i.imgur.com/nh37ePmb.jpg[/img] [img]https://i.imgur.com/XCj6wcOb.jpg[/img] [img]https://i.imgur.com/CLmocm4b.jpg[/img]
+Ils ont également fait un partenariat avec Sega pour des reproductions de manettes Megadrive et Saturn, avec ou sans fil, compatibles PC ou avec les consoles originales (selon les versions).
+
+![img](https://i.imgur.com/nh37ePmb.jpg) ![img](https://i.imgur.com/XCj6wcOb.jpg) ![img](https://i.imgur.com/CLmocm4b.jpg)
 
 ### [Hyperkin](https://www.hyperkin.com/)
 
 Un autre fabriquant de manettes et accessoires rétro, ils fabriquent tout une gamme de consoles qui lisent les cartouches, de pads pour les consoles originales, ainsi que des pads pour PC typés un peu toutes les consoles (NES, SNES, N64, GC, Megadrive, etc).
+
 Leur site ne propose pas leurs produits à la vente directe, vous devrez passer par un magasin classique (Amazon & co).
 
-[img]https://i.imgur.com/ZAtXIN6b.jpg[/img] [img]https://i.imgur.com/UuakoXsb.jpg[/img] [img]https://i.imgur.com/CEHXzYMb.jpg[/img]
+![img](https://i.imgur.com/ZAtXIN6b.jpg) ![img](https://i.imgur.com/UuakoXsb.jpg) ![img](https://i.imgur.com/CEHXzYMb.jpg)
 
 ### [Retroflag](http://retroflag.com/)
 
-Retroflag est connu pour ses boîtiers de Raspberry en forme de NES et SNES, mais propose également des manettes SNES (et bientôt MD à l'heure où j'écris ces lignes) qui sont réputées plutôt pas mauvaises.
+Retroflag est connu pour ses boîtiers de Raspberry en forme de mini-consoles, mais propose également des manettes SNES et MD, qui sont réputées plutôt pas mauvaises.
 
-[img]https://i.imgur.com/4kG9rYIb.jpg[/img] [img]https://i.imgur.com/ysHjDjub.jpg[/img]
+![img](https://i.imgur.com/4kG9rYIb.jpg) ![img](https://i.imgur.com/ysHjDjub.jpg)
 
-### iBuffalo
+## Les manettes bas de gamme
 
-iBuffalo fabrique une manette qui est une copie conforme de la manette SNES d'origine, qui a très bonne réputation. Cependant, elle est très difficile à trouver à un prix correct, car elle est importée.
-Un retour sur le forum ([url=http://forum.hardware.fr/forum2.php?cat=5&subcat=250&post=182496&page=95#t13062551]à voir ici[/url]) fait état d'appuis fantômes sur la croix de direction.
+Des tas de constructeurs proposent des manettes "rétro" à 5€ qui sont absolument atroces ; mais certains constructeurs vendent des produits certes pas terribles, mais pas catastrophiques non plus.
 
-[img]https://i.imgur.com/WQPCt1jb.jpg[/img]
+### [Ipega](http://www.ipega.hk/)
 
-## Adaptateurs anciennes manettes
+Une marque Chinoise qui propose tout un tas de manettes dédiées aux portables, plus ou moins "modulaires".
+
+![img](https://i.imgur.com/eWWl7UHb.jpg) ![img](https://i.imgur.com/CoPrxhLb.jpg)
+
+### [Gamesir](https://gamesir.hk/)
+
+Une autre marque Chinoise qui propose une large gamme de manettes, avec divers designs. La qualité de fabrication est très correcte mais la connexion est parfois hasardeuse.
+
+![img](https://i.imgur.com/AhopFvRb.jpg) ![img](https://i.imgur.com/dTF4vfIb.jpg)
+
+## Adaptateurs pour anciennes manettes
 
 Vous pourrez trouver un peu partout des adaptateurs qui vous permettent de brancher des manettes de la NES à la PS2 sur un port USB.
+
 L'avantage, c'est que vous pouvez retrouver les sensations d'origine, avec souvent des manettes qui sont encore aujourd'hui de très bonne qualité.
+
 L'inconvénient, c'est que ces adaptateurs sont de qualité extrêmement variable, plus ou moins fiables, et risquent d'introduire de l'input lag. Renseignez-vous bien avant d'acheter un modèle.
 
-[img]https://i.imgur.com/S2qwS6Zb.jpg[/img] [img]https://i.imgur.com/BJUngIPb.jpg[/img] [img]https://i.imgur.com/cGRpnm1b.jpg[/img]
+![img](https://i.imgur.com/S2qwS6Zb.jpg) ![img](https://i.imgur.com/BJUngIPb.jpg) ![img](https://i.imgur.com/cGRpnm1b.jpg)
 
-### Bliss-Box - http://bliss-box.net
+### [Bliss-Box](http://bliss-box.net)
 
 Un adaptateur universel qui permet de brancher à peu près n'importe quel pad Nintendo, Sony, Sega, Atari, NeoGeo, PC Engine et encore d'autres, y compris en même temps.
 
-[img]https://i.imgur.com/wpALmidb.jpg[/img] [img]https://i.imgur.com/BRkwqBsb.jpg[/img] [img]https://i.imgur.com/g9JOw2ab.png[/img]
+![img](https://i.imgur.com/wpALmidb.jpg) ![img](https://i.imgur.com/BRkwqBsb.jpg) ![img](https://i.imgur.com/g9JOw2ab.png)
