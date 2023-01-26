@@ -5,16 +5,20 @@ Bienvenue sur le topic des manettes !
 Au sommaire :
 
 - Informations générales
-- les manettes officielles/constructeurs
-- les manettes haut de gamme
+- Les manettes officielles/constructeurs
+- Les manettes haut de gamme
 - Les manettes moyen de gamme
 - Les manettes bas de gamme
+- Les sticks arcades
+- Adaptateurs pour anciennes manettes
 
 ## Informations générales
 
 ### Quoi acheter
 
-N'achetez jamais, au grand jamais, de manette noname à 5-10€. Elles sont toujours nulles à chier, en carton-pâte, avec des croix directionnelles qui ne font pas les diagonales, et des boutons qui réagissent une fois sur deux. Il y a des tonnes de références de manettes "rétro" sur tous les sites, mais restez sur les marques connues : les autres vous feront juste perdre votre argent. Lisez mon [compte-rendu sur mes manettes à 5€ ici](http://forum.hardware.fr/forum2.php?cat=5&subcat=569&post=189385&page=3#t13065850).
+Pour le rétrogaming, pour avoir un unique pad et ne pas s'encombrer, le mieux est de partir sur un pad moderne (type Playstation ou Xbox) qui a assez de boutons pour tout, même s'ils ne sont pas toujours bien placés (notamment pour la N64). Pour avoir le meilleur compromis avec plus d'une seule manette, vous pouvez partir sur un pad moderne (PS/Xbox) et y ajouter un pad 6 boutons (typé Saturn, comme le 8bitdo M30). Vous pouvez aussi pencher pour un stick arcade, mais si vous n'y êtes pas habitué, sachez que ce n'est pas toujours mieux, selon les jeux.
+
+N'achetez jamais, au grand jamais, de manette noname à 5-10€. Elles sont toujours nulles à chier, en carton-pâte, avec des croix directionnelles qui ne font pas les diagonales, et des boutons qui réagissent une fois sur deux. Il y a des tonnes de références de manettes "rétro" sur tous les sites, mais restez sur les marques connues : les autres vous feront juste perdre votre argent.
 
 Si vous avez une console "moderne", vous avez sans doute une manette utilisable sur PC ou Recalbox/Retropie. Les manettes Xbox 360/One, Playstation 3/4, ainsi que les Wiimotes, pad Wii U Pro et Switch Pro sont compatibles, parfois avec plus ou moins de succès et/ou de travail (drivers, config...) ou de matériel (adaptateurs...) nécessaire. Une petite recherche google vous aidera grandement.
 
@@ -40,6 +44,7 @@ Il existe également quelques boutiques connues spécialisées dans le retrogami
 
 - <https://castlemaniagames.com/>
 - <http://retro-bit.com/>
+- <https://www.belchine.net/>
 
 ---
 
@@ -210,6 +215,24 @@ Une marque Chinoise qui propose tout un tas de manettes dédiées aux portables,
 Une autre marque Chinoise qui propose une large gamme de manettes, avec divers designs. La qualité de fabrication est très correcte mais la connexion est parfois hasardeuse.
 
 ![img](https://i.imgur.com/AhopFvRb.jpg) ![img](https://i.imgur.com/dTF4vfIb.jpg)
+
+---
+
+## Les sticks arcade
+
+Les sticks arcade ne sont plus tellement populaires, et il devient difficile d'en trouver de bonne qualité à pas trop cher. Bonne nouvelle, la plupart des fabricants conçoivent désormais leurs produits de manière à pouvoir remplacer les sticks et boutons par du matériel Sanwa ou Semitsu.
+
+**[8BitDo](https://www.8bitdo.com/)**, spécialisés dans les pads rétro, fabrique [un stick arcade de bonne qualité](https://www.cosmo0.fr/critique/hardware/stick-8bitdo-arcade-stick/) avec de nombreux atouts (filaire, bluetooth ou 2.4GHz, boutons macro, moddable).
+
+**[Hori](http://www.horiusa.com/)** fabrique des pads et sticks très réputés, et continue à avoir des partenariats, notamment avec Capcom.
+
+**[Mad Catz](https://www.madcatz.com/)** est un constructeur qui a fait faillite en 2017, racheté par un groupe Chinois, il propose notamment un stick personnalisable intégrant du matériel Sanwa, mais assez cher.
+
+**[Mayflash](https://www.mayflash.com/)**, spécialisés dans les adaptateurs divers, fabrique des sticks de rapport qualité/prix médiocre.
+
+Vous pouvez également trouver divers sticks "noname" sur Amazon ou autre, mais la qualité est rarement au rendez-vous.
+
+---
 
 ## Adaptateurs pour anciennes manettes
 
