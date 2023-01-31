@@ -781,7 +781,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES et SNES avec un mode multijoueur en ligne (20€/an)
 - Plusieurs labels proposent des émulations fidèles ou améliorées de jeux à l'unité : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", "Johnny Turbo's Arcade", "SEGA AGES"...
 - De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2/3, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, etc.
-- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection [Volume 1](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/)/Volume 2, Castlevania Advance Collection, Atari 50 Anniversary Celebration, Final Fantasy Pixel Remaster, etc.
+- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection [Volume 1](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/)/Volume 2, Castlevania Advance Collection, Atari 50 Anniversary Celebration, Final Fantasy Pixel Remaster, Wonder Boy Anniversary Collection, etc.
 
 [Une liste très complète :](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/)
 
@@ -791,14 +791,14 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Janvier : **Disgaea 7** (26), Wonder Boy Anniversary Collection (26), Powerwash Simulator (30), Trek To Yomi (30)
-- Février : Life Is Strange 2 (2), Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), **Atelier Ryza 3** (24), Endless Dungeon (28)
-- Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), Spongebob Squarepants Cosmic Shake (?)
+- Janvier : Powerwash Simulator (30)
+- Février : Life Is Strange 2 (2), Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
+- Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7)
 - Mai : **Zelda Tears of the Kingdom** (12), **Bayonetta Origins** (17), Wrestlequest (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, **Hogwarts Legacy**, Hades 2
 
