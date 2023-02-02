@@ -80,13 +80,14 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 
 Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qui durent un peu plus longtemps parce que vous n'en achetez pas toutes les semaines mais qui ne vous durent pas 3 ans non plus ; vous ne voyez pas la différence entre Aventure/action et RPG/action ; vous ne savez pas ce qu'est un beat'em up ou un shoot'em up ? Voici un regroupement peut-être plus adapté à vos besoins et envies.
 
-- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, *[Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
+- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
+- **Je veux une aventure avec de la réflexion :** Paper Mario The Origami King, Persona 5 Royal, Captain Toad Treasure Tracker, 13 Sentinels Aegis Rim
 - **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Metro Redux, Saints Row 4, Doom Eternal
 - **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Super Mario Odyssey, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Ori and the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
 - **Je veux avoir peur :** Alien Isolation, Resident Evil, Outlast
-- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Cuphead, Hades, Dead Cells
+- **Je veux un jeu difficile :** Dark Souls, Hollow Knight, Cuphead, Hades, Dead Cells, Shin Megami Tensei V
 - **Je veux lire et vivre une histoire :** Steins;Gate Elite, AI The Somnium Files, Danganronpa, Gnosia, Return to Monkey Island
-- **Je veux de la stratégie :** [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Into The Breach, Mario + Lapins Crétins, XCOM 2, Triangle Strategy
+- **Je veux de la stratégie :** [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Into The Breach, Mario + Lapins Crétins, XCOM 2, Triangle Strategy, Tactics Ogre Reborn
 - **Je veux un jeu de sport :** Mario Strikers Battle League, Lonely Mountains Downhill, Mario Tennis Aces, Windjammers 2, Easy Come Easy Golf
 - **Je veux un jeu de course :** GRID Autosport, Horizon Chase Turbo, Mario Kart 8 DX, Hotshot Racing, Wreckfest
 - **Je veux un jeu de combat :** Dragon Ball FighterZ, Mortal Kombat 11, Samurai Shodown, Super Smash Bros Ultimate, Streets of Rage 4
