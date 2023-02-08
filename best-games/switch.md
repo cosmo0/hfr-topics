@@ -790,19 +790,20 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : -
+- Jeux sortis, en attente de tests : Metroid Prime Remaster, Powerwash Simulator, Life Is Strange 2
 
-- Janvier : Powerwash Simulator (30)
-- Février : Life Is Strange 2 (2), Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
-- Mars : The Legend of Heroes Trails to Azure (14), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
-- Avril : GrimGrimoire OnceMore (7)
-- Mai : **Zelda Tears of the Kingdom** (12), **Bayonetta Origins** (17), Wrestlequest (?)
-- Juillet : The Legend of Heroes Trails into Reverie (7)
+- Février : Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
+- Mars : The Legend of Heroes Trails to Azure (14), **Bayonetta Origins** (17), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
+- Avril : GrimGrimoire OnceMore (7), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
+- Mai : **Zelda Tears of the Kingdom** (12), Wrestlequest (?)
+- Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Master Detective Archive Rain Code (30), Harmony The Fall of Reverie (?)
+- Juillet : The Legend of Heroes Trails into Reverie (7), **Pikmin 4** (21), Disney Illusion Island (28)
+- Août : Sea of Stars (29)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Sea of Stars, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, **Pikmin 4**, Front Mission 2 Remake, Master Detective Archives Rain Code, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo, Ghost Trick, Baten Kaitos 1+2
 
-- Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, **Hogwarts Legacy**, Hades 2
+- Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, Hades 2, DecaPolice, Fantasy Life i, Professeur Layton World of Steam
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, **Advance Wars 1+2 Re-boot-camp**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
