@@ -56,7 +56,7 @@ Une sélection (forcément limitée) des meilleurs jeux de la machine, classée 
 Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir quelques représentants de chaque genre : vous y trouverez forcément des jeux que vous n'aimez pas, et vous n'y trouverez pas certains jeux que vous adorez, et c'est bien normal, c'est une liste de compromis.
 
 - **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), Bayonetta 3, Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
-- **Shooters, FPS, TPS** : BioShock: The Collection, Borderlands Legendary Collection, DOOM (2016), Splatoon 3
+- **Shooters, FPS, TPS** : Metroid Prime Remaster, Splatoon 3, BioShock: The Collection, DOOM (2016)
 - **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/), Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
 - **Plate-forme/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [Gris](https://www.cosmo0.fr/critique/gris/)
@@ -71,10 +71,10 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **Puzzle, énigmes, réflexion** : Baba Is You, Picross S Genesis & Master System Edition, Puyo Puyo Tetris 2, Tetris Effect Connected, [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), Portal Companion Collection
 - **Sport** : [Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/), Mario Strikers Battle League, Mario Tennis Aces
 - **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe, Wreckfest
-- **Combat, baston, beat'em up** : Dragon Ball FighterZ, [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/aca-neogeo-garou-mark-of-the-wolves/), [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), Super Smash Bros Ultimate, [The King of Fighters 98](https://www.cosmo0.fr/critique/aca-neogeo-the-king-of-fighters-98/)
+- **Combat, baston, beat'em up** : Dragon Ball FighterZ, [Streets of Rage 4](https://www.cosmo0.fr/critique/streets-of-rage-4/), Super Smash Bros Ultimate, [The King of Fighters 98](https://www.cosmo0.fr/critique/aca-neogeo-the-king-of-fighters-98/)
 - **Shoot'em up** : [Espgaluda II](https://www.cosmo0.fr/critique/espgaluda-ii-be-ascension-the-third-bright-stone-of-birth/), [Ikaruga](https://www.cosmo0.fr/critique/critique-express/ikaruga/)
 - **Party game, jeu en ligne** : [51 Worldwide Games](https://www.cosmo0.fr/critique/51-worldwide-games/), Mario Party Superstars, Overcooked! 2
-- **Casual** : [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), [New Pokémon Snap](https://www.cosmo0.fr/critique/new-pokemon-snap/)
+- **Casual** : [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/), [New Pokémon Snap](https://www.cosmo0.fr/critique/new-pokemon-snap/), Theatrhythm Final Bar Line
 
 ## Pour les joueurs occasionnels
 
@@ -671,7 +671,6 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Avicii Invector
 - Cadence of Hyrule
 - Everhood
-- Fuser
 - Hatsune Miku Project Diva
 - Hexagroove Tactical DJ
 - Just Dance
@@ -680,6 +679,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Old School Musical
 - [Songbird Symphony](https://www.cosmo0.fr/critique/songbird-symphony/)
 - Taiko No Tatsujin
+- Theatrhythm Final Bar Line
 - [TIMINGooo!](https://www.cosmo0.fr/critique/timingooo/)
 - Thumper
 - Wandersong
@@ -790,9 +790,9 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les "grosses sorties".
 
-- Jeux sortis, en attente de tests : Metroid Prime Remaster, Powerwash Simulator, Life Is Strange 2
+- Jeux sortis, en attente de tests : -
 
-- Février : Blanc (14), **Theatrhythm Final Fantasy Final Bar Line** (16), Raiden 3 x Mikado Remix (23), Grim Guardians (23), **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
+- Février : **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
 - Mars : The Legend of Heroes Trails to Azure (14), **Bayonetta Origins** (17), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
 - Mai : **Zelda Tears of the Kingdom** (12), Wrestlequest (?)
