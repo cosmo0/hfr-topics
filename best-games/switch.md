@@ -217,7 +217,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Donkey Kong Country Tropical Freeze
 - It Takes Two
 - Kaze & The Wild Masks
-- Kirby et le Monde Oublié
+- Kirby et le Monde Oublié, Return to Dreamland
 - [New Super Lucky's Tale](https://www.cosmo0.fr/critique/new-super-luckys-tale/)
 - [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/)
 - [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/)
@@ -347,7 +347,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Live A Live
 - Miitopia
 - Monster Hunter Stories 2
-- Octopath Traveler
+- Octopath Traveler 1, 2
 - Persona 3 Portable, 4 Golder, 5 Royal
 - Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
 - Shin Megami Tensei (III Nocturne, V)
@@ -792,7 +792,6 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Février : **Kirby Return to Dreamland** (24), **Octopath Traveler 2** (24), Endless Dungeon (28)
 - Mars : The Legend of Heroes Trails to Azure (14), **Bayonetta Origins** (17), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
 - Mai : **Zelda Tears of the Kingdom** (12), Wrestlequest (?)
@@ -800,7 +799,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 - Juillet : The Legend of Heroes Trails into Reverie (7), **Pikmin 4** (21), Disney Illusion Island (28)
 - Août : Sea of Stars (29)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo, Ghost Trick, Baten Kaitos 1+2
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Labyrinth of Galleria, Super Bomberman R2, Mega Man Battle Network Legacy Collection, Minecraft Legends, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Disney Illusion Island, GrimGrimoire OnceMore, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Fatal Frame/Project Zero Mask of the Lunar Eclipse, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo, Ghost Trick, Baten Kaitos 1+2, Crymachina
 
 - Pas de date : Circuit Superstars, Lord of The Rings Gollum, Oxenfree 2, Mina the Hollower, Fae Farm, Front Mission 3 Remake, Visco Collection, Hades 2, DecaPolice, Fantasy Life i, Professeur Layton World of Steam
 
