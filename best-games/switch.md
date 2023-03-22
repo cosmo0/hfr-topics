@@ -80,7 +80,7 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 
 Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qui durent un peu plus longtemps parce que vous n'en achetez pas toutes les semaines mais qui ne vous durent pas 3 ans non plus ; vous ne voyez pas la différence entre Aventure/action et RPG/action ; vous ne savez pas ce qu'est un beat'em up ou un shoot'em up ? Voici un regroupement peut-être plus adapté à vos besoins et envies.
 
-- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
+- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), Bayonetta Origins
 - **Je veux une aventure avec de la réflexion :** Paper Mario The Origami King, Persona 5 Royal, Captain Toad Treasure Tracker, 13 Sentinels Aegis Rim
 - **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Metro Redux, Saints Row 4, Doom Eternal
 - **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Super Mario Odyssey, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Ori and the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
@@ -138,6 +138,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Assassin's Creed (Ezio Collection, 3, Rebel Collection)
 - Astral Chain
 - Bayonetta ([1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), 3)
+- Bayonetta Origins
 - Darksiders (1, 2)
 - Death's Door
 - Hellblade Senua's Sacrifice
@@ -149,7 +150,6 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - LEGO (Marvel Super Heroes 1, [2](https://www.cosmo0.fr/critique/lego-marvel-super-heroes-2/), DC Super Villains, City, World, Star Wars...)
 - [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
 - No More Heroes ([1](https://www.cosmo0.fr/critique/no-more-heroes/), 2, 3)
-- Nobody Saves The World
 - [Okami HD](https://www.cosmo0.fr/critique/okami-hd/)
 - Paper Mario The Origami King
 - Slime Rancher
@@ -352,7 +352,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
 - Shin Megami Tensei (III Nocturne, V)
 - TemTem
-- The Legend of Heroes (Trails of Cold Steel 3/4, Trails from Zero)
+- The Legend of Heroes (Trails of Cold Steel 3/4, Trails from Zero, Trails to Azure)
 - Thronebreaker: The Witcher Tales
 - Tokyo Mirage Sessions #FE Encore
 - [Undertale](https://www.cosmo0.fr/critique/undertale/)
@@ -792,7 +792,7 @@ En gras les jeux exclusifs et les "grosses sorties".
 
 - Jeux sortis, en attente de tests : -
 
-- Mars : The Legend of Heroes Trails to Azure (14), **Bayonetta Origins** (17), Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
+- Mars : Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
 - Avril : GrimGrimoire OnceMore (7), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
 - Mai : **Zelda Tears of the Kingdom** (12), Wrestlequest (?)
 - Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Master Detective Archive Rain Code (30), Harmony The Fall of Reverie (?)
