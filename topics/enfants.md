@@ -16,15 +16,15 @@ Le but du topic n'est pas de chercher à interdire ou obliger les gens à faire 
 
 Quelques conseils généraux "de bon sens" pour les jeunes parents qui ne savent pas trop par où commencer. Vous êtes bien sûr libres de ne pas les suivre.
 
-Au début, jouez avec votre enfant et ne le laissez pas seul. Jouez avec lui ou regardez-le, écoutez-le, observez-le, posez-lui des questions sur ce qu'il ressent. Donnez-lui les armes pour qu'il comprenne mieux ce qu'il a vécu.
+Au début, jouez avec votre enfant et **ne le laissez pas seul**. Jouez avec lui ou regardez-le, écoutez-le, observez-le, posez-lui des questions sur ce qu'il ressent. Donnez-lui les armes pour qu'il comprenne mieux ce qu'il a vécu.
 
-Limitez le temps de jeu, et informez-le, ou mettez-vous d'accord ensemble. Utilisez l'application de contrôle parental si nécessaire. Mieux vaut s'y prendre tôt et lui apprendre dès le début qu'il y a des limites, que de devoir sévir quand il aura passé 3 nuits blanches d'affilée sur Minecraft à 5 ans.
+**Limitez le temps de jeu**, et informez-le, ou mettez-vous d'accord ensemble. Utilisez l'application de contrôle parental si nécessaire. Mieux vaut s'y prendre tôt et lui apprendre dès le début qu'il y a des limites, que de devoir sévir quand il aura passé 3 nuits blanches d'affilée sur Minecraft à 5 ans.
 
 Pour les jeux en ligne, préparez-le à avoir des interactions... désagréables (voir plus bas).
 
 Faites attention aux achats, ne laissez pas de carte bleue enregistrée dans la console. Le contrôle parental permet de les restreindre.
 
-N'essayez pas d'imposer vos goûts à votre enfant. Si votre jeu d'amour de votre enfance ne lui plaît pas, ce n'est pas la peine d'insister.
+N'essayez pas d'imposer vos goûts à votre enfant. Si votre jeu d'amour de votre enfance ne lui plaît pas, ce n'est pas la peine d'insister. Vous pouvez rêver qu'il finisse Dark Souls à une seule main, mais peut-être qu'il préférera Nintendogs.
 
 ## Le PEGI
 
@@ -99,23 +99,51 @@ Chaque console (et mobile) permet de gérer "à distance" ce que peuvent faire v
 - [Switch](https://www.nintendo.fr/Gamme-Nintendo-Switch/Controle-parental-de-la-Nintendo-Switch/Controle-parental-de-la-Nintendo-Switch-1183145.html)
 - [Xbox](https://support.xbox.com/fr-FR/help/family-online-safety/browse)
 
+Windows 10 et les plateformes de jeu (Steam, Origin...) ont également des systèmes similaires, et les FAI proposent souvent des logiciels de contrôle d'accès à internet.
+
 ## Le jeu en ligne
 
-Vous le savez, mais vous n'y pensez peut-être pas : les prédateurs existent. Vous pouvez tenter de surveiller tout ce que font vos enfants, mais vous pouvez aussi les y préparer, leur donner des conseils pour faire face à cette situation malheureusement très probable, et lui signaler que vous restez à son écoute (c'est très important).
+Vous le savez, mais vous n'y pensez peut-être pas : les prédateurs existent. Vous pouvez tenter de surveiller tout ce que font vos enfants, mais vous pouvez aussi les y préparer, leur donner des conseils pour faire face à cette situation malheureusement très probable, et lui signaler que vous restez à son écoute, et ne l'engueulez pas pour ce qu'il/elle subit (c'est très important).
 
-Rappelez-lui aussi de ne jamais communiquer d'information personnelle à des inconnus : nom, adresse (même simplement la ville), mail, compte Facebook, rien.
+Rappelez-lui aussi de ne jamais communiquer d'information personnelle à des inconnus : nom, adresse (même simplement la ville ou le département), mail, téléphone, compte Facebook, rien.
 
-Tant que votre enfant n'est pas prêt à recevoir une photo non-solicitée d'appareil génital d'un inconnu, ou à se faire insulter copieusement sans aucune raison, bloquez tout simplement toute communication avec l'extérieur en utilisant le contrôle parental.
+Et même sans aller jusque-là, préparez-les au fait que sans les contraintes des interactions physiques, certains jeunes passent leur temps à insulter tout le monde. Idéalement, essayez de faire en sorte qu'ils ne fassent pas partie de cette lie.
+
+Tant que votre enfant n'est pas prêt à recevoir une photo non-solicitée d'appareil génital d'un inconnu, ou à se faire insulter copieusement sans aucune raison, bloquez tout simplement toute communication avec l'extérieur en utilisant le contrôle parental, ou ne le laissez jouer qu'avec des amis (qui peuvent être soumis à autorisation avec le contrôle parental).
+
+## Les meilleurs jeux pour les débuts des enfants
+
+Vaste sujet, qui ne mettra jamais tout le monde d'accord. Voici cependant quelques idées.
+
+En premier contact, sur Switch il existe des jeux "avec des roulettes" qui ont des options qui permettent de ne pas perdre : Kirby Star Allies, Yoshi's Crafted World, les jeux LEGO, New Super Mario Bros U Deluxe, Mario Kart...
+
+Pour les enfants plus à l'aise avec les jeux vidéo, mais encore trop jeunes pour le sang et le gore :
+
+- des jeux de plateforme plus complexes ou difficiles (Mario)
+- des jeux de tir cartoon (Splatoon)
+- des RPG simples (Pokémon) à condition qu'il sache lire
+- des jeux de réflexion pas trop complexes (Captain Toad, Professeur Layton)
+- de la stratégie ou gestion comme un city builder (ça va le faire progresser en maths...)
+- des jeux de coopération (Overcooked)
+- des puzzle games (Tetris)
+- des jeux de sport ou de course
+- des party games (Mario Party, Just Dance)
+
+Les jeunes qui n'ont pas peur de l'adversité peuvent aussi affronter des jeux difficiles mais pas (trop) violents : Trials Rising, Trackmania, ou encore Cuphead ou Minecraft.
+
+Si vous avez une fille, pensez à lui montrer un jeu dans lequel on incarne une femme forte : Metroid, Horizon Zero Dawn, Assassin's Creed Odyssey, etc.
+
+Les jeunes aiment souvent bien découvrir et explorer, et certains jeux possèdent un "mode découverte" qui permet d'explorer sans aucune violence, comme les derniers Assassin's Creed.
 
 ## Le rétrogaming
 
-Il est tentant de faire connaître le jeu vidéo à vos enfants à travers ce que vous avez connu vous-même. Mais votre enfant n'est pas vous : il n'a pas les mêmes goûts, et surtout, pas le même référentiel. Super Mario Bros était peut-être le top à votre époque, mais aujourd'hui, votre enfant peut jouer à Fortnite sur un smartphone.
+Il est tentant de faire connaître le jeu vidéo à vos enfants à travers ce que vous avez connu vous-même étant jeune. Mais votre enfant n'est pas vous : il n'a pas les mêmes goûts, et surtout, pas le même référentiel. Super Mario Bros (NES) était peut-être le top à votre époque, mais aujourd'hui, votre enfant peut jouer à Fortnite sur un smartphone.
 
 Cela dit, le rétrogaming n'est pas à oublier, pour deux raisons principales.
 
 La première raison, c'est que les jeux sont plus simples, et donc plus accessibles : les contrôleurs ont moins de boutons, et les jeux en 2D (ou en 3D avec caméra fixe) sont plus simples à contrôler que les jeux modernes avec 50 actions possibles qui changent en fonction du contexte. La manipulation est plus simple, mais les jeux eux-même également : Mario qui va de gauche à droite dans le premier épisode, c'est plus facile à gérer que Mario qui peut aller partout, faire du wall jump et se transformer dans Odyssey.
 
-La seconde raison, c'est que la plupart des jeux étaient moins violents qu'aujourd'hui, du moins avant Mortal Kombat. En plus des restrictions mises en place notamment par Nintendo, ils étaient souvent calibrés pour les enfants ou les ados, et la technique limitée rend la violence très abstraite car les personnages ne sont pas réalistes.
+La seconde raison, c'est que la plupart des jeux étaient moins violents qu'aujourd'hui, du moins avant Mortal Kombat. En plus des restrictions mises en place notamment par Nintendo, ils étaient souvent calibrés pour les enfants ou les ados, et la technique limitée rend la violence très abstraite car les personnages ne sont généralement pas réalistes.
 
 Enfin, votre enfant peut aussi être intéressé pour découvrir ce avec quoi vous avez grandi ; mais n'essayez pas de lui faire aimer à tout prix si vous ne voulez pas passer pour un vieux con.
 
