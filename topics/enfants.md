@@ -28,19 +28,65 @@ N'essayez pas d'imposer vos goûts à votre enfant. Si votre jeu d'amour de votr
 
 ## Le PEGI
 
-Si votre enfant veut que vous lui achetiez un jeu que vous ne connaissez pas, sachez que le [PEGI](https://pegi.info/), l'organisme de classification Européen, donne de nombreuses informations sur chaque jeu de manière synthétique, ainsi que de nombreux conseils et indications.
+Le [PEGI](https://pegi.info/) (équivalent des ESRB aux US, ou CERO au Japon), Pan European Game Information, est un système de classification des jeux vidéo.
 
-Il faut savoir que la "limite d'âge" n'est qu'une synthèse de différents indicateurs : langage, discrimination, drogues, peur, paris, sexe, violence et achats in-app. Par exemple, un jeu non-violent avec des éléments qui peuvent faire peur aux plus jeunes passent en PEGI 7. Autre exemple, le jeu "51 Worldwide Games" de Nintendo n'a que des jeux de société, mais est PEGI 12 car il représente du black jack qui est un jeu de casino.
+Il évalue **l'âge auquel le jeu n'aura pas d'impact négatif** ; autrement dit, ce n'est pas à un jeu vidéo d'initier un jeune enfant à la violence, ni d'apprendre la sexualité à un ado.
 
-Attention, la limite d'âge ne donne absolument aucune indication sur le fait que le jeu soit réellement adapté à la classe d'âge en terme de complexité. Un jeu d'aventure avec des kilomètres de textes, une simulation hardcore, un jeu de gestion avec d'immenses tableaux de chiffres : tout ça peut parfaitement être classé PEGI 3 s'il n'y a pas de violence, de langage grossier, etc.
+Si votre enfant veut que vous lui achetiez un jeu que vous ne connaissez pas, sachez que leur site donne de nombreuses informations sur chaque jeu de manière synthétique, ainsi que de nombreux conseils et indications.
 
-Sur le site PEGI, chaque jeu évalué décrit précisément les éléments qui déclenchent les indicateurs, par exemple :
+### Qu'est-ce que le PEGI ?
 
-> Violence consists of the player attacking enemies using a wooden sword. Enemies generally flicker when hit and then disappear in a cloud of smoke when defeated. There is a boss battle at the end of each dungeon level. Most of the bosses are oversized animals. However, one battle involves a mutated human-like character with burning eyes, whose appearance may scare younger children.
+C'est un système informatif qui décrit rapidement le public à qui le jeu s'adresse : c'est l'équivalent du "nutri-score" de l'alimentation, ou des étiquettes énergétiques de l'électro-ménager, une vignette qui permet de savoir en un coup d'oeil si le dernier GTA est adapté pour votre bambin de 6 ans.
 
-A vous de regarder les indicateurs, et de déterminer si le jeu est adapté à votre enfant.
+C'est un système utilisé par la plupart des pays européen, et donc un compromis entre différentes cultures et sensibilités. Certains pays (comme l'Allemagne) ont leur propre système, car ils ont des contraintes légales différentes.
 
-Attention, tous les jeux ne sont pas classifiés par le PEGI : globalement, tous les jeux qui sortent sur console le sont, ainsi que les jeux des "gros" éditeurs, mais les jeux indépendants PC ou mobile le sont rarement (à moins de sortir aussi sur console).
+La "limite d'âge" n'est qu'une synthèse de différents indicateurs : langage, discrimination, drogues, peur, paris, sexe, violence et achats in-app.
+
+La présence d'un seul indicateur suffit pour faire changer la classification. Par exemple, un jeu non-violent avec un seul gros mot passera en PEGI 7. Autre exemple, le jeu "51 Worldwide Games" de Nintendo n'a que des jeux de société, mais est PEGI 12 car il représente du black jack, qui est un jeu de casino.
+
+C'est un système auto-régulé : les éditeurs soumettent eux-même les classifications, qui sont vérifiées a posteriori.
+
+### Qu'est-ce que n'est PAS le PEGI ?
+
+Contrairement au cinéma, ce n'est pas une obligation ni une interdiction : les magasins ont le droit de vendre un jeu PEGI 18 à un enfant, et rien ne vous interdit de jouer à un jeu PEGI 12 avec votre enfant de 6 ans.
+
+La limite d'âge ne donne absolument aucune indication sur la difficulté ni la complexité. Un jeu d'aventure avec des kilomètres de textes, une simulation de course exigeante, un jeu de gestion avec d'immenses tableaux de chiffres : tout ça sera classé PEGI 3 s'il n'y a pas de violence, de langage grossier, etc.
+
+La classification n'est pas non plus obligatoire pour les jeux dématérialisés : la plupart des jeux Steam n'ont pas cette classification. En revanche, elle est obligatoire pour les jeux vendus en boîte, et les consoliers (Sony, Microsoft, Nintendo) l'imposent aussi pour les jeux dématérialisés.
+
+Elle ne classifie pas les interactions en ligne : dès qu'il jouera en ligne, votre enfant sera soumis à un torrent d'insultes racistes et homophobes, le PEGI s'en lave les mains.
+
+### Mieux comprendre les classifications
+
+Grosso modo, sans rentrer dans les détails, listes non exhaustives :
+
+- **PEGI 3** : rien qui puisse effrayer un enfant de 3 ans, aucune grossièreté, ambiance enfantine/cartoon/non réaliste, pas de souffrance. Pensez aux jeux de sport, par exemple.
+- **PEGI 7** : peut avoir des scènes ou des méchants impressionnants, et de la violence très modérée et qui reste "cartoon". La plupart des jeux "enfantins" avec des ennemis à éliminer ou des scènes un peu "sombres" (un château hanté, un boss un peu gros) sont ici, comme Super Mario.
+- **PEGI 12** : peut avoir de la violence modérée sur des humains et humanoïdes, et des allusions sexuelles non explicites. Les jeux d'action "soft" comme les Zelda sont ici, ainsi que beaucoup de JRPG.
+- **PEGI 16** : tout ce qui présente de la violence "réaliste" mais pas extrême (ou bien sur des personnages non réalistes), de la sexualité non explicite, et des références à tabac/drogue/alcool. C'est ici que l'on trouve les jeux où l'on se tape ou se tire dessus sans que ce soit (trop) gore, comme certains RPG (Elden Ring), certains FPS (Halo), ou certains jeux "d'horreur psychologique" (Project Zero).
+- **PEGI 18** : tout le reste, avec notamment la violence gore et gratuite comme les démembrements, la violence contre des personnages sans défense, la sexualité "explicite", ainsi que la glorification des tabac/drogue/alcool/casino : les GTA, Call of Duty, Resident Evil, etc.
+
+Un jeu PEGI 18 n'est pas forcément un jeu immoral : par exemple, un jeu dans lequel on enquête sur des meurtres dans lequel on voit des corps mutilés sera PEGI 18.
+
+Sur le site PEGI, chaque jeu évalué décrit précisément les éléments qui déclenchent les indicateurs, exemple avec un jeu Bob L'Eponge (PEGI 7), qui précise, outre la violence modérée dans un contexte enfantin, qu'une scène a un thème halloween noté "pas particulièrement effrayant" (pour un enfant de 7 ans).
+
+> Advice for consumers
+> 
+> This game has received a PEGI 7 because it features non-realistic violence in a child-friendly setting or context. Not suitable for persons under 7 years of age.
+> 
+> Brief outline of the game
+> 
+> Adventure game in which SpongeBob and Patrick accidentally rip the fabric of the universe by granting too many wishes with wish-granting soap. Now it's up to them to save their friends, who have been misplaced in various alternative universes, and return things to normal.
+> 
+> Content specific issues
+> 
+> The game features combat with alien enemies. The violence is mild and comical, in line with the animated SpongeBob television series. Enemies burst into purple goo when defeated and SpongeBob freezes and falls over in a slapstick manner when he runs out of health. His health is restored if he picks up pairs of magical underpants.
+> 
+> Other issues
+> 
+> There is a Hallowe'en themed level, featuring some skulls and pumpkins, but it is not particularly scary.
+
+A vous de regarder les indicateurs et la description, et de déterminer si le jeu est adapté à votre enfant.
 
 ## Le contrôle parental
 
