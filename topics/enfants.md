@@ -101,6 +101,18 @@ Chaque console (et mobile) permet de gérer "à distance" ce que peuvent faire v
 
 Windows 10 et les plateformes de jeu (Steam, Origin...) ont également des systèmes similaires, et les FAI proposent souvent des logiciels de contrôle d'accès à internet.
 
+## Les free to play
+
+Vous le savez sans doute, les free to play ne sont pas vraiment gratuits, et fonctionnent grâce à des systèmes de paiement "in-game" : on achète des bonus, ou des cosmétiques (skins), avec de "l'argent du jeu" gagné en jouant, ou en payant de "l'argent réel".
+
+Les jeux sont plus ou moins agressifs sur leur politique "non payante" : certains ne proposent que du cosmétique, d'autres posent des murs à la progression si on ne paye pas, et d'autres fonctionnent en "version démo" avec du contenu limité.
+
+Dans **tous** les cas, les jeux sont calibrés pour chercher à faire dépenser les joueurs, en jouant souvent sur la peur de manquer ("offre limitée !"), la gratification instantanée et constante ("paye seulement 1€ et gagne un niveau !"), mais aussi la peur de l'exclusion sociale ("tout mes copains ont les dernières skins Fortnite, pourquoi pas moi ?").
+
+Les enfants sont particulièrement vulnérables à ces systèmes, il faut donc être extrêmement vigilant, expliquer et surtout encadrer : que ce soit "rien du tout", un certain montant par mois, ou "tous les season pass mais rien d'autre".
+
+Le plus simple est d'interdire tous les free to play, mais réussir à expliquer les mécanismes et comment ne pas se faire avoir lui servira toute sa vie (mais ce n'est pas facile).
+
 ## Le jeu en ligne
 
 Vous le savez, mais vous n'y pensez peut-être pas : les prédateurs existent. Vous pouvez tenter de surveiller tout ce que font vos enfants, mais vous pouvez aussi les y préparer, leur donner des conseils pour faire face à cette situation malheureusement très probable, et lui signaler que vous restez à son écoute, et ne l'engueulez pas pour ce qu'il/elle subit (c'est très important).
