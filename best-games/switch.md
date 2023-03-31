@@ -796,7 +796,7 @@ En gras les jeux exclusifs et les sorties attendues.
 - Avril : GrimGrimoire OnceMore (7), Mega Man Battle Network Legacy Collection (14), Minecraft Legends (18), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
 - Mai : **Zelda Tears of the Kingdom** (12), Lego 2K Drive (19), Wrestlequest (?)
 - Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
-- Juillet : The Legend of Heroes Trails into Reverie (7), **Pikmin 4** (21), Disney Illusion Island (28)
+- Juillet : The Legend of Heroes Trails into Reverie (7), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Disney Illusion Island (28)
 - Août : **Sea of Stars** (29)
 
 - 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo Party Central, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice
