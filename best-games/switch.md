@@ -65,9 +65,9 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Persona 5 Royal, [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V, [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
 - **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Engage, Triangle Strategy
-- **Stratégie, tactique** : 13 Sentinels Aegis Rim, Civilization VI, Into The Breach, Mario + Lapins Crétins Sparks of Hope, Pikmin 3 Deluxe
+- **Stratégie, tactique** : Advance Wars 1+2 Re-boot-camp, Civilization VI, Into The Breach, Mario + Lapins Crétins Sparks of Hope, Pikmin 3 Deluxe
 - **Farming, construction, survie** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), Dragon Quest Builders 2, Minecraft, No Man's Sky, Stardew Valley
-- **Point & click, enquête, visual novel** : [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
+- **Point & click, enquête, visual novel** : 13 Sentinels Aegis Rim, [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
 - **Puzzle, énigmes, réflexion** : Baba Is You, Picross S Genesis & Master System Edition, Puyo Puyo Tetris 2, Tetris Effect Connected, [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), Portal Companion Collection
 - **Sport** : [Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/), Mario Strikers Battle League, Mario Tennis Aces
 - **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe, Wreckfest
@@ -337,7 +337,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 ## RPG tour par tour
 
-- Atelier (Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), Ryza [2](https://www.cosmo0.fr/critique/atelier-ryza-2/), Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2)
+- Atelier (Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), Ryza [2](https://www.cosmo0.fr/critique/atelier-ryza-2/) Ryza 3, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2)
 - Bravely Default 2
 - Bug Fables
 - Chained Echoes
@@ -373,7 +373,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 ## Stratégie, tactique
 
-- 13 Sentinels Aegis Rim
+- Advance Wars 1+2 Re-boot-camp
 - Bad North
 - Crying Suns
 - Into the Breach
@@ -450,9 +450,9 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 ## Visual novel, aventures textuelles
 
+- 13 Sentinels Aegis Rim
 - [80 Days](https://www.cosmo0.fr/critique/80-days/)
 - [AI The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), AI The Somnium Files NirvanA Initiative
-- Batman The Enemy Within
 - Danganronpa (1, 2, 3)
 - Doki Doki Literature Club Plus
 - [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
@@ -790,18 +790,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : -
+- Jeux sortis, en attente de tests : Minecraft Legends
 
-- Mars : Have a Nice Death (22), **Atelier Ryza 3** (24), Spongebob Squarepants Cosmic Shake (?)
-- Avril : GrimGrimoire OnceMore (7), Mega Man Battle Network Legacy Collection (14), Minecraft Legends (18), **Advance Wars 1+2 Re-boot-camp** (21), Omega Strikers (27), Tron Identity (?)
 - Mai : **Zelda Tears of the Kingdom** (12), Lego 2K Drive (19), Wrestlequest (?)
 - Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
-- Juillet : The Legend of Heroes Trails into Reverie (7), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Disney Illusion Island (28)
-- Août : **Sea of Stars** (29)
+- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Disney Illusion Island (28)
+- Août : Bomb Rush Cyberfunk (18), **Sea of Stars** (29)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Bomb Rush Cyberfunk, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo Party Central, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo Party Central, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice, Blasphemous 2
 
-- Pas de date : Circuit Superstars, Oxenfree 2, Mina the Hollower, Front Mission 3 Remake, Visco Collection, Hades 2, Fantasy Life i, Professeur Layton World of Steam
+- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Visco Collection, Hades 2, Fantasy Life i, Professeur Layton World of Steam
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
 
