@@ -789,14 +789,14 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : Minecraft Legends
+- Jeux sortis, en attente de tests : Final Fantasy Pixel Remaster
 
 - Mai : **Zelda Tears of the Kingdom** (12), Lego 2K Drive (19), Wrestlequest (?)
-- Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
+- Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Disney Illusion Island (28)
 - Août : Bomb Rush Cyberfunk (18), **Sea of Stars** (29)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Dordogne, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo Party Central, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice, Blasphemous 2
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Story of Seasons A Wonderful Life, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Ys X Nordics, Ys Memoire: The Oath in Felghana, SteamWorld Build, Disgaea 7, Samba de Amigo Party Central, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice, Blasphemous 2, Might & Magic Clash of Heroes
 
 - Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Visco Collection, Hades 2, Fantasy Life i, Professeur Layton World of Steam
 
