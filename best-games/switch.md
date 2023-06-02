@@ -46,7 +46,7 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 - Stardew Valley
 - [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - Super Smash Bros Ultimate
-- [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/)
+- The Legend of Zelda: Tears of the Kingdom
 - Xenoblade Chronicles 3
 
 ## Top 100 Nintendo Switch / les classiques
@@ -55,7 +55,7 @@ Une sélection (forcément limitée) des meilleurs jeux de la machine, classée 
 
 Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir quelques représentants de chaque genre : vous y trouverez forcément des jeux que vous n'aimez pas, et vous n'y trouverez pas certains jeux que vous adorez, et c'est bien normal, c'est une liste de compromis.
 
-- **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Bayonetta 2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Death's Door, Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), [The Legend of Zelda: Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
+- **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Bayonetta 2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Death's Door, Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), The Legend of Zelda: Tears of the Kingdom, [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
 - **Shooters, FPS, TPS** : Metroid Prime Remaster, Splatoon 3, BioShock: The Collection, DOOM (2016)
 - **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/), Yoshi's Crafted World
 - **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/), Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
@@ -79,7 +79,7 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 
 Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qui durent un peu plus longtemps parce que vous n'en achetez pas toutes les semaines mais qui ne vous durent pas 3 ans non plus ; vous ne voyez pas la différence entre Aventure/action et RPG/action ; vous ne savez pas ce qu'est un beat'em up ou un shoot'em up ? Voici un regroupement peut-être plus adapté à vos besoins et envies.
 
-- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), Bayonetta Origins
+- **Je veux une aventure avec de l'action :** Zelda Breath of the Wild, Zelda Tears of the Kingdom, Astral Chain, [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/), Bayonetta 3, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), Bayonetta Origins
 - **Je veux une aventure avec de la réflexion :** Paper Mario The Origami King, Persona 5 Royal, Captain Toad Treasure Tracker, 13 Sentinels Aegis Rim
 - **Je veux tirer sur des trucs :** Bioshock Collection, Borderlands Collection, Metro Redux, Saints Row 4, Doom Eternal
 - **Je veux un jeu de plateformes :** New Super Mario Bros U DX, Super Mario Odyssey, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/)/[Ori and the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
@@ -153,7 +153,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Paper Mario The Origami King
 - Slime Rancher
 - Tunic
-- [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), [Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), [Skyward Sword HD](https://www.cosmo0.fr/critique/zelda-skyward-sword/)
+- [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), Tears of the Kingdom, [Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), [Skyward Sword HD](https://www.cosmo0.fr/critique/zelda-skyward-sword/)
 
 ## Shooters, FPS, TPS
 
@@ -338,16 +338,16 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 - Atelier (Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), Ryza [2](https://www.cosmo0.fr/critique/atelier-ryza-2/) Ryza 3, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2)
 - Bravely Default 2
-- Bug Fables
 - Chained Echoes
 - Divinity Original Sin 2
 - Dragon Quest (1, 2, 3, XI S)
-- Final Fantasy (VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/))
+- Etrian Odyssey Origins
+- Final Fantasy (VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Pixel Remaster)
 - Live A Live
 - Miitopia
 - Monster Hunter Stories 2
 - Octopath Traveler 1, 2
-- Persona 3 Portable, 4 Golder, 5 Royal
+- Persona 3 Portable, 4 Golden, 5 Royal
 - Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
 - Shin Megami Tensei (III Nocturne, V)
 - TemTem
@@ -561,13 +561,13 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - Hot Wheels Unleashed
 - [Hotshot Racing](https://www.cosmo0.fr/critique/hotshot-racing/)
 - [Inertial Drift](https://www.cosmo0.fr/critique/inertial-drift/)
+- Lego 2K Drive
 - Mario Kart 8 DX
 - MotoGP
 - Need For Speed Hot Pursuit
 - Redout (1, 2)
 - Rush Rally (3, [Origins](https://www.cosmo0.fr/critique/rush-rally-origins/))
-- [Sega Ages Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/)
-- [Sega Ages Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/)
+- [Sega Ages Out Run](https://www.cosmo0.fr/critique/sega-ages-out-run/), [Virtua Racing](https://www.cosmo0.fr/critique/sega-ages-virtua-racing/)
 - Team Sonic Racing
 - Trials Rising
 - WRC Generations
@@ -789,10 +789,9 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : Final Fantasy Pixel Remaster
+- Jeux sortis, en attente de tests : 
 
-- Mai : **Zelda Tears of the Kingdom** (12), Lego 2K Drive (19), Wrestlequest (?)
-- Juin : **Etrian Odyssey Origins** (1), We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
+- Juin : We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Disney Illusion Island (28)
 - Août : Bomb Rush Cyberfunk (18), **Sea of Stars** (29)
 
