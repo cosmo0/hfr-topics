@@ -791,16 +791,19 @@ En gras les jeux exclusifs et les sorties attendues.
 
 - Jeux sortis, en attente de tests : 
 
-- Juin : We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
-- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Nobugana's Ambition Awakening (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Disney Illusion Island (28)
-- Août : Bomb Rush Cyberfunk (18), **Sea of Stars** (29), Samba de Amigo Party Central (29)
-- Septembre : Mortal Kombat 1 (19), Infinity Strash Dragon Quest The Adventure of Dai (28), Ys X Nordics (28 JP)
+- Juin : We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), The Lara Croft Collection (29), Picontier (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
+- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Nobugana's Ambition Awakening (20), Might & Magic Clash of Heroes (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Koa and the Five Pirates of Mara (27), Disney Illusion Island (28)
+- Août : Crymachina (6), Bomb Rush Cyberfunk (18), **Sea of Stars** (29), Samba de Amigo Party Central (29)
+- Septembre : Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), Ys X Nordics (28 JP)
 - Octobre : Disgaea 7 (6), Hot Wheels Unleashed 2 (19)
+  Novembre : **Persona 5 Tactica** (17)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Super Bomberman R2, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Ys Memoire: The Oath in Felghana, SteamWorld Build, Baten Kaitos 1+2, Crymachina, Lord of The Rings Gollum, Fae Farm, DecaPolice, Blasphemous 2, Might & Magic Clash of Heroes
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Ys Memoire: The Oath in Felghana, SteamWorld Build, DecaPolice, Blasphemous 2, Sonic Superstars
 
-- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Visco Collection, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters
+- 2024 : Prince of Persia The Lost Crown (18/01), Persona 3 Reload
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Picontier, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
+- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters
+
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
