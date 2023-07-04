@@ -434,14 +434,14 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - The Long Dark
 - This War of Mine
 
-## Walking simulators
+## Walking simulators, histoires interactives
 
 - [A Short Hike](https://www.cosmo0.fr/critique/a-short-hike/)
 - [Abzu](https://www.cosmo0.fr/critique/abzu/)
 - [Alba A Wildlife Adventure](https://www.cosmo0.fr/critique/alba-a-wildlife-adventure/)
+- Dordogne
 - Firewatch
 - Gone Home
-- Lil Gator Game
 - The Stanley Parable
 - The Vanishing of Ethan Carter
 - [Umurangi Generation](https://www.cosmo0.fr/critique/umurangi-generation-special-edition/)
@@ -476,7 +476,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 - [Broken Age](https://www.cosmo0.fr/critique/broken-age/)
 - Deponia
 - Disco Elysium
-- [Grim Fandango Remastered](https://www.cosmo0.fr/critique/critique-express/grim-fandango-remastered/)
+- Ghost Trick
 - Heaven's Vault
 - Hypnospace Outlaw
 - Paradise Killer
@@ -789,21 +789,20 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : -
+- Jeux sortis, en attente de tests : Picontier
 
-- Juin : We Love Katamari Reroll (2), Dordogne (13), Xicatrice (29), The Lara Croft Collection (29), Picontier (29), Master Detective Archive Rain Code (30), Ghost Trick (30), Harmony The Fall of Reverie (?)
 - Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Manic Mechanics (13), Nobugana's Ambition Awakening (20), Might & Magic Clash of Heroes (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Koa and the Five Pirates of Mara (27), Disney Illusion Island (28)
-- Août : Crymachina (6), Vampire Survivors (17), Bomb Rush Cyberfunk (18), **Sea of Stars** (29), Samba de Amigo Party Central (29)
+- Août : Vampire Survivors (17), Bomb Rush Cyberfunk (18), **Sea of Stars** (29), Samba de Amigo Party Central (29)
 - Septembre : Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), Ys X Nordics (28 JP)
 - Octobre : Silent Hope (3), **Detective Pikachu 2** (6), Disgaea 7 (6), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Headbangers Rhythm Royale (31)
-- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), **Persona 5 Tactica** (17), **Mario RPG Remake** (17)
+- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
 - Décembre : **Dragon Quest Monsters** (1)
 
 - 2023 : The Plucky Squire, Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Ys Memoire: The Oath in Felghana, SteamWorld Build, DecaPolice, **Blasphemous 2**, **Sonic Superstars**, **Batman Arkham Trilogy**, Mythforce
 
 - 2024 : Prince of Persia The Lost Crown (18/01), **Princess Peach**, **Luigi's Mansion 2**, Penny's Big Breakaway
 
-- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters
+- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters, Xicatrice
 
 - Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
 
