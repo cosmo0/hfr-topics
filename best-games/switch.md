@@ -126,7 +126,7 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 Commencez par regarder le classement PEGI pour une indication de l'âge. Ça n'indique pas l'âge "idéal" du jeu, mais ça donne une indication de l'adaptation du contenu (violence, gore, sexe, etc). Prenez en compte la difficulté, mais aussi les éléments qui peuvent faire peur à votre enfant : violence, monstres, ambiance oppressante, etc.
 
-J'ai fait une liste de 100 jeux adaptés aux enfants : https://www.dekudeals.com/lists/5p9r5m
+J'ai fait une liste de 100 jeux adaptés aux enfants : [Les jeux pour enfants](https://docs.google.com/spreadsheets/d/1cSz144snVvaIzcc23oQfskGBIOpD3oTgixZV6NbQ0WU/)
 
 J'ai essayé de varier :
 - les genres : plateforme, puzzle, aventure, stratégie, RPG, sport, party, etc
