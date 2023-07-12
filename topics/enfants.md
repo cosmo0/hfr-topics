@@ -147,6 +147,27 @@ Si vous avez une fille, pensez à lui montrer un jeu dans lequel on incarne une 
 
 Les jeunes aiment souvent bien découvrir et explorer, et certains jeux possèdent un "mode découverte" qui permet d'explorer sans aucune violence, comme les derniers Assassin's Creed.
 
+J'ai fait une liste de 100 jeux adaptés aux enfants sur Switch : https://www.dekudeals.com/lists/5p9r5m
+
+J'ai essayé de varier :
+
+- les genres : plateforme, puzzle, aventure, stratégie, RPG, sport, party, etc
+- les styles : mignon, rigolo ou un peu plus sérieux sans jamais verser dans le sombre ; cartoon, anime ou réaliste, etc
+- les prix : de 1€ à 70€
+- les durées de vie : de même pas 1h à à des centaines d'heures
+- les difficultés : de "on ne peut pas perdre" jusqu'aux die & retry, avec un biais vers le pas trop dur
+- la nécessité ou non de savoir lire et compter
+
+Le PEGI est 3 ou 7, à quelques exceptions :
+
+- 51 Worldwide Games : poker et blackjack (jeux de casino = PEGI 12)
+- Hatsune Miku : un peu de légère sexualisation de temps en temps
+- Super Smash Bros Ultimate : ça bastonne mais c'est cartoon
+- TMNT Shredder's Revenge : idem
+- Worms WMD : quelques jurons
+
+J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a des jeux PEGI3 qui ne parleront pas aux gamins, que ce soit une simulation de course austère, ou un jeu non-violent mais qui parle d'un sujet complexe.
+
 ## Le rétrogaming
 
 Il est tentant de faire connaître le jeu vidéo à vos enfants à travers ce que vous avez connu vous-même étant jeune. Mais votre enfant n'est pas vous : il n'a pas les mêmes goûts, et surtout, pas le même référentiel. Super Mario Bros (NES) était peut-être le top à votre époque, mais aujourd'hui, votre enfant peut jouer à Fortnite sur un smartphone.
