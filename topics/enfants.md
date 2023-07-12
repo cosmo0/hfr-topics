@@ -151,7 +151,7 @@ Si vous avez une fille, pensez à lui montrer un jeu dans lequel on incarne une 
 
 Les jeunes aiment souvent bien découvrir et explorer, et certains jeux possèdent un "mode découverte" qui permet d'explorer sans aucune violence, comme les derniers Assassin's Creed.
 
-J'ai fait une liste de 100 jeux adaptés aux enfants sur Switch : https://www.dekudeals.com/lists/5p9r5m
+J'ai fait une liste de 100 jeux adaptés aux enfants sur Switch : https://docs.google.com/spreadsheets/d/1cSz144snVvaIzcc23oQfskGBIOpD3oTgixZV6NbQ0WU/
 
 J'ai essayé de varier :
 
