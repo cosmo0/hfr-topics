@@ -124,11 +124,26 @@ Vous jouez assez peu ; vous n'êtes pas un "pro gamer" ; vous voulez des jeux qu
 
 ## Jeux adaptés aux enfants
 
-- Commencez par regarder le classement PEGI pour une indication de l'âge. Ça n'indique pas l'âge "idéal" du jeu, mais ça donne une indication de l'adaptation du contenu (violence, gore, sexe, etc).
-- Prenez en compte la difficulté, mais aussi les éléments qui peuvent faire peur à votre enfant : violence, monstres, ambiance oppressante, etc.
-- En premier contact, il existe des jeux "avec des roulettes" qui ont des options qui permettent de ne pas perdre : Kirby Star Allies, Yoshi's Crafted World, les jeux LEGO, New Super Mario Bros U Deluxe, Mario Kart...
-- Pour les enfants plus à l'aise avec les jeux vidéo, mais encore trop jeunes pour le sang et le gore : Splatoon 3, Donkey Kong Country Tropical Freeze, Sonic Mania, Yooka-Laylee, Snake Pass, Freedom Planet, Mega Man, Shovel Knight, Yoku's Island Express, Mario + Lapins Crétins, les Final Fantasy, Pokémon, Captain Toad, Worms, Minecraft, Dragon Quest Builders...
-- Pensez aussi aux jeux "parfaitement neutres" (pas de violence, facile à comprendre, etc) comme les puzzle games, les jeux de sport, de course, les party games, etc : Toki Tori 2+, Go Vacation, Sports Party, Super Mario Party, Tetris 99, Puyo Puyo, Lumines...
+Commencez par regarder le classement PEGI pour une indication de l'âge. Ça n'indique pas l'âge "idéal" du jeu, mais ça donne une indication de l'adaptation du contenu (violence, gore, sexe, etc). Prenez en compte la difficulté, mais aussi les éléments qui peuvent faire peur à votre enfant : violence, monstres, ambiance oppressante, etc.
+
+J'ai fait une liste de 100 jeux adaptés aux enfants : https://www.dekudeals.com/lists/5p9r5m
+
+J'ai essayé de varier :
+- les genres : plateforme, puzzle, aventure, stratégie, RPG, sport, party, etc
+- les styles : mignon, rigolo ou un peu plus sérieux sans jamais verser dans le sombre ; cartoon, anime ou réaliste, etc
+- les prix : de 1€ à 70€
+- les durées de vie : de même pas 1h à à des centaines d'heures
+- les difficultés : de "on ne peut pas perdre" jusqu'aux die & retry, avec un biais vers le pas trop dur
+- la nécessité ou non de savoir lire et compter
+
+Le PEGI est 3 ou 7, à quelques exceptions :
+- 51 Worldwide Games : poker et blackjack (jeux de casino = PEGI 12)
+- Hatsune Miku : un peu de légère sexualisation de temps en temps
+- Super Smash Bros Ultimate : ça bastonne mais c'est cartoon
+- TMNT Shredder's Revenge : idem
+- Worms WMD : quelques jurons
+
+J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a des jeux PEGI3 qui ne parleront pas aux gamins, que ce soit une simulation de course austère, ou un jeu non-violent mais qui parle d'un sujet complexe.
 
 ---
 
