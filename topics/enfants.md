@@ -60,7 +60,7 @@ Elle ne classifie pas les interactions en ligne : dès qu'il jouera en ligne, vo
 
 Grosso modo, sans rentrer dans les détails, listes non exhaustives :
 
-- **PEGI 3** : rien qui puisse effrayer un enfant de 3 ans, aucune grossièreté, ambiance enfantine/cartoon/non réaliste, pas de souffrance. Pensez aux jeux de sport, par exemple.
+- **PEGI 3** : rien qui puisse effrayer un enfant de 3 ans, aucune grossièreté, ambiance enfantine/cartoon/non réaliste, pas de souffrance. Pensez aux jeux de sport, à la plupart des jeux de course, les party games comme Overcooked, Animal Crossing, ou encore les jeux de plateforme hyper gentillets comme Yoshi.
 - **PEGI 7** : peut avoir des scènes ou des méchants impressionnants, et de la violence très modérée et qui reste "cartoon". La plupart des jeux "enfantins" avec des ennemis à éliminer ou des scènes un peu "sombres" (un château hanté, un boss un peu gros) sont ici, comme Super Mario.
 - **PEGI 12** : peut avoir de la violence modérée sur des humains et humanoïdes, et des allusions sexuelles non explicites. Les jeux d'action "soft" comme les Zelda sont ici, ainsi que beaucoup de JRPG.
 - **PEGI 16** : tout ce qui présente de la violence "réaliste" mais pas extrême (ou bien sur des personnages non réalistes), de la sexualité non explicite, et des références à tabac/drogue/alcool. C'est ici que l'on trouve les jeux où l'on se tape ou se tire dessus sans que ce soit (trop) gore, comme certains RPG (Elden Ring), certains FPS (Halo), ou certains jeux "d'horreur psychologique" (Project Zero).
@@ -98,8 +98,12 @@ Chaque console (et mobile) permet de gérer "à distance" ce que peuvent faire v
 - [Playstation](https://www.playstation.com/fr-fr/support/account/playstation-family-account-set-up/)
 - [Switch](https://www.nintendo.fr/Gamme-Nintendo-Switch/Controle-parental-de-la-Nintendo-Switch/Controle-parental-de-la-Nintendo-Switch-1183145.html)
 - [Xbox](https://support.xbox.com/fr-FR/help/family-online-safety/browse)
+- [Steam](https://help.steampowered.com/en/faqs/view/6B1A-66BE-E911-3D98)
+- [Epic Game Store](https://www.epicgames.com/site/fr/parental-controls)
+- [EA Origin](https://help.ea.com/fr/help/account/online-access-for-child-accounts/)
+- [Windows](https://www.microsoft.com/fr-fr/microsoft-365/family-safety)
 
-Windows 10 et les plateformes de jeu (Steam, Origin...) ont également des systèmes similaires, et les FAI proposent souvent des logiciels de contrôle d'accès à internet.
+Les OS et les stores/plateformes de jeu ont généralement des systèmes similaires. Les FAI proposent souvent des logiciels de contrôle d'accès à internet.
 
 ## Les free to play
 
