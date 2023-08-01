@@ -806,16 +806,16 @@ En gras les jeux exclusifs et les sorties attendues.
 
 - Jeux sortis, en attente de tests : Picontier, The Settlers New Allies
 
-- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Manic Mechanics (13), Nobugana's Ambition Awakening (20), Might & Magic Clash of Heroes (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Koa and the Five Pirates of Mara (27), Disney Illusion Island (28)
+- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Manic Mechanics (13), Nobugana's Ambition Awakening (20), Might & Magic Clash of Heroes (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Koa and the Five Pirates of Mara (27), Disney Illusion Island (28), Venba (31)
 - Août : Vampire Survivors (17), Bomb Rush Cyberfunk (18), **Blasphemous 2** (24), **Sea of Stars** (29), Samba de Amigo Party Central (29)
 - Septembre : Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), EA Sport FC 24 (29)
 - Octobre : Silent Hope (3), **Detective Pikachu 2** (6), Disgaea 7 (6), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Headbangers Rhythm Royale (31)
 - Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
 - Décembre : **Dragon Quest Monsters** (1)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Venba, Ys Memoire: The Oath in Felghana, SteamWorld Build, DecaPolice, **Sonic Superstars**, **Batman Arkham Trilogy**, Mythforce
+- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, SteamWorld Build, DecaPolice, **Sonic Superstars**, **Batman Arkham Trilogy**, Mythforce
 
-- 2024 : Prince of Persia The Lost Crown (18/01), **Princess Peach**, **Luigi's Mansion 2**, Penny's Big Breakaway
+- 2024 : Prince of Persia The Lost Crown (18/01), **Princess Peach**, **Luigi's Mansion 2**, Penny's Big Breakaway, Eiyuden Chronicle Hundred Heroes
 
 - Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters, Xicatrice, Ys X Nordics
 
