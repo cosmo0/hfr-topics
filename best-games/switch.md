@@ -58,16 +58,16 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **Aventure/action** : Alien Isolation, [Astral Chain](https://www.cosmo0.fr/critique/astral-chain/), [Bayonetta 2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), Death's Door, Lego Star Wars: The Skywalker Saga, [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/), The Legend of Zelda: Tears of the Kingdom, [The Legend of Zelda: Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/)
 - **Shooters, FPS, TPS** : Metroid Prime Remaster, Splatoon 3, BioShock: The Collection, DOOM (2016)
 - **Plate-forme** : [Celeste](https://www.cosmo0.fr/critique/celeste/), Donkey Kong Country Tropical Freeze, Kirby And The Forgotten Land, [New Super Mario Bros U Deluxe](https://www.cosmo0.fr/critique/new-super-mario-bros-u-deluxe/), [Rayman Legends](https://www.cosmo0.fr/critique/critique-express/rayman-legends/), [Sonic Mania](https://www.cosmo0.fr/critique/sonic-mania/), Super Mario 3d World + Bowser’S Fury, Super Mario Maker 2, [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/), Yoshi's Crafted World
-- **Plate-forme/action, metroidvania** : Blasphemous, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/), Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
+- **Plate-forme/action, metroidvania** : Blasphemous 2, Cuphead, Hollow Knight, [Mark of the Ninja](https://www.cosmo0.fr/critique/mark-of-the-ninja-remastered/), [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/), Monster Boy And The Cursed Kingdom, [Ori and the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), Shovel Knight: Treasure Trove, [Yoku's Island Express](https://www.cosmo0.fr/critique/yokus-island-express/)
 - **Plate-forme/puzzle** : [Captain Toad Trasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/), [Gris](https://www.cosmo0.fr/critique/gris/)
-- **Roguelike** : The Binding of Isaac: Afterbirth+, Dead Cells, Hades, Slay The Spire
+- **Roguelike** : The Binding of Isaac: Afterbirth+, Dead Cells, Hades, Slay The Spire, Vampire Survivors
 - **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Nier Automata, The Witcher 3: Wild Hunt, Xenoblade Chronicles 2, Xenoblade Chronicles 3
 - **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Persona 5 Royal, [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V, [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
 - **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Engage, Triangle Strategy
 - **Stratégie, tactique** : Advance Wars 1+2 Re-boot-camp, Civilization VI, Into The Breach, Mario + Lapins Crétins Sparks of Hope, Pikmin 3 Deluxe
 - **Farming, construction, survie** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), Dragon Quest Builders 2, Minecraft, No Man's Sky, Stardew Valley
-- **Point & click, enquête, visual novel** : 13 Sentinels Aegis Rim, [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Danganronpa Trigger Happy Havoc, Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
+- **Point & click, enquête, visual novel** : 13 Sentinels Aegis Rim, [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
 - **Puzzle, énigmes, réflexion** : Baba Is You, Picross S Genesis & Master System Edition, Puyo Puyo Tetris 2, Tetris Effect Connected, [The Garden Between](https://www.cosmo0.fr/critique/the-gardens-between/), [Untitled Goose Game](https://www.cosmo0.fr/critique/untitled-goose-game/), Portal Companion Collection
 - **Sport** : [Lonely Mountains Downhill](https://www.cosmo0.fr/critique/lonely-mountains-downhill/), Mario Strikers Battle League, Mario Tennis Aces
 - **Course** : [GRID Autosport](https://www.cosmo0.fr/critique/grid-autosport/), [Horizon Chase Turbo](https://www.cosmo0.fr/critique/horizon-chase-turbo/), Mario Kart 8 Deluxe, Wreckfest
@@ -153,10 +153,10 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Astral Chain
 - Bayonetta ([1](https://www.cosmo0.fr/critique/critique-express/bayonetta/), [2](https://www.cosmo0.fr/critique/critique-express/bayonetta-2/), 3)
 - Bayonetta Origins
+- Bomb Rush Cyberfunk
 - Darksiders (1, 2)
 - Death's Door
 - Hellblade Senua's Sacrifice
-- Hitman 3
 - Hotline Miami
 - Hyper Light Drifter
 - [Immortals Fenyx Rising](https://www.cosmo0.fr/critique/immortals-fenyx-rising/)
@@ -284,7 +284,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 ## Plate-forme/exploration, metroidvanias
 
 - Axiom Verge ([1](https://www.cosmo0.fr/critique/axiom-verge/), 2)
-- Blasphemous
+- Blasphemous 1, 2
 - Bloodstained Ritual of the Night
 - Dust: An Elysian Tail
 - [Gato Roboto](https://www.cosmo0.fr/critique/gato-roboto/)
@@ -393,7 +393,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Into the Breach
 - Mario + Lapins Crétins (+ Sparks of Hope)
 - Northgard
-- Pikmin 3
+- Pikmin 3, 4
 - Tiny Metal Full Metal Rumble
 - Wargroove
 - XCOM 2
@@ -678,7 +678,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - [Pure Pool](https://www.cosmo0.fr/critique/pure-pool/)
 - [Sayonara Wild Hearts](https://www.cosmo0.fr/critique/sayonara-wild-hearts/)
 - Shovel Knight Dig
-- Strikey Sisters
+- Vampire Survivors
 
 ## Musique, rythme
 
@@ -804,18 +804,17 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : Picontier, The Settlers New Allies
+- Jeux sortis, en attente de tests : 
 
-- Juillet : The Legend of Heroes Trails into Reverie (7), Oxenfree 2 (12), Manic Mechanics (13), Nobugana's Ambition Awakening (20), Might & Magic Clash of Heroes (20), **Pikmin 4** (21), Double Dragon Gaiden Rise of the Dragon (27), Koa and the Five Pirates of Mara (27), Disney Illusion Island (28), Venba (31)
-- Août : Vampire Survivors (17), Bomb Rush Cyberfunk (18), **Blasphemous 2** (24), **Sea of Stars** (29), Samba de Amigo Party Central (29)
-- Septembre : Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), EA Sport FC 24 (29)
-- Octobre : Silent Hope (3), **Detective Pikachu 2** (6), Disgaea 7 (6), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Headbangers Rhythm Royale (31)
-- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
-- Décembre : **Dragon Quest Monsters** (1)
+- Août : **Sea of Stars** (29), Samba de Amigo Party Central (29)
+- Septembre : The Making of Karateka (5), Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), EA Sport FC 24 (29)
+- Octobre : Silent Hope (3), **Detective Pikachu 2** (6), Disgaea 7 (6), Batman Arkham Trilogy (13), **Sonic Superstars** (17), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Headbangers Rhythm Royale (31)
+- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
+- Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1)
 
-- 2023 : The Plucky Squire, Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, SteamWorld Build, DecaPolice, **Sonic Superstars**, **Batman Arkham Trilogy**, Mythforce
+- 2023 : Demonschool, Moonstone Island, Metal Slug Tactics, Horizon Chase 2, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Mythforce
 
-- 2024 : Prince of Persia The Lost Crown (18/01), **Princess Peach**, **Luigi's Mansion 2**, Penny's Big Breakaway, Eiyuden Chronicle Hundred Heroes
+- 2024 : Prince of Persia The Lost Crown (18/01), **Princess Peach**, **Luigi's Mansion 2**, Penny's Big Breakaway, Eiyuden Chronicle Hundred Heroes, The Plucky Squire
 
 - Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters, Xicatrice, Ys X Nordics
 
