@@ -1,29 +1,34 @@
-# Le rétrogaming sur Raspberry Pi
+# Le rétrogaming sur Raspberry Pi et micro-PCs
 
 ![https://i.imgur.com/gzFVXM5m.png](https://i.imgur.com/gzFVXM5m.png) ![https://i.imgur.com/UwMQsNCm.jpg](https://i.imgur.com/UwMQsNCm.jpg)
 
-Hello et bienvenue sur le topic de l'émulation spécifique au Raspberry Pi [:zytra]
+Hello et bienvenue sur le topic de l'émulation spécifique au Raspberry Pi, mais aussi aux micro-PCs [:zytra]
 
 > **AVERTISSEMENT : SITES DE ROM**
 > Cela devrait aller sans dire : pas de lien vers des sites de téléchargement de rom ici, ni d'évocation de nom de site.
 > Tout contrevenant sera immédiatement signalé et aura droit au minimum à un avertissement, voire à un TT ou un ban si récidive.
 
-## Le matériel
+## Choisir sa machine
 
-Le Raspberry Pi est un nano-ordinateur (8.5 x 5.5 cm environ) pas cher (30 à 50€ selon les modèles) mais suffisamment puissant pour faire tourner les émulateurs jusqu'à la PS1 environ, et surtout, avec une communauté de développeurs très importante.
+- Un Raspberry Pi : relativement peu puissant mais tout petit et surtout très modulaire, on peut lui faire sortir du RGB ou même du JAMMA, y brancher des câbles de stick arcade custom, etc.
+- Un micro-PC : avec un rapport performances/prix imbattable, et une polyvalence à toute épreuve, mais difficile d'en avoir un usage autre que pour un écran plat HDMI.
+
+## Le Raspberry Pi
+
+Le Raspberry Pi est un nano-ordinateur (gros comme une carte de crédit), pas cher (le premier modèle est sorti à moins de 50€ mais les derniers montent presque à 100€), destiné à l'origine au bricolage et à l'apprentissage, mais suffisamment puissant pour faire tourner les émulateurs jusqu'à la PS1 environ, et surtout, avec une communauté très importante.
 
 ### Matériel nécessaire
 
 - Un Raspberry Pi (au moins 3B ou un Pi Zero)
 - Une alim micro-USB (2A semble être suffisant pour être tranquille)
-- Une carte micro-SD de 16Go pour installer le système. Une classe 10 n'est pas du luxe. Attention aux chinoiseries, imitations, et autres fakes.
+- Une carte micro-SD de 16Go pour installer le système ; une classe 10 n'est pas du luxe. Attention aux chinoiseries, imitations, et autres fakes.
 - Une clé USB pour mettre les roms, bien plus pratique que de les mettre sur la SD
 - Au moins une manette
 
 ### Matériel facultatif
 
 - Si vous avez un Pi 1 ou 2, un dongle wifi et un dongle Bluetooth
-- Pour plus de confort, un clavier est également appréciable
+- Si vous souhaitez émuler des vieux ordinateurs (DOS, Atari ST, Amiga, etc) vous aurez peut-être besoin d'un clavier et d'une souris ; pour un usage ponctuel vous pouvez trouver du "tout en un" de qualité médiocre mais fonctionnel.
 
 ### Manettes
 
@@ -79,6 +84,38 @@ Chacune a ses avantages et ses inconvénients.
 - Inconvénients : interface infernale
 - Site : <https://www.lakka.tv/>
 - Doc : <http://www.lakka.tv/doc/Home/>
+
+## Un micro-PC
+
+Le marché des micro-PC est en pleine expansion : de taille très réduite (entre 10 et 20cm de côté, quelques cm d'épaisseur), leurs caractéristiques sont extrêmement variables : vous trouverez aussi bien des Celeron qui ont 7 ans pour une bouchée de pain, que des processeurs dernier cri, mais bien plus chers évidemment.
+
+Le gros avantage, c'est que vous récupérez un PC sous Windows (ou Linux, je ne juge pas), donc polyvalent : vous pouvez même l'utiliser pour faire du Excel, mais surtout, tous les émulateurs fonctionnent, y compris leurs versions "stand-alone" (alors qu'un Pi est cantonné aux versions RetroArch), vous pouvez y faire tourner des jeux Steam, GOG, des vieux jeux PC sous DOSBox, tous vos périphériques seront compatibles, on peut mettre facilement un gros HDD ou un SSD, etc.
+
+Concernant le système d'exploitation : on peut y configurer Recalbox ou Batocera en version "x86", qui peuvent même booter depuis une clé USB si vous ne voulez pas toucher au disque dur. Si vous êtes plus motivés, vous pouvez tout installer individuellement et configurer comme vous le sentez, avec AttractMode ou autre.
+
+Pour suivre toutes les news sur ces ordinateurs, la référence est [minimachines.net](https://www.minimachines.net/).
+
+### Les ordinateurs de bureautique
+
+Plusieurs constructeurs "professionnels" (Dell, HP, Lenovo, etc) vendent des micro-PC destinés à la bureautique d'entreprise, mais suffisament performants pour faire tourner jusqu'à la Saturn sans souci, et parfois même au-delà. En cherchant d'occasion, vous pourrez sans problème trouver des i3 ou i5 de 6e ou 7e génération entre 100 et 150€. Ne vous inquiétez pas de leur état : ce sont des machines qui n'ont probablement fait que du Word, Excel et Outlook pendant 5 ans, posées sur un bureau d'open space, et ces fabricants sont généralement de très bonne qualité en gamme "professionnelle".
+
+Le problème est qu'ils ont beaucoup de références, souvent partagées avec leur gamme "normale" : par exemple, chez Dell c'est la gamme Optiplex, et il faut chercher les versions "USFF" (ultra small form factor). Sauf que 90% des vendeurs d'occasion ne renseignent quasiment rien, se contentent de mettre "ordi Dell" avec parfois quelques caractéristiques, et débrouillez-vous pour filtrer visuellement les annonces et comprendre ce que c'est dedans : un Celeron, un i3, un i5, quelle génération ? Par conséquent, il faut chercher "Lenovo", "Dell" et "HP" sur LBC, scroller jusqu'à trouver un modèle qui convient, vérifier les caractéristiques...
+
+Vous pouvez en trouver également des neufs sur les sites de matériel informatique comme [materiel.net](https://www.materiel.net/) mais le prix est bien moins intéressant : vous aurez certes un processeur dernière génération qui fera peut-être tourner la PS3, mais à plus de 600€, autant prendre un Steam Deck.
+
+### Barebones et NUCs
+
+Ce sont des PC neufs, qui n'intègrent généralement pas tout le matériel nécessaire pour fonctionner : on devra y ajouter un disque dur et parfois de la RAM.
+
+L'avantage, c'est que vous obtenez un processeur moderne et que vous pouvez le personnaliser selon vos besoins ; l'inconvénient, c'est que c'est souvent très cher pour ce que c'est. Cela peut être intéressant si vous avez de la RAM ou des disques durs qui traînent, ou qu'un pote peut vous en donner.
+
+De nombreuses marques en vendent, plus ou moins connues, mais contrairement aux marques "professionnelles" la qualité est beaucoup plus variable.
+
+### Quel processeur choisir ?
+
+Pour l'émulation jusqu'à la génération PS1, n'importe quel iGPU (intégré au CPU) fera l'affaire. Pour la génération PS2, il faudra quelque chose de plus costaud, et là-dessus je ne peux pas trop vous aiguiller, n'ayant pas moi-même de modèle assez puissant pour ça : mon i5 de 6ème génération fait tourner la PS2 à environ 70% de la vitesse max.
+
+Pour le CPU : l'émulation demande avant tout des hautes fréquences, car elle est très rarement multi-threadée ; un i3 à 3.4GHz sera bien plus performant qu'un i5 à 2.8GHz. Si vous hésitez entre deux, allez sur un site comme [cpubenchmark.net](https://www.cpubenchmark.net/) et comparez leurs performances "single thread".
 
 ## FAQ et vocabulaire
 
