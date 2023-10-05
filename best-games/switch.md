@@ -364,10 +364,10 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Octopath Traveler 1, 2
 - Persona 3 Portable, 4 Golden, 5 Royal
 - Pokémon ([Épée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), [Let's Go Pikachu/Evoli](https://www.cosmo0.fr/critique/pokemon-lets-go/), Diamant Brillant/Perle Scintillante, Legends Arceus, Ecarlate/Violet)
+- Sea of Stars
 - Shin Megami Tensei (III Nocturne, V)
 - TemTem
 - The Legend of Heroes (Trails of Cold Steel 3/4, Trails from Zero, Trails to Azure)
-- Thronebreaker: The Witcher Tales
 - Tokyo Mirage Sessions #FE Encore
 - [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - World of Final Fantasy Maxima
@@ -806,19 +806,18 @@ En gras les jeux exclusifs et les sorties attendues.
 
 - Jeux sortis, en attente de tests : F-Zero 99, Horizon Chase 2, Wartales
 
-- Août : **Sea of Stars** (29), Samba de Amigo Party Central (29)
 - Septembre : The Making of Karateka (5), Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), EA Sport FC 24 (29)
-- Octobre : Silent Hope (3), Wargroove 2 (5), **Detective Pikachu 2** (6), Disgaea 7 (6), Batman Arkham Trilogy (13), **Sonic Superstars** (17), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Dave the Diver (26), Headbangers Rhythm Royale (31)
+- Octobre : Silent Hope (3), Wargroove 2 (5), **Detective Pikachu 2** (6), Disgaea 7 (6), Company of Heroes (12), **Sonic Superstars** (17), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Dave the Diver (26), Headbangers Rhythm Royale (31)
 - Novembre : Song of Nunu A League of Legend Story (1), Star Ocean Second Story R (2), Wario Ware Move It (3), Super Crazy Rhythm Castle (15), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
 - Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1)
-- Janvier : Prince of Persia The Lost Crown (18), **Another Code Recollection** (19)
+- Janvier : Prince of Persia The Lost Crown (18), **Another Code Recollection** (19), Apollo Justice Ace Attorney (25)
 - Février : Tomb Raider 1/2/3 Remaster (14), **Mario vs Donkey Kong** (16)
 - Mars : **Unicorn Overlord** (8), **Princess Peach Showtime** (22)
 - Avril : Eiyuden Chronicles Hundred Heroes (23)
 
 - 2023 : Demonschool, Moonstone Island, Metal Slug Tactics, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Mythforce, Eastward Octopia
 
-- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**
+- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy
 
 - Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters, Xicatrice, Ys X Nordics
 
