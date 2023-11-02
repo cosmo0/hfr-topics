@@ -6,7 +6,7 @@ Ces listes sont basées sur les tests, les avis et retours sur les forums et ré
 
 N'hésitez pas non plus à faire un tour sur [SwitchScores](https://www.switchscores.com/), le Metacritic spécialisé Switch avec beaucoup d'informations pour vous aider à trouver la perle rare.
 
-## Suivre les promos des jeux Switch
+## Suivre les promos des meilleurs jeux Switch
 
 Le meilleur moyen de suivre les promos sur les jeux Switch, c'est DekuDeals : vous pouvez vous créer une wishlist, mettre des alertes personnalisés, masquer les jeux qui polluent, etc.
 
@@ -26,12 +26,12 @@ Si le rétrogaming vous intéresse, je maintiens aussi [une liste complète de t
 
 Une sélection de jeux représentatifs de la machine, si vous voulez un panorama large mais pas trop détaillé, si vous voulez faire quelques jeux sans encombrer votre backlog.
 
-Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus. Avec une légère préférence pour les jeux exclusifs, sans que ce soit un critère.
+Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sélection (forcément limitée) des jeux qui ont fait le succès de la machine, et qui représentent bien ce que l'on peut trouver dessus. Avec une préférence pour les jeux exclusifs, sans que ce soit un critère déterminant : les jeux indé (Celeste, Dead Cells, Hollow Knight...) ont aussi énormément contribué à son succès, mais ils sont pour la plupart disponibles partout.
 
 - [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)
-- Dead Cells
-- Fire Emblem Engage
-- Hollow Knight
+- Astral Chain
+- Bravely Default 2
+- Fire Emblem Three Houses
 - Hyrule Warriors Age of Calamity
 - Kirby et le Monde Oublié
 - [Luigi's Mansion 3](https://www.cosmo0.fr/critique/luigis-mansion-3/)
@@ -39,14 +39,14 @@ Attention : ce ne sont pas des jeux qui plairont à tout le monde, mais une sél
 - Mario Party Superstars
 - [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
 - [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/)
+- Pikmin 4
 - [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/)
 - Ring Fit Adventure
-- Shin Megami Tensei V
 - Splatoon 3
-- Stardew Valley
+- Super Mario Bros Wonder
 - [Super Mario Odyssey](https://www.cosmo0.fr/critique/super-mario-odyssey/)
 - Super Smash Bros Ultimate
-- The Legend of Zelda: Tears of the Kingdom
+- [The Legend of Zelda: Tears of the Kingdom](https://www.cosmo0.fr/critique/the-legend-of-zelda-tears-of-the-kingdom/)
 - Xenoblade Chronicles 3
 
 ## Top 100 Nintendo Switch / les classiques
@@ -375,7 +375,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 ## RPG tactiques (T-RPG, S-RPG)
 
 - Banner Saga Trilogy
-- Disgaea (1, 4, 5, 6)
+- Disgaea (1, 4, 5, 6, 7)
 - [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Engage
 - King's Bounty II
 - Mercenaries (Saga, [Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Blaze)
@@ -389,13 +389,13 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 - Advance Wars 1+2 Re-boot-camp
 - Bad North
-- Crying Suns
+- Company of Heroes
 - Into the Breach
 - Mario + Lapins Crétins (+ Sparks of Hope)
 - Northgard
-- Pikmin 3, 4
+- Pikmin 1, 2, 3, 4
 - Tiny Metal Full Metal Rumble
-- Wargroove
+- Wargroove 1, 2
 - XCOM 2
 
 ## Tower Defense
@@ -551,7 +551,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 - ACA NEOGEO Big Tournament Golf
 - Captain Tsubasa
-- FIFA
+- EA Sport FC 24
 - [Golf Story](https://www.cosmo0.fr/critique/golf-story/)
 - Lonely Mountains Downhill
 - NBA 2K (+ Playgrounds 2)
@@ -786,6 +786,7 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 - [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/)
 - Arcade Paradise
 - Cozy Groove
+- Dave the Diver
 - FUZE4
 - L'Atelier du Jeu Vidéo
 - [New Pokémon Snap](https://www.cosmo0.fr/critique/new-pokemon-snap/)
@@ -795,8 +796,8 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 - L'abonnement Switch Online propose une sélection régulièrement étoffée de jeux NES et SNES avec un mode multijoueur en ligne (20€/an)
 - Plusieurs labels proposent des émulations fidèles ou améliorées de jeux à l'unité : "ACA NEOGEO" (pour la NeoGeo), "Arcade Archives", "Johnny Turbo's Arcade", "SEGA AGES"...
-- De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2/3, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, etc.
-- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection [Volume 1](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/)/Volume 2, Castlevania Advance Collection, Atari 50 Anniversary Celebration, Final Fantasy Pixel Remaster, Wonder Boy Anniversary Collection, etc.
+- De très nombreux jeux console et PC sont disponibles à l'unité : Doom, Duke Nukem 3D, Jedi Knight 2/3, Myst (realMyst), Okami, Baldur's Gate, Planescape Torment, Final Fantasy 7 à 12, Guilty Gear, Langrisser, R-Type, Resident Evil 0 à 6, Star Wars Racer, Dragon Quest 1 à 3, The Making of Karateka, etc.
+- Il existe de nombreuses compilations : Mega Man Legacy Collection, Mega Man Zero/ZX Collection, Capcom Beat'em Up Bundle, Street Fighter 30th Anniversary, Sega Megadrive Collection, Namco Museum, Atari Flashback, [SNK 40th Anniversary Collection](https://www.cosmo0.fr/critique/snk-40th-anniversary-collection/), Konami Anniversary (Castlevania, Contra, Arcade), Aladdin + Roi Lion, Kunio Kun & Double Dragon, Samurai Shodown NeoGeo Collection, Collection of Mana/SaGa, Dragon's Lair, [Capcom Arcade Stadium](https://www.cosmo0.fr/critique/capcom-arcade-stadium/), Turrican Flashback, Capcom Arcade Stadium, NeoGeo Pocket Color Selection [Volume 1](https://www.cosmo0.fr/critique/neogeo-pocket-color-selection-vol-1/)/Volume 2, Castlevania Advance Collection, Atari 50 Anniversary Celebration, Final Fantasy Pixel Remaster, Wonder Boy Anniversary Collection, Metal Gear Solid Master Collection, etc.
 
 [Une liste très complète :](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/)
 
@@ -804,11 +805,9 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : F-Zero 99, Horizon Chase 2, Wartales
+- Jeux sortis, en attente de tests : -
 
-- Septembre : The Making of Karateka (5), Fae Farm (8), Super Bomberman R2 (13), Baten Kaitos 1+2 (14), Gloomhaven (18), Mortal Kombat 1 (19), The Legend of Nayuta Boundless Trails (19), Infinity Strash Dragon Quest The Adventure of Dai (28), EA Sport FC 24 (29)
-- Octobre : Silent Hope (3), Wargroove 2 (5), **Detective Pikachu 2** (6), Disgaea 7 (6), Company of Heroes (12), **Sonic Superstars** (17), Hot Wheels Unleashed 2 (19), **Super Mario Bros Wonder** (20), Metal Gear Solid Master Collection (24), Dave the Diver (26), Headbangers Rhythm Royale (31)
-- Novembre : Song of Nunu A League of Legend Story (1), Star Ocean Second Story R (2), Wario Ware Move It (3), Super Crazy Rhythm Castle (15), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
+- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), Super Crazy Rhythm Castle (15), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
 - Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1)
 - Janvier : Prince of Persia The Lost Crown (18), **Another Code Recollection** (19), Apollo Justice Ace Attorney (25)
 - Février : Tomb Raider 1/2/3 Remaster (14), **Mario vs Donkey Kong** (16)
