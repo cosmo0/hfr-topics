@@ -808,18 +808,18 @@ En gras les jeux exclusifs et les sorties attendues.
 - Jeux sortis, en attente de tests : -
 
 - Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), Super Crazy Rhythm Castle (15), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
-- Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1)
+- Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1), A Highland Song (5), **Outer Wilds** (7)
 - Janvier : Prince of Persia The Lost Crown (18), **Another Code Recollection** (19), Apollo Justice Ace Attorney (25)
-- Février : Tomb Raider 1/2/3 Remaster (14), **Mario vs Donkey Kong** (16)
+- Février : Tomb Raider 1/2/3 Remaster (14), **Mario vs Donkey Kong** (16), Heavenly Bodies (?)
 - Mars : **Unicorn Overlord** (8), **Princess Peach Showtime** (22)
-- Avril : Eiyuden Chronicles Hundred Heroes (23)
+- Avril : Eiyuden Chronicles Hundred Heroes (23), Braid (?)
 
-- 2023 : Demonschool, Moonstone Island, Metal Slug Tactics, Front Mission 2 Remake, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Mythforce, Eastward Octopia
+- 2023 : Demonschool, Metal Slug Tactics, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Eastward Octopia
 
-- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy
+- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy, The Star Named Eos, Blade Chimera, Moonstone Island, Planet of Lana, The Gecko Gods, Core Keeper, Shantae Advance, On Your Tail, Death Trick Double Blind
 
-- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Dragon Quest Monsters, Xicatrice, Ys X Nordics
+- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Xicatrice, Ys X Nordics
 
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, The Outer Wilds, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
