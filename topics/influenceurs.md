@@ -239,8 +239,26 @@ Des historiques de jeux, de séries mais aussi de consoles et même de hacks et 
 **Pandamonium**:  
 <https://youtube.com/@PandaMoniumReviews>  
 Anglais  
-Durée et fréquence: de 5 minutes à 4h, quelques fois par an  
+Durée et fréquence : de 5 minutes à 4h, quelques fois par an  
 Un Américain qui a démarré une chaîne avec pour but de tester la totalité des jeux Saturn dans des vidéos de quelques minutes mais qui s'est retrouvé a faire des enquêtes très complètes avec des interviews de personnes qui ont participées au développement.  
+
+**Timberwolf**  
+<https://www.youtube.com/@TimberwolfK>  
+Anglais  
+Durée et fréquence : 15-30mn, tous les mois environ  
+Un Anglais qui parle de diverses choses (rétrospectives, deep dives, etc), principalement orienté PC/DOS.
+
+**Basement Brothers**  
+<https://www.youtube.com/@BasementBrothers>  
+Anglais  
+Durée et fréquence : 15-30mn, quasiment toutes les semaines  
+Un Américain qui explore les ludothèques des ordinateurs Japonais (PC-88 notamment).
+
+**Atari Archives**  
+<https://www.youtube.com/@AtariArchive>  
+Anglais  
+Durée et fréquence : de 10 à 45mn, tous les mois  
+Une exploration chronologique de tous les jeux Atari 2600, avec un historique/making off à chaque fois.
   
 ## Podcasts et discussions autour de l'actu  
   
@@ -333,6 +351,18 @@ Des actualités et rétrospectives sur l'actu du FPS, indé ou AAA.
 Anglais  
 Durée et fréquence : 15-30mn, au moins 1 vidéo par mois, parfois plus  
 Toute l'actu et les analyses de dramas autour du speedrunning.  
+
+**LGR**  
+<https://www.youtube.com/@LGR>  
+Anglais  
+Durée et fréquence : 10-20mn toutes les semaines  
+Analyse de hardware rétro, souvent obscurs.
+
+**Coin-Op Legacy**  
+<https://www.youtube.com/@coin-oplegacy4142>
+Français  
+Durée et fréquence : 15-20mn tous les 3-4 mois  
+Une association de préservation de matériel arcade qui présente ses bornes et ses jeux.
   
 **Shmup junkie**  
 <https://www.youtube.com/@ShmupJunkie>  
