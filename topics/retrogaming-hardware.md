@@ -265,20 +265,14 @@ Les consoles ne se hackent pas, mais il est possible d'y activer un "mode dével
 
 Depuis quelques années, ce type de machine se popularise, et vous pourrez trouver un peu de tout, depuis le gadget à 20€ jusqu'à la machine de très bonne qualité à 200€.
 
-**Anbernic RG-300, RG-350, RG-351, RG-552...**  
-Anbernic est un spécialiste des machines plutôt équilibrées, avec des prix qui tournent autour des 100€, et une très grosse communauté. Ils sortent de nouveaux modèles régulièrement, avec des améliorations de performances, de maniabilité ou juste d'esthétique. Leurs machines sont plutôt recommandées, mais n'achetez pas n'importe quoi les yeux fermés, ils sont capables du meilleur comme du pire.  
+**Anbernic**  
+Anbernic est un spécialiste des machines plutôt équilibrées, avec des prix dans un peu toutes les gammes, et une très grosse communauté. Ils sortent de nouveaux modèles régulièrement, avec des améliorations de performances, de maniabilité ou juste d'esthétique. Leurs machines sont plutôt recommandées, mais n'achetez pas n'importe quoi les yeux fermés, ils sont capables du meilleur comme du pire.  
 Site : <https://anbernic.com/>
 
 ![RG 350](https://i.imgur.com/ufUX0LQt.jpg)
 
-**DigiRetro** (DigiRetroBoy)  
-Une machine clone de la GBA, qui combine un lecteur de cartouche GBA et des émulateurs intégrés.  
-Site : <https://digiretro.com/>
-
-![DigiRetroBoy](https://i.imgur.com/7fxcirpt.jpg)
-
-**Odroid Go Advance, Super**  
-Des machines basées sur ODroid, une carte concurrente du Raspberry Pi, et donc modifiables, et se basant sur des systèmes open source (RetroPie, Recalbox, etc). Un rapport qualité/prix correct même si la qualité de fabrication est parfois assez moyenne.  
+**Odroid**  
+Le constructeur de multiples cartes "SBC" concurrentes du Raspberry Pi crée aussi des machines portables se basant sur des systèmes open source (RetroPie, Recalbox, etc). Un rapport qualité/prix correct même si la qualité de fabrication est parfois assez moyenne.  
 Site : <https://www.hardkernel.com/>
 
 ![ODroid Go Advance](https://i.imgur.com/U6mBjgFt.jpg)
@@ -294,10 +288,16 @@ Site : <https://powkiddy.com/>
 Gros avantage de ces PC sous Windows (ou Linux) qui ressemblent à des consoles : ils tournent sous Windows (ou Linux), et vous pouvez donc modifier ce que vous voulez au niveau logiciel, les utiliser pour aller sur internet, regarder des films, envoyer des mails, etc. En revanche, le matériel est souvent beaucoup plus cher.
 
 **Aya Neo**  
-Une machine Windows, puissante (APU Ryzen 5, 16Go de RAM) mais très, très chère (autour de 1000$).  
+Une gamme très large de machines sous Windows, certaines très puissantes mais très chères, d'autres beaucoup plus abordables.  
 Site : <https://www.ayaneo.com/>
 
 ![Aya Neo](https://i.imgur.com/RN9haF4t.png)
+
+**AYN**  
+Des machines de puissance (et de prix) très variable, depuis l'ARM sous Android à 200$ jusqu'au Zen3 sous Windows à 700$.  
+Site : <https://www.ayntec.com/>
+
+![Ayn Odin](https://i.imgur.com/HFoXJtCt.png)
 
 **GPD**
 Fabricant d'ordinateurs avant tout, ils font des ultra-micro-PC, certains pour travailler et d'autres pour jouer, avec un pad et des boutons intégrés.  
@@ -306,19 +306,19 @@ Site : <https://www.gpd.hk/>
 ![GPD Win](https://i.imgur.com/sDma426t.png)
 
 **Steam Deck**  
-Le plus gros magasin de jeux PC se remet au hardware pour le Steam Deck, un PC très performant et au prix relativement contenu au vu du hardware (à partir de 400€), mais en disponibilité limitée. Un très bon choix sans compromis, si vous avez la chance de pouvoir le commander.  
+Le plus gros magasin de jeux PC se remet au hardware pour le Steam Deck, un PC très performant et au prix relativement contenu au vu du hardware (à partir de 400€), mais en disponibilité limitée. Un très bon choix sans trop de compromis.  
 Site : <https://www.steamdeck.com/>
 
 ![Steam Deck](https://i.imgur.com/hHOhBNJt.png)
 
 ### Les machines sous Android
 
-De plus en plus de fabricants proposent des machines sous Android, qui sont grosso modo des téléphones avec un pad et des boutons collés à la coque. N'en attendez pas autre chose, ce sont avant tout des machines pensées pour jouer aux jeux smartphone (Fortnite ou FreeFire en tête), mais aussi aux nombreux émulateurs disponibles sur la plateforme : la plupart n'ont même pas de fonction téléphone. Ce type de machine est généralement bien plus cher qu'une machine dédiée (comptez au moins 200€, souvent environ 400-500€) mais sont aussi bien plus performants, et permettent surtout de les utiliser pour autre chose que du rétrogaming (web, Netflix, etc).
+De plus en plus de fabricants proposent des machines sous Android, avec un pad et des boutons collés à la coque. N'en attendez pas autre chose, ce sont avant tout des machines pensées pour jouer aux jeux smartphone (comme Fortnite ou Genshin Impact), mais aussi aux nombreux émulateurs disponibles sur la plateforme. Ce type de machine est généralement bien plus cher qu'une machine dédiée (comptez au moins 200€, souvent environ 400-500€) mais sont aussi bien plus performants, et permettent surtout de les utiliser pour autre chose que du rétrogaming (web, Netflix, etc).
 
 A noter que si vous avez un smartphone haut de gamme, vous pouvez aussi simplement [y rajouter une manette](https://www.cosmo0.fr/retrogaming-historique-et-meilleurs-jeux/emulation/manettes-retrogaming/), ça fera très bien l'affaire.
 
-**Ayn Odin**  
-Une machine avec un form factor rappelant fortement la Switch, avec un bon rapport performances/prix et plusieurs configurations possibles, un dock, une sortie HDMI, et devrait permettre de faire tourner certains jeux Gamecube/Wii, PSP voire PS2.  
+**AYN**  
+Des machines de puissance (et de prix) très variable, depuis l'ARM sous Android à 200$ jusqu'au Zen3 sous Windows à 700$.  
 Site : <https://www.ayn.hk/>
 
 ![Ayn Odin](https://i.imgur.com/HFoXJtCt.png)
@@ -329,12 +329,6 @@ Site : <https://www.gpd.hk/>
 
 ![GPD XD](https://i.imgur.com/ZWULkPJt.jpg)  
 
-**NVidia**  
-Le célèbre fabricant de cartes graphiques et autre matériel PC fabrique aussi une "box Android" avec du bon matériel (identique à la Switch), très réputé chez les amateurs de rétrogaming, mais évidemment impossible à transporter.  
-Site : <https://www.nvidia.com/shield/>
-
-![Nvidia Shield](https://i.imgur.com/1MsAazFt.png)
-
 **Powkiddy**  
 En plus de leurs nombreuses machines dédiées au rétrogaming, Powkiddy fabrique aussi quelques machines sous Android, avec un rapport performances/prix assez variable.  
 Site : <https://powkiddy.com/>
@@ -342,7 +336,7 @@ Site : <https://powkiddy.com/>
 ![Powkiddy X18S](https://i.imgur.com/gUp6Twjt.png)
 
 **Retroid**  
-Leur première version a un hardware un peu vieillissant et pas très performant, mais leur nouveau modèle "2+" a un rapport performances/prix très intéressant, en plus de proposer un upgrade "DIY" moins cher, si vous possédez le premier.  
+Retroid sortent de nouveaux modèles tous les ans, avec un rapport performances/prix généralement assez intéressant.  
 Site : <https://www.goretroid.com/>
 
 ![Retroid Pocket 2](https://i.imgur.com/iLbwnKYt.png)
