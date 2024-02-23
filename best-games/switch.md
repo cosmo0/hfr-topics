@@ -253,8 +253,8 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Fez
 - [Gris](https://www.cosmo0.fr/critique/gris/)
 - Inmost
-- Inside
-- Limbo
+- Inside, Limbo
+- Mario vs Donkey Kong
 - Snake Pass
 - Toki Tori 2+
 - Trine (1, 2, 3, 4)
@@ -295,8 +295,8 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
 - Monster Boy and the Cursed Kingdom
 - [Ori & the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori & the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)
+- Prince of Persia The Lost Crown
 - Record of Lodoss War: Deedlit In Wonder Labyrinth
-- Salt & Sanctuary
 - Steamworld Dig ([1](https://www.cosmo0.fr/critique/critique-express/steamworld-dig/), [2](https://www.cosmo0.fr/critique/steamworld-dig-2/))
 - The Messenger
 - Touhou Luna Nights
@@ -332,7 +332,6 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - CrossCode
 - Dark Souls Remastered
 - Diablo (2, 3)
-- Dragon Quest Treasures
 - Dragon's Dogma: Dark Arisen
 - Fire Emblem Warriors, Fire Emblem Warriors Three Hopes
 - [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity
@@ -342,6 +341,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - [Sakuna of Rice And Ruin](https://www.cosmo0.fr/critique/sakuna-of-rice-and-ruin/)
 - [Samurai Warriors 5](https://www.cosmo0.fr/critique/samurai-warriors-5/)
 - Skyrim
+- Star Ocean Second Story R
 - [The Outer Worlds](https://www.cosmo0.fr/critique/the-outer-worlds/)
 - The Witcher 3
 - [The World Ends With You](https://www.cosmo0.fr/critique/the-world-ends-with-you-final-remix/), NEO The World Ends With You
@@ -378,7 +378,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Disgaea (1, 4, 5, 6, 7)
 - [Fire Emblem Three Houses](https://www.cosmo0.fr/critique/fire-emblem-three-houses/), Engage
 - King's Bounty II
-- Mercenaries (Saga, [Wings](https://www.cosmo0.fr/critique/mercenaries-wings-the-false-phoenix/), Blaze)
+- Persona 5 Tactica
 - Prinny Presents NIS Classics (1, 2, 3)
 - Super Robot Wars (T, V, X (Japon))
 - Tactics Ogre Reborn
@@ -495,7 +495,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Heaven's Vault
 - Hypnospace Outlaw
 - Paradise Killer
-- Phoenix Wright Ace Attorney Trilogy, The Great Ace Attorney Chronicles
+- Phoenix Wright Ace Attorney, Apollo Justice, The Great Ace Attorney
 - Return to Monkey Island
 - Sam & Max Hit The Road
 - Silence
@@ -508,7 +508,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Carto
 - [Catherine Full Body](https://www.cosmo0.fr/critique/catherine-full-body/)
 - L'aventure Layton
-- Lego Bricktales
+- Outer Wilds
 - Portal Companion Collection
 - Return of the Obra Dinn
 - [The Gardens Between](https://www.cosmo0.fr/critique/the-gardens-between/)
@@ -604,10 +604,10 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 - Blazblue (Central Fiction, Cross Tag Battle)
 - Dragon Ball FighterZ
+- KoF XIII
 - Lethal League Blaze
 - Mortal Kombat 11
 - Persona 4 Arena Ultimax
-- Shovel Knight Shodown
 - Skullgirls 2nd Encore
 - Super Smash Bros Ultimate
 - TowerFall
@@ -805,18 +805,16 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : -
+- Jeux sortis, en attente de tests : Penny's Big Breakaway, Pocket Card Jockey Ride On, Pentiment
 
-- Novembre : Star Ocean Second Story R (2), Wario Ware Move It (3), Super Crazy Rhythm Castle (15), KoF XIII (16), **Persona 5 Tactica** (17), **Mario RPG Remake** (17), Crymachina (27)
-- Décembre : **Dragon Quest Monsters** (1), SteamWorld Build (1), A Highland Song (5), **Outer Wilds** (7)
-- Janvier : Prince of Persia The Lost Crown (18), **Another Code Recollection** (19), Apollo Justice Ace Attorney (25)
-- Février : Tomb Raider 1/2/3 Remaster (14), **Mario vs Donkey Kong** (16), Heavenly Bodies (?)
-- Mars : **Unicorn Overlord** (8), **Princess Peach Showtime** (22)
-- Avril : Eiyuden Chronicles Hundred Heroes (23), Braid (?)
+- Mars : **Unicorn Overlord** (8), Contra Operation Galuga (12), Llamasoft The Jeff Minter Story (13), Star Wars Battlefront (14), **Kingdom Come Deliverance** (15), **Princess Peach Showtime** (22), Pepper Grinder (28)
+- Avril : Grounded (16), Tales of Kenzera ZAU (23), Eiyuden Chronicles Hundred Heroes (23), Another Crab's Treasure (25), Braid (?)
+- Mai : Endless Ocean (2), World of Goo 2 (23)
+- Juin : Shin Megami Tensei V Vengeance (21), Super Monkey Ball Banana Rumble (25)
 
 - 2023 : Demonschool, Metal Slug Tactics, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Eastward Octopia
 
-- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy, The Star Named Eos, Blade Chimera, Moonstone Island, Planet of Lana, The Gecko Gods, Core Keeper, Shantae Advance, On Your Tail, Death Trick Double Blind
+- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy, The Star Named Eos, Blade Chimera, Moonstone Island, Planet of Lana, The Gecko Gods, Core Keeper, Shantae Advance, On Your Tail, Death Trick Double Blind, Ninja Five-O, Ys X Nordics, Monster Hunter Stories, Ender Magnolia, Epic Mickey Rebrushed, Sword Art Online Fractured Daydream, Gundam Breaker 4
 
 - Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Xicatrice, Ys X Nordics
 
