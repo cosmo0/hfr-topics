@@ -64,7 +64,7 @@ Cette sélection essaye d'être la plus large possible, tout en essayant d'avoir
 - **RPG/action** : Dark Souls, Dragon's Dogma: Dark Arisen, Skyrim, [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Nier Automata, The Witcher 3: Wild Hunt, Xenoblade Chronicles 2, Xenoblade Chronicles 3
 - **RPG tour par tour** : [Atelier Ryza](https://www.cosmo0.fr/critique/atelier-ryza/), Bravely Default II, Divinity: Original Sin 2, Dragon Quest XI S, [Final Fantasy X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Persona 5 Royal, [Pokémon Epée/Bouclier](https://www.cosmo0.fr/critique/pokemon-epee-bouclier/), Pokémon Légendes Arceus, Shin Megami Tensei V, [Undertale](https://www.cosmo0.fr/critique/undertale/)
 - **Hack & slash/musou** : Diablo III, Hyrule Warriors Age Of Calamity
-- **T-RPG, S-RPG** : Disgaea 5 Complete, Fire Emblem Engage, Triangle Strategy
+- **T-RPG, S-RPG** : Fire Emblem Engage, Triangle Strategy, Unicorn Overlord
 - **Stratégie, tactique** : Advance Wars 1+2 Re-boot-camp, Civilization VI, Into The Breach, Mario + Lapins Crétins Sparks of Hope, Pikmin 3 Deluxe
 - **Farming, construction, survie** : [Animal Crossing New Horizons](https://www.cosmo0.fr/critique/animal-crossing-new-horizons/), Dragon Quest Builders 2, Minecraft, No Man's Sky, Stardew Valley
 - **Point & click, enquête, visual novel** : 13 Sentinels Aegis Rim, [AI: The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), Disco Elysium, The Great Ace Attorney Chronicles, Return Of The Obra Dinn, The Stanley Parable Ultra Deluxe
@@ -328,13 +328,13 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 ## RPG/action
 
-- Crisis Core Final Fantasy VII Reunion
 - CrossCode
 - Dark Souls Remastered
 - Diablo (2, 3)
 - Dragon's Dogma: Dark Arisen
 - Fire Emblem Warriors, Fire Emblem Warriors Three Hopes
 - [Hyrule Warriors](https://www.cosmo0.fr/critique/hyrule-warriors-definitive-edition/), Hyrule Warriors Age of Calamity
+- Kingdom Come Deliverance
 - [Monster Hunter Rise](https://www.cosmo0.fr/critique/monster-hunter-rise/), Generations Ultimate
 - Nier Automata
 - Persona 5 Strikers
@@ -805,19 +805,8 @@ Jetez aussi un oeil aux jeux de gestion, walking simulator, visual novels, puzzl
 
 En gras les jeux exclusifs et les sorties attendues.
 
-- Jeux sortis, en attente de tests : Penny's Big Breakaway, Pocket Card Jockey Ride On, Pentiment
-
-- Mars : **Unicorn Overlord** (8), Contra Operation Galuga (12), Llamasoft The Jeff Minter Story (13), Star Wars Battlefront (14), **Kingdom Come Deliverance** (15), **Princess Peach Showtime** (22), Pepper Grinder (28)
-- Avril : Grounded (16), Tales of Kenzera ZAU (23), Eiyuden Chronicles Hundred Heroes (23), Another Crab's Treasure (25), Braid (?)
-- Mai : Endless Ocean (2), World of Goo 2 (23)
-- Juin : Shin Megami Tensei V Vengeance (21), Super Monkey Ball Banana Rumble (25)
-
-- 2023 : Demonschool, Metal Slug Tactics, Endless Dungeon, Suikoden 1&2, Phantom Fury, Wrath Aeon of Ruin, Pepper Grinder, Ys Memoire: The Oath in Felghana, DecaPolice, Eastward Octopia
-
-- 2024 : **Luigi's Mansion 2**, Penny's Big Breakaway, The Plucky Squire, Battle Crush, Spy x Anya, SaGa Emerald Beyond, Contra Operation Galuga, Bandle Tale A League of Legend Story, **Paper Mario La Porte Millénaire**, Batman Arkham Trilogy, The Star Named Eos, Blade Chimera, Moonstone Island, Planet of Lana, The Gecko Gods, Core Keeper, Shantae Advance, On Your Tail, Death Trick Double Blind, Ninja Five-O, Ys X Nordics, Monster Hunter Stories, Ender Magnolia, Epic Mickey Rebrushed, Sword Art Online Fractured Daydream, Gundam Breaker 4
-
-- Pas de date : Circuit Superstars, Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Xicatrice, Ys X Nordics
-
-- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**, Jurassic World Evolution 2, Rogue Legacy 2, Hatch Tales, Victory Heat Rally, Blazing Strike
+- 2024 : Metal Slug Tactics, **Luigi's Mansion 2**, The Plucky Squire, Ys X Nordics
+- Pas de date : Mina the Hollower, Front Mission 3 Remake, Hades 2, Fantasy Life i, Professeur Layton World of Steam, Xicatrice
+- Pas de news : **Metroid Prime 4**, **Hollow Knight Silksong**
 
 Voir aussi [le site Nintendo](https://www.nintendo.com/games/coming-soon) et [Metacritic](http://www.metacritic.com/browse/games/release-date/coming-soon/switch/date)
