@@ -168,7 +168,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Paper Mario The Origami King
 - Slime Rancher
 - Tunic
-- [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), Tears of the Kingdom, [Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), [Skyward Sword HD](https://www.cosmo0.fr/critique/zelda-skyward-sword/)
+- [Zelda Breath of the Wild](https://www.cosmo0.fr/critique/critique-express/the-legend-of-zelda-breath-of-the-wild/), Tears of the Kingdom, [Link's Awakening](https://www.cosmo0.fr/critique/the-legend-of-zelda-links-awakening/), [Skyward Sword HD](https://www.cosmo0.fr/critique/zelda-skyward-sword/), Zelda Echoes of Wisdom
 
 ## Shooters, FPS, TPS
 
@@ -248,7 +248,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 ## Plate-forme/puzzle
 
-- Boxboy+Boxgirl
+- Animal Well
 - [Captain Toad Treasure Tracker](https://www.cosmo0.fr/critique/critique-express/captain-toad-treasure-tracker/)
 - Fez
 - [Gris](https://www.cosmo0.fr/critique/gris/)
@@ -291,9 +291,9 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Guacamelee (1, 2)
 - Hollow Knight
 - Iconoclasts
-- La-Mulana (1, 2)
 - [Metroid Dread](https://www.cosmo0.fr/critique/metroid-dread/)
 - Monster Boy and the Cursed Kingdom
+- Neva
 - [Ori & the Blind Forest](https://www.cosmo0.fr/critique/ori-and-the-blind-forest-definitive-edition/), [Ori & the Will of the Wisps](https://www.cosmo0.fr/critique/ori-the-will-of-the-wisps/)
 - Prince of Persia The Lost Crown
 - Record of Lodoss War: Deedlit In Wonder Labyrinth
@@ -346,20 +346,20 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - The Witcher 3
 - [The World Ends With You](https://www.cosmo0.fr/critique/the-world-ends-with-you-final-remix/), NEO The World Ends With You
 - Trials of Mana
-- Xenoblade Chronicles (Definitive Edition, 2, 3)
+- Xenoblade Chronicles (Definitive Edition, 2, 3, X)
 - [Ys VIII Lacrimosa of Dana](https://www.cosmo0.fr/critique/ys-viii-lacrimosa-of-dana/), [Ys Origin](https://www.cosmo0.fr/critique/ys-origin/), Ys IX Monstrum Nox
 
 ## RPG tour par tour
 
 - Atelier (Ryza [1](https://www.cosmo0.fr/critique/atelier-ryza/), Ryza [2](https://www.cosmo0.fr/critique/atelier-ryza-2/) Ryza 3, Dusk Trilogy, Arland Trilogy, Mysterious Trilogy, Sophie 2)
 - Bravely Default 2
+- Citizen Sleeper (1, 2)
 - Chained Echoes
 - Divinity Original Sin 2
 - Dragon Quest (1, 2, 3, XI S)
 - Etrian Odyssey Origins
 - Final Fantasy (VII, VIII, IX, [X/X-2](https://www.cosmo0.fr/critique/final-fantasy-x-x-2-hd-remaster/), Pixel Remaster)
 - Live A Live
-- Miitopia
 - Monster Hunter Stories 2
 - Octopath Traveler 1, 2
 - Persona 3 Portable, 4 Golden, 5 Royal
@@ -389,10 +389,10 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 - Advance Wars 1+2 Re-boot-camp
 - Bad North
+- Civilization (6, 7)
 - Company of Heroes
 - Into the Breach
 - Mario + Lapins Crétins (+ Sparks of Hope)
-- Northgard
 - Pikmin 1, 2, 3, 4
 - Tiny Metal Full Metal Rumble
 - Wargroove 1, 2
@@ -464,12 +464,12 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 
 ## Visual novel, aventures textuelles
 
+- 1000xRESIST
 - 13 Sentinels Aegis Rim
 - [80 Days](https://www.cosmo0.fr/critique/80-days/)
 - [AI The Somnium Files](https://www.cosmo0.fr/critique/ai-the-somnium-files/), AI The Somnium Files NirvanA Initiative
 - Danganronpa (1, 2, 3)
 - Doki Doki Literature Club Plus
-- [Enterre-Moi Mon Amour (Bury Me My Love)](https://www.cosmo0.fr/critique/enterre-moi-mon-amour-bury-me-my-love/)
 - Famicom Detective Club
 - Gnosia
 - Kentucky Route Zero
@@ -478,7 +478,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 - Night in the Wood
 - [Overboard!](https://www.cosmo0.fr/critique/overboard/)
 - Oxenfree
-- Shin chan: Me and the Professor on Summer Vacation
+- Slay The Princess
 - Steins;Gate (Elite, 0, My Darling's Embrace)
 - Telltale's The Walking Dead
 - To The Moon
@@ -591,7 +591,7 @@ J'ai essayé de conserver des sujets et thèmes adaptés aux enfants : il y a de
 ## Baston (rétro)
 
 - Art of Fighting
-- Capcom Fighting Collection
+- Capcom Fighting Collection, Marvel vs Capcom Fighting Collection
 - Fatal Fury
 - [Garou Mark of the Wolves](https://www.cosmo0.fr/critique/critique-express/aca-neogeo-garou-mark-of-the-wolves/)
 - Guilty Gear (+ XX)
